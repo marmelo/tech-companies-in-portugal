@@ -17,3 +17,4 @@ If you find something wrong or want to add another company please create a pull 
 | [Feedzai](https://feedzai.com) [:rocket:](https://careers.feedzai.com) | Fraud detection platform to make commerce safe. | `Coimbra` `Lisboa` `Porto` |
 | [Mercedes-Benz.io](https://www.mercedes-benz.io) [:rocket:](https://www.mercedes-benz.io/jobs) | Shaping the digital future of Mercedes-Benz. | `Lisboa` |
 | [Mindera](https://mindera.com) [:rocket:](https://mindera.com/#we-are-hiring) | Technology development and consultancy. | `Aveiro` `Porto` |
+| [MOG Technologies](https://www.mog-technologies.com) [:rocket:](https://www.mog-technologies.com/careers-at-mog/) | End-to-end solutions for professional media. | `Porto` |
