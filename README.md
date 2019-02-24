@@ -11,3 +11,4 @@ If you find something wrong or want to add another company please create a pull 
 :------ | :------ | :-------- |
 | [Blip](https://blip.pt) [:rocket:](https://blip.pt/jobs/) | Online betting and gaming operator. | `Porto` |
 | [Codacy](https://www.codacy.com) [:rocket:](https://www.codacy.com/careers) | Automated code reviews & code analytics. | `Lisboa` |
+| [Critical Software](https://www.criticalsoftware.com) [:rocket:](https://www.criticalsoftware.com/careers) | Mission and business-critical applications. | `Coimbra` `Lisboa` `Porto` |
