@@ -15,3 +15,4 @@ If you find something wrong or want to add another company please create a pull 
 | [DashDash](https://dashdash.com) [:rocket:](https://github.com/dashdash/hiring) | Create interactive web apps using spreadsheet skills. | `Porto` |
 | [Farfetch](https://www.farfetch.com) [:rocket:](https://www.farfetch.com/pt/careers) | Global technology platform for luxury fashion. | `Braga` `Guimarães`<br>`Lisboa` `Porto` |
 | [Feedzai](https://feedzai.com) [:rocket:](https://careers.feedzai.com) | Fraud detection platform to make commerce safe. | `Coimbra` `Lisboa` `Porto` |
+| [Mercedes-Benz.io](https://www.mercedes-benz.io) [:rocket:](https://www.mercedes-benz.io/jobs) | Shaping the digital future of Mercedes-Benz. | `Lisboa` |
