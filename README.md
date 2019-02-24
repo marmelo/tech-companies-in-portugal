@@ -9,3 +9,4 @@ If you find something wrong or want to add another company please create a pull 
 
 | Company  | Description | Locations |
 :------ | :------ | :-------- |
+| [Blip](https://blip.pt) [:rocket:](https://blip.pt/jobs/) | Online betting and gaming operator. | `Porto` |
