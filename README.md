@@ -18,3 +18,4 @@ If you find something wrong or want to add another company please create a pull 
 | [Mercedes-Benz.io](https://www.mercedes-benz.io) [:rocket:](https://www.mercedes-benz.io/jobs) | Shaping the digital future of Mercedes-Benz. | `Lisboa` |
 | [Mindera](https://mindera.com) [:rocket:](https://mindera.com/#we-are-hiring) | Technology development and consultancy. | `Aveiro` `Porto` |
 | [MOG Technologies](https://www.mog-technologies.com) [:rocket:](https://www.mog-technologies.com/careers-at-mog/) | End-to-end solutions for professional media. | `Porto` |
+| [OutSystems](https://www.outsystems.com) [:rocket:](https://www.outsystems.com/company/careers/) | Low-code platform to visually develop applications. | `Braga` `Linda-a-Velha`<br>`Proença-a-Nova` |
