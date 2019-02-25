@@ -14,7 +14,7 @@ Some additional things to keep in mind:
 * The company must allow working in/from Portugal;
 * Both links are valid;
 * Both links use HTTPS, if available;
-* The description fits in a single line (to improve readability);
+* The description starts with uppercase, ends with a `.` period and fits in a single line (to improve readability);
 * Locations must be enclosed in an inline code block (using with backtick quotes `` ` ``) and separated by spaces; 
 * Both companies and locations are ordered alphabetically (except the special `Remote` location that must appear last);
 
