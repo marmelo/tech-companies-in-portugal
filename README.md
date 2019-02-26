@@ -14,7 +14,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Codacy](https://www.codacy.com) [:rocket:](https://www.codacy.com/careers) | Automated code reviews & code analytics. | `Lisboa` |
 | [Critical Manufacturing](https://www.criticalmanufacturing.com) [:rocket:](https://www.criticalmanufacturing.com/en/careers) | Manufacturing business-critical applications. | `Porto` |
 | [Critical Software](https://www.criticalsoftware.com) [:rocket:](https://www.criticalsoftware.com/careers) | Mission and business-critical applications. | `Coimbra` `Lisboa`<br>`Porto` |
-| [Critical TechWorks](https://www.criticaltechworks.com/#openroll) [:rocket:](https://www.criticaltechworks.com/#openroll) | Developing next generation software systems for BMW. | `Lisboa` `Porto` |
+| [Critical TechWorks](https://www.criticaltechworks.com/) [:rocket:](https://www.criticaltechworks.com/#openroll) | Developing next generation software systems for BMW. | `Lisboa` `Porto` |
 | [DashDash](https://dashdash.com) [:rocket:](https://github.com/dashdash/hiring) | Create interactive web apps using spreadsheet skills. | `Porto` |
 | [Farfetch](https://www.farfetch.com) [:rocket:](https://www.farfetch.com/pt/careers) | Global technology platform for luxury fashion. | `Braga` `Guimarães`<br>`Lisboa` `Porto` |
 | [Feedzai](https://feedzai.com) [:rocket:](https://careers.feedzai.com) | Fraud detection platform to make commerce safe. | `Coimbra` `Lisboa`<br>`Porto` |
