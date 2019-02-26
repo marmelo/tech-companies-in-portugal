@@ -29,5 +29,6 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Talkdesk](https://www.talkdesk.com) [:rocket:](https://www.talkdesk.com/careers/) | Enterprise cloud contact center. | `Coimbra` `Lisboa` `Porto` |
 | [Trouva](https://www.trouva.com) [:rocket:](https://trouva.workable.com/) | Marketplace for independent boutiques. | `Lisboa` |
 | [Unbabel](https://unbabel.com) [:rocket:](https://unbabel.com/careers/) | Translation as a Service. | `Lisboa` |
+| [WeDo Technologies](https://www.wedotechnologies.com/) [:rocket:](https://www.wedotechnologies.com/en/careers/) | Revenue Assurance and Fraud Management solutions to Telecom, Media and Technology companies. | `Braga` `Lisboa` |
 | [WIT Software](https://www.wit-software.com) [:rocket:](https://www.wit-software.com/careers/) | Mobile telecommunications services. | `Aveiro` `Coimbra` `Leiria`<br>`Lisboa` `Porto` |
 | [Zalando](http://www.zalando.com) [:rocket:](https://jobs.zalando.com) | Shoes & fashion online. | `Lisboa` |
