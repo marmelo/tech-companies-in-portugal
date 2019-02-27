@@ -9,6 +9,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 
 | Company  | Description | Locations |
 :------ | :------ | :-------- |
+| [AddCode](https://addcode-io.breezy.hr) [:rocket:](https://addcode-io.breezy.hr/#positions) | Software engineering. | `Porto` |
 | [Armis](http://www.armisgroup.com/) [:rocket:](http://www.armisgroup.com/ofertas-de-trabalho/) | Technology development and consultancy. | `Lisboa` `Porto` |
 | [Altice Labs](http://www.alticelabs.com/pt/) [:rocket:](http://www.alticelabs.com/pt/candidaturas.html) | Telecommunications technologies. | `Aveiro` |
 | [Blip](https://blip.pt) [:rocket:](https://blip.pt/jobs/) | Online betting and gaming operator. | `Porto` |
