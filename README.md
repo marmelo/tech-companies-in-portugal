@@ -20,6 +20,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Farfetch](https://www.farfetch.com) [:rocket:](https://www.farfetch.com/pt/careers) | Global technology platform for luxury fashion. | `Braga` `Guimarães`<br>`Lisboa` `Porto` |
 | [Feedzai](https://feedzai.com) [:rocket:](https://careers.feedzai.com) | Fraud detection platform to make commerce safe. | `Coimbra` `Lisboa`<br>`Porto` |
 | [Hostelworld](https://www.hostelworld.com/) [:rocket:](http://www.hostelworldgroup.com/careers) | World's leading hostel-focused online booking platform. | `Porto` |
+| [KI labs](https://ki-labs.com/) [:rocket:](https://ki-labs.com/careers/) | We create custom products to solve complex business challenges. | `Lisboa` |
 | [Kwanko](https://kwanko.com/) [:rocket:](https://www.kwanko.com/en/careers-join-kwanko-group-check-out-our-job-offers/#offres) | An International leader in Crossdevice Performance Marketing. | `Lisboa` |
 | [Mercedes-Benz.io](https://www.mercedes-benz.io) [:rocket:](https://www.mercedes-benz.io/jobs) | Shaping the digital future of Mercedes-Benz. | `Lisboa` |
 | [Mindera](https://mindera.com) [:rocket:](https://mindera.com/#we-are-hiring) | Technology development and consultancy. | `Aveiro` `Porto` |
