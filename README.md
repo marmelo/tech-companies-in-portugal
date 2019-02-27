@@ -10,7 +10,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | Company  | Description | Locations |
 :------ | :------ | :-------- |
 | [Armis](http://www.armisgroup.com/) [:rocket:](http://www.armisgroup.com/ofertas-de-trabalho/) | Technology development and consultancy. | `Lisboa` `Porto` |
-| [Altice Labs](http://www.alticelabs.com/pt/) [:rocket:](http://www.alticelabs.com/en/careers.html) | Telecommunications technologies. | `Aveiro` |
+| [Altice Labs](http://www.alticelabs.com/pt/) [:rocket:](http://www.alticelabs.com/pt/candidaturas.html) | Telecommunications technologies. | `Aveiro` |
 | [Blip](https://blip.pt) [:rocket:](https://blip.pt/jobs/) | Online betting and gaming operator. | `Porto` |
 | [Codacy](https://www.codacy.com) [:rocket:](https://www.codacy.com/careers) | Automated code reviews & code analytics. | `Lisboa` |
 | [Critical Manufacturing](https://www.criticalmanufacturing.com) [:rocket:](https://www.criticalmanufacturing.com/en/careers) | Manufacturing business-critical applications. | `Porto` |
