@@ -21,6 +21,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Farfetch](https://www.farfetch.com) [:rocket:](https://www.farfetch.com/pt/careers) | Global technology platform for luxury fashion. | `Braga` `Lisboa`<br>`Porto` |
 | [Feedzai](https://feedzai.com) [:rocket:](https://careers.feedzai.com) | Fraud detection platform to make commerce safe. | `Coimbra` `Lisboa`<br>`Porto` |
 | [GoContact](https://www.gocontact.pt/) [:rocket:](https://www.gocontact.pt/recrutamento/) | Company specialized in integrated solutions for Contact Centers. | `Aveiro` `Lisboa`<br>`Porto`|
+| [Hitachi Vantara](https://www.hitachivantara.com/) [:rocket:](https://www.hitachivantara.com/en-us/company/careers.html) | Hitachi Vantara brings cost-effective path for your digital transformation with it's internet of things (IoT), cloud, application, big data and analytics solutions. | `Oeiras` `Porto` |
 | [Hostelworld](https://www.hostelworld.com/) [:rocket:](http://www.hostelworldgroup.com/careers) | World's leading hostel-focused online booking platform. | `Porto` |
 | [Imaginary Cloud](https://www.imaginarycloud.com) [:rocket:](https://www.imaginarycloud.com/careers) | Web, mobile, development and design services. | `Lisboa` |
 | [KI labs](https://ki-labs.com/) [:rocket:](https://ki-labs.com/careers/) | Solve complex tech and business challenges for big corporations. | `Lisboa` |
