@@ -17,6 +17,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Critical Software](https://www.criticalsoftware.com) [:rocket:](https://www.criticalsoftware.com/careers) | Mission and business-critical applications. | `Coimbra` `Lisboa`<br>`Porto` |
 | [Critical TechWorks](https://www.criticaltechworks.com/) [:rocket:](https://www.criticaltechworks.com/#openroll) | Developing next generation software systems for BMW. | `Lisboa` `Porto` |
 | [DashDash](https://dashdash.com) [:rocket:](https://github.com/dashdash/hiring) | Create interactive web apps using spreadsheet skills. | `Porto` |
+| [Dengun](https://www.dengun.com/en/) [:rocket:](https://www.dengun.com/en/jobs/) | Digital Agency - Web Development, Mobile Apps & Digital Marketing. | `Faro` |
 | [Farfetch](https://www.farfetch.com) [:rocket:](https://www.farfetch.com/pt/careers) | Global technology platform for luxury fashion. | `Braga` `Guimarães`<br>`Lisboa` `Porto` |
 | [Feedzai](https://feedzai.com) [:rocket:](https://careers.feedzai.com) | Fraud detection platform to make commerce safe. | `Coimbra` `Lisboa`<br>`Porto` |
 | [GoContact](https://www.gocontact.pt/) [:rocket:](https://www.gocontact.pt/recrutamento/) | Company specialized in integrated solutions for Contact Centers. | `Aveiro` `Lisboa`<br>`Porto`|
