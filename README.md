@@ -82,6 +82,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
+| [Glookast](https://www.glookast.com/) | Solving the media workflow puzzle. | `Matosinhos` |
 | [MOG Technologies](https://www.mog-technologies.com) [:rocket:](https://www.mog-technologies.com/careers-at-mog/) | End-to-end solutions for professional media. | `Porto` |
 | [Sky](https://www.sky.com) [:rocket:](https://careers.sky.com) | TV, broadband, talk, streaming and mobile. | `Lisboa` |
 
