@@ -58,7 +58,9 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Hostelworld](https://www.hostelworld.com/) [:rocket:](http://www.hostelworldgroup.com/careers) | World's leading hostel-focused online booking platform. | `Porto` |
 | [OLX](https://www.olxgroup.com) [:rocket:](https://www.olxgroup.com/search/engineering/portugal-lisbon/all-brands) | Network of market-leading trading platforms across 5 countries. | `Lisboa` |
 | [Platforme](https://platforme.com) [:rocket:](https://platforme.com/careers) | Dynamic product as a service. Leaders in customisation. | `Porto` |
+| [Prozis](https://www.prozis.com/pt/en) [:rocket:](https://prozis.breezy.hr/) | Sports and nutrition online store. | `Esposende` `Porto` |
 | [Trouva](https://www.trouva.com) [:rocket:](https://trouva.workable.com/) | Marketplace for independent boutiques. | `Lisboa` |
+| [Uniplaces](https://www.uniplaces.com/) [:rocket:](https://careers.uniplaces.com/) | Student accomodation platform. | `Lisboa` |
 | [Zalando](http://www.zalando.com) [:rocket:](https://jobs.zalando.com) | Shoes & fashion online. | `Lisboa` |
 
 
@@ -79,6 +81,8 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
 | [Feedzai](https://feedzai.com) [:rocket:](https://careers.feedzai.com) | Fraud detection platform to make commerce safe. | `Coimbra` `Lisboa`<br>`Porto` |
+| [Euronext](https://www.euronext.com) [:rocket:](https://www.euronext.com/en/careers) | European stock exchange operator. | `Porto` |
+| [Natixis](https://www.natixis.com/) [:rocket:](https://www.natixis.com/natixis/jcms/tki_5051/en/careers) | French corporate and investment bank. | `Porto` |
 
 
 ## Multimedia :movie_camera:
@@ -103,6 +107,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
 | [Altice Labs](http://www.alticelabs.com/pt/) [:rocket:](http://www.alticelabs.com/pt/candidaturas.html) | Telecommunications technologies. | `Aveiro` |
+| [Celfocus](https://www.celfocus.com/) [:rocket:](https://www.celfocus.com/home/who-we-are/join-us) | Vodafone technology development.  | `Lisboa` `Porto` |
 | [GoContact](https://www.gocontact.pt/) [:rocket:](https://www.gocontact.pt/recrutamento/) | Company specialized in integrated solutions for Contact Centers. | `Aveiro` `Lisboa`<br>`Porto`|
 | [Talkdesk](https://www.talkdesk.com) [:rocket:](https://www.talkdesk.com/careers/) | Enterprise cloud contact center. | `Coimbra` `Lisboa`<br>`Porto` |
 | [WIT Software](https://www.wit-software.com) [:rocket:](https://www.wit-software.com/careers/) | Mobile telecommunications services. | `Aveiro` `Coimbra`<br>`Leiria` `Lisboa`<br>`Porto` |
