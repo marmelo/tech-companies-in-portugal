@@ -6,7 +6,7 @@ If you find something wrong or want to add another company please [follow the ru
 Are you seeking for a job? Click :rocket: to check the company's careers page.
 
 
-## Automotive :oncoming_automobile: :oncoming_bus:
+## Automotive :oncoming_automobile:
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
@@ -27,7 +27,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Unbabel](https://unbabel.com) [:rocket:](https://unbabel.com/careers/) | Translation as a Service. | `Lisboa` |
 
 
-## Consultancy :man_office_worker: :woman_office_worker:
+## Consultancy :man_office_worker:
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
@@ -58,7 +58,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [WeDo Technologies](https://www.wedotechnologies.com/) [:rocket:](https://www.wedotechnologies.com/en/careers/) | Revenue Assurance and Fraud Management solutions. | `Braga` `Lisboa` |
 
 
-##  E-commerce :shopping_cart: :shopping:
+##  E-commerce :shopping:
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
@@ -71,14 +71,14 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Zalando](http://www.zalando.com) [:rocket:](https://jobs.zalando.com) | Shoes & fashion online. | `Lisboa` |
 
 
-## FinTech :bank: :moneybag:
+## FinTech :moneybag:
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
 | [Feedzai](https://feedzai.com) [:rocket:](https://careers.feedzai.com) | Fraud detection platform to make commerce safe. | `Coimbra` `Lisboa`<br>`Porto` |
 
 
-## Multimedia :movie_camera: :sound:
+## Multimedia :movie_camera:
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
@@ -93,7 +93,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [YouClap](https://youclap.tech) | Create, participate and share awesome challenges. | `Aveiro` `Remote` |
 
 
-## Telcos :phone: :iphone:
+## Telcos :telephone_receiver:
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
