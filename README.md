@@ -6,7 +6,7 @@ If you find something wrong or want to add another company please [follow the ru
 Are you seeking for a job? Click :rocket: to check the company's careers page.
 
 
-## :oncoming_automobile: Automotive
+## Automotive :oncoming_automobile:
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
@@ -15,7 +15,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Stratio Automotive](https://stratioautomotive.com) [:rocket:](https://stratio.workable.com) | Vehicle data into predictive intelligence. | `Coimbra` |
 
 
-## :hammer_and_wrench: Developer Tools
+## Developer Tools :hammer_and_wrench:
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
@@ -27,7 +27,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Unbabel](https://unbabel.com) [:rocket:](https://unbabel.com/careers/) | Translation as a Service. | `Lisboa` |
 
 
-## :fire_engine: Consultancy
+## Consultancy :fire_engine:
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
@@ -47,7 +47,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [YLD](https://www.yld.io/) [:rocket:](https://www.yld.io/join-us/) | Software engineering, design, training and open-source. | `Lisboa` `Porto`<br>`Remote` |
 
 
-## :office: Enterprise Software
+## Enterprise Software :office:
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
@@ -58,7 +58,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [WeDo Technologies](https://www.wedotechnologies.com/) [:rocket:](https://www.wedotechnologies.com/en/careers/) | Revenue Assurance and Fraud Management solutions. | `Braga` `Lisboa` |
 
 
-## :shopping: E-commerce
+##  E-commerce :shopping:
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
@@ -71,14 +71,14 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Zalando](http://www.zalando.com) [:rocket:](https://jobs.zalando.com) | Shoes & fashion online. | `Lisboa` |
 
 
-## :moneybag: FinTech
+## FinTech :moneybag:
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
 | [Feedzai](https://feedzai.com) [:rocket:](https://careers.feedzai.com) | Fraud detection platform to make commerce safe. | `Coimbra` `Lisboa`<br>`Porto` |
 
 
-## :movie_camera: Multimedia
+## Multimedia :movie_camera:
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
@@ -86,14 +86,14 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Sky](https://www.sky.com) [:rocket:](https://careers.sky.com) | TV, broadband, talk, streaming and mobile. | `Lisboa` |
 
 
-## :couple: Social
+## Social :couple:
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
 | [YouClap](https://youclap.tech) | Create, participate and share awesome challenges. | `Aveiro` `Remote` |
 
 
-## :telephone_receiver: Telcos
+## Telcos :telephone_receiver:
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
