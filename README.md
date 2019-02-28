@@ -1,6 +1,6 @@
 # Tech Companies in Portugal :portugal:
 
-This is a opinionated list of some technology companies operating in Portugal.  
+This is a opinionated list of some technology companies operating in Portugal.
 If you find something wrong or want to add another company please [follow the rules](CONTRIBUTING.md) to contribute with a pull request.
 
 Are you seeking for a job? Click :rocket: to check the company's careers page.
@@ -66,6 +66,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
 | [Critical Manufacturing](https://www.criticalmanufacturing.com) [:rocket:](https://www.criticalmanufacturing.com/en/careers) | Manufacturing business-critical applications. | `Porto` |
+| [kununu](https://www.kununu.com/) [:rocket:](https://corporate.xing.com/en/career/porto/) | Workplace insights that matter. | `Porto` |
 | [Primavera BSS](https://pt.primaverabss.com/pt/) [:rocket:](https://pt.primaverabss.com/pt/bolsaempregos/) | Enterprise resource planning software. | `Braga` `Lisboa` |
 | [Unit4](https://www.unit4.com/) [:rocket:](https://www.careers.unit4.com/) | ERP, Consulting. | `Algés` |
 | [Sherpany](https://www.sherpany.com/) [:rocket:](https://www.sherpany.com/en/careers/) | Meeting Management Software for Leaders. | `Lisboa` `Remote` |
@@ -92,6 +93,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
+| [XING](https://www.xing.com/) [:rocket:](https://corporate.xing.com/en/career/porto/) | For a better working life. | `Porto` |
 | [YouClap](https://youclap.tech) | Create, participate and share awesome challenges. | `Aveiro` `Remote` |
 
 
