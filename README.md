@@ -27,7 +27,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Kwanko](https://kwanko.com/) [:rocket:](https://www.kwanko.com/en/careers-join-kwanko-group-check-out-our-job-offers/#offres) | An International leader in Crossdevice Performance Marketing. | `Lisboa` |
 | [Mindera](https://mindera.com) [:rocket:](https://mindera.com/#we-are-hiring) | Technology development and consultancy. | `Aveiro` `Porto` |
 | [Moxy](https://moxy.studio) [:rocket:](https://moxy.studio/team#join-the-team) | Interdisciplinary studio focused on design and development. | `Porto` |
-| [Pixelmatters](http://pixelmatters.com) [:rocket:](http://pixelmatters.com/jobs/) | Technology development. | `Porto` |
+| [Pixelmatters](http://pixelmatters.com) [:rocket:](http://pixelmatters.com/jobs/) | Digital product design and development company. | `Porto` |
 | [Premium Minds](https://www.premium-minds.com/) [:rocket:](https://join.premium-minds.com/) | We build great software for innovative clients. | `Lisboa` |
 | [Redlight Software](https://weareredlight.com) | Web and mobile development studio focused on products. | `Coimbra` `Lisboa` |
 | [Subvisual](https://subvisual.co/) [:rocket:](https://subvisual.co/company/join-us/) | Web development and design firm. | `Braga` |
