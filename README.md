@@ -23,8 +23,11 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
 | [AddCode](https://addcode-io.breezy.hr) [:rocket:](https://addcode-io.breezy.hr/#positions) | Software engineering. | `Porto` |
+| [Affinity](https://affinity.pt) [:rocket:](https://affinity.pt/en/careers/) | Consultancy, Outsourcing. | `Lisbon` `Porto` |
+| [AGAP2](http://www.agap2-it.pt/Agap2IT) [:rocket:](http://www.agap2-it.pt/Agap2IT/pt/pages/carreira/) | Consultancy, Outsourcing. | `Lisbon` `Porto` |
 | [Armis](http://www.armisgroup.com/) [:rocket:](http://www.armisgroup.com/ofertas-de-trabalho/) | Technology development and consultancy. | `Lisboa` `Porto` |
 | [blockbird Ventures](https://www.blockbird.ventures) [:rocket:](https://blockbird.ventures/careers/) | Blockchain and Ethereum development. | `Lisboa` `Remote` |
+| [BOLD International](https://www.boldint.pt/) [:rocket:](https://www.boldint.pt/carreiras/) | Consultancy, Outsourcing. | `Lisbon` `Porto` |
 | [Critical Software](https://www.criticalsoftware.com) [:rocket:](https://www.criticalsoftware.com/careers) | Mission and business-critical applications. | `Coimbra` `Lisboa`<br>`Porto` |
 | [Equal Experts](https://www.equalexperts.com) [:rocket:](https://www.equalexperts.com/contact-us/lisbon/) | Making software. Better. | `Lisboa` `Remote` |
 | [Imaginary Cloud](https://www.imaginarycloud.com) [:rocket:](https://www.imaginarycloud.com/careers) | Web, mobile, development and design services. | `Lisboa` |
@@ -34,6 +37,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Moxy](https://moxy.studio) [:rocket:](https://moxy.studio/team#join-the-team) | Interdisciplinary studio focused on design and development. | `Porto` |
 | [Pixelmatters](http://pixelmatters.com) [:rocket:](http://pixelmatters.com/jobs/) | Digital product design and development company. | `Porto` |
 | [Premium Minds](https://www.premium-minds.com/) [:rocket:](https://join.premium-minds.com/) | We build great software for innovative clients. | `Lisboa` |
+| [Prime IT](https://www.primeit.pt/) [:rocket:](https://www.primeit.pt/carreiras) | Consultancy, Outsourcing. | `Lisbon` `Porto` |
 | [Redlight Software](https://weareredlight.com) | Web and mobile development studio focused on products. | `Coimbra` `Lisboa` |
 | [Subvisual](https://subvisual.co/) [:rocket:](https://subvisual.co/company/join-us/) | Web development and design firm. | `Braga` |
 | [Thing Pink](http://www.thing-pink.pt) [:rocket:](http://www.thing-pink.pt/joinus) | Digital Agency with focus on Web, Mobile and IoT. | `Lisboa` `Porto` |
@@ -46,6 +50,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
+| [Checkmarx](https://www.checkmarx.com/) [:rocket:](https://www.checkmarx.com/company/careers/) | "Manage Software Exposure at the Speed of DevOps" | `Braga` |
 | [Codacy](https://www.codacy.com) [:rocket:](https://www.codacy.com/careers) | Automated code reviews & code analytics. | `Lisboa` |
 | [DashDash](https://dashdash.com) [:rocket:](https://github.com/dashdash/hiring) | Create interactive web apps using spreadsheet skills. | `Porto` |
 | [Onfido](https://www.onfido.com) [:rocket:](https://onfido.com/jobs/) | Identity verification at the speed of life. | `Lisboa` |
@@ -75,6 +80,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | :------ | :---------- | :-------- |
 | [Critical Manufacturing](https://www.criticalmanufacturing.com) [:rocket:](https://www.criticalmanufacturing.com/en/careers) | Manufacturing business-critical applications. | `Porto` |
 | [Hitachi Vantara](https://www.hitachivantara.com/) [:rocket:](https://www.hitachivantara.com/en-us/company/careers.html) | IoT, cloud, application, big data and analytics solutions. | `Oeiras` `Porto` |
+| [PHC Software](http://www.phcsoftware.com/) [:rocket:](https://www.phcsoftware.com/carreiras/) | ERP software | `Lisbon` `Porto` |
 | [Primavera BSS](https://pt.primaverabss.com/pt/) [:rocket:](https://pt.primaverabss.com/pt/bolsaempregos/) | Enterprise resource planning software. | `Braga` `Lisboa` |
 | [Sherpany](https://www.sherpany.com/) [:rocket:](https://www.sherpany.com/en/careers/) | Meeting Management Software for Leaders. | `Lisboa` `Remote` |
 | [Unit4](https://www.unit4.com/) [:rocket:](https://www.careers.unit4.com/) | ERP, Consulting. | `Algés` |
