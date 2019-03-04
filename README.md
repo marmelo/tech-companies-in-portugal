@@ -50,7 +50,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
-| [Checkmarx](https://www.checkmarx.com/) [:rocket:](https://www.checkmarx.com/company/careers/) | "Manage Software Exposure at the Speed of DevOps" | `Braga` |
+| [Checkmarx](https://www.checkmarx.com/) [:rocket:](https://www.checkmarx.com/company/careers/) | Manage Software Exposure at the Speed of DevOps. | `Braga` |
 | [Codacy](https://www.codacy.com) [:rocket:](https://www.codacy.com/careers) | Automated code reviews & code analytics. | `Lisboa` |
 | [DashDash](https://dashdash.com) [:rocket:](https://github.com/dashdash/hiring) | Create interactive web apps using spreadsheet skills. | `Porto` |
 | [Onfido](https://www.onfido.com) [:rocket:](https://onfido.com/jobs/) | Identity verification at the speed of life. | `Lisboa` |
@@ -80,7 +80,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | :------ | :---------- | :-------- |
 | [Critical Manufacturing](https://www.criticalmanufacturing.com) [:rocket:](https://www.criticalmanufacturing.com/en/careers) | Manufacturing business-critical applications. | `Porto` |
 | [Hitachi Vantara](https://www.hitachivantara.com/) [:rocket:](https://www.hitachivantara.com/en-us/company/careers.html) | IoT, cloud, application, big data and analytics solutions. | `Oeiras` `Porto` |
-| [PHC Software](http://www.phcsoftware.com/) [:rocket:](https://www.phcsoftware.com/carreiras/) | ERP software | `Lisbon` `Porto` |
+| [PHC Software](http://www.phcsoftware.com/) [:rocket:](https://www.phcsoftware.com/carreiras/) | ERP software. | `Lisbon` `Porto` |
 | [Primavera BSS](https://pt.primaverabss.com/pt/) [:rocket:](https://pt.primaverabss.com/pt/bolsaempregos/) | Enterprise resource planning software. | `Braga` `Lisboa` |
 | [Sherpany](https://www.sherpany.com/) [:rocket:](https://www.sherpany.com/en/careers/) | Meeting Management Software for Leaders. | `Lisboa` `Remote` |
 | [Unit4](https://www.unit4.com/) [:rocket:](https://www.careers.unit4.com/) | ERP, Consulting. | `Algés` |
