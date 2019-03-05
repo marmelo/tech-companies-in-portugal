@@ -46,7 +46,8 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [TMC](https://tmc-employeneurship.com/) [:rocket:](https://www.linkedin.com/company/tmcspain/jobs/) | Agile software development. | `Porto` |
 | [Ubiwhere](https://ubiwhere.com) [:rocket:](https://www.ubiwhere.com/en/careers) | Bleeding Edge Technologies with custom Research and Development. | `Aveiro` `Coimbra` |
 | [YLD](https://www.yld.io/) [:rocket:](https://www.yld.io/join-us/) | Software engineering, design, training and open-source. | `Lisboa` `Porto`<br>`Remote` |
-
+| [Bool Software](https://www.bool.pt/) | Software design, development, training and consultancy company specialized in OutSystems technology | `Lisboa` `Holanda`<br>`Açores` |
+| [IT People](https://itpeople.pt) [:rocket:](https://itpeople.pt/speak-to-us/) | Outsourcing & Nearshore Development | `Lisboa` `Covilhã`<br>`Porto` `Lima`|
 
 ## Developer Tools :hammer_and_wrench:
 
