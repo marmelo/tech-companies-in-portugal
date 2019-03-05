@@ -76,6 +76,13 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Zalando](http://www.zalando.com) [:rocket:](https://jobs.zalando.com) | Shoes & fashion online. | `Lisboa` |
 
 
+## Education Technology :books:
+
+| Company | Description | Locations |
+| :------ | :---------- | :-------- |
+| [DreamShaper](https://dreamshaper.com/) | Classroom tools helping students to develop social-emotional and work related skills. | `Lisboa` `Porto` `Remote` |
+
+
 ## Enterprise Software :office:
 
 | Company | Description | Locations |
