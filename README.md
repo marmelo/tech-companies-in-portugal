@@ -115,6 +115,13 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Natixis](https://www.natixis.com/) [:rocket:](https://www.natixis.com/natixis/jcms/tki_5051/en/careers) | French corporate and investment bank. | `Porto` |
 
 
+## Marketplaces :convenience_store:
+
+| Company | Description | Locations |
+| :------ | :---------- | :-------- |
+| [Landing.jobs](https://landing.jobs) [:rocket:](https://landing.jobs/at/landing-jobs) | Helping people find the right fit tech job. | `Lisboa` |
+
+
 ## Multimedia :movie_camera:
 
 | Company | Description | Locations |
