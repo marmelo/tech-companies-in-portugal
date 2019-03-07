@@ -9,6 +9,18 @@ If you find something wrong or want to add another company please [follow the ru
 Are you seeking for a job? Click :rocket: to check the company's careers page.
 
 
+- [Automotive :oncoming_automobile:](#automotive-oncoming_automobile)
+- [Consultancy :man_office_worker:](#consultancy-man_office_worker)
+- [Developer Tools :hammer_and_wrench:](#developer-tools-hammer_and_wrench)
+- [E-commerce :shopping:](#e-commerce-shopping)
+- [Education :books:](#education-books)
+- [Enterprise Software :office:](#enterprise-software-office)
+- [FinTech :moneybag:](#fintech-moneybag)
+- [Multimedia :movie_camera:](#multimedia-movie_camera)
+- [Social :couple:](#social-couple)
+- [Telcos :telephone_receiver:](#telcos-telephone_receiver)
+
+
 ## Automotive :oncoming_automobile:
 
 | Company | Description | Locations |
