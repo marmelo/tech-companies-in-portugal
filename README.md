@@ -59,6 +59,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Codacy](https://www.codacy.com) [:rocket:](https://www.codacy.com/careers) | Automated code reviews & code analytics. | `Lisboa` |
 | [DashDash](https://dashdash.com) [:rocket:](https://github.com/dashdash/hiring) | Create interactive web apps using spreadsheet skills. | `Porto` |
 | [Onfido](https://www.onfido.com) [:rocket:](https://onfido.com/jobs/) | Identity verification at the speed of life. | `Lisboa` |
+| [Oracle](https://www.oracle.com/index.html) [:rocket:](https://www.oracle.com/corporate/careers/) | DBMS's and information systems. | `Oeiras` `Remote` |
 | [OutSystems](https://www.outsystems.com) [:rocket:](https://www.outsystems.com/company/careers/) | Low-code platform to visually develop applications. | `Braga` `Linda-a-Velha`<br>`Proença-a-Nova` |
 | [Probely](https://probely.com) [:rocket:](https://careers.probely.com) | Automated web application security scanning as a service. | `Lisboa` |
 | [Unbabel](https://unbabel.com) [:rocket:](https://unbabel.com/careers/) | Translation as a Service. | `Lisboa` |
