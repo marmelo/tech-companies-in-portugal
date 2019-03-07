@@ -19,6 +19,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Mercedes-Benz.io](https://www.mercedes-benz.io) [:rocket:](https://www.mercedes-benz.io/jobs) | Shaping the digital future of Mercedes-Benz. | `Lisboa` |
 | [Stratio Automotive](https://stratioautomotive.com) [:rocket:](https://stratio.workable.com) | Vehicle data into predictive intelligence. | `Coimbra` |
 
+
 ## Consultancy :man_office_worker:
 
 | Company | Description | Locations |
@@ -50,6 +51,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [TMC](https://tmc-employeneurship.com/) [:rocket:](https://www.linkedin.com/company/tmcspain/jobs/) | Agile software development. | `Porto` |
 | [Ubiwhere](https://ubiwhere.com) [:rocket:](https://www.ubiwhere.com/en/careers) | Bleeding Edge Technologies with custom Research and Development. | `Aveiro` `Coimbra` |
 | [YLD](https://www.yld.io/) [:rocket:](https://www.yld.io/join-us/) | Software engineering, design, training and open-source. | `Lisboa` `Porto`<br>`Remote` |
+
 
 ## Developer Tools :hammer_and_wrench:
 
