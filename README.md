@@ -30,6 +30,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [blockbird Ventures](https://www.blockbird.ventures) [:rocket:](https://blockbird.ventures/careers/) | Blockchain and Ethereum development. | `Lisboa` `Remote` |
 | [BOLD International](https://www.boldint.pt/) [:rocket:](https://www.boldint.pt/carreiras/) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
 | [Critical Software](https://www.criticalsoftware.com) [:rocket:](https://www.criticalsoftware.com/careers) | Mission and business-critical applications. | `Coimbra` `Lisboa`<br>`Porto` |
+| [Dengun](https://www.dengun.com/en/) [:rocket:](https://www.dengun.com/en/jobs/) | Web, Mobile development and digital marketing. | `Faro` |
 | [Equal Experts](https://www.equalexperts.com) [:rocket:](https://www.equalexperts.com/contact-us/lisbon/) | Making software. Better. | `Lisboa` `Remote` |
 | [Imaginary Cloud](https://www.imaginarycloud.com) [:rocket:](https://www.imaginarycloud.com/careers) | Web, mobile, development and design services. | `Lisboa` |
 | [JTA](https://www.thedatascientists.com/) [:rocket:](https://www.thedatascientists.com) | Machine Learning, Reporting and custom vizualizations services. | `Porto` |
