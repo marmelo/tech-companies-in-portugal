@@ -148,3 +148,4 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [GoContact](https://www.gocontact.pt/) [:rocket:](https://www.gocontact.pt/recrutamento/) | Company specialized in integrated solutions for Contact Centers. | `Aveiro` `Lisboa`<br>`Porto`|
 | [Talkdesk](https://www.talkdesk.com) [:rocket:](https://www.talkdesk.com/careers/) | Enterprise cloud contact center. | `Coimbra` `Lisboa`<br>`Porto` |
 | [WIT Software](https://www.wit-software.com) [:rocket:](https://www.wit-software.com/careers/) | Mobile telecommunications services. | `Aveiro` `Coimbra`<br>`Leiria` `Lisboa`<br>`Porto` |
+| [Truphone](https://www.truphone.com) [:rocket:](https://www.truphone.com/careers/) | Global mobile connectivity and eSIM technology innovator. Building smarter connections between things, businesses and people around the world. | `Lisboa` |
