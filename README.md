@@ -9,7 +9,7 @@ If you find something wrong or want to add another company please [follow the ru
 Are you seeking for a job? Click :rocket: to check the company's careers page.
 
 
-### Categories
+#### Categories
 - [Automotive :oncoming_automobile:](#automotive-oncoming_automobile)
 - [Consultancy :man_office_worker:](#consultancy-man_office_worker)
 - [Developer Tools :hammer_and_wrench:](#developer-tools-hammer_and_wrench)
