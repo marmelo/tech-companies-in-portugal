@@ -129,6 +129,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [ITSector](https://www.itsector.pt/pt) [:rocket:](https://www.itsector.pt/pt/carreiras) | Software for financial institutions. | `Aveiro` `Braga`<br>`Bragança` `Lisboa`<br>`Porto` |
 | [LoanDolphin](https://loandolphin.com.au/) [:rocket:](https://loandolphin.breezy.hr/) | Home loan marketplace. | `Lisboa` `Remote` |
 | [Natixis](https://www.natixis.com/) [:rocket:](https://www.natixis.com/natixis/jcms/tki_5051/en/careers) | French corporate and investment bank. | `Porto` |
+| [Onfido](https://www.onfido.com) [:rocket:](https://onfido.com/jobs/) | Identity verification at the speed of life. | `Lisboa` |
 | [Uphold](https://uphold.com/) [:rocket:](https://uphold.com/en/about-us/careers) | US cloud based financial services platform. | `Braga` |
 
 
@@ -148,7 +149,6 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | :------ | :---------- | :-------- |
 | [Dashlane](https://www.dashlane.com/) [:rocket:](https://www.dashlane.com/about/careers) | Password manager and online security app. | `Lisboa` |
 | [JScrambler](https://jscrambler.com) [:rocket:](https://jscrambler.com/careers) | JavaScript application integrity and security. | `Porto` |
-| [Onfido](https://www.onfido.com) [:rocket:](https://onfido.com/jobs/) | Identity verification at the speed of life. | `Lisboa` |
 | [Probely](https://probely.com) [:rocket:](https://careers.probely.com) | Automated web application security scanning as a service. | `Lisboa` |
 | [Symantec](https://www.symantec.com) [:rocket:](https://www.symantec.com/about/careers) | Enterprise and Consumer Security Products. | `Coimbra` `Remote` |
 
