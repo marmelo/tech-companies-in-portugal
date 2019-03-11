@@ -18,6 +18,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 - [Enterprise Software :office:](#enterprise-software-office)
 - [FinTech :moneybag:](#fintech-moneybag)
 - [Multimedia :movie_camera:](#multimedia-movie_camera)
+- [Security :lock:](#security-lock)
 - [Social :couple:](#social-couple)
 - [Telcos :telephone_receiver:](#telcos-telephone_receiver)
 
@@ -74,11 +75,9 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Checkmarx](https://www.checkmarx.com/) [:rocket:](https://www.checkmarx.com/company/careers/) | Manage Software Exposure at the Speed of DevOps. | `Braga` |
 | [Codacy](https://www.codacy.com) [:rocket:](https://www.codacy.com/careers) | Automated code reviews & code analytics. | `Lisboa` `Remote` |
 | [DashDash](https://dashdash.com) [:rocket:](https://github.com/dashdash/hiring) | Create interactive web apps using spreadsheet skills. | `Porto` |
-| [JScrambler](https://jscrambler.com) [:rocket:](https://jscrambler.com/careers) | JavaScript application integrity and security. | `Porto` |
 | [Onfido](https://www.onfido.com) [:rocket:](https://onfido.com/jobs/) | Identity verification at the speed of life. | `Lisboa` |
 | [Oracle](https://www.oracle.com/index.html) [:rocket:](https://www.oracle.com/corporate/careers/) | DBMS's and information systems. | `Oeiras` `Remote` |
 | [OutSystems](https://www.outsystems.com) [:rocket:](https://www.outsystems.com/company/careers/) | Low-code platform to visually develop applications. | `Braga` `Linda-a-Velha`<br>`Proença-a-Nova` |
-| [Probely](https://probely.com) [:rocket:](https://careers.probely.com) | Automated web application security scanning as a service. | `Lisboa` |
 | [Unbabel](https://unbabel.com) [:rocket:](https://unbabel.com/careers/) | Translation as a Service. | `Lisboa` |
 
 
@@ -112,14 +111,12 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | :------ | :---------- | :-------- |
 | [ClanHR](https://www.clanhr.com) | Online Human Resources Management Software. | `Lisboa` |
 | [Critical Manufacturing](https://www.criticalmanufacturing.com) [:rocket:](https://www.criticalmanufacturing.com/en/careers) | Manufacturing business-critical applications. | `Porto` |
-| [Dashlane](https://www.dashlane.com/) [:rocket:](https://www.dashlane.com/about/careers) | Password manager and online security app. | `Lisboa` |
 | [Hitachi Vantara](https://www.hitachivantara.com/) [:rocket:](https://www.hitachivantara.com/en-us/company/careers.html) | IoT, cloud, application, big data and analytics solutions. | `Oeiras` `Porto` |
 | [InvoiceXpress](https://www.invoicexpress.com/) | Online Invoicing Software. | `Lisboa` |
 | [kununu](https://www.kununu.com/) [:rocket:](https://corporate.xing.com/en/career/porto/) | Workplace insights that matter. | `Porto` |
 | [PHC Software](https://www.phcsoftware.com/) [:rocket:](https://www.phcsoftware.com/carreiras/) | ERP software. | `Lisboa` `Porto` |
 | [Primavera BSS](https://pt.primaverabss.com/pt/) [:rocket:](https://pt.primaverabss.com/pt/bolsaempregos/) | Enterprise resource planning software. | `Braga` `Lisboa` |
 | [Sherpany](https://www.sherpany.com/) [:rocket:](https://www.sherpany.com/en/careers/) | Meeting Management Software for Leaders. | `Lisboa` `Remote` |
-| [Symantec](https://www.symantec.com) [:rocket:](https://www.symantec.com/about/careers) | Enterprise and Consumer Security Products. | `Coimbra` `Remote` |
 | [Unit4](https://www.unit4.com/) [:rocket:](https://www.careers.unit4.com/) | ERP, Consulting. | `Algés` |
 | [WeDo Technologies](https://www.wedotechnologies.com/) [:rocket:](https://www.wedotechnologies.com/en/careers/) | Revenue Assurance and Fraud Management solutions. | `Braga` `Lisboa` |
 
@@ -145,6 +142,16 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [MediaGaps](http://www.mediagaps.com/) | Bridging your workflow gaps. | `Porto` |
 | [MOG Technologies](https://www.mog-technologies.com) [:rocket:](https://www.mog-technologies.com/careers-at-mog/) | End-to-end solutions for professional media. | `Porto` |
 | [Sky](https://www.sky.com) [:rocket:](https://careers.sky.com) | TV, broadband, talk, streaming and mobile. | `Lisboa` |
+
+
+## Security :lock:
+
+| Company | Description | Locations |
+| :------ | :---------- | :-------- |
+| [Dashlane](https://www.dashlane.com/) [:rocket:](https://www.dashlane.com/about/careers) | Password manager and online security app. | `Lisboa` |
+| [JScrambler](https://jscrambler.com) [:rocket:](https://jscrambler.com/careers) | JavaScript application integrity and security. | `Porto` |
+| [Probely](https://probely.com) [:rocket:](https://careers.probely.com) | Automated web application security scanning as a service. | `Lisboa` |
+| [Symantec](https://www.symantec.com) [:rocket:](https://www.symantec.com/about/careers) | Enterprise and Consumer Security Products. | `Coimbra` `Remote` |
 
 
 ## Social :couple:
