@@ -14,6 +14,8 @@ Some additional things to keep in mind:
 * The company must allow working in/from Portugal;
 * Both links are valid;
 * Both links use HTTPS, if available;
+* Mailto links are not allowed;
+* Referral links are not allowed;
 * The description starts with uppercase, ends with a `.` period and fits in a single line (to improve readability);
 * Locations must be written in their portuguese names (e.g. use `Lisboa` instead of `Lisbon`);
 * Locations must be enclosed in an inline code block (using with backtick quotes `` ` ``) and separated by spaces;
