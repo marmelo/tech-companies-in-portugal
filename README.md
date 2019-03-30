@@ -47,7 +47,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [BOLD International](https://www.boldint.pt/) [:rocket:](https://www.boldint.pt/carreiras/) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
 | [Coletiv](https://www.coletiv.com) [:rocket:](https://coletiv.com/#jobs) | Mobile and backend development. | `Porto` |
 | [Critical Software](https://www.criticalsoftware.com) [:rocket:](https://www.criticalsoftware.com/careers) | Mission and business-critical applications. | `Coimbra` `Lisboa`<br>`Porto` |
-| [darwinLabs](https://www.darwin-labs.com/) [:rocket:](https://www.darwin-labs.com/latest-jobs/) | Building Software that matters. | `Lisbon` `Remote` |
+| [darwinLabs](https://www.darwin-labs.com/) [:rocket:](https://www.darwin-labs.com/latest-jobs/) | Building Software that matters. | `Lisboa` `Remote` |
 | [Dengun](https://www.dengun.com/en/) [:rocket:](https://www.dengun.com/en/jobs/) | Web, Mobile development and digital marketing. | `Faro` |
 | [Equal Experts](https://www.equalexperts.com) [:rocket:](https://www.equalexperts.com/contact-us/lisbon/) | Making software. Better. | `Lisboa` `Remote` |
 | [Everis](https://www.everis.com/portugal/pt-pt/home-pt) | Consultancy, Outsourcing. | `Lisboa` |
@@ -72,7 +72,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Thing Pink](http://www.thing-pink.pt) [:rocket:](http://www.thing-pink.pt/joinus) | Digital Agency with focus on Web, Mobile and IoT. | `Lisboa` `Porto` |
 | [TMC](https://tmc-employeneurship.com/) [:rocket:](https://www.linkedin.com/company/tmcspain/jobs/) | Agile software development. | `Porto` |
 | [Ubiwhere](https://ubiwhere.com) [:rocket:](https://www.ubiwhere.com/en/careers) | Bleeding Edge Technologies with custom R&D. | `Aveiro` `Coimbra` |
-| [VILT Group](https://www.vilt-group.com/) [:rocket:](https://www.vilt-group.com/joinus) | Consultancy and enterprise software. | `Lisboa` `Braga` |
+| [VILT Group](https://www.vilt-group.com/) [:rocket:](https://www.vilt-group.com/joinus) | Consultancy and enterprise software. | `Braga` `Lisboa` |
 | [YLD](https://www.yld.io/) [:rocket:](https://www.yld.io/join-us/) | Software engineering, design, training and open-source. | `Lisboa` `Porto`<br>`Remote` |
 
 
@@ -119,7 +119,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | :------ | :---------- | :-------- |
 | [ClanHR](https://www.clanhr.com) | Online Human Resources Management Software. | `Lisboa` |
 | [Critical Manufacturing](https://www.criticalmanufacturing.com) [:rocket:](https://www.criticalmanufacturing.com/en/careers) | Manufacturing business-critical applications. | `Porto` |
-| [Elecnor Deimos](http://www.elecnor-deimos.com/) [:rocket:](http://www.elecnor-deimos.com/jobs/) | Advanced design solutions and turn-key space software systems. | `Lisbon` |
+| [Elecnor Deimos](http://www.elecnor-deimos.com/) [:rocket:](http://www.elecnor-deimos.com/jobs/) | Advanced design solutions and turn-key space software systems. | `Lisboa` |
 | [Hitachi Vantara](https://www.hitachivantara.com/) [:rocket:](https://www.hitachivantara.com/en-us/company/careers.html) | IoT, cloud, application, big data and analytics solutions. | `Oeiras` `Porto` |
 | [InvoiceXpress](https://www.invoicexpress.com/) | Online Invoicing Software. | `Lisboa` |
 | [KEEP SOLUTIONS](https://www.keep.pt/) [:rocket:](https://www.keep.pt/empresa/carreiras/) | Advanced solutions for information management. | `Braga` `Remote` |
