@@ -12,6 +12,10 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 ### Categories
 - [Automotive :oncoming_automobile:](#automotive-oncoming_automobile)
 - [Consultancy :man_office_worker:](#consultancy-man_office_worker)
+  - [Broad :dizzy:](#consultancy-man_office_worker-broad-dizzy)
+  - [Specialized :dart:](#consultancy-man_office_worker-specialized-dart)
+  - [Web :globe_with_meridians: Mobile :iphone: Design :art:](#consultancy-man_office_worker-web-globe_with_meridians-mobile-iphone-design-art)
+  - [Recruiting :male_detective:](#consultancy-man_office_worker-recruiting-male_detective)
 - [Developer Tools :hammer_and_wrench:](#developer-tools-hammer_and_wrench)
 - [E-commerce :shopping:](#e-commerce-shopping)
 - [Education :books:](#education-books)
