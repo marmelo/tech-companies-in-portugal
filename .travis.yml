@@ -4,4 +4,4 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot -f README.md --allow-ssl --allow-redirect -w www.linkedin.com,www.hostelworldgroup.com,www.olxgroup.com
+  - awesome_bot -f README.md --allow-ssl --allow-redirect --allow-dupe -w www.linkedin.com,www.hostelworldgroup.com,www.olxgroup.com
