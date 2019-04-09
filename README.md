@@ -54,6 +54,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [GLanDrive](https://www.glandrive.pt) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
 | [Imaginary Cloud](https://www.imaginarycloud.com) [:rocket:](https://www.imaginarycloud.com/careers) | Web, mobile, development and design services. | `Lisboa` |
 | [JTA](https://www.thedatascientists.com/) [:rocket:](https://www.thedatascientists.com) | Machine Learning, Reporting and custom vizualizations services. | `Porto` |
+| [Landing.jobs](https://landing.jobs) [:rocket:](https://landing.jobs/at/landing-jobs) | Helping people find the right fit tech job. | `Lisboa` |
 | [LIS @ IPN](https://www.ipn.pt/laboratorio/LIS) | Technological R&D and innovative multi-disciplinary projects. | `Coimbra` |
 | [KI labs](https://ki-labs.com/) [:rocket:](https://ki-labs.com/careers/) | Solve complex tech and business challenges for big corporations. | `Lisboa` |
 | [KWAN](https://www.kwan.pt/) | Tech Talent Done Right. | `Lisboa` `Porto` |
