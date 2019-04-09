@@ -45,7 +45,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Armis](http://www.armisgroup.com/) [:rocket:](http://www.armisgroup.com/ofertas-de-trabalho/) | Technology development and consultancy. | `Lisboa` `Porto` |
 | [blockbird Ventures](https://www.blockbird.ventures) [:rocket:](https://blockbird.ventures/careers/) | Blockchain and Ethereum development. | `Lisboa` `Remote` |
 | [BOLD International](https://www.boldint.pt/) [:rocket:](https://www.boldint.pt/carreiras/) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
-| [Bool Software](https://www.bool.pt/) | Software design, development, training and consultancy company specialized in OutSystems technology. | `Lisboa` <br>`Açores` |
+| [Bool Software](https://www.bool.pt/) | Software development and consultancy company specialized in OutSystems. | `Lisboa` |
 | [Coletiv](https://www.coletiv.com) [:rocket:](https://coletiv.com/#jobs) | Mobile and backend development. | `Porto` |
 | [Critical Software](https://www.criticalsoftware.com) [:rocket:](https://www.criticalsoftware.com/careers) | Mission and business-critical applications. | `Coimbra` `Lisboa`<br>`Porto` |
 | [darwinLabs](https://www.darwin-labs.com/) [:rocket:](https://www.darwin-labs.com/latest-jobs/) | Building Software that matters. | `Lisboa` `Remote` |
@@ -54,7 +54,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Everis](https://www.everis.com/portugal/pt-pt/home-pt) | Consultancy, Outsourcing. | `Lisboa` |
 | [GLanDrive](https://www.glandrive.pt) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
 | [Imaginary Cloud](https://www.imaginarycloud.com) [:rocket:](https://www.imaginarycloud.com/careers) | Web, mobile, development and design services. | `Lisboa` |
-| [IT People](https://itpeople.pt) [:rocket:](https://itpeople.pt/speak-to-us/) | Outsourcing & Nearshore Development. | `Lisboa` `Covilhã`<br>`Porto`|
+| [IT People](https://itpeople.pt) [:rocket:](https://itpeople.pt/speak-to-us/) | Outsourcing & Nearshore Development. | `Covilhã` `Lisboa`<br>`Porto`|
 | [JTA](https://www.thedatascientists.com/) [:rocket:](https://www.thedatascientists.com) | Machine Learning, Reporting and custom vizualizations services. | `Porto` |
 | [Landing.jobs](https://landing.jobs) [:rocket:](https://landing.jobs/at/landing-jobs) | Helping people find the right fit tech job. | `Lisboa` |
 | [LIS @ IPN](https://www.ipn.pt/laboratorio/LIS) | Technological R&D and innovative multi-disciplinary projects. | `Coimbra` |
