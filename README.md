@@ -13,9 +13,9 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 - [Automotive :oncoming_automobile:](#automotive-oncoming_automobile)
 - [Consultancy :man_office_worker:](#consultancy-man_office_worker-broad-dizzy)
   - [Broad :dizzy:](#consultancy-man_office_worker-broad-dizzy)
+  - [Recruiting :male_detective:](#consultancy-man_office_worker-recruiting-male_detective)
   - [Specialized :dart:](#consultancy-man_office_worker-specialized-dart)
   - [Web :globe_with_meridians: Mobile :iphone: Design :art:](#consultancy-man_office_worker-web-globe_with_meridians-mobile-iphone-design-art)
-  - [Recruiting :male_detective:](#consultancy-man_office_worker-recruiting-male_detective)
 - [Developer Tools :hammer_and_wrench:](#developer-tools-hammer_and_wrench)
 - [E-commerce :shopping:](#e-commerce-shopping)
 - [Education :books:](#education-books)
@@ -60,6 +60,21 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [VILT Group](https://www.vilt-group.com/) [:rocket:](https://www.vilt-group.com/joinus) | Consultancy and enterprise software. | `Braga` `Lisboa` |
 
 
+## Consultancy :man_office_worker: Recruiting :male_detective:
+
+| Company | Description | Locations |
+| :------ | :---------- | :-------- |
+| [Affinity](https://affinity.pt) [:rocket:](https://affinity.pt/en/careers/) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
+| [AGAP2](http://www.agap2-it.pt/Agap2IT) [:rocket:](http://www.agap2-it.pt/Agap2IT/pt/pages/carreira/) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
+| [Alter Solutions](https://www.alter-solutions.com/pt-pt/) | Consultancy, outsourcing and nearshore projects. | `Lisboa` `Porto` |
+| [BOLD International](https://www.boldint.pt/) [:rocket:](https://www.boldint.pt/carreiras/) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
+| [Everis](https://www.everis.com/portugal/pt-pt/home-pt) | Consultancy, Outsourcing. | `Lisboa` |
+| [GLanDrive](https://www.glandrive.pt) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
+| [KWAN](https://www.kwan.pt/) | Tech Talent Done Right. | `Lisboa` `Porto` |
+| [Landing.jobs](https://landing.jobs) [:rocket:](https://landing.jobs/at/landing-jobs) | Helping people find the right fit tech job. | `Lisboa` |
+| [Prime IT](https://www.primeit.pt/) [:rocket:](https://www.primeit.pt/carreiras) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
+
+
 ## Consultancy :man_office_worker: Specialized :dart:
 
 | Company | Description | Locations |
@@ -84,21 +99,6 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Subvisual](https://subvisual.co/) [:rocket:](https://subvisual.co/company/join-us/) | Web development and design firm. | `Braga` |
 | [Thing Pink](http://www.thing-pink.pt) [:rocket:](http://www.thing-pink.pt/joinus) | Digital Agency with focus on Web, Mobile and IoT. | `Lisboa` `Porto` |
 | [YLD](https://www.yld.io/) [:rocket:](https://www.yld.io/join-us/) | Software engineering, design, training and open-source. | `Lisboa` `Porto`<br>`Remote` |
-
-
-## Consultancy :man_office_worker: Recruiting :male_detective:
-
-| Company | Description | Locations |
-| :------ | :---------- | :-------- |
-| [Affinity](https://affinity.pt) [:rocket:](https://affinity.pt/en/careers/) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
-| [AGAP2](http://www.agap2-it.pt/Agap2IT) [:rocket:](http://www.agap2-it.pt/Agap2IT/pt/pages/carreira/) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
-| [Alter Solutions](https://www.alter-solutions.com/pt-pt/) | Consultancy, outsourcing and nearshore projects. | `Lisboa` `Porto` |
-| [BOLD International](https://www.boldint.pt/) [:rocket:](https://www.boldint.pt/carreiras/) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
-| [Everis](https://www.everis.com/portugal/pt-pt/home-pt) | Consultancy, Outsourcing. | `Lisboa` |
-| [GLanDrive](https://www.glandrive.pt) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
-| [KWAN](https://www.kwan.pt/) | Tech Talent Done Right. | `Lisboa` `Porto` |
-| [Landing.jobs](https://landing.jobs) [:rocket:](https://landing.jobs/at/landing-jobs) | Helping people find the right fit tech job. | `Lisboa` |
-| [Prime IT](https://www.primeit.pt/) [:rocket:](https://www.primeit.pt/carreiras) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
 
 
 ## Developer Tools :hammer_and_wrench:
