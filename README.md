@@ -45,7 +45,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Armis](http://www.armisgroup.com/) [:rocket:](http://www.armisgroup.com/ofertas-de-trabalho/) | Technology development and consultancy. | `Lisboa` `Porto` |
 | [blockbird Ventures](https://www.blockbird.ventures) [:rocket:](https://blockbird.ventures/careers/) | Blockchain and Ethereum development. | `Lisboa` `Remote` |
 | [BOLD International](https://www.boldint.pt/) [:rocket:](https://www.boldint.pt/carreiras/) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
-| [Bool Software](https://www.bool.pt/) | Software development and consultancy company specialized in OutSystems. | `Lisboa` |
+| [Bool Software](https://www.bool.pt/) | Consultancy company specialized in OutSystems. | `Lisboa` |
 | [Coletiv](https://www.coletiv.com) [:rocket:](https://coletiv.com/#jobs) | Mobile and backend development. | `Porto` |
 | [Critical Software](https://www.criticalsoftware.com) [:rocket:](https://www.criticalsoftware.com/careers) | Mission and business-critical applications. | `Coimbra` `Lisboa`<br>`Porto` |
 | [darwinLabs](https://www.darwin-labs.com/) [:rocket:](https://www.darwin-labs.com/latest-jobs/) | Building Software that matters. | `Lisboa` `Remote` |
