@@ -124,7 +124,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Jumia](https://group.jumia.com) [:rocket:](https://group.jumia.com/careers) | Online Shopping for Electronics, Phones & Fashion in Africa. | `Porto` |
 | [OLX](https://www.olxgroup.com) [:rocket:](https://www.olxgroup.com/search/all-functions/portugal-lisbon/all-brands) | Network of market-leading trading platforms across 5 countries. | `Lisboa` |
 | [Platforme](https://platforme.com) [:rocket:](https://platforme.com/careers) | Dynamic product as a service. Leaders in customisation. | `Porto` |
-| [Prozis](https://www.prozis.com/pt/en) [:rocket:](https://prozis.breezy.hr/) | Sports and nutrition online store. | `Esposende` `Porto`<br>`Aveiro` |
+| [Prozis](https://www.prozis.com/pt/en) [:rocket:](https://prozis.breezy.hr/) | Sports and nutrition online store. |  `Aveiro` `Esposende`<br>`Porto` |
 | [Trouva](https://www.trouva.com) [:rocket:](https://trouva.workable.com/) | Marketplace for independent boutiques. | `Lisboa` |
 | [Uniplaces](https://www.uniplaces.com/) [:rocket:](https://careers.uniplaces.com/) | Student accomodation platform. | `Lisboa` |
 | [Zalando](http://www.zalando.com) [:rocket:](https://jobs.zalando.com) | Shoes & fashion online. | `Lisboa` |
