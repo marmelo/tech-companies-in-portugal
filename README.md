@@ -47,7 +47,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Bool Software](https://www.bool.pt/) | Consultancy company specialized in OutSystems. | `Lisboa` |
 | [darwinLabs](https://www.darwin-labs.com/) [:rocket:](https://www.darwin-labs.com/latest-jobs/) | Building Software that matters. | `Lisboa` `Remote` |
 | [Equal Experts](https://www.equalexperts.com) [:rocket:](https://www.equalexperts.com/contact-us/lisbon/) | Making software. Better. | `Lisboa` `Remote` |
-| [Load](http://www.load.digital) [:rocket:](https://consultancy.load.digital/carreiras) | Research & Development of New Digital Products | `Aveiro` `Remote` |
+| [Load](http://www.load.digital) [:rocket:](https://consultancy.load.digital/carreiras) | Research & Development of New Digital Products. | `Aveiro` `Remote` |
 | [LIS @ IPN](https://www.ipn.pt/laboratorio/LIS) | Technological R&D and innovative multi-disciplinary projects. | `Coimbra` |
 | [KI labs](https://ki-labs.com/) [:rocket:](https://ki-labs.com/careers/) | Solve complex tech and business challenges for big corporations. | `Lisboa` |
 | [IT People](https://itpeople.pt) [:rocket:](https://itpeople.pt/speak-to-us/) | Outsourcing & Nearshore Development. | `Covilhã` `Lisboa`<br>`Porto`|
