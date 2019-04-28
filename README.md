@@ -217,5 +217,5 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Celfocus](https://www.celfocus.com/) [:rocket:](https://www.celfocus.com/home/who-we-are/join-us) | Vodafone technology development.  | `Lisboa` `Porto` |
 | [GoContact](https://www.gocontact.pt/) [:rocket:](https://www.gocontact.pt/recrutamento/) | Company specialized in integrated solutions for Contact Centers. | `Aveiro` `Lisboa`<br>`Porto`|
 | [Talkdesk](https://www.talkdesk.com) [:rocket:](https://www.talkdesk.com/careers/) | Enterprise cloud contact center. | `Coimbra` `Lisboa`<br>`Porto` |
-| [WIT Software](https://www.wit-software.com) [:rocket:](https://www.wit-software.com/careers/) | Mobile, Micro-Payment, OTT Media, RCS (Rich Communication Services), Communication Gateways and other related software development for telecommunications services.  | Development Offices: `Coimbra` `Leiria` `Porto` `Aveiro` <br>Sales Offices: `Lisboa` `London` |
+| [WIT Software](https://www.wit-software.com) [:rocket:](https://www.wit-software.com/careers/) | Software development for telcom services (OTT, RCS, Mobile, Web & others). | `Coimbra` `Leiria` <br>`Porto` `Aveiro` |
 | [Truphone](https://www.truphone.com) [:rocket:](https://www.truphone.com/careers/) | Global mobile connectivity and eSIM technology innovator. | `Lisboa` |
