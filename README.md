@@ -127,6 +127,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
+| [360imprimir](https://www.360imprimir.pt/) [:rocket:](https://www.360imprimir.pt/Home/Carreiras) | Online platform for marketing products and services. | `Braga` `Lisboa`<br>`Torres Vedras` |
 | [Aptoide](https://www.aptoide.com/) [:rocket:](https://co.aptoide.com/jobs) | Your Android app store. | `Lisboa` |
 | [Blip](https://blip.pt) [:rocket:](https://blip.pt/jobs/) | Online betting and gambling operator. | `Porto` |
 | [Farfetch](https://www.farfetch.com) [:rocket:](https://www.farfetch.com/pt/careers) | Global technology platform for luxury fashion. | `Braga` `Lisboa`<br>`Porto` |
