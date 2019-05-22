@@ -1,0 +1,7 @@
+language: ruby
+rvm:
+  - 2.4.1
+before_script:
+  - gem install awesome_bot
+script:
+  - awesome_bot -f README.md --allow-ssl --allow-redirect --allow-dupe -w www.linkedin.com,www.hostelworldgroup.com,www.olxgroup.com
