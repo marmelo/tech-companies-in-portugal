@@ -205,6 +205,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
 | [Adamant Sec](https://adamantsec.com/) | Pentesting, consulting and audit. | `Porto` |
+| [Blaze Information Security](https://www.blazeinfosec.com/) | Pentesting, consulting and research. | `Porto` |
 | [Checkmarx](https://www.checkmarx.com/) [:rocket:](https://www.checkmarx.com/company/careers/) | Manage Software Exposure at the Speed of DevOps. | `Braga` |
 | [Dashlane](https://www.dashlane.com/) [:rocket:](https://www.dashlane.com/about/careers) | Password manager and online security app. | `Lisboa` |
 | [Fyde](https://www.fyde.com/) [:rocket:](https://www.fyde.com/jobs) | Software-defined remote access and security solution. | `Porto` |
