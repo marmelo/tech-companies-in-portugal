@@ -10,6 +10,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 
 
 ### Categories
+
 - [Automotive :oncoming_automobile:](#automotive-oncoming_automobile)
 - [Consultancy :man_office_worker:](#consultancy-man_office_worker-broad-dizzy)
   - [Broad :dizzy:](#consultancy-man_office_worker-broad-dizzy)
@@ -43,7 +44,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
 | [AddCode](https://addcode-io.breezy.hr) [:rocket:](https://addcode-io.breezy.hr/#positions) | Software engineering. | `Porto` |
-| [Altran](https://www.altran.com/pt/pt-pt/) [:rocket:](https://www.altran.com/pt/pt-pt/carreiras/) | Engineering and R&D services. | `Fundão` `Lisboa`<br>`Porto` |
+| [Altran](https://www.altran.com/pt/pt-pt/) [:rocket:](https://www.altran.com/pt/pt-pt/carreiras/) | Engineering and R&D services. | `Fundão` `Lisboa` <br> `Porto` |
 | [Armis](http://www.armisgroup.com/) [:rocket:](http://www.armisgroup.com/ofertas-de-trabalho/) | Technology development and consultancy. | `Lisboa` `Porto` |
 | [Bool Software](https://www.bool.pt/) | Consultancy company specialized in OutSystems. | `Lisboa` |
 | [Caixa Mágica](https://caixamagica.pt/) [:rocket:](https://caixamagica.pt/pt/job-opportunities) | Open Source development. | `Lisboa` |
@@ -52,7 +53,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Equal Experts](https://www.equalexperts.com) [:rocket:](https://www.equalexperts.com/contact-us/lisbon/) | Making software. Better. | `Lisboa` `Remote` |
 | [LIS @ IPN](https://www.ipn.pt/laboratorio/LIS) | Technological R&D and innovative multi-disciplinary projects. | `Coimbra` |
 | [KI labs](https://ki-labs.com/) [:rocket:](https://ki-labs.com/careers/) | Solve complex tech and business challenges for big corporations. | `Lisboa` |
-| [IT People](https://itpeople.pt) [:rocket:](https://itpeople.pt/speak-to-us/) | Outsourcing & Nearshore Development. | `Covilhã` `Lisboa`<br>`Porto`|
+| [IT People](https://itpeople.pt) [:rocket:](https://itpeople.pt/speak-to-us/) | Outsourcing & Nearshore Development. | `Covilhã` `Lisboa` <br> `Porto`|
 | [Mindera](https://mindera.com) [:rocket:](https://mindera.com/#we-are-hiring) | Technology development and consultancy. | `Aveiro` `Porto` |
 | [Moxy](https://moxy.studio) [:rocket:](https://moxy.studio/team#join-the-team) | Interdisciplinary studio focused on design and development. | `Porto` |
 | [Noesis](https://www.noesis.pt/pt/homepage) [:rocket:](https://www.noesis.pt/pt/junta-te-a-nos/) | Consultancy and enterprise software. | `Lisboa` |
@@ -86,7 +87,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
-| [Critical Software](https://www.criticalsoftware.com) [:rocket:](https://www.criticalsoftware.com/careers) | Mission and business-critical applications. | `Coimbra` `Lisboa`<br>`Porto` |
+| [Critical Software](https://www.criticalsoftware.com) [:rocket:](https://www.criticalsoftware.com/careers) | Mission and business-critical applications. | `Coimbra` `Lisboa` <br> `Porto` |
 | [blockbird Ventures](https://www.blockbird.ventures) [:rocket:](https://blockbird.ventures/careers/) | Blockchain and Ethereum development. | `Lisboa` `Remote` |
 | [JTA](https://www.thedatascientists.com/) [:rocket:](https://www.thedatascientists.com) | Machine Learning, Reporting and custom vizualizations services. | `Porto` |
 | [Kwanko](https://kwanko.com/) [:rocket:](https://www.kwanko.com/about-us/careers/) | An International leader in Crossdevice Performance Marketing. | `Lisboa` |
@@ -107,7 +108,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Significa](https://www.significa.pt) [:rocket:](https://www.significa.pt/careers/) | Design and Front-End Web development. | `Porto` |
 | [Subvisual](https://subvisual.co/) [:rocket:](https://subvisual.co/company/join-us/) | Web development and design firm. | `Braga` |
 | [Thing Pink](http://www.thing-pink.pt) [:rocket:](http://www.thing-pink.pt/joinus) | Digital Agency with focus on Web, Mobile and IoT. | `Lisboa` `Porto` |
-| [YLD](https://www.yld.io/) [:rocket:](https://www.yld.io/join-us/) | Software engineering, design, training and open-source. | `Lisboa` `Porto`<br>`Remote` |
+| [YLD](https://www.yld.io/) [:rocket:](https://www.yld.io/join-us/) | Software engineering, design, training and open-source. | `Lisboa` `Porto` <br> `Remote` |
 
 
 ## Developer Tools :hammer_and_wrench:
@@ -117,24 +118,24 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Codacy](https://www.codacy.com) [:rocket:](https://www.codacy.com/careers) | Automated code reviews & code analytics. | `Lisboa` `Remote` |
 | [DashDash](https://dashdash.com) [:rocket:](https://github.com/dashdash/hiring) | Create interactive web apps using spreadsheet skills. | `Porto` |
 | [Oracle](https://www.oracle.com/index.html) [:rocket:](https://www.oracle.com/corporate/careers/) | DBMS's and information systems. | `Oeiras` `Remote` |
-| [OutSystems](https://www.outsystems.com) [:rocket:](https://www.outsystems.com/company/careers/) | Low-code platform to visually develop applications. | `Braga` `Linda-a-Velha`<br>`Proença-a-Nova` |
+| [OutSystems](https://www.outsystems.com) [:rocket:](https://www.outsystems.com/company/careers/) | Low-code platform to visually develop applications. | `Braga` `Linda-a-Velha` <br> `Proença-a-Nova` |
 | [Unbabel](https://unbabel.com) [:rocket:](https://unbabel.com/careers/) | Translation as a Service. | `Lisboa` |
 
 
-##  E-commerce :shopping:
+## E-commerce :shopping:
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
-| [360imprimir](https://www.360imprimir.pt/) [:rocket:](https://www.360imprimir.pt/Home/Carreiras) | Online platform for marketing products and services. | `Braga` `Lisboa`<br>`Torres Vedras` |
+| [360imprimir](https://www.360imprimir.pt/) [:rocket:](https://www.360imprimir.pt/Home/Carreiras) | Online platform for marketing products and services. | `Braga` `Lisboa` <br> `Torres Vedras` |
 | [Aptoide](https://www.aptoide.com/) [:rocket:](https://co.aptoide.com/jobs) | Your Android app store. | `Lisboa` |
 | [Blip](https://blip.pt) [:rocket:](https://blip.pt/jobs/) | Online betting and gambling operator. | `Porto` |
-| [Farfetch](https://www.farfetch.com) [:rocket:](https://www.farfetch.com/pt/careers) | Global technology platform for luxury fashion. | `Braga` `Lisboa`<br>`Porto` |
+| [Farfetch](https://www.farfetch.com) [:rocket:](https://www.farfetch.com/pt/careers) | Global technology platform for luxury fashion. | `Braga` `Lisboa` <br> `Porto` |
 | [Hostelworld](https://www.hostelworld.com/) [:rocket:](http://www.hostelworldgroup.com/careers) | World's leading hostel-focused online booking platform. | `Porto` |
 | [Jumia](https://group.jumia.com) [:rocket:](https://group.jumia.com/careers) | Online Shopping for Electronics, Phones & Fashion in Africa. | `Porto` |
 | [La Redoute](https://www.laredoute-corporate.com/en/homepage/) [:rocket:](https://www.linkedin.com/company/la-redoute/jobs/) | Home & Fashion online. | `Leiria` |
 | [OLX](https://www.olxgroup.com) [:rocket:](https://www.olxgroup.com/search/all-functions/portugal-lisbon/all-brands) | Network of market-leading trading platforms across 5 countries. | `Lisboa` |
 | [Platforme](https://platforme.com) [:rocket:](https://platforme.com/careers) | Dynamic product as a service. Leaders in customisation. | `Porto` |
-| [Prozis](https://www.prozis.com/pt/en) [:rocket:](https://prozis.breezy.hr/) | Sports and nutrition online store. |  `Aveiro` `Esposende`<br>`Porto` |
+| [Prozis](https://www.prozis.com/pt/en) [:rocket:](https://prozis.breezy.hr/) | Sports and nutrition online store. |  `Aveiro` `Esposende` <br> `Porto` |
 | [Skyhour](https://skyhour.com/) [:rocket:](https://landing.jobs/at/skyhour) | Give and receive air travel. | `Lisboa` |
 | [Trouva](https://www.trouva.com) [:rocket:](https://trouva.workable.com/) | Marketplace for independent boutiques. | `Lisboa` |
 | [Uniplaces](https://www.uniplaces.com/) [:rocket:](https://careers.uniplaces.com/) | Student accomodation platform. | `Lisboa` |
@@ -145,7 +146,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
-| [DreamShaper](https://dreamshaper.com/) | Classroom tools to improve student work related skills. | `Lisboa` `Porto`<br>`Remote` |
+| [DreamShaper](https://dreamshaper.com/) | Classroom tools to improve student work related skills. | `Lisboa` `Porto` <br> `Remote` |
 | [ELSA](https://elsaspeak.com/) [:rocket:](https://elsaspeak.com/careers)| AI-powered tool to improve pronunciation skills. | `Lisboa` `Remote` |
 
 
@@ -180,9 +181,9 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | :------ | :---------- | :-------- |
 | [Compare Group](http://www.compareeuropegroup.com/) [:rocket:](http://www.compareeuropegroup.com/careers/) | Financial products comparision for several markets (eg: [ComparaJá](https://www.comparaja.pt)). | `Lisboa` | 
 | [Euronext](https://www.euronext.com) [:rocket:](https://www.euronext.com/en/careers) | European stock exchange operator. | `Porto` |
-| [Feedzai](https://feedzai.com) [:rocket:](https://careers.feedzai.com) | Fraud detection platform to make commerce safe. | `Coimbra` `Lisboa`<br>`Porto` |
+| [Feedzai](https://feedzai.com) [:rocket:](https://careers.feedzai.com) | Fraud detection platform to make commerce safe. | `Coimbra` `Lisboa` <br> `Porto` |
 | [Iban Wallet](https://www.ibanwallet.com) | Invest in secured loans. | `Lisboa` |
-| [ITSector](https://www.itsector.pt/pt) [:rocket:](https://www.itsector.pt/pt/carreiras) | Software for financial institutions. | `Aveiro` `Braga`<br>`Bragança` `Lisboa`<br>`Porto` |
+| [ITSector](https://www.itsector.pt/pt) [:rocket:](https://www.itsector.pt/pt/carreiras) | Software for financial institutions. | `Aveiro` `Braga` <br> `Bragança` `Lisboa` <br> `Porto` |
 | [LoanDolphin](https://loandolphin.com.au/) [:rocket:](https://loandolphin.breezy.hr/) | Home loan marketplace. | `Lisboa` `Remote` |
 | [Natixis](https://www.natixis.com/) [:rocket:](https://www.natixis.com/natixis/jcms/tki_5051/en/careers) | French corporate and investment bank. | `Porto` |
 | [Onfido](https://www.onfido.com) [:rocket:](https://onfido.com/jobs/) | Identity verification at the speed of life. | `Lisboa` |
@@ -227,7 +228,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | :------ | :---------- | :-------- |
 | [Altice Labs](http://www.alticelabs.com/pt/) | Telecommunications technologies. | `Aveiro` |
 | [Celfocus](https://www.celfocus.com/) [:rocket:](https://www.celfocus.com/home/who-we-are/join-us) | Vodafone technology development.  | `Lisboa` `Porto` |
-| [GoContact](https://www.gocontact.pt/) [:rocket:](https://www.gocontact.pt/recrutamento/) | Company specialized in integrated solutions for Contact Centers. | `Aveiro` `Lisboa`<br>`Porto`|
-| [Talkdesk](https://www.talkdesk.com) [:rocket:](https://www.talkdesk.com/careers/) | Enterprise cloud contact center. | `Coimbra` `Lisboa`<br>`Porto` |
-| [WIT Software](https://www.wit-software.com) [:rocket:](https://www.wit-software.com/careers/) | Mobile telecommunications services. | `Aveiro` `Coimbra`<br>`Leiria` `Lisboa`<br>`Porto` |
+| [GoContact](https://www.gocontact.pt/) [:rocket:](https://www.gocontact.pt/recrutamento/) | Company specialized in integrated solutions for Contact Centers. | `Aveiro` `Lisboa` <br> `Porto`|
+| [Talkdesk](https://www.talkdesk.com) [:rocket:](https://www.talkdesk.com/careers/) | Enterprise cloud contact center. | `Coimbra` `Lisboa` <br> `Porto` |
+| [WIT Software](https://www.wit-software.com) [:rocket:](https://www.wit-software.com/careers/) | Mobile telecommunications services. | `Aveiro` `Coimbra` <br> `Leiria` `Lisboa` <br> `Porto` |
 | [Truphone](https://www.truphone.com) [:rocket:](https://www.truphone.com/careers/) | Global mobile connectivity and eSIM technology innovator. | `Lisboa` |
