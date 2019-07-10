@@ -179,7 +179,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
 | [Compare Group](http://www.compareeuropegroup.com/) [:rocket:](http://www.compareeuropegroup.com/careers/) | Financial products comparision for several markets (eg: [ComparaJá](https://www.comparaja.pt)). | `Lisboa` | 
-| [Euronext](https://www.euronext.com) [:rocket:](https://www.euronext.com/en/about/careers) | European stock exchange operator. | `Porto` |
+| [Euronext](https://www.euronext.com) | European stock exchange operator. | `Porto` |
 | [Feedzai](https://feedzai.com) [:rocket:](https://careers.feedzai.com) | Fraud detection platform to make commerce safe. | `Coimbra` `Lisboa`<br>`Porto` |
 | [Iban Wallet](https://www.ibanwallet.com) | Invest in secured loans. | `Lisboa` |
 | [ITSector](https://www.itsector.pt/pt) [:rocket:](https://www.itsector.pt/pt/carreiras) | Software for financial institutions. | `Aveiro` `Braga`<br>`Bragança` `Lisboa`<br>`Porto` |
