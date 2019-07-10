@@ -157,7 +157,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [ClanHR](https://www.clanhr.com) | Online Human Resources Management Software. | `Lisboa` |
 | [Critical Manufacturing](https://www.criticalmanufacturing.com) [:rocket:](https://www.criticalmanufacturing.com/en/careers) | Manufacturing business-critical applications. | `Porto` |
 | [Elecnor Deimos](http://www.elecnor-deimos.com/) [:rocket:](http://www.elecnor-deimos.com/jobs/) | Advanced design solutions and turn-key space software systems. | `Lisboa` |
-| [Glintt](https://www.glintt.com/) [:rocket:](https://www.glintt.com/pt/carreiras/ofertas/Paginas/Ofertas.aspx) | Healthcare software. | `Algarve` `Lisboa` <br> `Porto` `Sintra` |
+| [Glintt](https://www.glintt.com/) [:rocket:](https://www.glintt.com/en/careers/Vacancies/Pages/openpositions.aspx) | Healthcare software. | `Algarve` `Lisboa` <br> `Porto` `Sintra` |
 | [GMV](https://www.gmv.com/) [:rocket:](https://www.gmv.com/pt/Emprego/) | Advanced solutions in many sectors. | `Lisboa` |
 | [Hitachi Vantara](https://www.hitachivantara.com/) [:rocket:](https://www.hitachivantara.com/en-us/company/careers.html) | IoT, cloud, application, big data and analytics solutions. | `Oeiras` `Porto` |
 | [InnovationCast](https://innovationcast.com/) | Collaborative Innovation Management Software. | `Lisboa` `Porto` |
@@ -179,7 +179,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
 | [Compare Group](http://www.compareeuropegroup.com/) [:rocket:](http://www.compareeuropegroup.com/careers/) | Financial products comparision for several markets (eg: [ComparaJá](https://www.comparaja.pt)). | `Lisboa` | 
-| [Euronext](https://www.euronext.com) [:rocket:](https://www.euronext.com/en/careers) | European stock exchange operator. | `Porto` |
+| [Euronext](https://www.euronext.com) [:rocket:](https://www.euronext.com/en/about/careers) | European stock exchange operator. | `Porto` |
 | [Feedzai](https://feedzai.com) [:rocket:](https://careers.feedzai.com) | Fraud detection platform to make commerce safe. | `Coimbra` `Lisboa`<br>`Porto` |
 | [Iban Wallet](https://www.ibanwallet.com) | Invest in secured loans. | `Lisboa` |
 | [ITSector](https://www.itsector.pt/pt) [:rocket:](https://www.itsector.pt/pt/carreiras) | Software for financial institutions. | `Aveiro` `Braga`<br>`Bragança` `Lisboa`<br>`Porto` |
