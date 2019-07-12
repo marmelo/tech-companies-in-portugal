@@ -22,6 +22,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 - [Education :books:](#education-books)
 - [Enterprise Software :office:](#enterprise-software-office)
 - [FinTech :moneybag:](#fintech-moneybag)
+- [Gaming :space_invader:](#Gaming-space_invader)
 - [Multimedia :movie_camera:](#multimedia-movie_camera)
 - [Security :lock:](#security-lock)
 - [Social :couple:](#social-couple)
@@ -188,6 +189,13 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Natixis](https://www.natixis.com/) [:rocket:](https://www.natixis.com/natixis/jcms/tki_5051/en/careers) | French corporate and investment bank. | `Porto` |
 | [Onfido](https://www.onfido.com) [:rocket:](https://onfido.com/jobs/) | Identity verification at the speed of life. | `Lisboa` |
 | [Uphold](https://uphold.com/) [:rocket:](https://uphold.com/en/about-us/careers) | US cloud based financial services platform. | `Braga` |
+
+
+## Gaming :space_invader:
+
+| Company | Description | Locations |
+| :------ | :---------- | :-------- |
+| [Fabamaq](https://www.fabamaq.com/) [:rocket:](https://www.fabamaq.com/pages.php?page_id=311) | Casino digital games. | `Porto` |
 
 
 ## Multimedia :movie_camera:
