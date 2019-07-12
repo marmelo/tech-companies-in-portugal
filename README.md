@@ -216,6 +216,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Blaze Information Security](https://www.blazeinfosec.com/) | Pentesting, consulting and research. | `Porto` |
 | [Char49](https://www.char49.com/) | Pentesting, consulting and Training. | `Lisboa` |
 | [Checkmarx](https://www.checkmarx.com/) [:rocket:](https://www.checkmarx.com/company/careers/) | Manage Software Exposure at the Speed of DevOps. | `Braga` |
+| [Cybersafe](https://www.cybersafe.pt/) | Training, solutions integrator and managed security services. | `Alfragide` |
 | [Dashlane](https://www.dashlane.com/) [:rocket:](https://www.dashlane.com/about/careers) | Password manager and online security app. | `Lisboa` |
 | [Dognaedis](https://www.dognaedis.com/) | Security services for enterprises and government agencies. | `Coimbra` `Lisboa` <br> `Porto` |
 | [Fyde](https://www.fyde.com/) [:rocket:](https://www.fyde.com/jobs) | Software-defined remote access and security solution. | `Porto` |
