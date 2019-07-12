@@ -22,7 +22,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 - [Education :books:](#education-books)
 - [Enterprise Software :office:](#enterprise-software-office)
 - [FinTech :moneybag:](#fintech-moneybag)
-- [Gaming :space_invader:](#Gaming-space_invader)
+- [Gaming :video_game:](#gaming-video_game)
 - [Multimedia :movie_camera:](#multimedia-movie_camera)
 - [Security :lock:](#security-lock)
 - [Social :couple:](#social-couple)
@@ -191,7 +191,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Uphold](https://uphold.com/) [:rocket:](https://uphold.com/en/about-us/careers) | US cloud based financial services platform. | `Braga` |
 
 
-## Gaming :space_invader:
+## Gaming :video_game:
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
