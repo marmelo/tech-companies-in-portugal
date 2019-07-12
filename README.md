@@ -220,6 +220,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Fyde](https://www.fyde.com/) [:rocket:](https://www.fyde.com/jobs) | Software-defined remote access and security solution. | `Porto` |
 | [Integrity](https://www.integrity.pt/) [:rocket:](https://www.integrity.pt/careers.html) | Consulting and tech audit focused on information Security. | `Lisboa` |
 | [JScrambler](https://jscrambler.com) [:rocket:](https://jscrambler.com/careers) | JavaScript application integrity and security. | `Porto` |
+| [Multicert](https://www.multicert.com) [:rocket:](https://www.multicert.com/pt/sobre-nos/recrutamento/) | CA, enterprise security software products and consulting. | `Lisboa` `Porto` |
 | [Probely](https://probely.com) [:rocket:](https://careers.probely.com) | Automated web application security scanning as a service. | `Lisboa` |
 | [Symantec](https://www.symantec.com) [:rocket:](https://www.symantec.com/about/careers) | Enterprise and Consumer Security Products. | `Coimbra` `Remote` |
 
