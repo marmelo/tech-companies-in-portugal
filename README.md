@@ -217,6 +217,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Char49](https://www.char49.com/) | Pentesting, consulting and Training. | `Lisboa` |
 | [Checkmarx](https://www.checkmarx.com/) [:rocket:](https://www.checkmarx.com/company/careers/) | Manage Software Exposure at the Speed of DevOps. | `Braga` |
 | [Dashlane](https://www.dashlane.com/) [:rocket:](https://www.dashlane.com/about/careers) | Password manager and online security app. | `Lisboa` |
+| [Dognaedis](https://www.dognaedis.com/) | Security services for enterprises and government agencies. | `Coimbra` `Lisboa` <br> `Porto` |
 | [Fyde](https://www.fyde.com/) [:rocket:](https://www.fyde.com/jobs) | Software-defined remote access and security solution. | `Porto` |
 | [Integrity](https://www.integrity.pt/) [:rocket:](https://www.integrity.pt/careers.html) | Consulting and tech audit focused on information Security. | `Lisboa` |
 | [JScrambler](https://jscrambler.com) [:rocket:](https://jscrambler.com/careers) | JavaScript application integrity and security. | `Porto` |
