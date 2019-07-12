@@ -225,6 +225,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Layer8](https://www.layer8.pt) | Consulting, technology and security managed services. | `Lisboa` |
 | [Multicert](https://www.multicert.com) [:rocket:](https://www.multicert.com/pt/sobre-nos/recrutamento/) | CA, enterprise security software products and consulting. | `Lisboa` `Porto` |
 | [Probely](https://probely.com) [:rocket:](https://careers.probely.com) | Automated web application security scanning as a service. | `Lisboa` |
+| [S21sec](https://www.s21sec.com) [:rocket:](https://www.s21sec.com/en/careers/) | Cybersecurity services. | `Lisboa` `Porto` |
 | [Symantec](https://www.symantec.com) [:rocket:](https://www.symantec.com/about/careers) | Enterprise and Consumer Security Products. | `Coimbra` `Remote` |
 
 
