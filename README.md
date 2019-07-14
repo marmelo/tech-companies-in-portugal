@@ -214,12 +214,18 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | :------ | :---------- | :-------- |
 | [Adamant Sec](https://adamantsec.com/) | Pentesting, consulting and audit. | `Porto` |
 | [Blaze Information Security](https://www.blazeinfosec.com/) | Pentesting, consulting and research. | `Porto` |
+| [Char49](https://www.char49.com/) | Pentesting, consulting and training. | `Lisboa` |
 | [Checkmarx](https://www.checkmarx.com/) [:rocket:](https://www.checkmarx.com/company/careers/) | Manage Software Exposure at the Speed of DevOps. | `Braga` |
+| [Cybersafe](https://www.cybersafe.pt/) | Training, solutions integrator and managed security services. | `Alfragide` |
 | [Dashlane](https://www.dashlane.com/) [:rocket:](https://www.dashlane.com/about/careers) | Password manager and online security app. | `Lisboa` |
+| [Dognaedis](https://www.dognaedis.com/) | Security services for enterprises and government agencies. | `Coimbra` `Lisboa` <br> `Porto` |
 | [Fyde](https://www.fyde.com/) [:rocket:](https://www.fyde.com/jobs) | Software-defined remote access and security solution. | `Porto` |
 | [Integrity](https://www.integrity.pt/) [:rocket:](https://www.integrity.pt/careers.html) | Consulting and tech audit focused on information Security. | `Lisboa` |
 | [JScrambler](https://jscrambler.com) [:rocket:](https://jscrambler.com/careers) | JavaScript application integrity and security. | `Porto` |
+| [Layer8](https://www.layer8.pt) | Consulting, technology and security managed services. | `Lisboa` |
+| [Multicert](https://www.multicert.com) [:rocket:](https://www.multicert.com/pt/sobre-nos/recrutamento/) | CA, enterprise security software products and consulting. | `Lisboa` `Porto` |
 | [Probely](https://probely.com) [:rocket:](https://careers.probely.com) | Automated web application security scanning as a service. | `Lisboa` |
+| [S21sec](https://www.s21sec.com) [:rocket:](https://www.s21sec.com/en/careers/) | Cybersecurity services. | `Lisboa` `Porto` |
 | [Symantec](https://www.symantec.com) [:rocket:](https://www.symantec.com/about/careers) | Enterprise and Consumer Security Products. | `Coimbra` `Remote` |
 
 
