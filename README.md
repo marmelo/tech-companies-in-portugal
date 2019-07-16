@@ -55,7 +55,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [LIS @ IPN](https://www.ipn.pt/laboratorio/LIS) | Technological R&D and innovative multi-disciplinary projects. | `Coimbra` |
 | [KI labs](https://ki-labs.com/) [:rocket:](https://ki-labs.com/careers/) | Solve complex tech and business challenges for big corporations. | `Lisboa` |
 | [IT People](https://itpeople.pt) [:rocket:](https://itpeople.pt/speak-to-us/) | Outsourcing & Nearshore Development. | `Covilhã` `Lisboa` <br> `Porto`|
-| [Mindera](https://mindera.com) [:rocket:](https://mindera.com/#we-are-hiring) | Technology development and consultancy. | `Aveiro` `Porto` |
+| [Mindera](https://mindera.com) [:rocket:](https://mindera.com/#we-are-hiring) | Technology development and consultancy. | `Aveiro` `Coimbra` <br> `Porto` |
 | [Moxy](https://moxy.studio) [:rocket:](https://moxy.studio/team#join-the-team) | Interdisciplinary studio focused on design and development. | `Porto` |
 | [Noesis](https://www.noesis.pt/pt/homepage) [:rocket:](https://www.noesis.pt/pt/junta-te-a-nos/) | Consultancy and enterprise software. | `Lisboa` |
 | [Novabase](http://www.novabase.pt/) [:rocket:](http://www.novabase.pt/en/dp/opportunities) | Simpler & happier. | `Lisboa` |
@@ -147,6 +147,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
 | [DreamShaper](https://dreamshaper.com/) | Classroom tools to improve student work related skills. | `Lisboa` `Porto` <br> `Remote` |
+| [Edubox](https://edubox.pt/) [:rocket:](https://edubox.pt/candidaturas)| Educational solutions and school management software. | `Aveiro` |
 | [ELSA](https://elsaspeak.com/) [:rocket:](https://elsaspeak.com/careers)| AI-powered tool to improve pronunciation skills. | `Lisboa` `Remote` |
 
 
