@@ -110,6 +110,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Significa](https://www.significa.pt) [:rocket:](https://www.significa.pt/careers/) | Design and Front-End Web development. | `Porto` |
 | [Subvisual](https://subvisual.co/) [:rocket:](https://subvisual.co/company/join-us/) | Web development and design firm. | `Braga` |
 | [Thing Pink](http://www.thing-pink.pt) [:rocket:](http://www.thing-pink.pt/joinus) | Digital Agency with focus on Web, Mobile and IoT. | `Lisboa` `Porto` |
+| [Waterdog](https://waterdog.mobi/) [:rocket:](https://www.linkedin.com/company/waterdog-mobile/about/) | Web and Mobile development. | `Porto` |
 | [YLD](https://www.yld.io/) [:rocket:](https://www.yld.io/join-us/) | Software engineering, design, training and open-source. | `Lisboa` `Porto` <br> `Remote` |
 
 
