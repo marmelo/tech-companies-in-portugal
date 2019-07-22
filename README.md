@@ -56,6 +56,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Growin](https://www.growin.com) [:rocket:](https://www.growin.com/careers/) | Software development and System analysis consultancy. | `Coimbra` `Lisboa` <br> `Porto` |
 | [LIS @ IPN](https://www.ipn.pt/laboratorio/LIS) | Technological R&D and innovative multi-disciplinary projects. | `Coimbra` |
 | [KI labs](https://ki-labs.com/) [:rocket:](https://ki-labs.com/careers/) | Solve complex tech and business challenges for big corporations. | `Lisboa` |
+| [InnoWave](https://innowave.tech/) [:rocket:](https://innowave.tech/careers/) | Global technology and consulting company. | `Coimbra` `Lisboa`|
 | [IT People](https://itpeople.pt) [:rocket:](https://itpeople.pt/speak-to-us/) | Outsourcing & Nearshore Development. | `Covilhã` `Lisboa` <br> `Porto`|
 | [Mindera](https://mindera.com) [:rocket:](https://mindera.com/#we-are-hiring) | Technology development and consultancy. | `Aveiro` `Coimbra` <br> `Porto` |
 | [Moxy](https://moxy.studio) [:rocket:](https://moxy.studio/team#join-the-team) | Interdisciplinary studio focused on design and development. | `Porto` |
