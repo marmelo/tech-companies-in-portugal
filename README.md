@@ -67,6 +67,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [TMC](https://tmc-employeneurship.com/) [:rocket:](https://www.linkedin.com/company/tmcspain/jobs/) | Agile software development. | `Porto` |
 | [Ubiwhere](https://ubiwhere.com) [:rocket:](https://www.ubiwhere.com/en/careers) | Bleeding Edge Technologies with custom R&D. | `Aveiro` `Coimbra` |
 | [VILT Group](https://www.vilt-group.com/) [:rocket:](https://www.vilt-group.com/joinus) | Consultancy and enterprise software. | `Braga` `Lisboa` |
+| [Xpand IT](https://www.xpand-it.com/pt-pt/) [:rocket:](https://www.xpand-it.com/pt-pt/job-opportunities/) | Global consultancy company. | `Braga` `Lisboa` <br> `Porto` <br> `Viana do Castelo` |
 
 
 ## Consultancy :man_office_worker: Recruiting :male_detective:
