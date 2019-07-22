@@ -38,6 +38,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [DTB Tech & Data Hub](https://techhublisbon.io/) [:rocket:](https://techhublisbon.softgarden.io/en/vacancies) | Daimler Trucks and Buses IoT data into intelligent global services. | `Lisboa` |
 | [Mercedes-Benz.io](https://www.mercedes-benz.io) [:rocket:](https://www.mercedes-benz.io/jobs) | Shaping the digital future of Mercedes-Benz. | `Lisboa` |
 | [Stratio Automotive](https://stratioautomotive.com) [:rocket:](https://stratio.workable.com) | Vehicle data into predictive intelligence. | `Coimbra` |
+| [Volkswagen Digital Solutions](http://www.vwds.pt/) [:rocket:](https://www.linkedin.com/company/volkswagen-digital-solutions/jobs/) | Creating the digital ecosystem for the brands of the Volkswagen Group. | `Lisbon` |
 
 
 ## Consultancy :man_office_worker: Broad :dizzy:
