@@ -38,6 +38,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [DTB Tech & Data Hub](https://techhublisbon.io/) [:rocket:](https://techhublisbon.softgarden.io/en/vacancies) | Daimler Trucks and Buses IoT data into intelligent global services. | `Lisboa` |
 | [Mercedes-Benz.io](https://www.mercedes-benz.io) [:rocket:](https://www.mercedes-benz.io/jobs) | Shaping the digital future of Mercedes-Benz. | `Lisboa` |
 | [Stratio Automotive](https://stratioautomotive.com) [:rocket:](https://stratio.workable.com) | Vehicle data into predictive intelligence. | `Coimbra` |
+| [Volkswagen Digital Solutions](http://www.vwds.pt/) [:rocket:](https://www.linkedin.com/company/volkswagen-digital-solutions/jobs/) | Creating the digital ecosystem for the brands of the Volkswagen Group. | `Lisboa` |
 
 
 ## Consultancy :man_office_worker: Broad :dizzy:
@@ -52,8 +53,10 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [darwinLabs](https://www.darwin-labs.com/) [:rocket:](https://www.darwin-labs.com/latest-jobs/) | Building Software that matters. | `Lisboa` `Remote` |
 | [DevScope](http://devscope.net/) [:rocket:](http://devscope.net/AboutUs/Joinus.aspx) | Technology development, consultancy and product development. | `Porto` `Viseu` |
 | [Equal Experts](https://www.equalexperts.com) [:rocket:](https://www.equalexperts.com/contact-us/lisbon/) | Making software. Better. | `Lisboa` `Remote` |
+| [Growin](https://www.growin.com) [:rocket:](https://www.growin.com/careers/) | Software development and system analysis consultancy. | `Coimbra` `Lisboa` <br> `Porto` |
 | [LIS @ IPN](https://www.ipn.pt/laboratorio/LIS) | Technological R&D and innovative multi-disciplinary projects. | `Coimbra` |
 | [KI labs](https://ki-labs.com/) [:rocket:](https://ki-labs.com/careers/) | Solve complex tech and business challenges for big corporations. | `Lisboa` |
+| [InnoWave](https://innowave.tech/) [:rocket:](https://innowave.tech/careers/) | Global technology and consulting company. | `Coimbra` `Lisboa`|
 | [IT People](https://itpeople.pt) [:rocket:](https://itpeople.pt/speak-to-us/) | Outsourcing & Nearshore Development. | `Covilhã` `Lisboa` <br> `Porto`|
 | [Mindera](https://mindera.com) [:rocket:](https://mindera.com/#we-are-hiring) | Technology development and consultancy. | `Aveiro` `Coimbra` <br> `Porto` |
 | [Moxy](https://moxy.studio) [:rocket:](https://moxy.studio/team#join-the-team) | Interdisciplinary studio focused on design and development. | `Porto` |
@@ -66,6 +69,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [TMC](https://tmc-employeneurship.com/) [:rocket:](https://www.linkedin.com/company/tmcspain/jobs/) | Agile software development. | `Porto` |
 | [Ubiwhere](https://ubiwhere.com) [:rocket:](https://www.ubiwhere.com/en/careers) | Bleeding Edge Technologies with custom R&D. | `Aveiro` `Coimbra` |
 | [VILT Group](https://www.vilt-group.com/) [:rocket:](https://www.vilt-group.com/joinus) | Consultancy and enterprise software. | `Braga` `Lisboa` |
+| [Xpand IT](https://www.xpand-it.com/pt-pt/) [:rocket:](https://www.xpand-it.com/pt-pt/job-opportunities/) | Global consultancy company. | `Braga` `Lisboa` <br> `Porto` <br> `Viana do Castelo` |
 
 
 ## Consultancy :man_office_worker: Recruiting :male_detective:
@@ -88,6 +92,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
+| [BI4ALL](https://www.bi4all.pt/en/) [:rocket:](https://www.linkedin.com/company/bi4all/jobs/) | Consulting services with several analytics solutions.  | `Lisboa` `Porto` |
 | [Critical Software](https://www.criticalsoftware.com) [:rocket:](https://www.criticalsoftware.com/careers) | Mission and business-critical applications. | `Coimbra` `Lisboa` <br> `Porto` |
 | [blockbird Ventures](https://www.blockbird.ventures) [:rocket:](https://blockbird.ventures/careers/) | Blockchain and Ethereum development. | `Lisboa` `Remote` |
 | [JTA](https://www.thedatascientists.com/) [:rocket:](https://www.thedatascientists.com) | Machine Learning, Reporting and custom vizualizations services. | `Porto` |
@@ -101,6 +106,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Bliss Applications](https://www.blissapplications.com/) [:rocket:](https://www.blissapplications.com/careers) | UX/UI & software-driven company. | `Lisboa` `Porto` |
 | [Coletiv](https://www.coletiv.com) [:rocket:](https://coletiv.com/#jobs) | Mobile and backend development. | `Porto` |
 | [Dengun](https://www.dengun.com/en/) [:rocket:](https://www.dengun.com/en/jobs/) | Web, Mobile development and digital marketing. | `Faro` |
+| [Foreteller](https://www.weareforeteller.com/) [:rocket:](https://www.weareforeteller.com/foreteller-about) | Design-led partner for great results. | `Lisboa` |
 | [Imaginary Cloud](https://www.imaginarycloud.com) [:rocket:](https://www.imaginarycloud.com/careers) | Web, mobile, development and design services. | `Lisboa` |
 | [Load](http://load.digital) [:rocket:](https://consultancy.load.digital/carreiras) | Design Thinking, Web, Mobile, IoT, New Tech (VR, AI, Blockchain) | `Aveiro` `Remote` |
 | [Pixelmatters](http://pixelmatters.com) [:rocket:](http://pixelmatters.com/jobs/) | Digital product design and development company. | `Porto` |
@@ -109,6 +115,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Significa](https://www.significa.pt) [:rocket:](https://www.significa.pt/careers/) | Design and Front-End Web development. | `Porto` |
 | [Subvisual](https://subvisual.co/) [:rocket:](https://subvisual.co/company/join-us/) | Web development and design firm. | `Braga` |
 | [Thing Pink](http://www.thing-pink.pt) [:rocket:](http://www.thing-pink.pt/joinus) | Digital Agency with focus on Web, Mobile and IoT. | `Lisboa` `Porto` |
+| [Waterdog](https://waterdog.mobi/) | Web and Mobile development. | `Porto` |
 | [YLD](https://www.yld.io/) [:rocket:](https://www.yld.io/join-us/) | Software engineering, design, training and open-source. | `Lisboa` `Porto` <br> `Remote` |
 
 
@@ -243,6 +250,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
 | [Altice Labs](http://www.alticelabs.com/pt/) | Telecommunications technologies. | `Aveiro` |
+| [Carrot](https://carrotincentives.com/)  | ICM for Telco companies.  | `Lisboa` |
 | [Celfocus](https://www.celfocus.com/) [:rocket:](https://www.celfocus.com/home/who-we-are/join-us) | Vodafone technology development.  | `Lisboa` `Porto` |
 | [GoContact](https://www.gocontact.pt/) [:rocket:](https://www.gocontact.pt/recrutamento/) | Company specialized in integrated solutions for Contact Centers. | `Aveiro` `Lisboa` <br> `Porto`|
 | [Talkdesk](https://www.talkdesk.com) [:rocket:](https://www.talkdesk.com/careers/) | Enterprise cloud contact center. | `Coimbra` `Lisboa` <br> `Porto` |
