@@ -143,7 +143,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Jumia](https://group.jumia.com) [:rocket:](https://group.jumia.com/careers) | Online Shopping for Electronics, Phones & Fashion in Africa. | `Porto` |
 | [La Redoute](https://www.laredoute-corporate.com/en/homepage/) [:rocket:](https://www.linkedin.com/company/la-redoute/jobs/) | Home & Fashion online. | `Leiria` |
 | [OLX](https://www.olxgroup.com) [:rocket:](https://www.olxgroup.com/search/all-functions/portugal-lisbon/all-brands) | Network of market-leading trading platforms across 5 countries. | `Lisboa` |
-| [Platforme](https://platforme.com) | Dynamic product as a service. Leaders in customisation. | `Porto` |
+| [Platforme](https://platforme.com) [:rocket:](https://platforme.com/jobs) | Dynamic product as a service. Leaders in customisation. | `Porto` |
 | [Prozis](https://www.prozis.com/pt/en) [:rocket:](https://prozis.breezy.hr/) | Sports and nutrition online store. |  `Aveiro` `Esposende` <br> `Porto` |
 | [Skyhour](https://skyhour.com/) [:rocket:](https://landing.jobs/at/skyhour) | Give and receive air travel. | `Lisboa` |
 | [Trouva](https://www.trouva.com) [:rocket:](https://trouva.workable.com/) | Marketplace for independent boutiques. | `Lisboa` |
