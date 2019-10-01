@@ -27,6 +27,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 - [Security :lock:](#security-lock)
 - [Social :couple:](#social-couple)
 - [Telcos :telephone_receiver:](#telcos-telephone_receiver)
+- [Travel :airplane:](#travel-airplane)
 
 
 ## Automotive :oncoming_automobile:
@@ -139,18 +140,14 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Aptoide](https://www.aptoide.com/) [:rocket:](https://co.aptoide.com/jobs) | Your Android app store. | `Lisboa` |
 | [Blip](https://blip.pt) [:rocket:](https://blip.pt/jobs/) | Online betting and gambling operator. | `Porto` |
 | [Farfetch](https://www.farfetch.com) [:rocket:](https://www.farfetch.com/pt/careers) | Global technology platform for luxury fashion. | `Braga` `Lisboa` <br> `Porto` |
-| [Hostelworld](https://www.hostelworld.com/) [:rocket:](http://www.hostelworldgroup.com/careers) | World's leading hostel-focused online booking platform. | `Porto` |
 | [Jumia](https://group.jumia.com) [:rocket:](https://group.jumia.com/careers) | Online Shopping for Electronics, Phones & Fashion in Africa. | `Porto` |
 | [La Redoute](https://www.laredoute-corporate.com/en/homepage/) [:rocket:](https://www.linkedin.com/company/la-redoute/jobs/) | Home & Fashion online. | `Leiria` |
 | [OLX](https://www.olxgroup.com) [:rocket:](https://www.olxgroup.com/search/all-functions/portugal-lisbon/all-brands) | Network of market-leading trading platforms across 5 countries. | `Lisboa` |
 | [Platforme](https://platforme.com) [:rocket:](https://platforme.com/jobs) | Dynamic product as a service. Leaders in customisation. | `Porto` |
 | [Prozis](https://www.prozis.com/pt/en) [:rocket:](https://prozis.breezy.hr/) | Sports and nutrition online store. |  `Aveiro` `Esposende` <br> `Porto` |
 | [Salsify](https://www.salsify.com) [:rocket:](https://www.salsify.com/careers) | Product Experience Management and Syndication platform. | `Lisboa` |
-| [Skyhour](https://skyhour.com/) [:rocket:](https://landing.jobs/at/skyhour) | Give and receive air travel. | `Lisboa` |
 | [Trouva](https://www.trouva.com) [:rocket:](https://trouva.workable.com/) | Marketplace for independent boutiques. | `Lisboa` |
 | [Uniplaces](https://www.uniplaces.com/) [:rocket:](https://careers.uniplaces.com/) | Student accomodation platform. | `Lisboa` |
-| [TripAdvisor](https://www.tripadvisor.com) [:rocket:](https://careers.tripadvisor.com) | The largest "social travel website" in the world. | `Lisboa` |
-
 
 
 ## Education :books:
@@ -262,3 +259,12 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Talkdesk](https://www.talkdesk.com) [:rocket:](https://www.talkdesk.com/careers/) | Enterprise cloud contact center. | `Coimbra` `Lisboa` <br> `Porto` |
 | [WIT Software](https://www.wit-software.com) [:rocket:](https://www.wit-software.com/careers/) | Software development for telcom services (OTT, RCS, Mobile, Web & others). | `Aveiro` `Coimbra` <br> `Leiria` `Lisboa` <br>`Porto` |
 | [Truphone](https://www.truphone.com) [:rocket:](https://www.truphone.com/careers/) | Global mobile connectivity and eSIM technology innovator. | `Lisboa` |
+
+
+## Travel :airplane:
+
+| Company | Description | Locations |
+| :------ | :---------- | :-------- |
+| [Hostelworld](https://www.hostelworld.com/) [:rocket:](http://www.hostelworldgroup.com/careers) | World's leading hostel-focused online booking platform. | `Porto` |
+| [Skyhour](https://skyhour.com/) [:rocket:](https://landing.jobs/at/skyhour) | Give and receive air travel. | `Lisboa` |
+| [TripAdvisor](https://www.tripadvisor.com) [:rocket:](https://careers.tripadvisor.com) | The largest "social travel website" in the world. | `Lisboa` |
