@@ -89,6 +89,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [KWAN](https://www.kwan.pt/) |  Consultancy, Outsourcing. | `Lisboa` `Porto` |
 | [Landing.jobs](https://landing.jobs) [:rocket:](https://landing.jobs/at/landing-jobs) | Helping people find the right fit tech job. | `Lisboa` |
 | [Prime IT](https://www.primeit.pt/) [:rocket:](https://www.primeit.pt/carreiras) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
+| [KCSIT](https://kcsit.pt/) [:rocket:](https://kcsit.pt/pt/carreiras/) | Consultancy, Outsourcing. | `Lisboa` `Porto` |\
 
 
 ## Consultancy :man_office_worker: Specialized :dart:
