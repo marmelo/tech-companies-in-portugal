@@ -86,10 +86,10 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [BOLD International](https://www.boldint.pt/) [:rocket:](https://www.boldint.pt/carreiras/) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
 | [Everis](https://www.everis.com/portugal/pt-pt/home-pt) | Consultancy, Outsourcing. | `Lisboa` |
 | [GLanDrive](https://www.glandrive.pt) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
+| [KCSIT](https://kcsit.pt/) [:rocket:](https://kcsit.pt/pt/carreiras/) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
 | [KWAN](https://www.kwan.pt/) |  Consultancy, Outsourcing. | `Lisboa` `Porto` |
 | [Landing.jobs](https://landing.jobs) [:rocket:](https://landing.jobs/at/landing-jobs) | Helping people find the right fit tech job. | `Lisboa` |
 | [Prime IT](https://www.primeit.pt/) [:rocket:](https://www.primeit.pt/carreiras) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
-| [KCSIT](https://kcsit.pt/) [:rocket:](https://kcsit.pt/pt/carreiras/) | Consultancy, Outsourcing. | `Lisboa` `Porto` |\
 
 
 ## Consultancy :man_office_worker: Specialized :dart:
