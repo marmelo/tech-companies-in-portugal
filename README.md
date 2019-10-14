@@ -89,6 +89,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [KCSIT](https://kcsit.pt/) [:rocket:](https://kcsit.pt/pt/carreiras/) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
 | [KWAN](https://www.kwan.pt/) |  Consultancy, Outsourcing. | `Lisboa` `Porto` |
 | [Landing.jobs](https://landing.jobs) [:rocket:](https://landing.jobs/at/landing-jobs) | Helping people find the right fit tech job. | `Lisboa` |
+| [Multivision](https://multivision.pt) [:rocket:](https://www.linkedin.com/company/multivision---consultoria-em-telecomunica-es-e-inform-tica-lda-/jobs/) | Consultancy, Outsourcing. | `Lisboa` |
 | [Prime IT](https://www.primeit.pt/) [:rocket:](https://www.primeit.pt/carreiras) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
 
 
