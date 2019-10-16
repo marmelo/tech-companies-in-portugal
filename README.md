@@ -56,6 +56,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [DevScope](http://devscope.net/) [:rocket:](http://devscope.net/AboutUs/Joinus.aspx) | Technology development, consultancy and product development. | `Porto` `Viseu` |
 | [Equal Experts](https://www.equalexperts.com) [:rocket:](https://www.equalexperts.com/contact-us/lisbon/) | Making software. Better. | `Lisboa` `Remote` |
 | [Growin](https://www.growin.com) [:rocket:](https://www.growin.com/careers/) | Software development and system analysis consultancy. | `Coimbra` `Lisboa` <br> `Porto` |
+| [JAVALI](https://www.javali.pt) | Web, Mobile and custom development. Mostly focused on Drupal. | `Caparica` `Lisboa` |
 | [LIS @ IPN](https://www.ipn.pt/laboratorio/LIS) | Technological R&D and innovative multi-disciplinary projects. | `Coimbra` |
 | [LTPLabs](https://www.ltplabs.com/) [:rocket:](https://www.ltplabs.com/careers/) | Boutique analytical-driven management consultancy company. | `Porto` `Lisboa` |
 | [KI labs](https://ki-labs.com/) [:rocket:](https://ki-labs.com/careers/) | Solve complex tech and business challenges for big corporations. | `Lisboa` |
