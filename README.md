@@ -254,6 +254,12 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [YouClap](https://youclap.tech) | Create, participate and share awesome challenges. | `Aveiro` `Remote` |
 
 
+## Subsea :ocean:
+
+| Company | Description | Locations |
+| :------ | :---------- | :-------- |
+| [Abyssal](https://abyssal.eu) [:rocket:](https://abyssal.eu/careers/) | 3D Visualization, Simulation and Digitalization for subsea operations. | `Porto` |
+
 ## Telcos :telephone_receiver:
 
 | Company | Description | Locations |
