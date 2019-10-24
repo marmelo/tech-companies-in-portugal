@@ -21,6 +21,7 @@ Some additional things to keep in mind:
 * Locations must be enclosed in an inline code block (using with backtick quotes `` ` ``) and separated by spaces;
 * Locations should be separated by a `<br>` at least every 2 locations to keep the table column width under control;
 * Both companies and locations are ordered alphabetically (except the special `Remote` location that must appear last);
-* If a new category is required please provide an explanation in the commit message.
+* If a new category is required please provide an explanation in the commit message;
+* If a company would fit in multiple categories, only the one category that fits best must be selected.
 
 Thanks for contributing!
