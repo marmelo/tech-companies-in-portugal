@@ -24,6 +24,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 - [FinTech :moneybag:](#fintech-moneybag)
 - [Gaming :video_game:](#gaming-video_game)
 - [Multimedia :movie_camera:](#multimedia-movie_camera)
+- [Sea :ocean:](#sea-ocean)
 - [Security :lock:](#security-lock)
 - [Social :couple:](#social-couple)
 - [Telcos :telephone_receiver:](#telcos-telephone_receiver)
@@ -225,6 +226,13 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Sky](https://www.sky.com) [:rocket:](https://careers.sky.com) | TV, broadband, talk, streaming and mobile. | `Lisboa` |
 
 
+## Sea :ocean:
+
+| Company | Description | Locations |
+| :------ | :---------- | :-------- |
+| [Abyssal](https://abyssal.eu) [:rocket:](https://abyssal.eu/careers/) | 3D Visualization, Simulation and Digitalization for subsea operations. | `Porto` |
+
+
 ## Security :lock:
 
 | Company | Description | Locations |
@@ -253,12 +261,6 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [XING](https://www.xing.com/) [:rocket:](https://corporate.xing.com/en/career/porto/) | For a better working life. | `Porto` |
 | [YouClap](https://youclap.tech) | Create, participate and share awesome challenges. | `Aveiro` `Remote` |
 
-
-## Subsea :ocean:
-
-| Company | Description | Locations |
-| :------ | :---------- | :-------- |
-| [Abyssal](https://abyssal.eu) [:rocket:](https://abyssal.eu/careers/) | 3D Visualization, Simulation and Digitalization for subsea operations. | `Porto` |
 
 ## Telcos :telephone_receiver:
 
