@@ -24,6 +24,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 - [FinTech :moneybag:](#fintech-moneybag)
 - [Gaming :video_game:](#gaming-video_game)
 - [Multimedia :movie_camera:](#multimedia-movie_camera)
+- [Sea :ocean:](#sea-ocean)
 - [Security :lock:](#security-lock)
 - [Social :couple:](#social-couple)
 - [Telcos :telephone_receiver:](#telcos-telephone_receiver)
@@ -227,6 +228,13 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [MediaGaps](http://www.mediagaps.com/) | Bridging your workflow gaps. | `Porto` |
 | [MOG Technologies](https://www.mog-technologies.com) [:rocket:](https://www.mog-technologies.com/careers-at-mog/) | End-to-end solutions for professional media. | `Porto` |
 | [Sky](https://www.sky.com) [:rocket:](https://careers.sky.com) | TV, broadband, talk, streaming and mobile. | `Lisboa` |
+
+
+## Sea :ocean:
+
+| Company | Description | Locations |
+| :------ | :---------- | :-------- |
+| [Abyssal](https://abyssal.eu) [:rocket:](https://abyssal.eu/careers/) | 3D Visualization, Simulation and Digitalization for subsea operations. | `Porto` |
 
 
 ## Security :lock:
