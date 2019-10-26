@@ -23,7 +23,9 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 - [Enterprise Software :office:](#enterprise-software-office)
 - [FinTech :moneybag:](#fintech-moneybag)
 - [Gaming :video_game:](#gaming-video_game)
+- [Medical :hospital:](#medical-hospital)
 - [Multimedia :movie_camera:](#multimedia-movie_camera)
+- [Sea :ocean:](#sea-ocean)
 - [Security :lock:](#security-lock)
 - [Social :couple:](#social-couple)
 - [Telcos :telephone_receiver:](#telcos-telephone_receiver)
@@ -213,8 +215,18 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
 | [Fabamaq](https://www.fabamaq.com/) [:rocket:](https://www.fabamaq.com/pages.php?page_id=311) | Casino digital games. | `Porto` |
+| [Fun Punch Games](https://funpunchgames.com/) | Independent game development studio. | `Lisboa` |
+| [Ground Control](http://www.gcontrolgames.com/) | Indie games/VR studio. | `Porto` |
 | [Miniclip](https://www.miniclip.com/) [:rocket:](https://corporate.miniclip.com/careers/) | Mobile and web game development company. | `Lisboa` |
+| [Not a Game Studio](http://www.notagamestudio.com/) | Game development studio focused on the experience of the users. | `Lisboa` |
 | [ZPX](https://www.zpx.pt/) [:rocket:](https://zpx.pt/careers.html) | Full-range game development studio offering design, art, coding. | `Lisboa` |
+
+
+## Medical :hospital:
+
+| Company | Description | Locations |
+| :------ | :---------- | :-------- |
+| [Criteria Marathon](https://www.criteriamarathon.com/) | Software Engineering and Information Technologies in the Medical Sector. | `Porto` |
 
 
 ## Multimedia :movie_camera:
@@ -225,6 +237,13 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [MediaGaps](http://www.mediagaps.com/) | Bridging your workflow gaps. | `Porto` |
 | [MOG Technologies](https://www.mog-technologies.com) [:rocket:](https://www.mog-technologies.com/careers-at-mog/) | End-to-end solutions for professional media. | `Porto` |
 | [Sky](https://www.sky.com) [:rocket:](https://careers.sky.com) | TV, broadband, talk, streaming and mobile. | `Lisboa` |
+
+
+## Sea :ocean:
+
+| Company | Description | Locations |
+| :------ | :---------- | :-------- |
+| [Abyssal](https://abyssal.eu) [:rocket:](https://abyssal.eu/careers/) | 3D Visualization, Simulation and Digitalization for subsea operations. | `Porto` |
 
 
 ## Security :lock:
