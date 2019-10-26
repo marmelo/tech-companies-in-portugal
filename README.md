@@ -213,6 +213,9 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
 | [Fabamaq](https://www.fabamaq.com/) [:rocket:](https://www.fabamaq.com/pages.php?page_id=311) | Casino digital games. | `Porto` |
+| [Fun Punch Games](https://funpunchgames.com/) | Independent game development studio. | `Lisboa` |
+| [Ground Control](http://www.gcontrolgames.com/) | Indie games/VR studio. | `Porto` |
+| [Not a Game Studio](http://www.notagamestudio.com/) | Game development studio focused on the experience of the users. | `Lisboa` |
 | [ZPX](https://www.zpx.pt/) [:rocket:](https://zpx.pt/careers.html) | Full-range game development studio offering design, art, coding. | `Lisboa` |
 
 
