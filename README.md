@@ -23,6 +23,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 - [Enterprise Software :office:](#enterprise-software-office)
 - [FinTech :moneybag:](#fintech-moneybag)
 - [Gaming :video_game:](#gaming-video_game)
+- [Medical :hospital:](#medical-hospital)
 - [Multimedia :movie_camera:](#multimedia-movie_camera)
 - [Security :lock:](#security-lock)
 - [Social :couple:](#social-couple)
@@ -214,6 +215,13 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | :------ | :---------- | :-------- |
 | [Fabamaq](https://www.fabamaq.com/) [:rocket:](https://www.fabamaq.com/pages.php?page_id=311) | Casino digital games. | `Porto` |
 | [ZPX](https://www.zpx.pt/) [:rocket:](https://zpx.pt/careers.html) | Full-range game development studio offering design, art, coding. | `Lisboa` |
+
+
+## Medical :hospital:
+
+| Company | Description | Locations |
+| :------ | :---------- | :-------- |
+| [Criteria Marathon](https://www.criteriamarathon.com/) | Software Engineering and Information Technologies in the Medical Sector. | `Porto` |
 
 
 ## Multimedia :movie_camera:
