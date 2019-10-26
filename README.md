@@ -23,6 +23,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 - [Enterprise Software :office:](#enterprise-software-office)
 - [FinTech :moneybag:](#fintech-moneybag)
 - [Gaming :video_game:](#gaming-video_game)
+- [Medical :hospital:](#medical-hospital)
 - [Multimedia :movie_camera:](#multimedia-movie_camera)
 - [Sea :ocean:](#sea-ocean)
 - [Security :lock:](#security-lock)
@@ -218,6 +219,13 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Ground Control](http://www.gcontrolgames.com/) | Indie games/VR studio. | `Porto` |
 | [Not a Game Studio](http://www.notagamestudio.com/) | Game development studio focused on the experience of the users. | `Lisboa` |
 | [ZPX](https://www.zpx.pt/) [:rocket:](https://zpx.pt/careers.html) | Full-range game development studio offering design, art, coding. | `Lisboa` |
+
+
+## Medical :hospital:
+
+| Company | Description | Locations |
+| :------ | :---------- | :-------- |
+| [Criteria Marathon](https://www.criteriamarathon.com/) | Software Engineering and Information Technologies in the Medical Sector. | `Porto` |
 
 
 ## Multimedia :movie_camera:
