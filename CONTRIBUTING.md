@@ -12,11 +12,11 @@ Please make sure the following company details are provided:
 
 Some additional things to keep in mind:
 * The company must allow working in/from Portugal;
-* Both links are valid;
-* Both links use HTTPS, if available;
+* Both links must be valid/working;
+* Both links should be HTTPS, if available;
 * Mailto links are not allowed;
 * Referral links are not allowed;
-* The description starts with uppercase, ends with a `.` period and fits in a single line (to improve readability);
+* The description starts with uppercase, ends with a `.` period and fits in a single line (70 chars max);
 * Locations must be written in their portuguese names (e.g. use `Lisboa` instead of `Lisbon`);
 * Locations must be enclosed in an inline code block (using with backtick quotes `` ` ``) and separated by spaces;
 * Locations should be separated by a `<br>` at least every 2 locations to keep the table column width under control;
