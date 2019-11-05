@@ -245,6 +245,8 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
 | [Abyssal](https://abyssal.eu) [:rocket:](https://abyssal.eu/careers/) | 3D Visualization, Simulation and Digitalization for subsea operations. | `Porto` |
+| [OceanScan-MST](https://www.oceanscan-mst.com) [:rocket:](http://www.oceanscan-mst.com/job-opportunities/) | Lightweight Autonomous Underwater Vehicle manufacturer. | `Porto` |
+| [Xsealence](https://www.xsealence.pt) | Solutions for command, control and monitoring of maritime applications. | `Oeiras` |
 
 
 ## Security :lock:
