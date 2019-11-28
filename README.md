@@ -183,6 +183,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [KEEP SOLUTIONS](https://www.keep.pt/) [:rocket:](https://www.keep.pt/empresa/carreiras/) | Advanced solutions for information management. | `Braga` `Remote` |
 | [kununu](https://www.kununu.com/) [:rocket:](https://corporate.xing.com/en/career/porto/) | Workplace insights that matter. | `Porto` |
 | [Mind](http://www.mind.pt/) | Information management and industrial systems. | `Lisboa` `Porto` |
+| [Nmbrs](https://www.nmbrs.com/) [:rocket:](https://jobs.nmbrs.com/) | HR & Payroll software. | `Lisboa` |
 | [Petapilot](https://www.petapilot.com/) [:rocket:](https://www.petapilot.com/careers) | Big Data Solutions. | `Porto` |
 | [PHC Software](https://www.phcsoftware.com/) [:rocket:](https://www.phcsoftware.com/carreiras/) | ERP software. | `Lisboa` `Porto` |
 | [Primavera BSS](https://pt.primaverabss.com/pt/) [:rocket:](https://pt.primaverabss.com/pt/bolsaempregos/) | Enterprise resource planning software. | `Braga` `Leiria` <br> `Lisboa` |
@@ -192,7 +193,6 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [VAKT Global Ltd.](https://www.vakt.com/) [:rocket:](https://www.vakt.com/careers/) | Enterprise grade blockchain commodities trading platform. | `Lisboa` |
 | [VOID Software](https://www.void.pt/)  | Systems design & architecture using different technology stacks. | `Leiria` |
 | [WeDo Technologies](https://www.wedotechnologies.com/) [:rocket:](https://www.wedotechnologies.com/en/careers/) | Revenue Assurance and Fraud Management solutions. | `Braga` `Lisboa` |
-| [Nmbrs](https://www.nmbrs.com/) [:rocket:](https://jobs.nmbrs.com/) | HR & Payroll software. | `Lisboa` |
 
 
 ## FinTech :moneybag:
