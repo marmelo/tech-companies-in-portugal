@@ -192,6 +192,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [VAKT Global Ltd.](https://www.vakt.com/) [:rocket:](https://www.vakt.com/careers/) | Enterprise grade blockchain commodities trading platform. | `Lisboa` |
 | [VOID Software](https://www.void.pt/)  | Systems design & architecture using different technology stacks. | `Leiria` |
 | [WeDo Technologies](https://www.wedotechnologies.com/) [:rocket:](https://www.wedotechnologies.com/en/careers/) | Revenue Assurance and Fraud Management solutions. | `Braga` `Lisboa` |
+| [Nmbrs](https://www.nmbrs.com/) [:rocket:](https://jobs.nmbrs.com/) | HR & Payroll software. | `Lisboa` |
 
 
 ## FinTech :moneybag:
