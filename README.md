@@ -96,6 +96,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Multivision](https://multivision.pt) [:rocket:](https://www.linkedin.com/company/multivision---consultoria-em-telecomunica-es-e-inform-tica-lda-/jobs/) | Consultancy, Outsourcing. | `Lisboa` |
 | [Olisipo](https://www.olisipo.pt/) [:rocket:](https://www.olisipo.pt/jobs) | Outsourcing, Training and Early-stage venture capital. | `Aveiro` `Lisboa` <br> `Porto` |
 | [Prime IT](https://www.primeit.pt/) [:rocket:](https://www.primeit.pt/carreiras) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
+| [Bee Engineering](https://www.bee-eng.pt/pt/) [:rocket:](https://www.bee-eng.pt/pt/carreira/) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
 
 
 ## Consultancy :man_office_worker: Specialized :dart:
