@@ -102,13 +102,13 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
+| [Adentis](http://www.adentis.pt/) [:rocket:](http://www.adentis.pt/trabalhar-na-adentis/) | Outsourcing, customized solutions and R&D. | `Lisboa` |
 | [BI4ALL](https://www.bi4all.pt/en/) [:rocket:](https://www.linkedin.com/company/bi4all/jobs/) | Consulting services with several analytics solutions.  | `Lisboa` `Porto` |
 | [Critical Software](https://www.criticalsoftware.com) [:rocket:](https://www.criticalsoftware.com/careers) | Mission and business-critical applications. | `Coimbra` `Lisboa` <br> `Porto` |
 | [blockbird Ventures](https://www.blockbird.ventures) [:rocket:](https://blockbird.ventures/careers/) | Blockchain and Ethereum development. | `Lisboa` `Remote` |
 | [Fruition Partners](https://www.fruitionpartners.nl/) [:rocket:](https://www.it4it-careers.com/) | Consultancy and Application Development based on ServiceNow. | `Fundão` `Lisboa` |
 | [JTA](https://www.thedatascientists.com/) [:rocket:](https://www.thedatascientists.com) | Machine Learning, Reporting and custom vizualizations services. | `Porto` |
 | [Kwanko](https://kwanko.com/) [:rocket:](https://www.kwanko.com/about-us/careers/) | An International leader in Crossdevice Performance Marketing. | `Lisboa` |
-| [Adentis](http://www.adentis.pt/) [:rocket:](http://www.adentis.pt/trabalhar-na-adentis/) | Outsourcing, customized solutions and R&D. | `Lisboa` |
 
 
 ## Consultancy :man_office_worker: Web :globe_with_meridians: Mobile :iphone: Design :art:
