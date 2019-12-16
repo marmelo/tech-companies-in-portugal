@@ -56,6 +56,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Bool Software](https://www.bool.pt/) | Consultancy company specialized in OutSystems. | `Lisboa` |
 | [Caixa Mágica](https://caixamagica.pt/) [:rocket:](https://caixamagica.pt/pt/job-opportunities) | Open Source development. | `Lisboa` |
 | [darwinLabs](https://www.darwin-labs.com/) [:rocket:](https://www.darwin-labs.com/latest-jobs/) | Building Software that matters. | `Lisboa` `Remote` |
+| [Deloitte](https://www2.deloitte.com/pt/pt.html) [:rocket:](https://yourfuture.deloitte.pt/candidaturas/) | Global consulting company. | `Lisboa` `Porto` |
 | [DevScope](http://devscope.net/) [:rocket:](http://devscope.net/AboutUs/Joinus.aspx) | Technology development, consultancy and product development. | `Porto` `Viseu` |
 | [Equal Experts](https://www.equalexperts.com) [:rocket:](https://www.equalexperts.com/contact-us/lisbon/) | Making software. Better. | `Lisboa` `Remote` |
 | [Growin](https://www.growin.com) [:rocket:](https://www.growin.com/careers/) | Software development and system analysis consultancy. | `Coimbra` `Lisboa` <br> `Porto` |
