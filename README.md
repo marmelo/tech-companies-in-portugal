@@ -51,6 +51,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [25Friday](https://25friday.com) [:rocket:](https://25friday.homerun.co/) | Digital product management focussed on growing tech companies. | `Aveiro` `Porto` |
 | [Accenture](https://www.accenture.com/pt-pt) [:rocket:](https://www.accenture.com/pt-pt/careers) | Software Development, Cyber Security. | `Lisboa` `Porto` <br> `Remote`|
 | [AddCode](https://addcode-io.breezy.hr) [:rocket:](https://addcode-io.breezy.hr/#positions) | Software engineering. | `Porto` |
+| [Adentis](http://www.adentis.pt/) [:rocket:](http://www.adentis.pt/trabalhar-na-adentis/) | Outsourcing, customized solutions and R&D. | `Lisboa` |
 | [Altran](https://www.altran.com/pt/pt-pt/) [:rocket:](https://www.altran.com/pt/pt-pt/carreiras/) | Engineering and R&D services. | `Fundão` `Lisboa` <br> `Porto` |
 | [Armis](http://www.armisgroup.com/) [:rocket:](http://www.armisgroup.com/ofertas-de-trabalho/) | Technology development and consultancy. | `Lisboa` `Porto` |
 | [Bool Software](https://www.bool.pt/) | Consultancy company specialized in OutSystems. | `Lisboa` |
@@ -102,7 +103,6 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
-| [Adentis](http://www.adentis.pt/) [:rocket:](http://www.adentis.pt/trabalhar-na-adentis/) | Outsourcing, customized solutions and R&D. | `Lisboa` |
 | [BI4ALL](https://www.bi4all.pt/en/) [:rocket:](https://www.linkedin.com/company/bi4all/jobs/) | Consulting services with several analytics solutions.  | `Lisboa` `Porto` |
 | [Critical Software](https://www.criticalsoftware.com) [:rocket:](https://www.criticalsoftware.com/careers) | Mission and business-critical applications. | `Coimbra` `Lisboa` <br> `Porto` |
 | [blockbird Ventures](https://www.blockbird.ventures) [:rocket:](https://blockbird.ventures/careers/) | Blockchain and Ethereum development. | `Lisboa` `Remote` |
