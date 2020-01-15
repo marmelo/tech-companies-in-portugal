@@ -58,7 +58,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Caixa Mágica](https://caixamagica.pt/) [:rocket:](https://caixamagica.pt/pt/job-opportunities) | Open Source development. | `Lisboa` |
 | [CGI](https://www.cgi.com/portugal/pt-pt) [:rocket:](https://www.cgi.com/portugal/pt-pt/portugal/careers) | Experience the commitment. | `Lisboa` `Porto` |
 | [darwinLabs](https://www.darwin-labs.com/) [:rocket:](https://www.darwin-labs.com/latest-jobs/) | Building Software that matters. | `Lisboa` `Remote` |
-| [Deloitte](https://www2.deloitte.com/pt/pt.html) [:rocket:](https://yourfuture.deloitte.pt/candidaturas/) | Global consulting company. | `Lisboa` `Porto` |
+| [Deloitte](https://www2.deloitte.com/pt/pt.html) [:rocket:](https://yourfuture.deloitte.pt/candidaturas/) | Global consulting company. | `Leiria` `Lisboa` <br> `Porto` `Viseu` |
 | [DevScope](http://devscope.net/) [:rocket:](http://devscope.net/AboutUs/Joinus.aspx) | Technology development, consultancy and product development. | `Porto` `Viseu` |
 | [Equal Experts](https://www.equalexperts.com) [:rocket:](https://www.equalexperts.com/contact-us/lisbon/) | Making software. Better. | `Lisboa` `Remote` |
 | [Findmore](https://findmore.pt/) [:rocket:](https://findmore.pt/careers) | Nearshoring, software development, UX/UI Design and PMO. | `Lisboa` `Porto` <br> `Viseu` |
