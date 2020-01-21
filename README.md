@@ -172,6 +172,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [DreamShaper](https://dreamshaper.com/) | Classroom tools to improve student work related skills. | `Lisboa` `Porto` <br> `Remote` |
 | [Edubox](https://edubox.pt) [:rocket:](https://edubox.pt/candidaturas)| Educational solutions and school management software. | `Aveiro` |
 | [ELSA](https://elsaspeak.com/) [:rocket:](https://elsaspeak.com/careers)| AI-powered tool to improve pronunciation skills. | `Lisboa` `Remote` |
+| [MUSa Software](https://musasoftware.com/) | ERP and web products for art schools. | `Viana do Castelo` |
 
 
 ## Enterprise Software :office:
