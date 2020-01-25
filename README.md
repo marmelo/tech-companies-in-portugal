@@ -113,8 +113,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Fruition Partners](https://www.fruitionpartners.nl/) [:rocket:](https://www.it4it-careers.com/) | Consultancy and Application Development based on ServiceNow. | `Fundão` `Lisboa` |
 | [JTA](https://www.thedatascientists.com/) [:rocket:](https://www.thedatascientists.com) | Machine Learning, Reporting and custom vizualizations services. | `Porto` |
 | [Kwanko](https://kwanko.com/) [:rocket:](https://www.kwanko.com/about-us/careers/) | An International leader in Crossdevice Performance Marketing. | `Lisboa` |
-| [NILG.AI](https:/www.nilg.ai/) [:rocket:](https:/www.nilg.ai/) | Transforming data into actionable knowledge through AI. | `Porto` |
-
+| [NILG.AI](http:/www.nilg.ai/) [:rocket:](http:/www.nilg.ai/) | Transforming data into actionable knowledge through AI. | `Porto` |
 
 
 ## Consultancy :man_office_worker: Web :globe_with_meridians: Mobile :iphone: Design :art:
