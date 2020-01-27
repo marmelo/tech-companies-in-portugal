@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.com/marmelo/tech-companies-in-portugal.svg?branch=master)](https://travis-ci.com/marmelo/tech-companies-in-portugal)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/marmelo/tech-companies-in-portugal/blob/master/LICENSE)
 
-This is a opinionated list of some technology companies operating in Portugal.  
+This is a opinionated list of some technology companies operating in Portugal.
 If you find something wrong or want to add another company please [follow the rules](CONTRIBUTING.md) to contribute with a pull request.
 
 Are you seeking for a job? Click :rocket: to check the company's careers page.
@@ -124,7 +124,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Dengun](https://www.dengun.com/en/) [:rocket:](https://www.dengun.com/en/jobs/) | Web, Mobile development and digital marketing. | `Faro` |
 | [Imaginary Cloud](https://www.imaginarycloud.com) [:rocket:](https://www.imaginarycloud.com/careers) | Web, mobile, development and design services. | `Lisboa` |
 | [Load](http://load.digital) [:rocket:](https://consultancy.load.digital/carreiras) | Design Thinking, Web, Mobile, IoT, New Tech (VR, AI, Blockchain) | `Aveiro` `Remote` |
-| [Mosano](https://mosano.eu) [:rocket:](https://mosano.eu/join-us) | Software House focusing on building and maintaining Digital Products for the web and mobile. | `Porto` `Remote` |
+| [Mosano](https://mosano.eu) [:rocket:](https://mosano.eu/join-us) | Software House focusing Digital Products for the web and mobile. | `Porto` `Remote` |
 | [Pixelmatters](http://pixelmatters.com) [:rocket:](http://pixelmatters.com/jobs/) | Digital product design and development company. | `Porto` |
 | [Redlight Software](https://weareredlight.com) | Web and mobile development studio focused on products. | `Coimbra` `Lisboa` |
 | [Runtime Revolution](https://www.runtime-revolution.com/) [:rocket:](https://www.runtime-revolution.com/careers) | Web and mobile product development. | `Lisboa` |
