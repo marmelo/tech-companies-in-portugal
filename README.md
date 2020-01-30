@@ -23,7 +23,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 - [Enterprise Software :office:](#enterprise-software-office)
 - [FinTech :moneybag:](#fintech-moneybag)
 - [Gaming :video_game:](#gaming-video_game)
-- [Medical :hospital:](#medical-hospital)
+- [BioTech :hospital:](#biotech-hospital)
 - [Multimedia :movie_camera:](#multimedia-movie_camera)
 - [Sea :ocean:](#sea-ocean)
 - [Security :lock:](#security-lock)
@@ -238,11 +238,12 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [ZPX](https://www.zpx.pt/) [:rocket:](https://zpx.pt/careers.html) | Full-range game development studio offering design, art, coding. | `Lisboa` |
 
 
-## Medical :hospital:
+## BioTech :hospital:
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
 | [Criteria Marathon](https://www.criteriamarathon.com/) | Software Engineering and Information Technologies in the Medical Sector. | `Porto` |
+| [iLoF](https://ilof.tech/) | Revolutionizing Alzheimer’s drug discovery using bio-photonics and AI. | `Porto` |
 
 
 ## Multimedia :movie_camera:
