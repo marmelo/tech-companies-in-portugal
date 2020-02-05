@@ -200,7 +200,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Primavera BSS](https://pt.primaverabss.com/pt/) [:rocket:](https://pt.primaverabss.com/pt/bolsaempregos/) | Enterprise resource planning software. | `Braga` `Leiria` <br> `Lisboa` |
 | [Quidgest](https://quidgest.com/) [:rocket:](https://quidgest.com/quidgest/recrutamento/) | Information systems and ERP software. | `Lisboa` |
 | [Sherpany](https://www.sherpany.com/) [:rocket:](https://www.sherpany.com/en/careers/) | Meeting Management Software for Leaders. | `Lisboa` `Remote` |
-| [skeeled](https://www.skeeled.com/) [:rocket:](https://www.skeeled.com/career) | Talent Acquisition Software. | `Porto` |
+| [skeeled](https://www.skeeled.com/) [:rocket:](https://www.skeeled.com/career) | SaaS Talent Acquisition Software. | `Porto` |
 | [Unit4](https://www.unit4.com/) [:rocket:](https://www.careers.unit4.com/) | ERP, Consulting. | `Algés` |
 | [VAKT Global Ltd.](https://www.vakt.com/) [:rocket:](https://www.vakt.com/careers/) | Enterprise grade blockchain commodities trading platform. | `Lisboa` |
 | [VOID Software](https://www.void.pt/)  | Systems design & architecture using different technology stacks. | `Leiria` |
