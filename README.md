@@ -127,7 +127,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Imaginary Cloud](https://www.imaginarycloud.com) [:rocket:](https://www.imaginarycloud.com/careers) | Web, mobile, development and design services. | `Lisboa` |
 | [Load](http://load.digital) [:rocket:](https://consultancy.load.digital/carreiras) | Design Thinking, Web, Mobile, IoT, New Tech (VR, AI, Blockchain) | `Aveiro` `Remote` |
 | [Mosano](https://mosano.eu) [:rocket:](https://mosano.eu/join-us) | Software House focusing Digital Products for the web and mobile. | `Porto` `Remote` |
-| [Pixelmatters](http://pixelmatters.com) [:rocket:](http://pixelmatters.com/jobs/) | Digital product design and development company. | `Porto` |
+| [Pixelmatters](https://pixelmatters.com) [:rocket:](https://www.pixelmatters.com/careers/) | Digital product design and development company. | `Porto` |
 | [Redlight Software](https://weareredlight.com) | Web and mobile development studio focused on products. | `Coimbra` `Lisboa` |
 | [Runtime Revolution](https://www.runtime-revolution.com/) [:rocket:](https://www.runtime-revolution.com/careers) | Web and mobile product development. | `Lisboa` |
 | [Significa](https://www.significa.pt) [:rocket:](https://www.significa.pt/careers/) | Design and Front-End Web development. | `Porto` |
