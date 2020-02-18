@@ -311,7 +311,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
+| [eDreams ODIGEO](https://www.edreamsodigeo.com/) [:rocket:](https://www.edreamsodigeocareers.com) | One of the world’s largest e-commerce businesses and online travel companies. | `Porto` |
 | [Hostelworld](https://www.hostelworld.com/) [:rocket:](http://www.hostelworldgroup.com/careers) | World's leading hostel-focused online booking platform. | `Porto` |
 | [Skyhour](https://skyhour.com/) [:rocket:](https://landing.jobs/at/skyhour) | Give and receive air travel. | `Lisboa` |
 | [TripAdvisor](https://www.tripadvisor.com) [:rocket:](https://careers.tripadvisor.com) | The largest "social travel website" in the world. | `Lisboa` |
-| [eDreams ODIGEO](https://www.edreamsodigeo.com/) [:rocket:](www.edreamsodigeocareers.com) | One of the world’s largest online travel companies and one of the largest European e-commerce businesses. | `Porto` |
