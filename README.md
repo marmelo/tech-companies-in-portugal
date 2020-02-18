@@ -226,6 +226,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Natixis](https://www.natixis.com/) [:rocket:](https://www.natixis.com/natixis/jcms/tki_5051/en/careers) | French corporate and investment bank. | `Porto` |
 | [Onfido](https://www.onfido.com) [:rocket:](https://onfido.com/jobs/) | Identity verification at the speed of life. | `Lisboa` |
 | [Seedrs](https://www.seedrs.com) [:rocket:](https://www.seedrs.com/careers) | Equity marketplace for everyone. | `Lisboa` |
+| [StudentFinance](https://studentfinance.com/) [:rocket:](https://jobs.studentfinance.com) | Disrupting education through Income Share Agreements | `Lisboa` `Remote` |
 | [Uphold](https://uphold.com/) [:rocket:](https://uphold.com/en/about-us/careers) | US cloud based financial services platform. | `Braga` |
 
 
