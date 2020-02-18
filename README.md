@@ -217,6 +217,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Euronext](https://www.euronext.com) [:rocket:](https://www.euronext.com/en/careers) | European stock exchange operator. | `Porto` |
 | [Feedzai](https://feedzai.com) [:rocket:](https://careers.feedzai.com) | Fraud detection platform to make commerce safe. | `Coimbra` `Lisboa` <br> `Porto` |
 | [Fidel](https://fidel.uk) [:rocket:](https://fidel.uk/careers/) | One API for linking bank cards to digital applications, globally. | `Lisboa` |
+| [Finiam](https://www.finiam.com/) [:rocket:](https://www.finiam.com/#contact) | Improving people's lives by untangling the financial world. | `Braga` `Remote` |
 | [Fractal](https://company.fractal.id) | Enabling open finance with a new Internet Identity layer. | `Porto` `Remote` |
 | [Iban Wallet](https://www.ibanwallet.com) | Invest in secured loans. | `Lisboa` |
 | [ITSector](https://www.itsector.pt/pt) [:rocket:](https://www.itsector.pt/pt/carreiras) | Software for financial institutions. | `Aveiro` `Braga` <br> `Bragança` `Lisboa` <br> `Porto` |
