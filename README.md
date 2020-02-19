@@ -248,6 +248,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
 | [Criteria Marathon](https://www.criteriamarathon.com/) | Software Engineering and Information Technologies in the Medical Sector. | `Porto` |
+| [iLoF](https://ilof.tech/) | Revolutionizing Alzheimer’s drug discovery using bio-photonics and AI. | `Porto` |
 
 
 ## Multimedia :movie_camera:
