@@ -23,7 +23,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 - [Enterprise Software :office:](#enterprise-software-office)
 - [FinTech :moneybag:](#fintech-moneybag)
 - [Gaming :video_game:](#gaming-video_game)
-- [BioTech :hospital:](#biotech-hospital)
+- [Medical :hospital:](#medical-hospital)
 - [Multimedia :movie_camera:](#multimedia-movie_camera)
 - [Sea :ocean:](#sea-ocean)
 - [Security :lock:](#security-lock)
@@ -238,7 +238,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [ZPX](https://www.zpx.pt/) [:rocket:](https://zpx.pt/careers.html) | Full-range game development studio offering design, art, coding. | `Lisboa` |
 
 
-## BioTech :hospital:
+## Medical :hospital:
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
