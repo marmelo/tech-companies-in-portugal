@@ -103,7 +103,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Multivision](https://multivision.pt) [:rocket:](https://www.linkedin.com/company/multivision---consultoria-em-telecomunica-es-e-inform-tica-lda-/jobs/) | Consultancy, Outsourcing. | `Lisboa` |
 | [Olisipo](https://www.olisipo.pt/) [:rocket:](https://www.olisipo.pt/jobs) | Outsourcing, Training and Early-stage venture capital. | `Aveiro` `Lisboa` <br> `Porto` |
 | [Prime IT](https://www.primeit.pt/) [:rocket:](https://www.primeit.pt/carreiras) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
-
+| [Smart Consulting](https://www.smartconsulting.pt/) [:rocket:](https://www.smartconsulting.pt/oportunidades/) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
 
 ## Consultancy :man_office_worker: Specialized :dart:
 
@@ -203,6 +203,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Quidgest](https://quidgest.com/) [:rocket:](https://quidgest.com/quidgest/recrutamento/) | Information systems and ERP software. | `Lisboa` |
 | [Sherpany](https://www.sherpany.com/) [:rocket:](https://www.sherpany.com/en/careers/) | Meeting Management Software for Leaders. | `Lisboa` `Remote` |
 | [skeeled](https://www.skeeled.com/) [:rocket:](https://www.skeeled.com/career) | SaaS Talent Acquisition Software. | `Porto` |
+| [Tridonic](https://www.tridonic.com/com/en/) [:rocket:](https://career.zumtobelgroup.com/Jobs) | Smart and efficient lighting solutions. | `Porto` |
 | [Unit4](https://www.unit4.com/) [:rocket:](https://www.careers.unit4.com/) | ERP, Consulting. | `Algés` |
 | [VAKT Global Ltd.](https://www.vakt.com/) [:rocket:](https://www.vakt.com/careers/) | Enterprise grade blockchain commodities trading platform. | `Lisboa` |
 | [VOID Software](https://www.void.pt/)  | Systems design & architecture using different technology stacks. | `Leiria` |
