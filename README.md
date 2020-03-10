@@ -25,12 +25,12 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 - [Gaming :video_game:](#gaming-video_game)
 - [Medical :hospital:](#medical-hospital)
 - [Multimedia :movie_camera:](#multimedia-movie_camera)
+- [PropTech :house:](#proptech-house)
 - [Sea :ocean:](#sea-ocean)
 - [Security :lock:](#security-lock)
 - [Social :couple:](#social-couple)
 - [Telcos :telephone_receiver:](#telcos-telephone_receiver)
 - [Travel :airplane:](#travel-airplane)
-
 
 ## Automotive :oncoming_automobile:
 
@@ -259,6 +259,13 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [MediaGaps](http://www.mediagaps.com/) | Bridging your workflow gaps. | `Porto` |
 | [MOG Technologies](https://www.mog-technologies.com) [:rocket:](https://www.mog-technologies.com/careers-at-mog/) | End-to-end solutions for professional media. | `Porto` |
 | [Sky](https://www.sky.com) [:rocket:](https://careers.sky.com) | TV, broadband, talk, streaming and mobile. | `Lisboa` |
+
+
+## PropTech :house:
+
+| Company | Description | Locations |
+| :------ | :---------- | :-------- |
+| [Casafari](https://www.casafari.com/) [:rocket:](https://www.casafari.com/careers) | Real estate market information available online from agencies and private owners in a single platform. | `Lisbon` `Madrid` `Milan` `Kharkiv` |
 
 
 ## Sea :ocean:
