@@ -265,7 +265,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
-| [CASAFARI](https://www.casafari.com/) [:rocket:](https://www.casafari.com/careers) | Real estate market information available online from agencies and private owners in a single platform. | `Lisbon` |
+| [CASAFARI](https://www.casafari.com/) [:rocket:](https://www.casafari.com/careers) | Real Estate Market information from agencies and private owners. | `Lisboa` |
 
 
 ## Sea :ocean:
