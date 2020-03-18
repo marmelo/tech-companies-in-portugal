@@ -25,7 +25,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 - [Gaming :video_game:](#gaming-video_game)
 - [Medical :hospital:](#medical-hospital)
 - [Multimedia :movie_camera:](#multimedia-movie_camera)
-- [PropTech :house:](#proptech-house)
+- [Property Technology :house:](#property-technology-house)
 - [Sea :ocean:](#sea-ocean)
 - [Security :lock:](#security-lock)
 - [Social :couple:](#social-couple)
@@ -261,7 +261,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Sky](https://www.sky.com) [:rocket:](https://careers.sky.com) | TV, broadband, talk, streaming and mobile. | `Lisboa` |
 
 
-## PropTech :house:
+## Property Technology :house:
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
