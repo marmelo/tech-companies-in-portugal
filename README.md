@@ -229,6 +229,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Seedrs](https://www.seedrs.com) [:rocket:](https://www.seedrs.com/careers) | Equity marketplace for everyone. | `Lisboa` |
 | [StudentFinance](https://studentfinance.com/) [:rocket:](https://jobs.studentfinance.com) | Disrupting education through Income Share Agreements | `Lisboa` `Remote` |
 | [Uphold](https://uphold.com/) [:rocket:](https://uphold.com/en/about-us/careers) | US cloud based financial services platform. | `Braga` |
+| [Carpe Data](https://carpe.io/) [:rocket:](https://carpe.io/career/) | Next-Generation Data for Insurance. | `Lisboa` |
 
 
 ## Gaming :video_game:
