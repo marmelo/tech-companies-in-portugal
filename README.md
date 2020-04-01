@@ -168,6 +168,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Salsify](https://www.salsify.com) [:rocket:](https://www.salsify.com/careers) | Product Experience Management and Syndication platform. | `Lisboa` |
 | [Trouva](https://www.trouva.com) [:rocket:](https://trouva.workable.com/) | Marketplace for independent boutiques. | `Lisboa` |
 | [Uniplaces](https://www.uniplaces.com/) [:rocket:](https://careers.uniplaces.com/) | Student accomodation platform. | `Lisboa` |
+| [Loggi](https://www.loggi.com/) [:rocket:](https://jobs.kenoby.com/loggi/) | An e-commerce delivery platform | `Lisboa` |
 
 
 ## Education :books:
