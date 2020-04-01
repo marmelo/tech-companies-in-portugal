@@ -214,6 +214,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
 | [Banco Atlântico Europa](https://www.atlantico.eu/) [:rocket:](https://www.atlantico.eu/carreiras) | An European bank, under the supervision of Banco de Portugal. | `Lisboa` |
+| [Carpe Data](https://carpe.io/) [:rocket:](https://carpe.io/career/) | Next-Generation Data for Insurance. | `Lisboa` |
 | [Compare Group](http://www.compareeuropegroup.com/) [:rocket:](http://www.compareeuropegroup.com/careers/) | Financial products comparision for several markets (eg: [ComparaJá](https://www.comparaja.pt)). | `Lisboa` |
 | [Euronext](https://www.euronext.com) [:rocket:](https://www.euronext.com/en/careers) | European stock exchange operator. | `Porto` |
 | [Feedzai](https://feedzai.com) [:rocket:](https://careers.feedzai.com) | Fraud detection platform to make commerce safe. | `Coimbra` `Lisboa` <br> `Porto` |
@@ -229,7 +230,6 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Seedrs](https://www.seedrs.com) [:rocket:](https://www.seedrs.com/careers) | Equity marketplace for everyone. | `Lisboa` |
 | [StudentFinance](https://studentfinance.com/) [:rocket:](https://jobs.studentfinance.com) | Disrupting education through Income Share Agreements | `Lisboa` `Remote` |
 | [Uphold](https://uphold.com/) [:rocket:](https://uphold.com/en/about-us/careers) | US cloud based financial services platform. | `Braga` |
-| [Carpe Data](https://carpe.io/) [:rocket:](https://carpe.io/career/) | Next-Generation Data for Insurance. | `Lisboa` |
 
 
 ## Gaming :video_game:
