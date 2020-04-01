@@ -311,6 +311,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Talkdesk](https://www.talkdesk.com) [:rocket:](https://www.talkdesk.com/careers/) | Enterprise cloud contact center. | `Aveiro` `Coimbra` <br> `Lisboa` `Porto` |
 | [WIT Software](https://www.wit-software.com) [:rocket:](https://www.wit-software.com/careers/) | Software development for telcom services (OTT, RCS, Mobile, Web & others). | `Aveiro` `Coimbra` <br> `Leiria` `Lisboa` <br>`Porto` |
 | [Truphone](https://www.truphone.com) [:rocket:](https://www.truphone.com/careers/) | Global mobile connectivity and eSIM technology innovator. | `Lisboa` |
+| [Oto](https://www.oto.ai/) [:rocket:](https://www.oto.ai/company#Careers) | AI-powered Voice Intelligence for Call Centers. | `Lisboa` |
 
 
 ## Travel :airplane:
