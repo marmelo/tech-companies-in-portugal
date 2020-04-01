@@ -149,6 +149,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Oracle](https://www.oracle.com/index.html) [:rocket:](https://www.oracle.com/corporate/careers/) | DBMS's and information systems. | `Oeiras` `Remote` |
 | [OutSystems](https://www.outsystems.com) [:rocket:](https://www.outsystems.com/company/careers/) | Low-code platform to visually develop applications. | `Braga` `Linda-a-Velha` <br> `Proença-a-Nova` |
 | [Unbabel](https://unbabel.com) [:rocket:](https://unbabel.com/careers/) | Translation as a Service. | `Lisboa` |
+| [MemSQL](https://www.memsql.com/) [:rocket:](https://www.memsql.com/careers/jobs/) | A Data Platform Purpose-Built for Breakthroughs. | `Lisboa` |
 
 
 ## E-commerce :shopping:
