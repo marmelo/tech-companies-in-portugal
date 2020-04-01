@@ -307,11 +307,11 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Carrot](https://carrotincentives.com/)  | ICM for Telco companies.  | `Lisboa` |
 | [Celfocus](https://www.celfocus.com/) [:rocket:](https://www.celfocus.com/home/who-we-are/join-us) | Vodafone technology development.  | `Lisboa` `Porto` |
 | [GoContact](https://www.gocontact.pt/) [:rocket:](https://www.gocontact.pt/recrutamento/) | Company specialized in integrated solutions for Contact Centers. | `Aveiro` `Lisboa` <br> `Porto`|
+| [Oto](https://www.oto.ai/) [:rocket:](https://www.oto.ai/company#Careers) | AI-powered Voice Intelligence for Call Centers. | `Lisboa` |
 | [Readiness IT](https://readinessit.com/) [:rocket:](https://readinessit.com/careers/) | Telecommunications technologies. | `Fundão` `Lisboa` <br> `Porto` `Remote` |
 | [Talkdesk](https://www.talkdesk.com) [:rocket:](https://www.talkdesk.com/careers/) | Enterprise cloud contact center. | `Aveiro` `Coimbra` <br> `Lisboa` `Porto` |
 | [WIT Software](https://www.wit-software.com) [:rocket:](https://www.wit-software.com/careers/) | Software development for telcom services (OTT, RCS, Mobile, Web & others). | `Aveiro` `Coimbra` <br> `Leiria` `Lisboa` <br>`Porto` |
 | [Truphone](https://www.truphone.com) [:rocket:](https://www.truphone.com/careers/) | Global mobile connectivity and eSIM technology innovator. | `Lisboa` |
-| [Oto](https://www.oto.ai/) [:rocket:](https://www.oto.ai/company#Careers) | AI-powered Voice Intelligence for Call Centers. | `Lisboa` |
 
 
 ## Travel :airplane:
