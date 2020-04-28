@@ -198,6 +198,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [KEEP SOLUTIONS](https://www.keep.pt/) [:rocket:](https://www.keep.pt/empresa/carreiras/) | Advanced solutions for information management. | `Braga` `Remote` |
 | [kununu](https://www.kununu.com/) [:rocket:](https://corporate.xing.com/en/career/porto/) | Workplace insights that matter. | `Porto` |
 | [Mind](http://www.mind.pt/) | Information management and industrial systems. | `Lisboa` `Porto` |
+| [Moviik](https://www.moviik.com) | Customer Journey Management Platform. | `Braga` |
 | [Nmbrs](https://www.nmbrs.com/) [:rocket:](https://jobs.nmbrs.com/) | HR & Payroll software. | `Lisboa` |
 | [Petapilot](https://www.petapilot.com/) [:rocket:](https://www.petapilot.com/careers) | Big Data Solutions. | `Porto` |
 | [PHC Software](https://www.phcsoftware.com/) [:rocket:](https://www.phcsoftware.com/carreiras/) | ERP software. | `Lisboa` `Porto` |
