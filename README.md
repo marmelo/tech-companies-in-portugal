@@ -40,6 +40,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [DTB Tech & Data Hub](https://techhublisbon.io/) [:rocket:](https://techhublisbon.softgarden.io/en/vacancies) | Daimler Trucks and Buses IoT data into intelligent global services. | `Lisboa` |
 | [Mercedes-Benz.io](https://www.mercedes-benz.io) [:rocket:](https://www.mercedes-benz.io/jobs) | Shaping the digital future of Mercedes-Benz. | `Lisboa` |
 | [Stratio Automotive](https://stratioautomotive.com) [:rocket:](https://stratio.workable.com) | Vehicle data into predictive intelligence. | `Coimbra` |
+| [Veniam](https://veniam.com) [:rocket:](https://veniam.com/careers/) | The intelligent networking platform for connected cars and autonomous vehicles. | `Porto` `San Francisco`|
 | [Volkswagen Digital Solutions](http://www.vwds.pt/) [:rocket:](https://www.linkedin.com/company/volkswagen-digital-solutions/jobs/) | Creating the digital ecosystem for the brands of the Volkswagen Group. | `Lisboa` |
 
 
@@ -190,6 +191,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [ClanHR](https://www.clanhr.com) | Online Human Resources Management Software. | `Lisboa` |
 | [Critical Manufacturing](https://www.criticalmanufacturing.com) [:rocket:](https://www.criticalmanufacturing.com/en/careers) | Manufacturing business-critical applications. | `Porto` |
 | [Elecnor Deimos](http://www.elecnor-deimos.com/) [:rocket:](http://www.elecnor-deimos.com/jobs/) | Advanced design solutions and turn-key space software systems. | `Lisboa` |
+| [FARO Technologies](https://www.faro.com/) [:rocket:](https://www.faro.com/about-faro/career/) | The world’s most trusted source for 3d measurement, imaging, and realization technology. | `Porto` |
 | [Glintt](https://www.glintt.com/) [:rocket:](https://www.glintt.com/pt/carreiras/ofertas/Paginas/Ofertas.aspx) | Healthcare software. | `Algarve` `Lisboa` <br> `Porto` `Sintra` |
 | [GMV](https://www.gmv.com/) [:rocket:](https://www.gmv.com/pt/Emprego/) | Advanced solutions in many sectors. | `Lisboa` |
 | [Hitachi Vantara](https://www.hitachivantara.com/) [:rocket:](https://www.hitachivantara.com/en-us/company/careers.html) | IoT, cloud, application, big data and analytics solutions. | `Oeiras` `Porto` |
