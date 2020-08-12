@@ -28,6 +28,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 - [Sea :ocean:](#sea-ocean)
 - [Security :lock:](#security-lock)
 - [Social :couple:](#social-couple)
+- [Sport :soccer:](#sport)
 - [Telcos :telephone_receiver:](#telcos-telephone_receiver)
 - [Travel :airplane:](#travel-airplane)
 
@@ -114,6 +115,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Fruition Partners](https://www.fruitionpartners.nl/) [:rocket:](https://www.it4it-careers.com/) | Consultancy and Application Development based on ServiceNow. | `Fundão` `Lisboa` |
 | [JTA](https://www.thedatascientists.com/) [:rocket:](https://www.thedatascientists.com) | Machine Learning, Reporting and custom vizualizations services. | `Porto` |
 | [Kwanko](https://kwanko.com/) [:rocket:](https://www.kwanko.com/about-us/careers/) | An International leader in Crossdevice Performance Marketing. | `Lisboa` |
+| [Laminar](https://laminarprojects.com/) [:rocket:](https://laminarprojects.com/join-us/) | Building world class apps for the construction industry. | `Lisboa` |
 | [NILG.AI](http://www.nilg.ai/) [:rocket:](http://www.nilg.ai/) | Transforming data into actionable knowledge through AI. | `Porto` |
 
 
@@ -179,6 +181,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Edubox](https://edubox.pt) [:rocket:](https://edubox.pt/candidaturas)| Educational solutions and school management software. | `Aveiro` |
 | [ELSA](https://elsaspeak.com/) [:rocket:](https://elsaspeak.com/careers)| AI-powered tool to improve pronunciation skills. | `Lisboa` `Remote` |
 | [MUSa Software](https://musasoftware.com/) | ERP and web products for art schools. | `Viana do Castelo` |
+| [Springer Nature](https://www.springernature.com/gp) [:rocket:](https://group.springernature.com/gp/group/careers)| A global publisher dedicated to providing the best possible service to the whole research community. | `Lisboa` |
 
 
 ## Enterprise Software :office:
@@ -302,6 +305,13 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | :------ | :---------- | :-------- |
 | [XING](https://www.xing.com/) [:rocket:](https://corporate.xing.com/en/career/porto/) | For a better working life. | `Porto` |
 | [YouClap](https://youclap.tech) | Create, participate and share awesome challenges. | `Aveiro` `Remote` |
+
+
+## Sport :soccer:
+
+| Company | Description | Locations |
+| :------ | :---------- | :-------- |
+| [Gympass](https://site.gympass.com/pt) [:rocket:](https://www.gympass.com/pt/careers) | a discovery platform that helps you stay active and healthy | `Lisboa` |
 
 
 ## Telcos :telephone_receiver:
