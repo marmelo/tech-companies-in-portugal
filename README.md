@@ -217,6 +217,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
+| [Anchorage](https://anchorage.com/) [:rocket:](https://anchorage.com/careers/) | The most advanced digital asset platform for secure crypto custody. | `Porto` `Remote` |
 | [Banco Atlântico Europa](https://www.atlantico.eu/) [:rocket:](https://www.atlantico.eu/carreiras) | An European bank, under the supervision of Banco de Portugal. | `Lisboa` |
 | [Carpe Data](https://carpe.io/) [:rocket:](https://carpe.io/career/) | Next-Generation Data for Insurance. | `Lisboa` |
 | [Compare Group](http://www.compareeuropegroup.com/) [:rocket:](http://www.compareeuropegroup.com/careers/) | Financial products comparision for several markets (eg: [ComparaJá](https://www.comparaja.pt)). | `Lisboa` |
