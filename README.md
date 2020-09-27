@@ -181,7 +181,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Edubox](https://edubox.pt) [:rocket:](https://edubox.pt/candidaturas)| Educational solutions and school management software. | `Aveiro` |
 | [ELSA](https://elsaspeak.com/) [:rocket:](https://elsaspeak.com/careers)| AI-powered tool to improve pronunciation skills. | `Lisboa` `Remote` |
 | [MUSa Software](https://musasoftware.com/) | ERP and web products for art schools. | `Viana do Castelo` |
-| [Springer Nature](https://www.springernature.com/gp) [:rocket:](https://group.springernature.com/gp/group/careers)| A global publisher dedicated to providing the best possible service to the whole research community. | `Lisboa` |
+| [Springer Nature](https://www.springernature.com/gp) [:rocket:](https://group.springernature.com/gp/group/careers)| Global publisher dedicated to help the whole research community. | `Lisboa` |
 
 
 ## Enterprise Software :office:
@@ -311,7 +311,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
-| [Gympass](https://site.gympass.com/pt) [:rocket:](https://www.gympass.com/pt/careers) | a discovery platform that helps you stay active and healthy | `Lisboa` |
+| [Gympass](https://site.gympass.com/pt) [:rocket:](https://www.gympass.com/pt/careers) | A discovery platform that helps you stay active and healthy. | `Lisboa` |
 
 
 ## Telcos :telephone_receiver:
