@@ -136,7 +136,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Subvisual](https://subvisual.com/) | Web development and design firm. | `Braga` |
 | [Thing Pink](http://www.thing-pink.pt) [:rocket:](http://www.thing-pink.pt/joinus) | Digital Agency with focus on Web, Mobile and IoT. | `Lisboa` `Porto` |
 | [Vizzuality](https://www.vizzuality.com) [:rocket:](https://vizzuality.bamboohr.com/jobs/) | Digital Agency focused in having a positive impact in the world. | `Porto` `remote` |
-| [Waterdog](https://waterdog.mobi/) | Web and Mobile development. | `Porto` |
+| [Waterdog](https://waterdog.mobi/) | Web and Mobile development. | `Lisboa` |
 | [Whitesmith](https://www.whitesmith.co/) [:rocket:](https://www.whitesmith.co/#get-in-touch) | Helping clients build amazing digital products that people love. | `Coimbra` `Remote` |
 | [YLD](https://www.yld.io/) [:rocket:](https://www.yld.io/join-us/) | Software engineering, design, training and open-source. | `Lisboa` `Porto` <br> `Remote` |
 
