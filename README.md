@@ -73,7 +73,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [IT People](https://itpeople.pt) [:rocket:](https://itpeople.pt/speak-to-us/) | Outsourcing & Nearshore Development. | `Covilhã` `Lisboa` <br> `Porto`|
 | [Mindera](https://mindera.com) [:rocket:](https://mindera.com/#we-are-hiring) | Technology development and consultancy. | `Aveiro` `Coimbra` <br> `Porto` |
 | [Moxy](https://moxy.studio) [:rocket:](https://moxy.studio/team#join-the-team) | Interdisciplinary studio focused on design and development. | `Porto` |
-| [Noesis](https://www.noesis.pt/pt/homepage) [:rocket:](https://www.noesis.pt/pt/junta-te-a-nos/) | Consultancy and enterprise software. | `Lisboa` |
+| [Noesis](https://www.noesis.pt/pt/homepage) [:rocket:](https://www.noesis.pt/join-us) | Consultancy and enterprise software. | `Lisboa` |
 | [Novabase](http://www.novabase.pt/) [:rocket:](http://www.novabase.pt/en/dp/opportunities) | Simpler & happier. | `Lisboa` |
 | [Opensoft](https://www.opensoft.pt/) [:rocket:](https://www.opensoft.pt/carreiras/) | Making life easier. | `Lisboa` |
 | [Premium Minds](https://www.premium-minds.com/) [:rocket:](https://join.premium-minds.com/) | We build great software for innovative clients. | `Lisboa` |
@@ -252,7 +252,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Fabamaq](https://www.fabamaq.com/) [:rocket:](https://www.fabamaq.com/pages.php?page_id=311) | Casino digital games. | `Porto` |
 | [Fun Punch Games](https://funpunchgames.com/) | Independent game development studio. | `Lisboa` |
 | [Ground Control](http://www.gcontrolgames.com/) | Indie games/VR studio. | `Porto` |
-| [Miniclip](https://www.miniclip.com/) [:rocket:](https://corporate.miniclip.com/careers/) | Mobile and web game development company. | `Lisboa` |
+| [Miniclip](https://www.miniclip.com/) [:rocket:](https://corporate.miniclip.com/vacancies/) | Mobile and web game development company. | `Lisboa` |
 | [Not a Game Studio](http://www.notagamestudio.com/) | Game development studio focused on the experience of the users. | `Lisboa` |
 | [ZPX](https://www.zpx.pt/) [:rocket:](https://zpx.pt/careers.html) | Full-range game development studio offering design, art, coding. | `Lisboa` |
 
@@ -271,7 +271,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | :------ | :---------- | :-------- |
 | [Glookast](https://www.glookast.com/) | Solving the media workflow puzzle. | `Matosinhos` |
 | [MediaGaps](http://www.mediagaps.com/) | Bridging your workflow gaps. | `Porto` |
-| [MOG Technologies](https://www.mog-technologies.com) [:rocket:](https://www.mog-technologies.com/careers-at-mog/) | End-to-end solutions for professional media. | `Porto` |
+| [MOG Technologies](https://www.mog-technologies.com) [:rocket:](https://www.mog-technologies.com/careers/) | End-to-end solutions for professional media. | `Porto` |
 | [Sky](https://www.sky.com) [:rocket:](https://careers.sky.com) | TV, broadband, talk, streaming and mobile. | `Lisboa` |
 
 

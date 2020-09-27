@@ -6,4 +6,4 @@ before_script:
 script:
   - >
     awesome_bot -f README.md --allow-ssl --allow-redirect --allow-dupe
-    --white-list www.linkedin.com,www.hostelworldgroup.com,www.olxgroup.com,www.prozis.com,www.glintt.com
+    --white-list www.linkedin.com,www.hostelworldgroup.com,www.olxgroup.com,www.prozis.com,www.glintt.com,oracle.com
