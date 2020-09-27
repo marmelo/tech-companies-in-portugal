@@ -28,7 +28,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 - [Sea :ocean:](#sea-ocean)
 - [Security :lock:](#security-lock)
 - [Social :couple:](#social-couple)
-- [Sport :soccer:](#sport)
+- [Sport :soccer:](#sport-soccer)
 - [Telcos :telephone_receiver:](#telcos-telephone_receiver)
 - [Travel :airplane:](#travel-airplane)
 
