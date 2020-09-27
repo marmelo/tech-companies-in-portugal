@@ -12,7 +12,7 @@ Please make sure the following company details are provided:
 
 Some additional things to keep in mind:
 * The company must allow working in/from Portugal;
-* Listed offices must allow for development/tech jobs (e.g. a location with only HR functions should not be listed);
+* Listed offices must have development/tech jobs positions (e.g. a location with only HR functions should not be listed);
 * Both links must be valid/working;
 * Both links should be HTTPS, if available;
 * Mailto links are not allowed;
