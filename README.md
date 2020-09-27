@@ -94,6 +94,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Aubay](https://www.aubay.pt/) [:rocket:](https://www.aubay.pt/Home/Opportunities) | Consultancy, Outsourcing, and Nearshore projects. | `Lisboa` `Porto` |
 | [Bee Engineering](https://www.bee-eng.pt/pt/) [:rocket:](https://www.bee-eng.pt/pt/carreira/) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
 | [BOLD by Devoteam](https://www.boldint.pt/) [:rocket:](https://www.boldint.pt/carreiras/) | Consultancy, Outsourcing. | `Aveiro` `Lisboa` <br> `Porto` |
+| [Damia](https://www.damiagroup.pt/) [:rocket:](https://www.damiagroup.pt/job/) | Human 2 Human Tech Recruitment. | `Aveiro` `Lisboa` <br> `Porto` |
 | [Dellent Consulting](https://dellentconsulting.com/) [:rocket:](https://dellentconsulting.com/_carreiras/) | Consultancy, Outsourcing. | `Aveiro` `Lisboa` |
 | [Everis](https://www.everis.com/portugal/pt-pt/home-pt) | Consultancy, Outsourcing. | `Lisboa` |
 | [GLanDrive](https://www.glandrive.pt) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
