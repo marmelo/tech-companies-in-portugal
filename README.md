@@ -13,8 +13,8 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 
 - [Tech Companies in Portugal :portugal:](#tech-companies-in-portugal-portugal)
     - [Categories](#categories)
-  - [Automotive :oncoming_automobile:](#automotive-oncoming_automobile)
   - [Associations :office:](#associations-office)
+  - [Automotive :oncoming_automobile:](#automotive-oncoming_automobile)
   - [Consultancy :man_office_worker: Broad :dizzy:](#consultancy-man_office_worker-broad-dizzy)
   - [Consultancy :man_office_worker: Recruiting :male_detective:](#consultancy-man_office_worker-recruiting-male_detective)
   - [Consultancy :man_office_worker: Specialized :dart:](#consultancy-man_office_worker-specialized-dart)
@@ -34,6 +34,19 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
   - [Telcos :telephone_receiver:](#telcos-telephone_receiver)
   - [Travel :airplane:](#travel-airplane)
 
+## Associations :office:
+
+| Company | Description | Locations |
+| :------ | :---------- | :-------- |
+| [AETICE](https://www.aetice.pt/) | TIC & Electronics Association | `Santa Maria da Feira` |
+| [ANSOL](https://ansol.org/) | Free Software Association | `Porto` |
+| [AP2SI](https://ap2si.org/) | Cybersecurity | `Lisboa` |
+| [APDC](http://www.apdc.pt/) | Telcos | `Lisboa` |
+| [APDSI](https://apdsi.pt/) | Information Society | `Lisboa` |
+| [ASSOFT](https://www.assoft.org/) | Software & Information Industry Association | `Lisboa`  `Porto` |
+| [D3](https://direitosdigitais.pt/) | Digital Rights | `Porto` |
+| [ESOP](https://www.esop.pt/) | Open Source Software Industry | `Lisboa` |
+| [PSTQB](https://www.pstqb.pt/) | Software Testing | `Lisboa` `Porto` |
 ## Automotive :oncoming_automobile:
 
 | Company | Description | Locations |
@@ -46,20 +59,6 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Stratio Automotive](https://stratioautomotive.com) [:rocket:](https://stratio.workable.com) | Vehicle data into predictive intelligence. | `Coimbra` |
 | [Veniam](https://veniam.com) [:rocket:](https://veniam.com/careers/) | The intelligent networking platform for connected cars. | `Porto` |
 | [Volkswagen Digital Solutions](http://www.vwds.pt/) [:rocket:](https://www.linkedin.com/company/volkswagen-digital-solutions/jobs/) | Creating the digital ecosystem for the brands of the Volkswagen Group. | `Lisboa` |
-
-## Associations :office:
-
-| Company | Description | Locations |
-| :------ | :---------- | :-------- |
-| [AETICE](https://www.aetice.pt/) | TIC & Eletronics Association | `Santa Maria da Feira` |
-| [ANSOL](https://ansol.org/) | Free Software Association | `Porto` |
-| [AP2SI](https://ap2si.org/) | Cybersecurity | `Lisboa` |
-| [APDC](http://www.apdc.pt/) | Telcos | `Lisboa` |
-| [APDSI](https://apdsi.pt/) | Information Society | `Lisboa` |
-| [ASSOFT](https://www.assoft.org/) | Software & Information Industry Association | `Lisboa`  `Porto` |
-| [D3](https://direitosdigitais.pt/) | Digital Rights | `Porto` |
-| [ESOP](https://www.esop.pt/) | Open Source Software Industry | `Lisboa` |
-| [PSTQB](https://www.pstqb.pt/) | Software Testing | `Lisboa` `Porto` |
 
 ## Consultancy :man_office_worker: Broad :dizzy:
 
