@@ -11,26 +11,28 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 
 ### Categories
 
-- [Automotive :oncoming_automobile:](#automotive-oncoming_automobile)
-- [Consultancy :man_office_worker:](#consultancy-man_office_worker-broad-dizzy)
-  - [Broad :dizzy:](#consultancy-man_office_worker-broad-dizzy)
-  - [Recruiting :male_detective:](#consultancy-man_office_worker-recruiting-male_detective)
-  - [Specialized :dart:](#consultancy-man_office_worker-specialized-dart)
-  - [Web :globe_with_meridians: Mobile :iphone: Design :art:](#consultancy-man_office_worker-web-globe_with_meridians-mobile-iphone-design-art)
-- [Developer Tools :hammer_and_wrench:](#developer-tools-hammer_and_wrench)
-- [E-commerce :shopping:](#e-commerce-shopping)
-- [Education :books:](#education-books)
-- [Enterprise Software :office:](#enterprise-software-office)
-- [FinTech :moneybag:](#fintech-moneybag)
-- [Gaming :video_game:](#gaming-video_game)
-- [Medical :hospital:](#medical-hospital)
-- [Multimedia :movie_camera:](#multimedia-movie_camera)
-- [Sea :ocean:](#sea-ocean)
-- [Security :lock:](#security-lock)
-- [Social :couple:](#social-couple)
-- [Sport :soccer:](#sport-soccer)
-- [Telcos :telephone_receiver:](#telcos-telephone_receiver)
-- [Travel :airplane:](#travel-airplane)
+- [Tech Companies in Portugal :portugal:](#tech-companies-in-portugal-portugal)
+    - [Categories](#categories)
+  - [Automotive :oncoming_automobile:](#automotive-oncoming_automobile)
+  - [Associations :office:](#associations-office)
+  - [Consultancy :man_office_worker: Broad :dizzy:](#consultancy-man_office_worker-broad-dizzy)
+  - [Consultancy :man_office_worker: Recruiting :male_detective:](#consultancy-man_office_worker-recruiting-male_detective)
+  - [Consultancy :man_office_worker: Specialized :dart:](#consultancy-man_office_worker-specialized-dart)
+  - [Consultancy :man_office_worker: Web :globe_with_meridians: Mobile :iphone: Design :art:](#consultancy-man_office_worker-web-globe_with_meridians-mobile-iphone-design-art)
+  - [Developer Tools :hammer_and_wrench:](#developer-tools-hammer_and_wrench)
+  - [E-commerce :shopping:](#e-commerce-shopping)
+  - [Education :books:](#education-books)
+  - [Enterprise Software :office:](#enterprise-software-office)
+  - [FinTech :moneybag:](#fintech-moneybag)
+  - [Gaming :video_game:](#gaming-video_game)
+  - [Medical :hospital:](#medical-hospital)
+  - [Multimedia :movie_camera:](#multimedia-movie_camera)
+  - [Sea :ocean:](#sea-ocean)
+  - [Security :lock:](#security-lock)
+  - [Social :couple:](#social-couple)
+  - [Sport :soccer:](#sport-soccer)
+  - [Telcos :telephone_receiver:](#telcos-telephone_receiver)
+  - [Travel :airplane:](#travel-airplane)
 
 ## Automotive :oncoming_automobile:
 
@@ -45,6 +47,19 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Veniam](https://veniam.com) [:rocket:](https://veniam.com/careers/) | The intelligent networking platform for connected cars. | `Porto` |
 | [Volkswagen Digital Solutions](http://www.vwds.pt/) [:rocket:](https://www.linkedin.com/company/volkswagen-digital-solutions/jobs/) | Creating the digital ecosystem for the brands of the Volkswagen Group. | `Lisboa` |
 
+## Associations :office:
+
+| Company | Description | Locations |
+| :------ | :---------- | :-------- |
+| [AETICE](https://www.aetice.pt/) | TIC & Eletronics Association | `Santa Maria da Feira` |
+| [ANSOL](https://ansol.org/) | Free Software Association | `Porto` |
+| [AP2SI](https://ap2si.org/) | Cybersecurity | `Lisboa` |
+| [APDC](http://www.apdc.pt/) | Telcos | `Lisboa` |
+| [APDSI](https://apdsi.pt/) | Information Society | `Lisboa` |
+| [ASSOFT](https://www.assoft.org/) | Software & Information Industry Association | `Lisboa`  `Porto` |
+| [D3](https://direitosdigitais.pt/) | Digital Rights | `Porto` |
+| [ESOP](https://www.esop.pt/) | Open Source Software Industry | `Lisboa` |
+| [PSTQB](https://www.pstqb.pt/) | Software Testing | `Lisboa` `Porto` |
 
 ## Consultancy :man_office_worker: Broad :dizzy:
 
