@@ -264,6 +264,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | :------ | :---------- | :-------- |
 | [Critical Manufacturing](https://www.criticalmanufacturing.com) [:rocket:](https://www.criticalmanufacturing.com/en/careers) | Manufacturing business-critical applications. | `Porto` |
 | [FARO Technologies](https://www.faro.com/) [:rocket:](https://www.faro.com/about-faro/career/) | The world’s most trusted source for 3d measurement. | `Porto` |
+| [Malvern Panalytical](https://www.malvernpanalytical.com/) [:rocket:](https://careers.malvernpanalytical.com/careers/?category=24&location=203&search=) | Laboratory analytical instruments design and manufacturing. | `Maia` |
 
 
 ## Medical :hospital:
