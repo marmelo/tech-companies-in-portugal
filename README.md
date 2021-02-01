@@ -100,7 +100,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Dellent Consulting](https://dellentconsulting.com/) [:rocket:](https://dellentconsulting.com/_carreiras/) | Consultancy, Outsourcing. | `Aveiro` `Lisboa` |
 | [Everis](https://www.everis.com/portugal/pt-pt/home-pt) | Consultancy, Outsourcing. | `Lisboa` |
 | [GLanDrive](https://www.glandrive.pt) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
-| [KCSIT](https://kcsit.pt/) [:rocket:](https://kcsit.pt/pt/carreiras/) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
+| [KCSIT](https://kcsit.pt/) [:rocket:](https://kcsit.pt/carreiras/) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
 | [KWAN](https://www.kwan.pt/) |  Consultancy, Outsourcing. | `Lisboa` `Porto` |
 | [Landing.jobs](https://landing.jobs) [:rocket:](https://landing.jobs/at/landing-jobs) | Helping people find the right fit tech job. | `Lisboa` |
 | [Multivision](https://multivision.pt) [:rocket:](https://www.linkedin.com/company/multivision---consultoria-em-telecomunica-es-e-inform-tica-lda-/jobs/) | Consultancy, Outsourcing. | `Lisboa` |
@@ -130,10 +130,10 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Coletiv](https://www.coletiv.com) [:rocket:](https://coletiv.com/#jobs) | Mobile and backend development. | `Porto` |
 | [Dengun](https://www.dengun.com/en/) [:rocket:](https://www.dengun.com/en/jobs/) | Web, Mobile development and digital marketing. | `Faro` |
 | [Imaginary Cloud](https://www.imaginarycloud.com) [:rocket:](https://www.imaginarycloud.com/careers) | Web, mobile, development and design services. | `Lisboa` |
-| [Load](http://load.digital) [:rocket:](https://consultancy.load.digital/carreiras) | Design Thinking, Web, Mobile, IoT, New Tech (VR, AI, Blockchain) | `Aveiro` `Remote` |
+| [Load](http://load.digital) [:rocket:](https://load.digital/carreiras) | Design Thinking, Web, Mobile, IoT, New Tech (VR, AI, Blockchain) | `Aveiro` `Remote` |
 | [Mosano](https://mosano.eu) [:rocket:](https://mosano.eu/join-us) | Software House focusing Digital Products for the web and mobile. | `Porto` `Remote` |
 | [Pixelmatters](https://pixelmatters.com) [:rocket:](https://www.pixelmatters.com/careers/) | Digital product design and development company. | `Porto` |
-| [Redlight Software](https://weareredlight.com) | Web and mobile development studio focused on products. | `Coimbra` `Lisboa` |
+| [Redlight Software](https://redlight.dev) | Web and mobile development studio focused on products. | `Coimbra` `Lisboa` |
 | [Runtime Revolution](https://www.runtime-revolution.com/) [:rocket:](https://www.runtime-revolution.com/careers) | Web and mobile product development. | `Lisboa` |
 | [Significa](https://www.significa.pt) [:rocket:](https://www.significa.pt/careers/) | Design and Front-End Web development. | `Porto` |
 | [Subvisual](https://subvisual.com/) | Web development and design firm. | `Braga` |
@@ -161,7 +161,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
 | [360imprimir](https://www.360imprimir.pt/) [:rocket:](https://www.360imprimir.pt/Home/Carreiras) | Online platform for marketing products and services. | `Braga` `Lisboa` <br> `Torres Vedras` |
-| [Aptoide](https://www.aptoide.com/) [:rocket:](https://co.aptoide.com/jobs) | Your Android app store. | `Lisboa` |
+| [Aptoide](https://www.aptoide.com/) [:rocket:](https://pt.aptoide.com/company/jobs) | Your Android app store. | `Lisboa` |
 | [Blip](https://blip.pt) [:rocket:](https://blip.pt/jobs/) | Online betting and gambling operator. | `Porto` |
 | [Farfetch](https://www.farfetch.com) [:rocket:](https://www.farfetch.com/pt/careers) | Global technology platform for luxury fashion. | `Braga` `Lisboa` <br> `Porto` |
 | [Jumia](https://group.jumia.com) [:rocket:](https://group.jumia.com/careers) | Online Shopping for Electronics, Phones & Fashion in Africa. | `Porto` |
