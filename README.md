@@ -23,6 +23,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 - [Enterprise Software :office:](#enterprise-software-office)
 - [FinTech :moneybag:](#fintech-moneybag)
 - [Gaming :video_game:](#gaming-video_game)
+- [Industry :factory:](#industry-factory)
 - [Medical :hospital:](#medical-hospital)
 - [Multimedia :movie_camera:](#multimedia-movie_camera)
 - [Sea :ocean:](#sea-ocean)
@@ -196,9 +197,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Amplemarket](https://amplemarket.com/) [:rocket:](https://amplemarket.com/careers) | AI powered sales assistant. | `Lisboa` |
 | [CASAFARI](https://www.casafari.com/) [:rocket:](https://www.casafari.com/careers) | Real Estate Market information from agencies and private owners. | `Lisboa` |
 | [ClanHR](https://www.clanhr.com) | Online Human Resources Management Software. | `Lisboa` |
-| [Critical Manufacturing](https://www.criticalmanufacturing.com) [:rocket:](https://www.criticalmanufacturing.com/en/careers) | Manufacturing business-critical applications. | `Porto` |
 | [Elecnor Deimos](http://www.elecnor-deimos.com/) [:rocket:](http://www.elecnor-deimos.com/jobs/) | Advanced design solutions and turn-key space software systems. | `Lisboa` |
-| [FARO Technologies](https://www.faro.com/) [:rocket:](https://www.faro.com/about-faro/career/) | The world’s most trusted source for 3d measurement. | `Porto` |
 | [Glintt](https://www.glintt.com/) [:rocket:](https://www.glintt.com/pt/carreiras/ofertas/Paginas/Ofertas.aspx) | Healthcare software. | `Algarve` `Lisboa` <br> `Porto` `Sintra` |
 | [GMV](https://www.gmv.com/) [:rocket:](https://www.gmv.com/pt/Emprego/) | Advanced solutions in many sectors. | `Lisboa` |
 | [Hitachi Vantara](https://www.hitachivantara.com/) [:rocket:](https://www.hitachivantara.com/en-us/company/careers.html) | IoT, cloud, application, big data and analytics solutions. | `Oeiras` `Porto` |
@@ -257,6 +256,15 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Miniclip](https://www.miniclip.com/) [:rocket:](https://corporate.miniclip.com/vacancies/) | Mobile and web game development company. | `Lisboa` |
 | [Not a Game Studio](http://www.notagamestudio.com/) | Game development studio focused on the experience of the users. | `Lisboa` |
 | [ZPX](https://www.zpx.pt/) [:rocket:](https://zpx.pt/careers.html) | Full-range game development studio offering design, art, coding. | `Lisboa` |
+
+
+## Industry :factory:
+
+| Company | Description | Locations |
+| :------ | :---------- | :-------- |
+| [Critical Manufacturing](https://www.criticalmanufacturing.com) [:rocket:](https://www.criticalmanufacturing.com/en/careers) | Manufacturing business-critical applications. | `Porto` |
+| [FARO Technologies](https://www.faro.com/) [:rocket:](https://www.faro.com/about-faro/career/) | The world’s most trusted source for 3d measurement. | `Porto` |
+| [Malvern Panalytical](https://www.malvernpanalytical.com/) [:rocket:](https://careers.malvernpanalytical.com/careers/?category=24&location=203&search=) | Laboratory analytical instruments design and manufacturing. | `Maia` |
 
 
 ## Medical :hospital:
