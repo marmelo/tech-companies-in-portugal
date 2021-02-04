@@ -8,6 +8,10 @@ If you find something wrong or want to add another company please [follow the ru
 
 Are you seeking for a job? Click :rocket: to check the company's careers page.
 
+It's also a good idea to check and, when possible, give reviews on [Teamlyzer](https://pt.teamlyzer.com/) and [Glassdoor](https://www.glassdoor.com/).
+
+Checking out the company's Tech stack through [Stackshare](https://stackshare.io/) might also interest you.
+
 
 ### Categories
 
