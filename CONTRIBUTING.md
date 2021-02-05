@@ -7,7 +7,7 @@ Please make sure the following company details are provided:
 * Name;
 * Website (linked from the company's name);
 * Careers website, if exists (linked from the :rocket:);
-* Github (or another git-repository manager) account, if exists (linked from the :octocat:);
+* Github (or another git-repository manager) account, if exists and contains at least one relevant, and considered active, repository (linked from the :octocat:);
 * Very short description;
 * List of portuguese locations (which may contain `Remote` if the company allows remote work).
 
