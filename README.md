@@ -210,7 +210,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [Petapilot](https://www.petapilot.com/) [:rocket:](https://www.petapilot.com/careers) | Big Data Solutions. | `Porto` |
 | [PHC Software](https://www.phcsoftware.com/) [:rocket:](https://www.phcsoftware.com/carreiras/) | ERP software. | `Lisboa` `Porto` |
 | [Primavera BSS](https://pt.primaverabss.com/pt/) [:rocket:](https://pt.primaverabss.com/pt/bolsaempregos/) | Enterprise resource planning software. | `Braga` `Leiria` <br> `Lisboa` |
-| [Primetag](https://primetag.com) [:rocket:](https://www.linkedin.com/company/primetag-com/jobs/) | Influence Marketing Automation Software. | `Aveiro` `Lisboa` <br> `Remote` |
+| [Primetag](https://primetag.com) [:rocket:](https://jobs.primetag.com/) | Influence Marketing Automation Software. | `Aveiro` `Lisboa` <br> `Remote` |
 | [Quidgest](https://quidgest.com/) [:rocket:](https://quidgest.com/quidgest/recrutamento/) | Information systems and ERP software. | `Lisboa` |
 | [Sherpany](https://www.sherpany.com/) [:rocket:](https://www.sherpany.com/en/careers/) | Meeting Management Software for Leaders. | `Lisboa` `Remote` |
 | [skeeled](https://www.skeeled.com/) [:rocket:](https://www.skeeled.com/career) | SaaS Talent Acquisition Software. | `Porto` |
