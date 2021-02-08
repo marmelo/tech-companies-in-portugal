@@ -7,8 +7,14 @@ Please make sure the following company details are provided:
 * Name;
 * Website (linked from the company's name);
 * Careers website, if exists (linked from the :rocket:);
+* Github account, or another git-repository manager account, if exists and contains at least one relevant and active repository (linked from the :octocat:);
 * Very short description;
 * List of portuguese locations (which may contain `Remote` if the company allows remote work).
+
+Below you can find an example of how to add a company:
+| Company | Description | Locations |
+| :------ | :---------- | :-------- |
+| [Example](https://example.com/) [:rocket:](https://www.example.com/careers) [:octocat:](https://www.github.com/example) | Example revolutionises the way people write examples. | `Example City` |
 
 Some additional things to keep in mind:
 * The company must allow working in/from Portugal;
