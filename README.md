@@ -44,6 +44,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | :------ | :---------- | :-------- |
 | [AddVolt](https://addvolt.com/) [:rocket:](https://www.addvolt.com/en/#Contacts) | AddVolt's platform reduces CO2 in the heavy transportation sector. | `Porto` |
 | [Bosch](https://www.bosch.pt/) [:rocket:](https://www.bosch.pt/carreiras/) | German engineering and technology company with a big focus on the automotive industry. | `Aveiro` `Braga` <br> `Ovar` |
+| [Cloudmobility](https://cloudmobility.io/) [:rocket:](https://cloudmobility.io/career) | Special purpose cloud for mobility and transportation. | `Lisboa` |
 | [Critical TechWorks](https://www.criticaltechworks.com/) [:rocket:](https://www.criticaltechworks.com/#openroll) | Developing next generation software systems for BMW. | `Lisboa` `Porto` |
 | [tb.lx](https://tblx.io/) [:rocket:](https://tblx.freshteam.com/jobs) | Daimler Trucks and Buses IoT data into intelligent global services. | `Lisboa` |
 | [Mercedes-Benz.io](https://www.mercedes-benz.io) [:rocket:](https://www.mercedes-benz.io/jobs) | Shaping the digital future of Mercedes-Benz. | `Lisboa` |
