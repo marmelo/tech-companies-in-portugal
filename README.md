@@ -178,9 +178,9 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Jumpseller](https://jumpseller.com) [:rocket:](https://jumpseller.com/jobs) | E-commerce platform to create online stores. | `Porto` |
 | [La Redoute](https://www.laredoute-corporate.com/en/homepage/) [:rocket:](https://www.linkedin.com/company/la-redoute/jobs/) | Home & Fashion online. | `Leiria` |
 | [Loggi](https://www.loggi.com/) [:rocket:](https://jobs.kenoby.com/loggi/) | An e-commerce delivery platform. | `Lisboa` |
-| [OLX](https://www.olxgroup.com) [:rocket:](https://www.olxgroup.com/search/all-functions/portugal-lisbon/all-brands) | Network of market-leading trading platforms across 5 countries. | `Lisboa` |
+| [OLX](https://www.olxgroup.com) [:rocket:](https://careers.olxgroup.com/#locationFilter=Portugal) | Network of market-leading trading platforms across 5 countries. | `Lisboa` |
 | [Platforme](https://platforme.com) [:rocket:](https://platforme.com/jobs) | Dynamic product as a service. Leaders in customisation. | `Porto` |
-| [Prozis](https://www.prozis.com/pt/en) [:rocket:](https://prozis.breezy.hr/) | Sports and nutrition online store. | `Aveiro` `Esposende` <br> `Porto` |
+| [Prozis](https://www.prozis.com/) [:rocket:](https://prozis.breezy.hr/) | Sports and nutrition online store. | `Aveiro` `Esposende` <br> `Porto` |
 | [Salsify](https://www.salsify.com) [:rocket:](https://www.salsify.com/careers) | Product Experience Management and Syndication platform. | `Lisboa` |
 | [Trouva](https://www.trouva.com) [:rocket:](https://trouva.workable.com/) | Marketplace for independent boutiques. | `Lisboa` |
 | [Uniplaces](https://www.uniplaces.com/) [:rocket:](https://careers.uniplaces.com/) | Student accomodation platform. | `Lisboa` |
@@ -359,6 +359,6 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
 | [eDreams ODIGEO](https://www.edreamsodigeo.com/) [:rocket:](https://www.edreamsodigeocareers.com) | We are shaping the way people travel today and tomorrow. | `Porto` |
-| [Hostelworld](https://www.hostelworld.com/) [:rocket:](http://www.hostelworldgroup.com/careers) | World's leading hostel-focused online booking platform. | `Porto` |
+| [Hostelworld](https://www.hostelworld.com/) [:rocket:](https://www.hostelworldgroup.com/careers) | World's leading hostel-focused online booking platform. | `Porto` |
 | [Skyhour](https://skyhour.com/) [:rocket:](https://landing.jobs/at/skyhour) | Give and receive air travel. | `Lisboa` |
 | [TripAdvisor](https://www.tripadvisor.com) [:rocket:](https://careers.tripadvisor.com) | The largest "social travel website" in the world. | `Lisboa` |
