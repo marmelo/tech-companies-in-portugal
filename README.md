@@ -62,7 +62,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [AddCode](https://addcode-io.breezy.hr) [:rocket:](https://addcode-io.breezy.hr/#positions) | Software engineering. | `Porto` |
 | [Adentis](http://www.adentis.pt/) [:rocket:](http://www.adentis.pt/trabalhar-na-adentis/) | Outsourcing, customized solutions and R&D. | `Lisboa` |
 | [Altran](https://www.altran.com/pt/pt-pt/) [:rocket:](https://www.altran.com/pt/pt-pt/carreiras/) | Engineering and R&D services. | `Fundão` `Lisboa` <br> `Porto` |
-| [Armis](http://www.armisgroup.com/) [:rocket:](https://www.armisgroup.com/company/careers/) | Technology development and consultancy. | `Lisboa` `Porto` |
+| [Armis](https://www.armisgroup.com/) [:rocket:](https://www.armisgroup.com/company/careers/) | Technology development and consultancy. | `Lisboa` `Porto` |
 | [Bool Software](https://www.bool.pt/) | Consultancy company specialized in OutSystems. | `Lisboa` |
 | [Caixa Mágica](https://caixamagica.pt/) [:rocket:](https://caixamagica.pt/trabalhar-connosco) | Open Source development. | `Lisboa` |
 | [CGI](https://www.cgi.com/portugal/pt-pt) [:rocket:](https://www.cgi.com/portugal/pt-pt/portugal/careers) | Experience the commitment. | `Lisboa` `Porto` |
