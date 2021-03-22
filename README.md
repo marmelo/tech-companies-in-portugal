@@ -184,6 +184,8 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Salsify](https://www.salsify.com) [:rocket:](https://www.salsify.com/careers) | Product Experience Management and Syndication platform. | `Lisboa` |
 | [Trouva](https://www.trouva.com) [:rocket:](https://trouva.workable.com/) | Marketplace for independent boutiques. | `Lisboa` |
 | [Uniplaces](https://www.uniplaces.com/) [:rocket:](https://careers.uniplaces.com/) | Student accomodation platform. | `Lisboa` |
+| [Threads Styling](https://www.threadsstyling.com/) [:rocket:](https://www.threadsstyling.com/careers) | Personalised luxury shopping. Style inspiration. Global community. | `Porto` |
+
 
 
 ## Education :books:
