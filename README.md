@@ -266,6 +266,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Ground Control](http://www.gcontrolgames.com/) | Indie games/VR studio. | `Porto` |
 | [Miniclip](https://www.miniclip.com/) [:rocket:](https://corporate.miniclip.com/vacancies/) | Mobile and web game development company. | `Lisboa` |
 | [Not a Game Studio](http://www.notagamestudio.com/) | Game development studio focused on the experience of the users. | `Lisboa` |
+| [FACEIT](http://www.faceit.com/) [:rocket:](https://corporate.faceit.com/available-jobs/)| Is an esports and social platform, for games such as Counter-Strike: Global Offensive, Tom Clancy's Rainbow Six Siege, Dota 2 and Team Fortress 2. | `Remote` |
 
 
 ## Industry :factory:
