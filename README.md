@@ -261,12 +261,12 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
 | [Fabamaq](https://www.fabamaq.com/) [:rocket:](https://www.fabamaq.com/pages.php?page_id=311) | Casino digital games. | `Porto` |
+| [FACEIT](http://www.faceit.com/) [:rocket:](https://corporate.faceit.com/available-jobs/)| E-Sports and social platform. | `Remote` |
 | [Fun Punch Games](https://funpunchgames.com/) | Independent game development studio. | `Lisboa` |
 | [Funcom ZPX](https://www.funcom.com/) [:rocket:](https://www.funcom.com/funcom-zpx/) | Full-range game development studio offering design, art, coding. | `Lisboa` |
 | [Ground Control](http://www.gcontrolgames.com/) | Indie games/VR studio. | `Porto` |
 | [Miniclip](https://www.miniclip.com/) [:rocket:](https://corporate.miniclip.com/vacancies/) | Mobile and web game development company. | `Lisboa` |
 | [Not a Game Studio](http://www.notagamestudio.com/) | Game development studio focused on the experience of the users. | `Lisboa` |
-| [FACEIT](http://www.faceit.com/) [:rocket:](https://corporate.faceit.com/available-jobs/)| Is an esports and social platform, for games such as Counter-Strike: Global Offensive, Tom Clancy's Rainbow Six Siege, Dota 2 and Team Fortress 2. | `Remote` |
 
 
 ## Industry :factory:
