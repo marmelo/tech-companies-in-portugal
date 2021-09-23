@@ -115,6 +115,10 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Olisipo](https://www.olisipo.pt/) [:rocket:](https://www.olisipo.pt/jobs) | Outsourcing, Training and Early-stage venture capital. | `Aveiro` `Lisboa` <br> `Porto` |
 | [Prime IT](https://www.primeit.pt/) [:rocket:](https://www.primeit.pt/carreiras) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
 | [Smart Consulting](https://www.smartconsulting.pt/) [:rocket:](https://www.smartconsulting.pt/oportunidades/) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
+| [Ankix](https://www.ankix.com/) [:rocket:](https://www.ankix.com/oportunidades-emprego) | Consultancy, Outsourcing. | `Lisboa` |
+| [HumanProfiler](https://www.humanprofiler.com/ultimas-ofertas-de-emprego) [:rocket:](https://www.humanprofiler.com/ultimas-ofertas-de-emprego) | Consultancy, Outsourcing. | `Lisboa` |
+| [Match Profiler](https://www.m-profiler.com/) [:rocket:](https://www.m-profiler.com/carreiras) | Consultancy, Outsourcing. | `Lisboa` |
+| [Sysmatch](https://www.sysmatch.com/) [:rocket:](https://www.sysmatch.com/oportunidades-de-emprego) | Consultancy, Outsourcing. | `Lisboa` |
 
 
 ## Consultancy :man_office_worker: Specialized :dart:
