@@ -101,6 +101,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Affinity](https://affinity.pt) [:rocket:](https://affinity.pt/en/careers/) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
 | [AGAP2](http://www.agap2-it.pt/Agap2IT) [:rocket:](http://www.agap2-it.pt/Agap2IT/pt/pages/carreira/) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
 | [Alter Solutions](https://www.alter-solutions.com/pt-pt/) | Consultancy, Outsourcing, and Nearshore projects. | `Lisboa` `Porto` |
+| [Ankix](https://www.ankix.com/) [:rocket:](https://www.ankix.com/oportunidades-emprego) | Consultancy, Outsourcing. | `Lisboa` |
 | [Aubay](https://www.aubay.pt/) [:rocket:](https://www.aubay.pt/Home/Opportunities) | Consultancy, Outsourcing, and Nearshore projects. | `Lisboa` `Porto` |
 | [Bee Engineering](https://www.bee-eng.pt/pt/) [:rocket:](https://www.bee-eng.pt/pt/carreira/) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
 | [BOLD by Devoteam](https://www.boldint.pt/) [:rocket:](https://www.boldint.pt/carreiras/) | Consultancy, Outsourcing. | `Aveiro` `Lisboa` <br> `Porto` |
@@ -109,12 +110,15 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Everis](https://www.everis.com/portugal/pt-pt/home-pt) | Consultancy, Outsourcing. | `Lisboa` |
 | [GLanDrive](https://www.glandrive.pt) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
 | [KCSIT](https://kcsit.pt/) [:rocket:](https://kcsit.pt/carreiras/) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
+| [Match Profiler](https://www.m-profiler.com/) [:rocket:](https://www.m-profiler.com/carreiras) | Consultancy, Outsourcing. | `Lisboa` |
+| [HumanProfiler](https://www.humanprofiler.com/ultimas-ofertas-de-emprego) [:rocket:](https://www.humanprofiler.com/ultimas-ofertas-de-emprego) | Consultancy, Outsourcing. | `Lisboa` |
 | [KWAN](https://www.kwan.pt/) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
 | [Landing.jobs](https://landing.jobs) [:rocket:](https://landing.jobs/at/landing-jobs) | Helping people find the right fit tech job. | `Lisboa` |
 | [Multivision](https://multivision.pt) [:rocket:](https://www.linkedin.com/company/multivision---consultoria-em-telecomunica-es-e-inform-tica-lda-/jobs/) | Consultancy, Outsourcing. | `Lisboa` |
 | [Olisipo](https://www.olisipo.pt/) [:rocket:](https://www.olisipo.pt/jobs) | Outsourcing, Training and Early-stage venture capital. | `Aveiro` `Lisboa` <br> `Porto` |
 | [Prime IT](https://www.primeit.pt/) [:rocket:](https://www.primeit.pt/carreiras) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
 | [Smart Consulting](https://www.smartconsulting.pt/) [:rocket:](https://www.smartconsulting.pt/oportunidades/) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
+| [Sysmatch](https://www.sysmatch.com/) [:rocket:](https://www.sysmatch.com/oportunidades-de-emprego) | Consultancy, Outsourcing. | `Lisboa` |
 
 
 ## Consultancy :man_office_worker: Specialized :dart:
