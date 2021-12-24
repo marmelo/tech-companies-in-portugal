@@ -88,6 +88,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Opensoft](https://www.opensoft.pt/) [:rocket:](https://www.opensoft.pt/carreiras/) | Making life easier. | `Lisboa` |
 | [Premium Minds](https://www.premium-minds.com/) [:rocket:](https://join.premium-minds.com/) | We build great software for innovative clients. | `Lisboa` |
 | [Present Technologies](https://www.present-technologies.com/) [:rocket:](https://www.present-technologies.com/careers/) | Delivering Quality Software. | `Coimbra` `Porto` <br> `Sertã` |
+| [Reaktor](https://www.reaktor.com) [:rocket:](https://www.reaktor.com/careers) | A global strategy, design, and technology partner. | `Lisboa` |
 | [Softinsa](https://www.softinsa.pt/) [:rocket:](https://www.softinsa.pt/carreiras/) | Services Development and Application / Infrastructure Management. | `Lisboa` `Tomar` <br> `Viseu` |
 | [Syone](https://www.syone.com/) [:rocket:](https://careers.syone.com/) | Outsourcing, nearshore, turnkey projects. | `Alfragide` <br> `Aveiro` `Lisboa` <br> `Maia` `Matosinhos` <br> `Oeiras` `Porto` |
 | [TMC](https://tmc-employeneurship.com/) [:rocket:](https://www.linkedin.com/company/tmcspain/jobs/) | Agile software development. | `Porto` |
