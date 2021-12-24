@@ -50,7 +50,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Mercedes-Benz.io](https://www.mercedes-benz.io) [:rocket:](https://www.mercedes-benz.io/jobs) | Shaping the digital future of Mercedes-Benz. | `Lisboa` |
 | [Stratio Automotive](https://stratioautomotive.com) [:rocket:](https://stratio.workable.com) | Vehicle data into predictive intelligence. | `Coimbra` |
 | [tb.lx](https://tblx.io/) [:rocket:](https://tblx.freshteam.com/jobs) | Daimler Trucks and Buses IoT data into intelligent global services. | `Lisboa` |
-| [Veniam](https://veniam.com) [:rocket:](https://veniam.com/careers/) | The intelligent networking platform for connected cars. | `Porto` |
+| [Veniam](https://veniam.com) [:rocket:](https://boards.greenhouse.io/veniam) | The intelligent networking platform for connected cars. | `Porto` |
 | [Volkswagen Digital Solutions](http://www.vwds.pt/) [:rocket:](https://www.linkedin.com/company/volkswagen-digital-solutions/jobs/) | Creating the digital ecosystem for the brands of the Volkswagen Group. | `Lisboa` |
 
 
@@ -68,7 +68,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Caixa Mágica](https://caixamagica.pt/) [:rocket:](https://caixamagica.pt/trabalhar-connosco) | Open Source development. | `Lisboa` |
 | [CGI](https://www.cgi.com/portugal/pt-pt) [:rocket:](https://www.cgi.com/portugal/pt-pt/portugal/careers) | Experience the commitment. | `Lisboa` `Porto` |
 | [darwinLabs](https://www.darwin-labs.com/) [:rocket:](https://www.darwin-labs.com/latest-jobs/) | Building Software that matters. | `Lisboa` `Remote` |
-| [Deloitte](https://www2.deloitte.com/pt/pt.html) [:rocket:](https://yourfuture.deloitte.pt/candidaturas/) | Global consulting company. | `Leiria` `Lisboa` <br> `Porto` `Viseu` |
+| [Deloitte](https://www2.deloitte.com/pt/pt.html) [:rocket:](https://jobs.deloitte.pt/) | Global consulting company. | `Leiria` `Lisboa` <br> `Porto` `Viseu` |
 | [DevScope](http://devscope.net/) [:rocket:](http://devscope.net/AboutUs/Joinus.aspx) | Technology development, consultancy and product development. | `Porto` `Viseu` |
 | [Equal Experts](https://www.equalexperts.com) [:rocket:](https://www.equalexperts.com/contact-us/lisbon/) | Making software. Better. | `Lisboa` `Remote` |
 | [Findmore](https://findmore.pt/) [:rocket:](https://findmore.pt/careers) | Nearshoring, software development, UX/UI Design and PMO. | `Lisboa` `Porto` <br> `Viseu` |
@@ -272,7 +272,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Fun Punch Games](https://funpunchgames.com/) | Independent game development studio. | `Lisboa` |
 | [Funcom ZPX](https://www.funcom.com/) [:rocket:](https://www.funcom.com/funcom-zpx/) | Full-range game development studio offering design, art, coding. | `Lisboa` |
 | [Ground Control](http://www.gcontrolgames.com/) | Indie games/VR studio. | `Porto` |
-| [Miniclip](https://www.miniclip.com/) [:rocket:](https://corporate.miniclip.com/vacancies/) | Mobile and web game development company. | `Lisboa` |
+| [Miniclip](https://www.miniclip.com/) [:rocket:](https://corporate.miniclip.com/careers/vacancies) | Mobile and web game development company. | `Lisboa` |
 | [Not a Game Studio](http://www.notagamestudio.com/) | Game development studio focused on the experience of the users. | `Lisboa` |
 
 
@@ -280,7 +280,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
-| [Critical Manufacturing](https://www.criticalmanufacturing.com) [:rocket:](https://www.criticalmanufacturing.com/en/careers) | Manufacturing business-critical applications. | `Porto` |
+| [Critical Manufacturing](https://www.criticalmanufacturing.com) [:rocket:](https://careers.criticalmanufacturing.com/) | Manufacturing business-critical applications. | `Porto` |
 | [FARO Technologies](https://www.faro.com/) [:rocket:](https://www.faro.com/about-faro/career/) | The world’s most trusted source for 3d measurement. | `Porto` |
 | [Malvern Panalytical](https://www.malvernpanalytical.com/) [:rocket:](https://careers.malvernpanalytical.com/careers/?category=24&location=203&search=) | Laboratory analytical instruments design and manufacturing. | `Maia` |
 
@@ -347,7 +347,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
-| [Gympass](https://site.gympass.com/pt) [:rocket:](https://www.gympass.com/pt/careers) | A discovery platform that helps you stay active and healthy. | `Lisboa` |
+| [Gympass](https://gympass.com/) [:rocket:](https://gympass.com/careers) | A discovery platform that helps you stay active and healthy. | `Lisboa` |
 
 
 ## Telcos :telephone_receiver:
