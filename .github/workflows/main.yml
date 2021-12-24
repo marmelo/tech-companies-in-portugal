@@ -1,0 +1,25 @@
+name: CI
+
+on:
+  push:
+    branches: [ '*' ]
+  pull_request:
+    branches: [ '*' ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Set up Ruby 2.6
+        uses: actions/setup-ruby@v1
+        with:
+          ruby-version: 2.6.x
+
+      - name: Install dependencies
+        run: gem install awesome_bot
+
+      - name: Check URLs
+        run: awesome_bot -f README.md --allow-ssl --allow-redirect --allow-dupe --allow 403,429 --white-list linkedin.com,oracle.com,glandrive.pt,glintt.com
