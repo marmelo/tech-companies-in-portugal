@@ -224,7 +224,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Mind](http://www.mind.pt/) | Information management and industrial systems. | `Lisboa` `Porto` |
 | [Moviik](https://www.moviik.com) | Customer Journey Management Platform. | `Braga` |
 | [Nmbrs](https://www.nmbrs.com/) [:rocket:](https://www.nmbrs.com/en/careers) | HR & Payroll software. | `Lisboa` |
-| [Petapilot](https://www.petapilot.com/) [:rocket:](https://www.petapilot.com/careers) | Big Data Solutions. | `Porto` |
+| [Petapilot](https://www.petapilot.com/) | Big Data Solutions. | `Porto` |
 | [PHC Software](https://www.phcsoftware.com/) [:rocket:](https://www.phcsoftware.com/carreiras/) | ERP software. | `Lisboa` `Porto` |
 | [Primavera BSS](https://pt.primaverabss.com/pt/) [:rocket:](https://pt.primaverabss.com/pt/bolsaempregos/) | Enterprise resource planning software. | `Braga` `Leiria` <br> `Lisboa` |
 | [Primetag](https://primetag.com) [:rocket:](https://jobs.primetag.com/) | Influence Marketing Automation Software. | `Aveiro` `Lisboa` <br> `Remote` |
