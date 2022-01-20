@@ -262,6 +262,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Onfido](https://www.onfido.com) [:rocket:](https://onfido.com/jobs/) | Identity verification at the speed of life. | `Lisboa` |
 | [Revolut](https://www.revolut.com) [:rocket:](https://www.revolut.com/pt-PT/careers) | A digital banking alternative to conventional banks. | `Porto` |
 | [Seedrs](https://www.seedrs.com) [:rocket:](https://www.seedrs.com/careers) | Equity marketplace for everyone. | `Lisboa` |
+| [SIBS](https://www.sibs.com/) [:rocket:](https://sibs-sgps.zohorecruit.eu/careers) | Major Portuguese payment processor. | `Lisboa` |
 | [StudentFinance](https://studentfinance.com/) [:rocket:](https://jobs.studentfinance.com) | Disrupting education through Income Share Agreements | `Lisboa` `Remote` |
 | [Switch](https://switchpayments.com/) [:rocket:](https://switchpayments.com/about/careers) | The payments infrastructure for interoperability. | `Lisboa` `Porto` |
 | [Uphold](https://uphold.com/) [:rocket:](https://uphold.com/en/about-us/careers) | US cloud based financial services platform. | `Braga` |
