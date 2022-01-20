@@ -255,6 +255,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Iban Wallet](https://www.ibanwallet.com) | Invest in secured loans. | `Lisboa` |
 | [ITSector](https://www.itsector.pt/pt) [:rocket:](https://www.itsector.pt/pt/carreiras) | Software for financial institutions. | `Aveiro` `Braga` <br> `Bragança` `Lisboa` <br> `Porto` |
 | [JUMO](https://www.jumo.world) [:rocket:](https://www.jumo.world/careers) | Financial inclusion platform. | `Remote` |
+| [Klarna](https://www.klarna.com) [:rocket:](https://jobs.lever.co/klarna?location=Lisbon%2C%20Portugal) [:octocat:](https://www.github.com/klarna) | Global payments and shopping service. | `Lisboa` |
 | [LoanDolphin](https://loandolphin.com.au/) [:rocket:](https://loandolphin.breezy.hr/) | Home loan marketplace. | `Lisboa` `Remote` |
 | [Natixis](https://www.natixis.com/) [:rocket:](https://www.natixis.com/natixis/jcms/tki_5051/en/careers) | French corporate and investment bank. | `Porto` |
 | [Onfido](https://www.onfido.com) [:rocket:](https://onfido.com/jobs/) | Identity verification at the speed of life. | `Lisboa` |
