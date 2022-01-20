@@ -333,7 +333,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Integrity](https://www.integrity.pt/) [:rocket:](https://www.integrity.pt/careers.html) | Consulting and tech audit focused on information Security. | `Lisboa` |
 | [JScrambler](https://jscrambler.com) [:rocket:](https://jscrambler.com/careers) | JavaScript application integrity and security. | `Porto` |
 | [Layer8](https://www.layer8.pt) | Consulting, technology and security managed services. | `Lisboa` |
-| [Multicert](https://www.multicert.com) [:rocket:](https://www.multicert.com/pt/sobre-nos/recrutamento/) | CA, enterprise security software products and consulting. | `Lisboa` `Porto` |
+| [Multicert](https://www.multicert.com) [:rocket:](https://sibs-sgps.zohorecruit.eu/careers) | CA, enterprise security software products and consulting. | `Lisboa` `Porto` |
 | [NCC Group](https://www.nccgroup.com/pt/) [:rocket:](https://www.nccgroupplc.com/careers/) | Global experts in cyber security and risk mitigation. | `Lisboa` `Remote` |
 | [Probely](https://probely.com) [:rocket:](https://careers.probely.com) | Automated web application security scanning as a service. | `Lisboa` |
 | [S21sec](https://www.s21sec.com) [:rocket:](https://www.s21sec.com/en/careers/) | Cybersecurity services. | `Lisboa` `Porto` |
