@@ -246,6 +246,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Anchorage](https://anchorage.com/) [:rocket:](https://anchorage.com/careers/) | The most advanced digital asset platform for secure crypto custody. | `Porto` `Remote` |
 | [Banco Atlântico Europa](https://www.atlantico.eu/) [:rocket:](https://www.atlantico.eu/carreiras) | An European bank, under the supervision of Banco de Portugal. | `Lisboa` |
 | [Carpe Data](https://carpe.io/) [:rocket:](https://carpe.io/career/) | Next-Generation Data for Insurance. | `Lisboa` |
+| [Checkout.com](https://checkout.com/) [:rocket:](https://checkout.com/careers/) | Payments Platform. | `Porto` |
 | [Compare Group](http://www.compareeuropegroup.com/) [:rocket:](http://www.compareeuropegroup.com/careers/) | Financial products comparision for several markets (eg: [ComparaJá](https://www.comparaja.pt)). | `Lisboa` |
 | [Euronext](https://www.euronext.com) [:rocket:](https://www.euronext.com/pt/about/careers) | European stock exchange operator. | `Porto` |
 | [Feedzai](https://feedzai.com) [:rocket:](https://careers.feedzai.com) | Fraud detection platform to make commerce safe. | `Coimbra` `Lisboa` <br> `Porto` |
