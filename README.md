@@ -1,6 +1,6 @@
 # Tech Companies in Portugal :portugal:
 
-[![Build Status](https://travis-ci.com/marmelo/tech-companies-in-portugal.svg?branch=master)](https://travis-ci.com/marmelo/tech-companies-in-portugal)
+[![Build Status](https://github.com/marmelo/tech-companies-in-portugal/actions/workflows/main.yml/badge.svg)](https://github.com/marmelo/tech-companies-in-portugal/actions/workflows/main.yml)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/marmelo/tech-companies-in-portugal/blob/master/LICENSE)
 
 This is a opinionated list of some technology companies operating in Portugal.

@@ -1,0 +1,26 @@
+name: CI
+
+on:
+  push:
+    branches: [master]
+  pull_request:
+    branches: [master]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Set up Ruby 2.6
+        uses: actions/setup-ruby@v1
+        with:
+          ruby-version: 2.6.x
+
+      - name: Install dependencies
+        run: gem install awesome_bot
+
+      - name: Check URLs
+        run: awesome_bot -f README.md --allow-ssl --allow-redirect --allow-dupe --allow 403,429 --set-timeout=5 --white-list linkedin.com,oracle.com,glandrive.pt,glintt.com
