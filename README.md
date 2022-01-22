@@ -48,6 +48,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Critical TechWorks](https://www.criticaltechworks.com/) [:rocket:](https://www.criticaltechworks.com/#openroll) | Developing next generation software systems for BMW. | `Lisboa` `Porto` |
 | [Flow](https://gowithflow.io/) [:rocket:](https://gowithflow.recruitee.com/) | Data powered fleet electrification. | `Leça da Palmeira` |
 | [Mercedes-Benz.io](https://www.mercedes-benz.io) [:rocket:](https://www.mercedes-benz.io/jobs) | Shaping the digital future of Mercedes-Benz. | `Lisboa` |
+| [miio](https://www.miio.pt) | Electric mobility digital solutions with fleet management. | `Remote` |
 | [Stratio Automotive](https://stratioautomotive.com) [:rocket:](https://stratio.workable.com) | Vehicle data into predictive intelligence. | `Coimbra` |
 | [tb.lx](https://tblx.io/) [:rocket:](https://tblx.freshteam.com/jobs) | Daimler Trucks and Buses IoT data into intelligent global services. | `Lisboa` |
 | [Veniam](https://veniam.com) [:rocket:](https://boards.greenhouse.io/veniam) | The intelligent networking platform for connected cars. | `Porto` |
