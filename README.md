@@ -191,6 +191,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Platforme](https://platforme.com) [:rocket:](https://platforme.com/jobs) | Dynamic product as a service. Leaders in customisation. | `Porto` |
 | [Prozis](https://www.prozis.com/) [:rocket:](https://prozis.breezy.hr/) | Sports and nutrition online store. | `Aveiro` `Esposende` <br> `Porto` |
 | [Salsify](https://www.salsify.com) [:rocket:](https://www.salsify.com/careers) | Product Experience Management and Syndication platform. | `Lisboa` |
+| [SevuPrinting](https://sevuprinting.pt/) | Online shop and platform for customization printing products | `Braga` `Porto` <br> `Coimbra ` `Lisboa` |
 | [Trouva](https://www.trouva.com) [:rocket:](https://trouva.workable.com/) | Marketplace for independent boutiques. | `Lisboa` |
 | [Uniplaces](https://www.uniplaces.com/) [:rocket:](https://careers.uniplaces.com/) | Student accomodation platform. | `Lisboa` |
 | [Threads Styling](https://www.threadsstyling.com/) [:rocket:](https://www.threadsstyling.com/careers) | Personalised luxury shopping. Style inspiration. Global community. | `Porto` |
