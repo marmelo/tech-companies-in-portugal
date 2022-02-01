@@ -376,6 +376,6 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | :------ | :---------- | :-------- |
 | [eDreams ODIGEO](https://www.edreamsodigeo.com/) [:rocket:](https://www.edreamsodigeocareers.com) | We are shaping the way people travel today and tomorrow. | `Porto` |
 | [Hostelworld](https://www.hostelworld.com/) [:rocket:](https://www.hostelworldgroup.com/careers) | World's leading hostel-focused online booking platform. | `Porto` |
-| [Ryanair](https://www.ryanair.com/pt/pt) [:rocket:](https://careers.ryanair.com) | Ryanair is an Irish ultra low-cost carrier. | `Lisboa` `Porto`|
+| [Ryanair](https://www.ryanair.com/pt/pt) [:rocket:](https://careers.ryanair.com/search/#search/location=portugal&departments=ryanair-labs-portugal) | Ryanair is an Irish ultra low-cost carrier. | `Lisboa` `Porto`|
 | [Skyhour](https://skyhour.com/) [:rocket:](https://landing.jobs/at/skyhour) | Give and receive air travel. | `Lisboa` |
 | [TripAdvisor](https://www.tripadvisor.com) [:rocket:](https://careers.tripadvisor.com) | The largest "social travel website" in the world. | `Lisboa` |
