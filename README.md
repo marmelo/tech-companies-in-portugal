@@ -360,7 +360,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
-| [Altice Labs](http://www.alticelabs.com/pt/) | Telecommunications technologies. | `Aveiro` |
+| [Altice Labs](http://www.alticelabs.com/) | Telecommunications technologies. | `Aveiro` |
 | [Carrot](https://carrotincentives.com/) | ICM for Telco companies. | `Lisboa` |
 | [Celfocus](https://www.celfocus.com/) [:rocket:](https://careers.celfocus.com/) | Vodafone technology development. | `Lisboa` `Porto` |
 | [GoContact](https://www.gocontact.pt/) [:rocket:](https://www.gocontact.pt/recrutamento/) | Company specialized in integrated solutions for Contact Centers. | `Aveiro` `Lisboa` <br> `Porto`|
