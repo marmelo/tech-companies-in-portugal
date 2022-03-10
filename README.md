@@ -250,7 +250,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Checkout.com](https://checkout.com/) [:rocket:](https://checkout.com/careers/) | Payments Platform. | `Porto` |
 | [Compare Group](http://www.compareeuropegroup.com/) [:rocket:](http://www.compareeuropegroup.com/careers/) | Financial products comparision for several markets (eg: [ComparaJá](https://www.comparaja.pt)). | `Lisboa` |
 | [Euronext](https://www.euronext.com) [:rocket:](https://www.euronext.com/pt/about/careers) | European stock exchange operator. | `Porto` |
-| [Feedzai](https://feedzai.com) [:rocket:](https://careers.feedzai.com) | Fraud detection platform to make commerce safe. | `Coimbra` `Lisboa` <br> `Porto` |
+| [Feedzai](https://feedzai.com) [:rocket:](https://careers.feedzai.com) | Fraud detection platform to make commerce safe. | `Coimbra` `Lisboa` <br> `Porto` `Remote` |
 | [Fidel](https://fidel.uk) [:rocket:](https://fidel.uk/careers/) | One API for linking bank cards to digital applications, globally. | `Lisboa` |
 | [Finiam](https://www.finiam.com/) [:rocket:](https://www.finiam.com/#contact) | Improving people's lives by untangling the financial world. | `Braga` `Remote` |
 | [Fractal](https://company.fractal.id) | Enabling open finance with a new Internet Identity layer. | `Porto` `Remote` |
