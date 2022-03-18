@@ -16,13 +16,14 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: Set up Ruby 2.6
-        uses: actions/setup-ruby@v1
+      - name: Validate links
+        uses: lycheeverse/lychee-action@v1.3.2
         with:
-          ruby-version: 2.6.x
-
-      - name: Install dependencies
-        run: gem install awesome_bot
-
-      - name: Check URLs
-        run: awesome_bot -f README.md --allow-ssl --allow-redirect --allow-dupe --allow 403,429 --set-timeout=5 --white-list linkedin.com,oracle.com,glintt.com
+          # --exclude-all-private --exclude-mail excludes private sites and emails
+          # --no-progress exclude progress bar (interactice shell)
+          # --exclude .github/workflows/.lycheeignore exclude sites (regex per line) for stubborn domains
+          args: --exclude-all-private --exclude-mail --no-progress README.md --exclude .github/workflows/.lycheeignore
+          # Outpud more detail that the default
+          format: detailed
+          # Fail action on broken links
+          fail: true
