@@ -25,4 +25,4 @@ jobs:
         run: gem install awesome_bot
 
       - name: Check URLs
-        run: awesome_bot -f README.md --allow-ssl --allow-redirect --allow-dupe --allow 403,429 --set-timeout=5 --white-list linkedin.com,oracle.com,glandrive.pt,glintt.com
+        run: awesome_bot -f README.md --allow-ssl --allow-redirect --allow-dupe --allow 403,429 --set-timeout=5 --white-list linkedin.com,oracle.com,glintt.com
