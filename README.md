@@ -189,7 +189,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [La Redoute](https://www.laredoute-corporate.com/en/homepage/) [:rocket:](https://www.linkedin.com/company/la-redoute/jobs/) | Home & Fashion online. | `Leiria` |
 | [Loggi](https://www.loggi.com/) [:rocket:](https://jobs.kenoby.com/loggi/) | An e-commerce delivery platform. | `Lisboa` |
 | [OLX](https://www.olxgroup.com) [:rocket:](https://careers.olxgroup.com/#locationFilter=Portugal) | Network of market-leading trading platforms across 5 countries. | `Lisboa` |
-| [Platforme](https://platforme.com) [:rocket:](https://platforme.com/jobs) | Dynamic product as a service. Leaders in customisation. | `Porto` |
+| [Platforme](https://platforme.com) [:rocket:](https://platforme.breezy.hr/) | Dynamic product as a service. Leaders in customisation. | `Porto` |
 | [Prozis](https://www.prozis.com/) [:rocket:](https://prozis.breezy.hr/) | Sports and nutrition online store. | `Aveiro` `Esposende` <br> `Porto` |
 | [Salsify](https://www.salsify.com) [:rocket:](https://www.salsify.com/careers) | Product Experience Management and Syndication platform. | `Lisboa` |
 | [Trouva](https://www.trouva.com) [:rocket:](https://trouva.workable.com/) | Marketplace for independent boutiques. | `Lisboa` |
