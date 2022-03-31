@@ -244,6 +244,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
+| [Alviere](https://alviere.com/) [:rocket:](https://alviere.com/careers) [:octocat:](https://github.com/Alviere) | Full-Stack embedded finance plaftorm. | `Lisbon` |
 | [Anchorage](https://anchorage.com/) [:rocket:](https://anchorage.com/careers/) | The most advanced digital asset platform for secure crypto custody. | `Porto` `Remote` |
 | [Banco Atlântico Europa](https://www.atlantico.eu/) [:rocket:](https://www.atlantico.eu/carreiras) | An European bank, under the supervision of Banco de Portugal. | `Lisboa` |
 | [Carpe Data](https://carpe.io/) [:rocket:](https://carpe.io/career/) | Next-Generation Data for Insurance. | `Lisboa` |
