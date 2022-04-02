@@ -328,6 +328,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Blaze Information Security](https://www.blazeinfosec.com/) | Pentesting, consulting and research. | `Porto` |
 | [Char49](https://www.char49.com/) | Pentesting, consulting and training. | `Lisboa` |
 | [Checkmarx](https://www.checkmarx.com/) [:rocket:](https://www.checkmarx.com/company/careers/) | Manage Software Exposure at the Speed of DevOps. | `Braga` |
+| [Cloudflare](https://www.cloudflare.com/) [:rocket:](https://www.cloudflare.com/careers/jobs/) [:octocat:](https://github.com/cloudflare) | Secures and ensures reliability of websites, APIs, and applications. | `Lisboa` `Remote` |
 | [Cybersafe](https://www.cybersafe.pt/) | Training, solutions integrator and managed security services. | `Alfragide` |
 | [Dashlane](https://www.dashlane.com/) [:rocket:](https://www.dashlane.com/about/careers) | Password manager and online security app. | `Lisboa` |
 | [Dognaedis](https://www.dognaedis.com/) | Security services for enterprises and government agencies. | `Coimbra` `Lisboa` <br> `Porto` |
