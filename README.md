@@ -341,7 +341,6 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [NCC Group](https://www.nccgroup.com/pt/) [:rocket:](https://www.nccgroupplc.com/careers/) | Global experts in cyber security and risk mitigation. | `Lisboa` `Remote` |
 | [Probely](https://probely.com) [:rocket:](https://careers.probely.com) | Automated web application security scanning as a service. | `Lisboa` |
 | [S21sec](https://www.s21sec.com) [:rocket:](https://www.s21sec.com/en/careers/) | Cybersecurity services. | `Lisboa` `Porto` |
-| [Symantec](https://www.symantec.com) [:rocket:](https://www.symantec.com/about/careers) | Enterprise and Consumer Security Products. | `Coimbra` `Remote` |
 
 
 ## Social :couple:
