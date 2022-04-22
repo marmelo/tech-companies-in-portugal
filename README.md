@@ -139,6 +139,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [NILG.AI](http://www.nilg.ai/) [:rocket:](http://www.nilg.ai/) | Transforming data into actionable knowledge through AI. | `Porto` |
 | [TechRivo](https://techrivo.com/) [:rocket:](https://www.linkedin.com/company/techrivo/jobs/) | Custom software development and technical consulting.  | `Lisboa` |
 
+
 ## Consultancy :man_office_worker: Web :globe_with_meridians: Mobile :iphone: Design :art:
 
 | Company | Description | Locations |
