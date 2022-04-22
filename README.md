@@ -115,7 +115,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [GLanDrive](https://www.glandrive.pt) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
 | [KCSIT](https://kcsit.pt/) [:rocket:](https://kcsit.pt/carreiras/) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
 | [Match Profiler](https://www.m-profiler.com/) [:rocket:](https://www.m-profiler.com/carreiras) | Consultancy, Outsourcing. | `Lisboa` |
-| [HumanProfiler](https://www.humanprofiler.com/ultimas-ofertas-de-emprego) [:rocket:](https://www.humanprofiler.com/ultimas-ofertas-de-emprego) | Consultancy, Outsourcing. | `Lisboa` |
+| [HumanProfiler](https://www.humanprofiler.com) [:rocket:](https://www.humanprofiler.com/ultimas-ofertas-de-emprego) | Consultancy, Outsourcing. | `Lisboa` |
 | [KWAN](https://www.kwan.pt/) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
 | [Landing.jobs](https://landing.jobs) [:rocket:](https://landing.jobs/at/landing-jobs) | Helping people find the right fit tech job. | `Lisboa` |
 | [Multivision](https://multivision.pt) [:rocket:](https://www.linkedin.com/company/multivision---consultoria-em-telecomunica-es-e-inform-tica-lda-/jobs/) | Consultancy, Outsourcing. | `Lisboa` |
