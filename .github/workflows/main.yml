@@ -32,7 +32,8 @@ jobs:
           # --exclude .*\.linkedin\.com/.* -> Excluded because Linkedin just responds with 429 Too Many Requests.
           # --exclude .*\.faro\.com/.* -> Excluded because link check fails on GH Action but the reason is not known.
           # --exclude .*\.humanprofiler\.com/.* -> lychee states "Network error: No status code" but URLs are OK even if slow
-          args: --verbose --exclude-all-private --exclude-mail --no-progress --accept 403 --timeout 60 --retry-wait-time 5 --exclude .*\.linkedin\.com/.* --exclude .*\.faro\.com/.* --exclude .*\.humanprofiler\.com/.* -- README.md
+          # --exclude .*\.blissapplications\.com/.* -> Site is extremly slow taking some times 2 minutes to respond
+          args: --verbose --exclude-all-private --exclude-mail --no-progress --accept 403 --timeout 60 --retry-wait-time 5 --exclude .*\.linkedin\.com/.* --exclude .*\.faro\.com/.* --exclude .*\.humanprofiler\.com/.* --exclude .*\.blissapplications\.com/.* -- README.md
           # Output more detail
           format: detailed
           # Fail action on broken links
