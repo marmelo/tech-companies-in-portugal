@@ -24,14 +24,16 @@ jobs:
           # --exclude-mail -> Ignore email links.
           # --no-progress -> Do not show progress bar in GH Action.
           # --accept 403 -> Tolerate 403 Forbidden because it's a common response for domains behind Cloudflare.
-          # --timeout 60 -> Have a bigger timeout due to some sites being slow sometimes.
+          # --timeout 65 -> Have a bigger timeout due to some sites being slow sometimes.
           # --retry-wait-time 5 -> Retry failed links after 5 seconds to avoid some local throttling situations.
           # --exclude .*\.DOMAIN\.TEST/.* -> (Regex) Exclude all links to all DOMAIN.TEST subdomains
           #     does not match http://domain.test/best-jobs
           #     does match http://www.domain.test/best-jobs
           # --exclude .*\.linkedin\.com/.* -> Excluded because Linkedin just responds with 429 Too Many Requests.
           # --exclude .*\.faro\.com/.* -> Excluded because link check fails on GH Action but the reason is not known.
-          args: --verbose --exclude-all-private --exclude-mail --no-progress --accept 403 --timeout 60 --retry-wait-time 5 --exclude .*\.linkedin\.com/.* --exclude .*\.faro\.com/.* -- README.md
+          # --exclude .*\.humanprofiler\.com/.* -> lychee states "Network error: No status code" but URLs are OK even if slow
+          # --exclude .*\.blissapplications\.com/.* -> Site is extremly slow taking some times 2 minutes to respond
+          args: --verbose --exclude-all-private --exclude-mail --no-progress --accept 403 --timeout 65 --retry-wait-time 5 --exclude .*\.linkedin\.com/.* --exclude .*\.faro\.com/.* --exclude .*\.humanprofiler\.com/.* --exclude .*\.blissapplications\.com/.* -- README.md
           # Output more detail
           format: detailed
           # Fail action on broken links

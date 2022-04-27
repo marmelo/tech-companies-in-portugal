@@ -64,7 +64,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Adentis](http://www.adentis.pt/) [:rocket:](http://www.adentis.pt/trabalhar-na-adentis/) | Outsourcing, customized solutions and R&D. | `Lisboa` |
 | [Altran](https://www.altran.com/pt/pt-pt/) [:rocket:](https://www.altran.com/pt/pt-pt/carreiras/) | Engineering and R&D services. | `Fundão` `Lisboa` <br> `Porto` |
 | [Armis](https://www.armisgroup.com/) [:rocket:](https://www.armisgroup.com/company/careers/) | Technology development and consultancy. | `Lisboa` `Porto` |
-| [BJSS](https://www.bjss.com) [:rocket:](https://www.bjsscareers.com) | Technology and engineering consultancy for business.  | `Lisboa` `Porto` |
+| [BJSS](https://www.bjss.com) [:rocket:](https://www.bjss.com/careers/search?hsLang=en-gb) | Technology and engineering consultancy for business.  | `Lisboa` `Porto` |
 | [Bool Software](https://www.bool.pt/) | Consultancy company specialized in OutSystems. | `Lisboa` |
 | [Caixa Mágica](https://caixamagica.pt/) [:rocket:](https://caixamagica.pt/trabalhar-connosco) | Open Source development. | `Lisboa` |
 | [CGI](https://www.cgi.com/portugal/pt-pt) [:rocket:](https://www.cgi.com/portugal/pt-pt/portugal/careers) | Experience the commitment. | `Lisboa` `Porto` |
@@ -84,7 +84,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Mindera](https://mindera.com) [:rocket:](https://mindera.com/#we-are-hiring) | Technology development and consultancy. | `Aveiro` `Coimbra` <br> `Porto` |
 | [Moxy](https://moxy.studio) [:rocket:](https://moxy.studio/team#join-the-team) | Interdisciplinary studio focused on design and development. | `Porto` |
 | [Noesis](https://www.noesis.pt/pt/homepage) [:rocket:](https://www.noesis.pt/join-us) | Consultancy and enterprise software. | `Lisboa` |
-| [Novabase](http://www.novabase.pt/) [:rocket:](http://www.novabase.pt/en/dp/opportunities) | Simpler & happier. | `Lisboa` |
+| [Novabase](http://www.novabase.pt/) [:rocket:](https://www.novabase.com/en/candidates/opportunities/) | Simpler & happier. | `Lisboa` |
 | [NTT DATA](https://pt.nttdata.com/) [:rocket:](https://emealjobs.nttdata.com/pt-pt/ofertas-portugal) | The 6th IT services company in the world. | `Lisboa` `Remote` |
 | [Opensoft](https://www.opensoft.pt/) [:rocket:](https://www.opensoft.pt/carreiras/) | Making life easier. | `Lisboa` |
 | [Premium Minds](https://www.premium-minds.com/) [:rocket:](https://join.premium-minds.com/) | We build great software for innovative clients. | `Lisboa` |
@@ -115,7 +115,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [GLanDrive](https://www.glandrive.pt) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
 | [KCSIT](https://kcsit.pt/) [:rocket:](https://kcsit.pt/carreiras/) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
 | [Match Profiler](https://www.m-profiler.com/) [:rocket:](https://www.m-profiler.com/carreiras) | Consultancy, Outsourcing. | `Lisboa` |
-| [HumanProfiler](https://www.humanprofiler.com/ultimas-ofertas-de-emprego) [:rocket:](https://www.humanprofiler.com/ultimas-ofertas-de-emprego) | Consultancy, Outsourcing. | `Lisboa` |
+| [HumanProfiler](https://www.humanprofiler.com) [:rocket:](https://www.humanprofiler.com/ultimas-ofertas-de-emprego) | Consultancy, Outsourcing. | `Lisboa` |
 | [KWAN](https://www.kwan.pt/) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
 | [Landing.jobs](https://landing.jobs) [:rocket:](https://landing.jobs/at/landing-jobs) | Helping people find the right fit tech job. | `Lisboa` |
 | [Multivision](https://multivision.pt) [:rocket:](https://www.linkedin.com/company/multivision---consultoria-em-telecomunica-es-e-inform-tica-lda-/jobs/) | Consultancy, Outsourcing. | `Lisboa` |
