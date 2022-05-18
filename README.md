@@ -36,6 +36,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 - [Sport :soccer:](#sport-soccer)
 - [Telcos :telephone_receiver:](#telcos-telephone_receiver)
 - [Travel :airplane:](#travel-airplane)
+- [Web3 :spider_web:](#web3-spider_web)
 
 
 ## Automotive :oncoming_automobile:
@@ -380,3 +381,8 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Hostelworld](https://www.hostelworld.com/) [:rocket:](https://www.hostelworldgroup.com/careers) | World's leading hostel-focused online booking platform. | `Porto` |
 | [Ryanair](https://www.ryanair.com/pt/pt) [:rocket:](https://careers.ryanair.com/search/#search/location=portugal&departments=ryanair-labs-portugal) | Ryanair is an Irish ultra low-cost carrier. | `Lisboa` `Porto`|
 | [TripAdvisor](https://www.tripadvisor.com) [:rocket:](https://careers.tripadvisor.com) | The largest "social travel website" in the world. | `Lisboa` |
+
+## Web3 :spider_web:
+| Company | Description | Locations |
+| :------ | :---------- | :-------- |
+| [Avenue](https://avenue.place) [:rocket:](https://careers.avenue.place) | A communications and collaboration platform for DAOs. | `Porto` `Remote` |
