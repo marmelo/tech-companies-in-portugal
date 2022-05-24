@@ -27,7 +27,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 - [Enterprise Software :office:](#enterprise-software-office)
 - [FinTech :moneybag:](#fintech-moneybag)
 - [Gaming :video_game:](#gaming-video_game)
-- [Health Care :hospital:](#health-care-hospital)
+- [Healthcare :hospital:](#health-care-hospital)
 - [Industry :factory:](#industry-factory)
 - [Multimedia :movie_camera:](#multimedia-movie_camera)
 - [Sea :ocean:](#sea-ocean)
@@ -284,13 +284,13 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Not a Game Studio](http://www.notagamestudio.com/) | Game development studio focused on the experience of the users. | `Lisboa` |
 
 
-## Health Care :hospital:
+## Healthcare :heart:
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
 | [Criteria Marathon](https://www.criteriamarathon.com/) | Software Engineering and Information Technologies in the Medical Sector. | `Porto` |
 | [iLoF](https://ilof.tech/) | Revolutionizing Alzheimer’s drug discovery using bio-photonics and AI. | `Porto` |
-| [Nutrium](https://www.nutrium.com/) [:rocket:](https://nutrium.recruitee.com/) | A nutrition platform that is improving the eating habits of millions of people around the world. | `Braga` `Lisboa` `Remote` |
+| [Nutrium](https://www.nutrium.com/) [:rocket:](https://nutrium.recruitee.com/) | Nutrition platform for improving eating habits around the world. | `Braga` `Lisboa` `Remote` |
 | [Promptly](https://www.promptlyhealth.com/) [:rocket:](https://www.promptlyhealth.com/en/careers/) | Follow-up the outcomes of your medical treatments. | `Porto` |
 
 
