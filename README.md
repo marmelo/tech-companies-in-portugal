@@ -27,8 +27,8 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 - [Enterprise Software :office:](#enterprise-software-office)
 - [FinTech :moneybag:](#fintech-moneybag)
 - [Gaming :video_game:](#gaming-video_game)
+- [Healthcare :hospital:](#health-care-hospital)
 - [Industry :factory:](#industry-factory)
-- [Medical :hospital:](#medical-hospital)
 - [Multimedia :movie_camera:](#multimedia-movie_camera)
 - [Sea :ocean:](#sea-ocean)
 - [Security :lock:](#security-lock)
@@ -285,6 +285,16 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Not a Game Studio](http://www.notagamestudio.com/) | Game development studio focused on the experience of the users. | `Lisboa` |
 
 
+## Healthcare :heart:
+
+| Company | Description | Locations |
+| :------ | :---------- | :-------- |
+| [Criteria Marathon](https://www.criteriamarathon.com/) | Software Engineering and Information Technologies in the Medical Sector. | `Porto` |
+| [iLoF](https://ilof.tech/) | Revolutionizing Alzheimer’s drug discovery using bio-photonics and AI. | `Porto` |
+| [Nutrium](https://www.nutrium.com/) [:rocket:](https://nutrium.recruitee.com/) | Nutrition platform for improving eating habits around the world. | `Braga` `Lisboa` `Remote` |
+| [Promptly](https://www.promptlyhealth.com/) [:rocket:](https://www.promptlyhealth.com/en/careers/) | Follow-up the outcomes of your medical treatments. | `Porto` |
+
+
 ## Industry :factory:
 
 | Company | Description | Locations |
@@ -292,15 +302,6 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Critical Manufacturing](https://www.criticalmanufacturing.com) [:rocket:](https://careers.criticalmanufacturing.com/) | Manufacturing business-critical applications. | `Porto` |
 | [FARO Technologies](https://www.faro.com/) [:rocket:](https://www.faro.com/about-faro/career/) | The world’s most trusted source for 3d measurement. | `Porto` |
 | [Malvern Panalytical](https://www.malvernpanalytical.com/) [:rocket:](https://careers.malvernpanalytical.com/careers/?category=24&location=203&search=) | Laboratory analytical instruments design and manufacturing. | `Maia` |
-
-
-## Medical :hospital:
-
-| Company | Description | Locations |
-| :------ | :---------- | :-------- |
-| [Criteria Marathon](https://www.criteriamarathon.com/) | Software Engineering and Information Technologies in the Medical Sector. | `Porto` |
-| [iLoF](https://ilof.tech/) | Revolutionizing Alzheimer’s drug discovery using bio-photonics and AI. | `Porto` |
-| [Promptly](https://www.promptlyhealth.com/) [:rocket:](https://www.promptlyhealth.com/en/careers/) | Follow-up the outcomes of your medical treatments. | `Porto` |
 
 
 ## Multimedia :movie_camera:
