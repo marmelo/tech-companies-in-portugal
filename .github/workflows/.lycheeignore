@@ -1,0 +1,23 @@
+# ###################################################################
+# lychee exclusion rules
+# https://github.com/lycheeverse/lychee
+#
+# Each (uncommented) line is a Regex exclusion rule.
+# Be aware that spaces at the end of line are NOT ignored.
+# 
+# Exclude all links to all DOMAIN.TEST subdomains
+# .*\.DOMAIN\.TEST/.* 
+#     does not match http://domain.test/best-jobs
+#     does match http://www.domain.test/best-jobs
+#####################################################################
+# Excluded because Linkedin responds with HTTP 999, reference https://github.com/lycheeverse/lychee/issues/234
+.*\.linkedin\.com/.*
+# Excluded because an error is consistently generated but the URLs are OK.
+# Error seen: Network error: error following redirect for url too many redirects
+.*\.faro\.com/.*
+# Excluded because the webserver is badly configured and URLs have manually checked before.
+# Server is incorrectly configured and not serving the intermediate CA, ref https://news.ycombinator.com/item?id=31430969
+# Error seen: Network error: certificate verify failed (unable to get local issuer certificate)
+.*\.humanprofiler\.com/.*
+.*\.m-profiler\.com/.*
+web.truphone.com/.*
