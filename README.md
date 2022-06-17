@@ -302,7 +302,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | :------ | :---------- | :-------- |
 | [Critical Manufacturing](https://www.criticalmanufacturing.com) [:rocket:](https://careers.criticalmanufacturing.com/) | Manufacturing business-critical applications. | `Maia` |
 | [FARO Technologies](https://www.faro.com/) [:rocket:](https://www.faro.com/about-faro/career/) | The world’s most trusted source for 3d measurement. | `Porto` |
-| [Malvern Panalytical](https://www.malvernpanalytical.com/) [:rocket:](https://careers.malvernpanalytical.com/careers/?category=24&location=203&search=) | Laboratory analytical instruments design and manufacturing. | `Maia` |
+| [Malvern Panalytical](https://www.malvernpanalytical.com/) [:rocket:](https://spectris.wd3.myworkdayjobs.com/Malvern_Panalytical_Careers) | Laboratory analytical instruments design and manufacturing. | `Maia` |
 
 
 ## Multimedia :movie_camera:
