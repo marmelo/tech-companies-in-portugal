@@ -1,0 +1,29 @@
+####   Display   ###############################
+
+# Include more detail for troubleshoot
+verbose = true
+
+# Do not show progress bar in GH Action
+progress = false
+
+####   Requests   ###############################
+
+# Have a bigger timeout due to some sites being slow sometimes
+timeout = 65
+
+# Retry failed links after 5 seconds to avoid some local throttling situations
+retry_wait_time = 5
+
+# Tolerate HTTP 403 Forbidden responses because it's a common response for domains behind Cloudflare.
+accept = "403"
+
+####   Exclusions   ###############################
+
+# Safeguard so avoid GH Action accessing runner local endpoints
+exclude_all_private = true
+
+# Ignore email links
+exclude_mail = true
+
+# Exclude URLs contained in a file from checking
+exclude_file = [ ".github/workflows/.lycheeignore" ]
