@@ -148,7 +148,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [7egend](https://www.7egend.cr/) [:rocket:](https://jobs.7egend.cr/) | Digital Agency with focus on Web, Mobile and IoT. | `Lisboa` `Porto` |
 | [Bliss Applications](https://www.blissapplications.com/) [:rocket:](https://www.blissapplications.com/careers) | UX/UI & software-driven company. | `Lisboa` `Porto` |
 | [Coletiv](https://www.coletiv.com) [:rocket:](https://coletiv.com/#jobs) | Mobile and backend development. | `Porto` |
-| [Deemaze](https://deemaze.com/) [:rocket:](https://deemaze.com/contacts) | Web, Mobile development (RoR, Elixir, React, Vue, Swift, Kotlin). | `Braga` `Coimbra` |
+| [Deemaze](https://deemaze.com/) [:rocket:](https://medium.com/deemaze-software/were-hiring-975b43d5b051) | Web, Mobile development (RoR, Elixir, React, Vue, Swift, Kotlin). | `Braga` `Coimbra` |
 | [Dengun](https://www.dengun.com/) [:rocket:](https://www.dengun.com/careers/) | Web, Mobile development and digital marketing. | `Faro` |
 | [Imaginary Cloud](https://www.imaginarycloud.com) [:rocket:](https://www.imaginarycloud.com/careers) | Web, mobile, development and design services. | `Lisboa` |
 | [Load](http://load.digital) [:rocket:](https://load.digital/careers) | Design Thinking, Web, Mobile, IoT, New Tech (VR, AI, Blockchain) | `Aveiro` `Remote` |
