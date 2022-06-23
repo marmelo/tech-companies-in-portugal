@@ -339,7 +339,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Dognaedis](https://www.dognaedis.com/) | Security services for enterprises and government agencies. | `Coimbra` `Lisboa` <br> `Porto` |
 | [Barracuda Networks](https://www.barracuda.com/) [:rocket:](https://www.barracuda.com/company/careers) | Builds Security, Networking and Storage products. | `Porto` <br> `Remote` |
 | [Integrity](https://www.integrity.pt/) [:rocket:](https://www.integrity.pt/careers.html) | Consulting and tech audit focused on information Security. | `Lisboa` |
-| [JScrambler](https://jscrambler.com) [:rocket:](https://jscrambler.com/careers) | JavaScript application integrity and security. | `Porto` |
+| [Jscrambler](https://jscrambler.com) [:rocket:](https://jscrambler.com/careers) | JavaScript application integrity and security. | `Porto` |
 | [Layer8](https://www.layer8.pt) | Consulting, technology and security managed services. | `Lisboa` |
 | [Multicert](https://www.multicert.com) [:rocket:](https://sibs-sgps.zohorecruit.eu/careers) | CA, enterprise security software products and consulting. | `Lisboa` `Porto` |
 | [NCC Group](https://www.nccgroup.com/pt/) [:rocket:](https://www.nccgroupplc.com/careers/) | Global experts in cyber security and risk mitigation. | `Lisboa` `Remote` |
