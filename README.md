@@ -240,7 +240,6 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Unit4](https://www.unit4.com/) [:rocket:](https://www.careers.unit4.com/) | ERP, Consulting. | `Algés` |
 | [VAKT Global Ltd.](https://www.vakt.com/) [:rocket:](https://www.vakt.com/careers/) | Enterprise grade blockchain commodities trading platform. | `Lisboa` |
 | [VOID Software](https://www.void.pt/) | Systems design & architecture using different technology stacks. | `Leiria` |
-| [WeDo Technologies](https://www.wedotechnologies.com/) [:rocket:](https://www.wedotechnologies.com/en/careers/) | Revenue Assurance and Fraud Management solutions. | `Braga` `Lisboa` |
 
 
 ## FinTech :moneybag:
@@ -370,6 +369,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Carrot](https://carrotincentives.com/) | ICM for Telco companies. | `Lisboa` |
 | [Celfocus](https://www.celfocus.com/) [:rocket:](https://careers.celfocus.com/) | Vodafone technology development. | `Lisboa` `Porto` |
 | [GoContact](https://www.gocontact.pt/) [:rocket:](https://www.gocontact.pt/recrutamento/) | Company specialized in integrated solutions for Contact Centers. | `Aveiro` `Lisboa` <br> `Porto`|
+| [Mobileum](https://www.mobileum.com/) [:rocket:](https://www.mobileum.com/careers/) | Telecom analytics solutions provider. | `Braga` `Lisboa` |
 | [Readiness IT](https://readinessit.com/) [:rocket:](https://readinessit.com/careers/) | Telecommunications technologies. | `Fundão` `Lisboa` <br> `Porto` `Remote` |
 | [Talkdesk](https://www.talkdesk.com) [:rocket:](https://www.talkdesk.com/careers/) | Enterprise cloud contact center. | `Aveiro` `Coimbra` <br> `Lisboa` `Porto` |
 | [WIT Software](https://www.wit-software.com) [:rocket:](https://www.wit-software.com/careers/) | Software development for telcom services (OTT, RCS, Mobile, Web & others). | `Aveiro` `Coimbra` <br> `Leiria` `Lisboa` <br>`Porto` |
