@@ -62,7 +62,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [25Friday](https://25friday.com) [:rocket:](https://25friday.homerun.co/) | Digital product management focussed on growing tech companies. | `Aveiro` `Porto` |
 | [Accenture](https://www.accenture.com/pt-pt) [:rocket:](https://www.accenture.com/pt-pt/careers) | Software Development, Cyber Security. | `Lisboa` `Porto` <br> `Remote`|
 | [AddCode](https://addcode-io.breezy.hr) [:rocket:](https://addcode-io.breezy.hr/#positions) | Software engineering. | `Porto` |
-| [Adentis](http://www.adentis.pt/) [:rocket:](http://www.adentis.pt/trabalhar-na-adentis/) | Outsourcing, customized solutions and R&D. | `Lisboa` |
+| [Adentis](http://www.adentis.pt/) [:rocket:](http://www.adentis.pt/carreira/) | Outsourcing, customized solutions and R&D. | `Lisboa` |
 | [Altran](https://www.altran.com/pt/pt-pt/) [:rocket:](https://www.altran.com/pt/pt-pt/carreiras/) | Engineering and R&D services. | `Fundão` `Lisboa` <br> `Porto` |
 | [Armis](https://www.armisgroup.com/) [:rocket:](https://www.armisgroup.com/company/careers/) | Technology development and consultancy. | `Lisboa` `Porto` |
 | [BJSS](https://www.bjss.com) [:rocket:](https://www.bjss.com/careers/search?hsLang=en-gb) | Technology and engineering consultancy for business.  | `Lisboa` `Porto` |
