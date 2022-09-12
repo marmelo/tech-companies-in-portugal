@@ -15,13 +15,12 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 
 ### Categories
 
-- [Tech Companies in Portugal :portugal:](#tech-companies-in-portugal-portugal)
-    - [Categories](#categories)
   - [Automotive :oncoming_automobile:](#automotive-oncoming_automobile)
-  - [Consultancy :man_office_worker: Broad :dizzy:](#consultancy-man_office_worker-broad-dizzy)
-  - [Consultancy :man_office_worker: Recruiting :male_detective:](#consultancy-man_office_worker-recruiting-male_detective)
-  - [Consultancy :man_office_worker: Specialized :dart:](#consultancy-man_office_worker-specialized-dart)
-  - [Consultancy :man_office_worker: Web :globe_with_meridians: Mobile :iphone: Design :art:](#consultancy-man_office_worker-web-globe_with_meridians-mobile-iphone-design-art)
+  - [Consultancy :man_office_worker:](#consultancy-man_office_worker-broad-dizzy)
+    - [Broad :dizzy:](#consultancy-man_office_worker-broad-dizzy)
+    - [Recruiting :male_detective:](#consultancy-man_office_worker-recruiting-male_detective)
+    - [Specialized :dart:](#consultancy-man_office_worker-specialized-dart)
+    - [Web :globe_with_meridians: Mobile :iphone: Design :art:](#consultancy-man_office_worker-web-globe_with_meridians-mobile-iphone-design-art)
   - [Developer Tools :hammer_and_wrench:](#developer-tools-hammer_and_wrench)
   - [E-commerce :shopping:](#e-commerce-shopping)
   - [Education :books:](#education-books)
