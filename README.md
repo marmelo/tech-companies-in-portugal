@@ -15,28 +15,29 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 
 ### Categories
 
-- [Automotive :oncoming_automobile:](#automotive-oncoming_automobile)
-- [Consultancy :man_office_worker:](#consultancy-man_office_worker-broad-dizzy)
-  - [Broad :dizzy:](#consultancy-man_office_worker-broad-dizzy)
-  - [Recruiting :male_detective:](#consultancy-man_office_worker-recruiting-male_detective)
-  - [Specialized :dart:](#consultancy-man_office_worker-specialized-dart)
-  - [Web :globe_with_meridians: Mobile :iphone: Design :art:](#consultancy-man_office_worker-web-globe_with_meridians-mobile-iphone-design-art)
-- [Developer Tools :hammer_and_wrench:](#developer-tools-hammer_and_wrench)
-- [E-commerce :shopping:](#e-commerce-shopping)
-- [Education :books:](#education-books)
-- [Enterprise Software :office:](#enterprise-software-office)
-- [FinTech :moneybag:](#fintech-moneybag)
-- [Gaming :video_game:](#gaming-video_game)
-- [Healthcare :heart:](#healthcare-heart)
-- [Industry :factory:](#industry-factory)
-- [Multimedia :movie_camera:](#multimedia-movie_camera)
-- [Sea :ocean:](#sea-ocean)
-- [Security :lock:](#security-lock)
-- [Social :couple:](#social-couple)
-- [Sport :soccer:](#sport-soccer)
-- [Telcos :telephone_receiver:](#telcos-telephone_receiver)
-- [Travel :airplane:](#travel-airplane)
-- [Web3 :spider_web:](#web3-spider_web)
+- [Tech Companies in Portugal :portugal:](#tech-companies-in-portugal-portugal)
+    - [Categories](#categories)
+  - [Automotive :oncoming_automobile:](#automotive-oncoming_automobile)
+  - [Consultancy :man_office_worker: Broad :dizzy:](#consultancy-man_office_worker-broad-dizzy)
+  - [Consultancy :man_office_worker: Recruiting :male_detective:](#consultancy-man_office_worker-recruiting-male_detective)
+  - [Consultancy :man_office_worker: Specialized :dart:](#consultancy-man_office_worker-specialized-dart)
+  - [Consultancy :man_office_worker: Web :globe_with_meridians: Mobile :iphone: Design :art:](#consultancy-man_office_worker-web-globe_with_meridians-mobile-iphone-design-art)
+  - [Developer Tools :hammer_and_wrench:](#developer-tools-hammer_and_wrench)
+  - [E-commerce :shopping:](#e-commerce-shopping)
+  - [Education :books:](#education-books)
+  - [Enterprise Software :office:](#enterprise-software-office)
+  - [FinTech :moneybag:](#fintech-moneybag)
+  - [Gaming :video_game:](#gaming-video_game)
+  - [Healthcare :heart:](#healthcare-heart)
+  - [Industry :factory:](#industry-factory)
+  - [Multimedia :movie_camera:](#multimedia-movie_camera)
+  - [Sea :ocean:](#sea-ocean)
+  - [Security :lock:](#security-lock)
+  - [Social :couple:](#social-couple)
+  - [Sport :soccer:](#sport-soccer)
+  - [Telcos :telephone_receiver:](#telcos-telephone_receiver)
+  - [Travel :airplane:](#travel-airplane)
+  - [Web3 :spider_web:](#web3-spider_web)
 
 
 ## Automotive :oncoming_automobile:
@@ -374,6 +375,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Celfocus](https://www.celfocus.com/) [:rocket:](https://careers.celfocus.com/) | Vodafone technology development. | `Lisboa` `Porto` |
 | [GoContact](https://www.gocontact.pt/) [:rocket:](https://www.gocontact.pt/join-us/) | Company specialized in integrated solutions for Contact Centers. | `Aveiro` `Lisboa` <br> `Porto`|
 | [Mobileum](https://www.mobileum.com/) [:rocket:](https://www.mobileum.com/careers/) | Telecom analytics solutions provider. | `Braga` `Lisboa` |
+| [Nokia](https://www.nokia.com) [:rocket:](https://www.nokia.com/about-us/careers/opportunities/portugal/) | Communications and information technology company. | `Aveiro` `Lisboa` |
 | [Readiness IT](https://readinessit.com/) [:rocket:](https://readinessit.com/careers/) | Telecommunications technologies. | `Fundão` `Lisboa` <br> `Porto` `Remote` |
 | [Talkdesk](https://www.talkdesk.com) [:rocket:](https://www.talkdesk.com/careers/) | Enterprise cloud contact center. | `Aveiro` `Coimbra` <br> `Lisboa` `Porto` |
 | [WIT Software](https://www.wit-software.com) [:rocket:](https://www.wit-software.com/careers/) | Software development for telcom services (OTT, RCS, Mobile, Web & others). | `Aveiro` `Coimbra` <br> `Leiria` `Lisboa` <br>`Porto` |
