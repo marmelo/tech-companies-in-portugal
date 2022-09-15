@@ -49,9 +49,9 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Daloop](https://daloop.io/) [:rocket:](https://daloop.recruitee.com/) | Data powered fleet electrification. | `Leça da Palmeira` |
 | [Mercedes-Benz.io](https://www.mercedes-benz.io) [:rocket:](https://www.mercedes-benz.io/jobs) | Shaping the digital future of Mercedes-Benz. | `Lisboa` |
 | [miio](https://www.miio.pt) | Electric mobility digital solutions with fleet management. | `Remote` |
+| [Nexar](https://data.getnexar.com/) [:rocket:](https://data.getnexar.com/about/careers/) | Automative data collection and intelligence. | `Porto` |
 | [Stratio Automotive](https://stratioautomotive.com) [:rocket:](https://stratio.workable.com) | Vehicle data into predictive intelligence. | `Coimbra` |
 | [tb.lx](https://tblx.io/) [:rocket:](https://tblx.freshteam.com/jobs) | Daimler Trucks and Buses IoT data into intelligent global services. | `Lisboa` |
-| [Veniam](https://veniam.com) [:rocket:](https://boards.greenhouse.io/veniam) | The intelligent networking platform for connected cars. | `Porto` |
 | [Volkswagen Digital Solutions](http://www.vwds.pt/) [:rocket:](https://www.linkedin.com/company/volkswagen-digital-solutions/jobs/) | Creating the digital ecosystem for the brands of the Volkswagen Group. | `Lisboa` |
 
 
@@ -62,7 +62,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [25Friday](https://25friday.com) [:rocket:](https://25friday.homerun.co/) | Digital product management focussed on growing tech companies. | `Aveiro` `Porto` |
 | [Accenture](https://www.accenture.com/pt-pt) [:rocket:](https://www.accenture.com/pt-pt/careers) | Software Development, Cyber Security. | `Lisboa` `Porto` <br> `Remote`|
 | [AddCode](https://addcode-io.breezy.hr) [:rocket:](https://addcode-io.breezy.hr/#positions) | Software engineering. | `Porto` |
-| [Adentis](http://www.adentis.pt/) [:rocket:](http://www.adentis.pt/carreira/) | Outsourcing, customized solutions and R&D. | `Lisboa` |
+| [Adentis](https://www.adentis.pt/) [:rocket:](https://www.adentis.pt/en/work-with-us/job-list) | Outsourcing, customized solutions and R&D. | `Lisboa` |
 | [Altran](https://www.altran.com/pt/pt-pt/) [:rocket:](https://www.altran.com/pt/pt-pt/carreiras/) | Engineering and R&D services. | `Fundão` `Lisboa` <br> `Porto` |
 | [Armis](https://www.armisgroup.com/) [:rocket:](https://www.armisgroup.com/company/careers/) | Technology development and consultancy. | `Lisboa` `Porto` |
 | [BJSS](https://www.bjss.com) [:rocket:](https://www.bjss.com/careers/search?hsLang=en-gb) | Technology and engineering consultancy for business.  | `Lisboa` `Porto` |
@@ -74,7 +74,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [DevScope](http://devscope.net/) [:rocket:](https://devscope.net/careers/) | Technology development, consultancy and product development. | `Porto` `Viseu` |
 | [Equal Experts](https://www.equalexperts.com) [:rocket:](https://www.equalexperts.com/contact-us/lisbon/) | Making software. Better. | `Lisboa` `Remote` |
 | [Findmore](https://findmore.pt/) [:rocket:](https://findmore.pt/careers) | Nearshoring, software development, UX/UI Design and PMO. | `Lisboa` `Porto` <br> `Viseu` |
-| [Growin](https://www.growin.com) [:rocket:](https://www.growin.com/careers/) | Software development and system analysis consultancy. | `Coimbra` `Lisboa` <br> `Porto` |
+| [Growin](https://www.growin.com) [:rocket:](https://www.growin.com/it-jobs-growin-careers/) | Software development and system analysis consultancy. | `Coimbra` `Lisboa` <br> `Porto` |
 | [JAVALI](https://www.javali.pt) | Web, Mobile and custom development. Mostly focused on Drupal. | `Caparica` `Lisboa` |
 | [Link Consulting](https://www.linkconsulting.com/) [:rocket:](https://www.linkconsulting.com/its-fun-to-work-at-link/) | Global Tech, Consultancy, Services and Innovation. | `Leiria` `Lisboa` <br> `Porto` `Remote` |
 | [LIS @ IPN](https://www.ipn.pt/laboratorio/LIS) | Technological R&D and innovative multi-disciplinary projects. | `Coimbra` |
@@ -133,7 +133,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [BI4ALL](https://www.bi4all.pt/en/) [:rocket:](https://www.linkedin.com/company/bi4all/jobs/) | Consulting services with several analytics solutions. | `Lisboa` `Porto` |
 | [Critical Software](https://www.criticalsoftware.com) [:rocket:](https://www.criticalsoftware.com/careers) | Mission and business-critical applications. | `Coimbra` `Lisboa` <br> `Porto` `Tomar` <br> `Vila Real` `Viseu` |
 | [Eyenov](https://eyenov.com) | Computer Vision. Machine Learning. Mobile, desktop and embedded. | `Lisboa` `Remote` |
-| [Fruition Partners](https://www.fruitionpartners.nl/) [:rocket:](https://www.it4it-careers.com/) | Consultancy and Application Development based on ServiceNow. | `Fundão` `Lisboa` |
+| [Fruition Partners](https://www.fruitionpartners.nl/) | Consultancy and Application Development based on ServiceNow. | `Fundão` `Lisboa` |
 | [JTA](https://www.thedatascientists.com/) [:rocket:](https://www.thedatascientists.com) | Machine Learning, Reporting and custom vizualizations services. | `Porto` |
 | [Kwanko](https://kwanko.com/) [:rocket:](https://www.kwanko.com/about-us/careers/) | An International leader in Crossdevice Performance Marketing. | `Lisboa` |
 | [Laminar](https://laminarprojects.com/) [:rocket:](https://laminarprojects.com/join-us/) | Building world class apps for the construction industry. | `Lisboa` |
