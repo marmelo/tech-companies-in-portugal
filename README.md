@@ -265,7 +265,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Klarna](https://www.klarna.com) [:rocket:](https://jobs.lever.co/klarna?location=Lisbon%2C%20Portugal) [:octocat:](https://www.github.com/klarna) | Global payments and shopping service. | `Lisboa` |
 | [Kraken](https://www.kraken.com) [:rocket:](https://www.kraken.com/careers) | Kraken is a cryptocurrency exchange and bank. | `Remote` |
 | [LoanDolphin](https://loandolphin.com.au/) [:rocket:](https://loandolphin.breezy.hr/) | Home loan marketplace. | `Lisboa` `Remote` |
-| [Natixis](https://www.natixis.com/) [:rocket:](https://www.natixis.com/natixis/jcms/tki_5051/en/careers) | French corporate and investment bank. | `Porto` |
+| [Natixis](https://natixis.groupebpce.com/) [:rocket:](https://recrutement.natixis.com/) | French corporate and investment bank. | `Porto` |
 | [Onfido](https://www.onfido.com) [:rocket:](https://onfido.com/jobs/) | Identity verification at the speed of life. | `Lisboa` |
 | [Revolut](https://www.revolut.com) [:rocket:](https://www.revolut.com/pt-PT/careers) | A digital banking alternative to conventional banks. | `Porto` |
 | [Samlino Group](https://samlinogroup.com/) [:rocket:](https://samlinogroup.com/careers/) | Financial products comparision for several markets (eg: [ComparaJá](https://www.comparaja.pt)). | `Lisboa` |
