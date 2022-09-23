@@ -231,7 +231,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Mind](http://www.mind.pt/) | Information management and industrial systems. | `Lisboa` `Porto` |
 | [Moviik](https://www.moviik.com) | Customer Journey Management Platform. | `Braga` |
 | [Nmbrs](https://www.nmbrs.com/) [:rocket:](https://www.nmbrs.com/en/careers) | HR & Payroll software. | `Lisboa` |
-| [PandaDoc](https://www.pandadoc.com/) [:rocket:](https://www.pandadoc.com/careers/) | Manage and e-sign Documents. | `Lisboa` `Remote` |
+| [PandaDoc](https://www.pandadoc.com/) [:rocket:](https://www.pandadoc.com/careers/) [:octocat:](https://github.com/PandaDoc) | Manage and e-sign Documents. | `Lisboa` `Remote` |
 | [Petapilot](https://www.petapilot.com/) | Big Data Solutions. | `Porto` |
 | [PHC Software](https://www.phcsoftware.com/) [:rocket:](https://www.phcsoftware.com/carreiras/) | ERP software. | `Lisboa` `Porto` |
 | [Primavera BSS](https://pt.primaverabss.com/pt/) [:rocket:](https://pt.primaverabss.com/pt/bolsaempregos/) | Enterprise resource planning software. | `Braga` `Leiria` <br> `Lisboa` |
