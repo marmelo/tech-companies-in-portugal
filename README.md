@@ -195,6 +195,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [OLX](https://www.olxgroup.com) [:rocket:](https://careers.olxgroup.com/#locationFilter=Portugal) | Network of market-leading trading platforms across 5 countries. | `Lisboa` |
 | [Platforme](https://platforme.com) [:rocket:](https://platforme.breezy.hr/) | Dynamic product as a service. Leaders in customisation. | `Porto` |
 | [Prozis](https://www.prozis.com/) [:rocket:](https://prozis.breezy.hr/) | Sports and nutrition online store. | `Aveiro` `Esposende` <br> `Porto` |
+| [QuintoAndar](https://www.quintoandar.com.br/) [:rocket:](https://carreiras.quintoandar.com.br/) [:octocat:](https://github.com/quintoandar) | Real Estate platform. | `Lisboa` `Remote` |
 | [Salsify](https://www.salsify.com) [:rocket:](https://www.salsify.com/careers) | Product Experience Management and Syndication platform. | `Lisboa` |
 | [Trouva](https://www.trouva.com) [:rocket:](https://trouva.workable.com/) | Marketplace for independent boutiques. | `Lisboa` |
 | [Uniplaces](https://www.uniplaces.com/) [:rocket:](https://careers.uniplaces.com/) | Student accomodation platform. | `Lisboa` `Remote` |
