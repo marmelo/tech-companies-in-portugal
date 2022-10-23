@@ -63,11 +63,11 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Accenture](https://www.accenture.com/pt-pt) [:rocket:](https://www.accenture.com/pt-pt/careers) | Software Development, Cyber Security. | `Lisboa` `Porto` <br> `Remote`|
 | [AddCode](https://addcode-io.breezy.hr) [:rocket:](https://addcode-io.breezy.hr/#positions) | Software engineering. | `Porto` |
 | [Adentis](https://www.adentis.pt/) [:rocket:](https://www.adentis.pt/en/work-with-us/job-list) | Outsourcing, customized solutions and R&D. | `Lisboa` |
-| [Altran](https://www.altran.com/pt/pt-pt/) [:rocket:](https://www.altran.com/pt/pt-pt/carreiras/) | Engineering and R&D services. | `Fundão` `Lisboa` <br> `Porto` |
 | [Armis](https://www.armisgroup.com/) [:rocket:](https://www.armisgroup.com/company/careers/) | Technology development and consultancy. | `Lisboa` `Porto` |
 | [BJSS](https://www.bjss.com) [:rocket:](https://www.bjss.com/careers/search?hsLang=en-gb) | Technology and engineering consultancy for business.  | `Lisboa` `Porto` |
 | [Bool Software](https://www.bool.pt/) | Consultancy company specialized in OutSystems. | `Lisboa` |
 | [Caixa Mágica](https://caixamagica.pt/) [:rocket:](https://caixamagica.pt/trabalhar-connosco) | Open Source development. | `Lisboa` |
+| [Capgemini](https://capgemini-engineering.com/pt/pt-pt/) [:rocket:](https://capgemini-engineering.com/pt/pt-pt/carreiras/) | Engineering and R&D services. | `Fundão` `Lisboa` <br> `Porto` |
 | [CGI](https://www.cgi.com/portugal/pt-pt) [:rocket:](https://www.cgi.com/portugal/pt-pt/portugal/careers) | Experience the commitment. | `Lisboa` `Porto` |
 | [darwinLabs](https://www.darwin-labs.com/) [:rocket:](https://www.darwin-labs.com/latest-jobs/) | Building Software that matters. | `Lisboa` `Remote` |
 | [Deloitte](https://www2.deloitte.com/pt/pt.html) [:rocket:](https://jobs.deloitte.pt/) | Global consulting company. | `Leiria` `Lisboa` <br> `Porto` `Viseu` |
