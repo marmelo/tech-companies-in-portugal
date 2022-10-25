@@ -67,7 +67,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [BJSS](https://www.bjss.com) [:rocket:](https://www.bjss.com/careers/search?hsLang=en-gb) | Technology and engineering consultancy for business.  | `Lisboa` `Porto` |
 | [Bool Software](https://www.bool.pt/) | Consultancy company specialized in OutSystems. | `Lisboa` |
 | [Caixa Mágica](https://caixamagica.pt/) [:rocket:](https://caixamagica.pt/trabalhar-connosco) | Open Source development. | `Lisboa` |
-| [Capgemini](https://capgemini-engineering.com/pt/pt-pt/) [:rocket:](https://capgemini-engineering.com/pt/pt-pt/carreiras/) | Engineering and R&D services. | `Fundão` `Lisboa` <br> `Porto` |
+| [Capgemini Engineering](https://capgemini-engineering.com/pt/pt-pt/) [:rocket:](https://capgemini-engineering.com/pt/pt-pt/carreiras/) | Engineering and R&D services. | `Fundão` `Lisboa` <br> `Porto` |
 | [CGI](https://www.cgi.com/portugal/pt-pt) [:rocket:](https://www.cgi.com/portugal/pt-pt/portugal/careers) | Experience the commitment. | `Lisboa` `Porto` |
 | [darwinLabs](https://www.darwin-labs.com/) [:rocket:](https://www.darwin-labs.com/latest-jobs/) | Building Software that matters. | `Lisboa` `Remote` |
 | [Deloitte](https://www2.deloitte.com/pt/pt.html) [:rocket:](https://jobs.deloitte.pt/) | Global consulting company. | `Leiria` `Lisboa` <br> `Porto` `Viseu` |
