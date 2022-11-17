@@ -156,7 +156,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Pixelmatters](https://pixelmatters.com) [:rocket:](https://www.pixelmatters.com/careers/) | Digital product design and development company. | `Porto` |
 | [Redlight Software](https://redlight.dev) | Web and mobile development studio focused on products. | `Coimbra` `Lisboa` |
 | [Runtime Revolution](https://www.runtime-revolution.com/) [:rocket:](https://www.runtime-revolution.com/careers) | Web and mobile product development. | `Lisboa` |
-| [Significa](https://significa.co) [:rocket:](https://significa.co/careers/) [:octocat:](https://www.github.com/significa) | Digital design-led studio focused on product development. | `Porto` `Remote` |
+| [Significa](https://significa.co) [:rocket:](https://significa.co/careers/) [:octocat:](https://github.com/significa) | Digital design-led studio focused on product development. | `Porto` `Remote` |
 | [Subvisual](https://subvisual.com/) | Web development and design firm. | `Braga` |
 | [Untile](https://untile.pt/) | Digital products. | `Viana do Castelo` |
 | [Vizzuality](https://www.vizzuality.com) [:rocket:](https://vizzuality.bamboohr.com/jobs/) | Digital Agency focused in having a positive impact in the world. | `Porto` `remote` |
@@ -266,7 +266,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Iban Wallet](https://www.ibanwallet.com) | Invest in secured loans. | `Lisboa` |
 | [ITSector](https://www.itsector.pt/pt) [:rocket:](https://www.itsector.pt/pt/carreiras) | Software for financial institutions. | `Aveiro` `Braga` <br> `Bragança` `Lisboa` <br> `Porto` |
 | [JUMO](https://www.jumo.world) [:rocket:](https://careers.jumo.world/) | Financial inclusion platform. | `Remote` |
-| [Klarna](https://www.klarna.com) [:rocket:](https://jobs.lever.co/klarna?location=Lisbon%2C%20Portugal) [:octocat:](https://www.github.com/klarna) | Global payments and shopping service. | `Lisboa` |
+| [Klarna](https://www.klarna.com) [:rocket:](https://jobs.lever.co/klarna?location=Lisbon%2C%20Portugal) [:octocat:](https://github.com/klarna) | Global payments and shopping service. | `Lisboa` |
 | [Kraken](https://www.kraken.com) [:rocket:](https://www.kraken.com/careers) | Kraken is a cryptocurrency exchange and bank. | `Remote` |
 | [LoanDolphin](https://loandolphin.com.au/) [:rocket:](https://loandolphin.breezy.hr/) | Home loan marketplace. | `Lisboa` `Remote` |
 | [Natixis](https://natixis.groupebpce.com/) [:rocket:](https://recrutement.natixis.com/) | French corporate and investment bank. | `Porto` |

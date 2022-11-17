@@ -14,7 +14,7 @@ Please make sure the following company details are provided:
 Below you can find an example of how to add a company:
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
-| [Example](https://example.com/) [:rocket:](https://www.example.com/careers) [:octocat:](https://www.github.com/example) | Example revolutionises the way people write examples. | `Example City` |
+| [Example](https://example.com/) [:rocket:](https://www.example.com/careers) [:octocat:](https://github.com/example) | Example revolutionises the way people write examples. | `Example City` |
 
 Some additional things to keep in mind:
 * The company must allow working in/from Portugal;
