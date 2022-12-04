@@ -341,10 +341,10 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Blaze Information Security](https://www.blazeinfosec.com/) | Pentesting, consulting and research. | `Porto` |
 | [Char49](https://www.char49.com/) | Pentesting, consulting and training. | `Lisboa` |
 | [Checkmarx](https://www.checkmarx.com/) [:rocket:](https://www.checkmarx.com/company/careers/) | Manage Software Exposure at the Speed of DevOps. | `Braga` |
+| [Cipher](https://www.cipher.com/) | Security services for enterprises and government agencies. | `Coimbra` `Lisboa` <br> `Porto` |
 | [Cloudflare](https://www.cloudflare.com/) [:rocket:](https://www.cloudflare.com/careers/jobs/) [:octocat:](https://github.com/cloudflare) | Secures and ensures reliability of websites, APIs, and applications. | `Lisboa` `Remote` |
 | [Cybersafe](https://www.cybersafe.pt/) | Training, solutions integrator and managed security services. | `Alfragide` |
 | [Dashlane](https://www.dashlane.com/) [:rocket:](https://www.dashlane.com/about/careers) | Password manager and online security app. | `Lisboa` |
-| [Cipher](https://www.cipher.com/) | Security services for enterprises and government agencies. (formerly Dognaedis) | `Coimbra` `Lisboa` <br> `Porto` |
 | [Barracuda Networks](https://www.barracuda.com/) [:rocket:](https://www.barracuda.com/company/careers) | Builds Security, Networking and Storage products. | `Porto` <br> `Remote` |
 | [Integrity](https://www.integrity.pt/) [:rocket:](https://www.integrity.pt/careers.html) | Consulting and tech audit focused on information Security. | `Lisboa` |
 | [Jscrambler](https://jscrambler.com) [:rocket:](https://jscrambler.com/careers) | JavaScript application integrity and security. | `Porto` |
