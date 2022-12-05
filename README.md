@@ -187,7 +187,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [360imprimir](https://www.360imprimir.pt/) [:rocket:](https://www.360imprimir.pt/Home/Carreiras) | Online platform for marketing products and services. | `Braga` `Lisboa` <br> `Torres Vedras` |
 | [Aptoide](https://www.aptoide.com/) [:rocket:](https://pt.aptoide.com/company/jobs) | Your Android app store. | `Lisboa` |
 | [Blip](https://blip.pt) [:rocket:](https://blip.pt/jobs/) | Online betting and gambling operator. | `Porto` |
-| [Farfetch](https://www.farfetch.com) [:rocket:](https://www.farfetch.com/pt/careers) | Global technology platform for luxury fashion. | `Braga` `Lisboa` <br> `Porto` |
+| [Farfetch](https://www.farfetch.com) [:rocket:](https://farfetchgroupcareers.com/farfetch) | Global technology platform for luxury fashion. | `Braga` `Lisboa` <br> `Porto` |
 | [Jumia](https://group.jumia.com) [:rocket:](https://group.jumia.com/careers) | Online Shopping for Electronics, Phones & Fashion in Africa. | `Porto` |
 | [Jumpseller](https://jumpseller.com) [:rocket:](https://jumpseller.com/jobs) | E-commerce platform to create online stores. | `Porto` |
 | [Kitch](https://www.kitch.io/) [:rocket:](https://apply.workable.com/kitch/) | Centralized management platform for restaurants. | `Lisboa` |
