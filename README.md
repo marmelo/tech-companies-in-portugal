@@ -177,7 +177,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Reviewpad](https://www.reviewpad.com) [:rocket:](https://reviewpad.com/discord/hiring) [:octocat:](https://github.com/reviewpad) | Pull request automations to safely merge faster with happy developers. | `Porto` <br> `Remote` |
 | [Rows](https://www.rows.com) [:rocket:](https://github.com/dashdash/hiring) | Create interactive web apps using spreadsheet skills. | `Porto` |
 | [Synopsys](https://www.synopsys.com) [:rocket:](https://synopsys.ongig.com/?l=Portugal&regions=EMEA) | Silicon chip design, verification, IP integration and application security | `Lisbon` `Porto` |
-| [Unbabel](https://unbabel.com) [:rocket:](https://unbabel.com/careers/) | Translation as a Service. | `Lisboa` |
+| [Unbabel](https://unbabel.com) [:rocket:](https://unbabel.com/careers/) [:octocat:](https://github.com/Unbabel) | Translation as a Service. | `Lisboa` |
 
 
 ## E-commerce :shopping:
@@ -197,7 +197,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Platforme](https://platforme.com) [:rocket:](https://platforme.breezy.hr/) | Dynamic product as a service. Leaders in customisation. | `Porto` |
 | [Prozis](https://www.prozis.com/) [:rocket:](https://prozis.breezy.hr/) | Sports and nutrition online store. | `Aveiro` `Esposende` <br> `Porto` |
 | [QuintoAndar](https://www.quintoandar.com.br/) [:rocket:](https://carreiras.quintoandar.com.br/) [:octocat:](https://github.com/quintoandar) | Real Estate platform. | `Lisboa` `Remote` |
-| [Salsify](https://www.salsify.com) [:rocket:](https://www.salsify.com/careers) | Product Experience Management and Syndication platform. | `Lisboa` |
+| [Salsify](https://www.salsify.com) [:rocket:](https://www.salsify.com/careers) [:octocat:](https://github.com/salsify) | Product Experience Management and Syndication platform. | `Lisboa` |
 | [Trouva](https://www.trouva.com) [:rocket:](https://trouva.workable.com/) | Marketplace for independent boutiques. | `Lisboa` |
 | [Uniplaces](https://www.uniplaces.com/) [:rocket:](https://careers.uniplaces.com/) | Student accomodation platform. | `Lisboa` `Remote` |
 | [Threads Styling](https://www.threadsstyling.com/) [:rocket:](https://www.threadsstyling.com/careers) | Personalised luxury shopping. Style inspiration. Global community. | `Porto` |
