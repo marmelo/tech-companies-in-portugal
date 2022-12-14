@@ -114,6 +114,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Dellent Consulting](https://dellentconsulting.com/) [:rocket:](https://dellentconsulting.com/_carreiras/) | Consultancy, Outsourcing. | `Aveiro` `Lisboa` |
 | [Everis](https://www.everis.com/portugal/pt-pt/home-pt) | Consultancy, Outsourcing. | `Lisboa` |
 | [GLanDrive](https://www.glandrive.pt) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
+| [Inoweiser](https://www.inoweiser.com/) [:rocket:](https://www.inoweiser.com/careers) | Consultancy | `Lisboa` |
 | [Integer Consulting](https://integerconsulting.pt/) [:rocket:](https://integerconsulting.pt/opportunity/) | Consultancy, Outsourcing and Nearshore | `Lisboa` `Porto` |
 | [KCSIT](https://kcsit.pt/) [:rocket:](https://kcsit.pt/carreiras/) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
 | [Match Profiler](https://www.m-profiler.com/) [:rocket:](https://www.m-profiler.com/carreiras) | Consultancy, Outsourcing. | `Lisboa` |
