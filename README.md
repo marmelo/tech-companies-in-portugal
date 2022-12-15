@@ -323,7 +323,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | :------ | :---------- | :-------- |
 | [Glookast](https://www.glookast.com/) | Solving the media workflow puzzle. | `Matosinhos` |
 | [MediaGaps](https://www.mediagaps.com/) | Bridging your workflow gaps. | `Porto` |
-| [MOG Technologies](https://www.mog-technologies.com) [:rocket:](https://www.mog-technologies.com/careers/) | End-to-end solutions for professional media. | `Porto` |
+| [MOG Technologies](https://www.mog-technologies.com) [:rocket:](https://www.mog-technologies.com/company/careers) | End-to-end solutions for professional media. | `Porto` |
 | [Sky](https://www.sky.com) [:rocket:](https://careers.sky.com) | TV, broadband, talk, streaming and mobile. | `Aveiro` `Funchal` <br> `Lisboa` |
 
 
