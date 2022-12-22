@@ -404,3 +404,5 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
 | [Avenue](https://avenue.place) [:rocket:](https://careers.avenue.place) | A communications and collaboration platform for DAOs. | `Porto` `Remote` |
+| [Achorage Digital](https://www.anchorage.com) [:rocket:](https://www.anchorage.com/careers) | Trusted institutional partner in crypto and first federally chartered crypto bank. | `Porto` `Remote` |
+| [Moonpay](https://www.moonpay.com) [:rocket:](https://www.moonpay.com/careers) | End-to-end solutions for payments, enterprise-scale smart contract development, and digital asset management. | `Lisboa` `Remote` |
