@@ -180,6 +180,8 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Rows](https://www.rows.com) [:rocket:](https://github.com/dashdash/hiring) | Create interactive web apps using spreadsheet skills. | `Porto` |
 | [Synopsys](https://www.synopsys.com) [:rocket:](https://synopsys.ongig.com/?l=Portugal&regions=EMEA) | Silicon chip design, verification, IP integration and application security | `Lisbon` `Porto` |
 | [Unbabel](https://unbabel.com) [:rocket:](https://unbabel.com/careers/) [:octocat:](https://github.com/Unbabel) | Translation as a Service. | `Lisboa` |
+| [Docker](https://docker.com) [:rocket:](https://www.docker.com/careers/) [:octocat:](https://github.com/docker) | Docker helps developers bring their ideas to life by conquering the complexity of app development. | `Remote` |
+
 
 
 ## E-commerce :shopping:
