@@ -203,7 +203,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Trouva](https://www.trouva.com) [:rocket:](https://trouva.workable.com/) | Marketplace for independent boutiques. | `Lisboa` |
 | [Uniplaces](https://www.uniplaces.com/) [:rocket:](https://careers.uniplaces.com/) | Student accomodation platform. | `Lisboa` `Remote` |
 | [Threads Styling](https://www.threadsstyling.com/) [:rocket:](https://www.threadsstyling.com/careers) | Personalised luxury shopping. Style inspiration. Global community. | `Porto` |
-
+| [Turbine Kreuzberg](https://turbinekreuzberg.com/en) [:rocket:](https://turbinekreuzberg.com/en/jobs) | Creates software that advances business and society. | `Faro` `Remote` |
 
 
 ## Education :books:
