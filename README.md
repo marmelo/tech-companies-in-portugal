@@ -173,6 +173,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | :------ | :---------- | :-------- |
 | [Codacy](https://www.codacy.com) [:rocket:](https://www.codacy.com/careers) | Automated code reviews & code analytics. | `Lisboa` `Remote` |
 | [Datadog](https://www.datadog.com) [:rocket:](https://careers.datadoghq.com/) | Cloud monitoring as a service | `Remote` |
+| [Docker](https://docker.com) [:rocket:](https://www.docker.com/careers/) [:octocat:](https://github.com/docker) | Docker helps developers bring their ideas to life by conquering the complexity of app development. | `Remote` |
 | [SingleStore](https://www.singlestore.com/) [:rocket:](https://www.singlestore.com/careers/jobs/) | The scalable cloud database for data-intensive applications, deployed on AWS, Azure, or GCP. (formerly MemSQL) | `Lisboa` `Remote` |
 | [Oracle](https://www.oracle.com/index.html) [:rocket:](https://www.oracle.com/corporate/careers/) | DBMS's and information systems. | `Lisboa` `Porto` <br> `Remote` |
 | [OutSystems](https://www.outsystems.com) [:rocket:](https://www.outsystems.com/company/careers/) | Low-code platform to visually develop applications. | `Braga` `Linda-a-Velha` <br> `Proença-a-Nova` |
@@ -180,7 +181,6 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Rows](https://www.rows.com) [:rocket:](https://github.com/dashdash/hiring) | Create interactive web apps using spreadsheet skills. | `Porto` |
 | [Synopsys](https://www.synopsys.com) [:rocket:](https://synopsys.ongig.com/?l=Portugal&regions=EMEA) | Silicon chip design, verification, IP integration and application security | `Lisbon` `Porto` |
 | [Unbabel](https://unbabel.com) [:rocket:](https://unbabel.com/careers/) [:octocat:](https://github.com/Unbabel) | Translation as a Service. | `Lisboa` |
-| [Docker](https://docker.com) [:rocket:](https://www.docker.com/careers/) [:octocat:](https://github.com/docker) | Docker helps developers bring their ideas to life by conquering the complexity of app development. | `Remote` |
 
 
 
@@ -274,6 +274,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Klarna](https://www.klarna.com) [:rocket:](https://jobs.lever.co/klarna?location=Lisbon%2C%20Portugal) [:octocat:](https://github.com/klarna) | Global payments and shopping service. | `Lisboa` |
 | [Kraken](https://www.kraken.com) [:rocket:](https://www.kraken.com/careers) | Kraken is a cryptocurrency exchange and bank. | `Remote` |
 | [LoanDolphin](https://loandolphin.com.au/) [:rocket:](https://loandolphin.breezy.hr/) | Home loan marketplace. | `Lisboa` `Remote` |
+| [Moonpay](https://www.moonpay.com) [:rocket:](https://www.moonpay.com/careers) | End-to-end solutions for payments, smart contracts, and digital asset management. | `Lisboa` `Remote` |
 | [Natixis](https://natixis.groupebpce.com/) [:rocket:](https://recrutement.natixis.com/) | French corporate and investment bank. | `Porto` |
 | [Onfido](https://www.onfido.com) [:rocket:](https://onfido.com/company/careers/) | Identity verification at the speed of life. | `Lisboa` |
 | [Revolut](https://www.revolut.com) [:rocket:](https://www.revolut.com/pt-PT/careers) | A digital banking alternative to conventional banks. | `Porto` |
@@ -404,5 +405,3 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
 | [Avenue](https://avenue.place) [:rocket:](https://careers.avenue.place) | A communications and collaboration platform for DAOs. | `Porto` `Remote` |
-| [Achorage Digital](https://www.anchorage.com) [:rocket:](https://www.anchorage.com/careers) | Trusted institutional partner in crypto and first federally chartered crypto bank. | `Porto` `Remote` |
-| [Moonpay](https://www.moonpay.com) [:rocket:](https://www.moonpay.com/careers) | End-to-end solutions for payments, enterprise-scale smart contract development, and digital asset management. | `Lisboa` `Remote` |
