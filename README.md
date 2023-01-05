@@ -183,7 +183,6 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Unbabel](https://unbabel.com) [:rocket:](https://unbabel.com/careers/) [:octocat:](https://github.com/Unbabel) | Translation as a Service. | `Lisboa` |
 
 
-
 ## E-commerce :shopping:
 
 | Company | Description | Locations |
