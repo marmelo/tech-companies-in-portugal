@@ -106,7 +106,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Affinity](https://affinity.pt) [:rocket:](https://affinity.pt/en/careers/) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
 | [AGAP2](https://www.agap2-it.pt) [:rocket:](https://www.agap2-it.pt) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
 | [Alter Solutions](https://www.alter-solutions.com/) [:rocket:](https://www.alter-solutions.com/join-us) | Consultancy, Outsourcing, and Nearshore projects. | `Lisboa` `Porto` |
-| [Ankix](https://www.ankix.com/) [:rocket:](https://www.ankix.com/oportunidades-emprego) | Consultancy, Outsourcing. | `Lisboa` |
+| [Ankix](https://www.ankix.com/) [:rocket:](https://www.ankix.com/it-job-offers) | Consultancy, Outsourcing. | `Lisboa` |
 | [Aubay](https://www.aubay.pt/) [:rocket:](https://www.aubay.pt/Home/Opportunities) | Consultancy, Outsourcing, and Nearshore projects. | `Lisboa` `Porto` |
 | [Bee Engineering](https://www.bee-eng.pt/pt/) [:rocket:](https://www.bee-eng.pt/pt/carreira/) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
 | [BOLD by Devoteam](https://bold.devoteam.com/) [:rocket:](https://bold.devoteam.com/join-us/) | Consultancy, Outsourcing. | `Aveiro` `Lisboa` <br> `Porto` |
