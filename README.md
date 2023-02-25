@@ -190,7 +190,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [360imprimir](https://www.360imprimir.pt/) [:rocket:](https://www.360imprimir.pt/Home/Carreiras) | Online platform for marketing products and services. | `Braga` `Lisboa` <br> `Torres Vedras` |
 | [Aptoide](https://www.aptoide.com/) [:rocket:](https://pt.aptoide.com/company/jobs) | Your Android app store. | `Lisboa` |
 | [Blip](https://blip.pt) [:rocket:](https://blip.pt/jobs/) | Online betting and gambling operator. | `Porto` |
-| [Farfetch](https://www.farfetch.com) [:rocket:](https://farfetchgroupcareers.com/farfetch) | Global technology platform for luxury fashion. | `Braga` `Lisboa` <br> `Porto` |
+| [Farfetch](https://www.farfetch.com) [:rocket:](https://farfetchgroupcareers.com/jobs) | Global technology platform for luxury fashion. | `Braga` `Lisboa` <br> `Porto` |
 | [Jumia](https://group.jumia.com) [:rocket:](https://group.jumia.com/careers) | Online Shopping for Electronics, Phones & Fashion in Africa. | `Porto` |
 | [Jumpseller](https://jumpseller.com) [:rocket:](https://jumpseller.com/jobs) | E-commerce platform to create online stores. | `Porto` |
 | [Kitch](https://www.kitch.io/) [:rocket:](https://apply.workable.com/kitch/) | Centralized management platform for restaurants. | `Lisboa` |
@@ -283,7 +283,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [SIBS](https://www.sibs.com/) [:rocket:](https://sibs-sgps.zohorecruit.eu/careers) | Major Portuguese payment processor. | `Lisboa` |
 | [StudentFinance](https://studentfinance.com/) [:rocket:](https://jobs.studentfinance.com) | Disrupting education through Income Share Agreements | `Lisboa` `Remote` |
 | [Switch](https://switchpayments.com/) [:rocket:](https://switchpayments.com/about/careers) | The payments infrastructure for interoperability. | `Lisboa` `Porto` |
-| [Uphold](https://uphold.com/) [:rocket:](https://uphold.com/en/about-us/careers) | US cloud based financial services platform. | `Braga` |
+| [Uphold](https://uphold.com/) [:rocket:](https://uphold.com/resources/careers) | US cloud based financial services platform. | `Braga` |
 
 
 ## Gaming :video_game:
@@ -358,7 +358,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Multicert](https://www.multicert.com) [:rocket:](https://sibs-sgps.zohorecruit.eu/careers) | CA, enterprise security software products and consulting. | `Lisboa` `Porto` |
 | [NCC Group](https://www.nccgroup.com/pt/) [:rocket:](https://www.nccgroupplc.com/careers/) | Global experts in cyber security and risk mitigation. | `Lisboa` `Remote` |
 | [Probely](https://probely.com) [:rocket:](https://careers.probely.com) | Automated web application security scanning as a service. | `Lisboa` |
-| [S21sec](https://www.s21sec.com) [:rocket:](https://www.s21sec.com/en/careers/) | Cybersecurity services. | `Lisboa` `Porto` |
+| [S21sec](https://www.s21sec.com/) [:rocket:](https://www.s21sec.com/join-us/) | Cybersecurity services. | `Lisboa` `Porto` |
 
 
 ## Social :couple:
