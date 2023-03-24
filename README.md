@@ -345,7 +345,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | :------ | :---------- | :-------- |
 | [Adamant Sec](https://adamantsec.com/) | Pentesting, consulting and audit. | `Porto` |
 | [Blaze Information Security](https://www.blazeinfosec.com/) | Pentesting, consulting and research. | `Porto` |
-| [Bitsight](https://www.bitsight.com/) [:rocket:](https://www.bitsight.com/about/careers) | The Global Leader In Security Ratings. | `Remote` `Lisboa` |
+| [Bitsight](https://www.bitsight.com/) [:rocket:](https://www.bitsight.com/about/careers) | The Global Leader In Security Ratings. | `Lisboa` `Remote` |
 | [Char49](https://www.char49.com/) | Pentesting, consulting and training. | `Lisboa` |
 | [Checkmarx](https://www.checkmarx.com/) [:rocket:](https://www.checkmarx.com/company/careers/) | Manage Software Exposure at the Speed of DevOps. | `Braga` |
 | [Cipher](https://www.cipher.com/) | Security services for enterprises and government agencies. | `Coimbra` `Lisboa` <br> `Porto` |
