@@ -110,7 +110,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Aubay](https://www.aubay.pt/) [:rocket:](https://www.aubay.pt/Home/Opportunities) | Consultancy, Outsourcing, and Nearshore projects. | `Lisboa` `Porto` |
 | [Bee Engineering](https://www.bee-eng.pt/pt/) [:rocket:](https://www.bee-eng.pt/pt/carreira/) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
 | [BOLD by Devoteam](https://bold.devoteam.com/) [:rocket:](https://bold.devoteam.com/join-us/) | Consultancy, Outsourcing. | `Aveiro` `Lisboa` <br> `Porto` |
-| [Damia](https://www.damiagroup.pt/) [:rocket:](https://www.damiagroup.pt/job/) | Human 2 Human Tech Recruitment. | `Aveiro` `Lisboa` <br> `Porto` |
+| [Damia](https://www.damiagroup.pt/) [:rocket:](https://www.damiagroup.pt/careers/) | Human 2 Human Tech Recruitment. | `Aveiro` `Lisboa` <br> `Porto` |
 | [Dellent Consulting](https://dellentconsulting.com/) [:rocket:](https://dellentconsulting.com/_carreiras/) | Consultancy, Outsourcing. | `Aveiro` `Lisboa` |
 | [Everis](https://www.everis.com/portugal/pt-pt/home-pt) | Consultancy, Outsourcing. | `Lisboa` |
 | [GLanDrive](https://www.glandrive.pt) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
@@ -118,7 +118,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Integer Consulting](https://integerconsulting.pt/) [:rocket:](https://integerconsulting.pt/opportunity/) | Consultancy, Outsourcing and Nearshore | `Lisboa` `Porto` |
 | [KCSIT](https://kcsit.pt/) [:rocket:](https://kcsit.pt/carreiras/) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
 | [Match Profiler](https://www.m-profiler.com/) [:rocket:](https://www.m-profiler.com/carreiras) | Consultancy, Outsourcing. | `Lisboa` |
-| [HumanProfiler](https://www.humanprofiler.com) [:rocket:](https://www.humanprofiler.com/ultimas-ofertas-de-emprego) | Consultancy, Outsourcing. | `Lisboa` |
+| [HumanProfiler](https://www.humanprofiler.com) [:rocket:](https://www.humanprofiler.com/ofertas-de-emprego) | Consultancy, Outsourcing. | `Lisboa` |
 | [KWAN](https://www.kwan.pt/) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
 | [Landing.jobs](https://landing.jobs) [:rocket:](https://landing.jobs/at/landing-jobs) | Helping people find the right fit tech job. | `Lisboa` |
 | [Multivision](https://multivision.pt) [:rocket:](https://www.linkedin.com/company/multivision---consultoria-em-telecomunica-es-e-inform-tica-lda-/jobs/) | Consultancy, Outsourcing. | `Lisboa` |
