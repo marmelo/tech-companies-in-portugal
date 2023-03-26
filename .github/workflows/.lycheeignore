@@ -15,11 +15,3 @@
 # Excluded because an error is consistently generated but the URLs are OK.
 # Error seen: Network error: error following redirect for url too many redirects
 .*\.faro\.com/.*
-# Excluded because the webserver is badly configured and URLs have manually checked before.
-# Server is incorrectly configured and not serving the intermediate CA, ref https://news.ycombinator.com/item?id=31430969
-# Error seen: Network error: certificate verify failed (unable to get local issuer certificate)
-.*\.humanprofiler\.com/.*
-.*\.m-profiler\.com/.*
-web.truphone.com/.*
-multivision\.pt/.*
-emealjobs\.nttdata\.com/.*
