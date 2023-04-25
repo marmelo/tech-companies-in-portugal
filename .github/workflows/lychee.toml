@@ -1,7 +1,7 @@
 ####   Display   ###############################
 
 # Include more detail for troubleshoot
-verbose = true
+verbose = "info"
 
 # Do not show progress bar in GH Action
 progress = false
