@@ -51,7 +51,6 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Mercedes-Benz.io](https://www.mercedes-benz.io) [:rocket:](https://www.mercedes-benz.io/jobs) | Shaping the digital future of Mercedes-Benz. | `Lisboa` |
 | [miio](https://www.miio.pt) | Electric mobility digital solutions with fleet management. | `Remote` |
 | [Nexar](https://data.getnexar.com/) [:rocket:](https://data.getnexar.com/about/careers/) | Automative data collection and intelligence. | `Porto` |
-| [Stratio Automotive](https://stratioautomotive.com) [:rocket:](https://stratio.workable.com) | Vehicle data into predictive intelligence. | `Coimbra` |
 | [tb.lx](https://tblx.io/) [:rocket:](https://tblx.freshteam.com/jobs) | Daimler Trucks and Buses IoT data into intelligent global services. | `Lisboa` |
 | [Volkswagen Digital Solutions](https://www.vwds.pt/) [:rocket:](https://www.linkedin.com/company/volkswagen-digital-solutions/jobs/) | Creating the digital ecosystem for the brands of the Volkswagen Group. | `Lisboa` |
 
