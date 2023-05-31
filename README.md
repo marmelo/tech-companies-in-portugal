@@ -335,7 +335,8 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
-| [Abyssal](https://abyssal.eu) [:rocket:](https://abyssal.eu/careers/) | 3D Visualization, Simulation and Digitalization for subsea operations. | `Porto` |
+| [Ocena Infinity](https://oceaninfinity.com/) [:rocket:](https://oceaninfinity.com/careers/) | Transforming operations
+at sea to enable people and the planet to thrive | `Porto` |
 | [OceanScan-MST](https://www.oceanscan-mst.com) [:rocket:](https://www.oceanscan-mst.com/job-opportunities/) | Lightweight Autonomous Underwater Vehicle manufacturer. | `Porto` |
 | [Xsealence](https://www.xsealence.pt) | Solutions for command, control and monitoring of maritime applications. | `Oeiras` |
 
