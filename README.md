@@ -37,7 +37,6 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 - [Sport :soccer:](#sport-soccer)
 - [Telcos :telephone_receiver:](#telcos-telephone_receiver)
 - [Travel :airplane:](#travel-airplane)
-- [Web3 :spider_web:](#web3-spider_web)
 
 
 ## Automotive :oncoming_automobile:
