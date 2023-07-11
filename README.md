@@ -326,6 +326,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [FARO Technologies](https://www.faro.com/) [:rocket:](https://www.faro.com/about-faro/career/) | The world’s most trusted source for 3d measurement. | `Porto` |
 | [Malvern Panalytical](https://www.malvernpanalytical.com/) [:rocket:](https://spectris.wd3.myworkdayjobs.com/Malvern_Panalytical_Careers) | Laboratory analytical instruments design and manufacturing. | `Maia` |
 | [Relex Solutions](https://www.relexsolutions.com/) [:rocket:](https://www.relexsolutions.com/careers/) | The market-leading supply chain & retail planning platform. | `Lisboa` |
+| [Smartex](https://www.smartex.ai/) [:rocket:](https://smartexai.notion.site/Careers-202df8b49bc84e978bb93278e163d9ad) | AI for the Next Generation of Textiles. | `Porto` |
 
 ## Mobility :bike:
 
