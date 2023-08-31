@@ -83,7 +83,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [IT People](https://itpeople.pt) [:rocket:](https://itpeople.pt/speak-to-us/) | Outsourcing & Nearshore Development. | `Covilhã` `Lisboa` <br> `Porto`|
 | [Mindera](https://mindera.com) [:rocket:](https://mindera.com/#we-are-hiring) | Technology development and consultancy. | `Aveiro` `Coimbra` <br> `Porto` |
 | [Moxy](https://moxy.studio) [:rocket:](https://moxy.studio/team#join-the-team) | Interdisciplinary studio focused on design and development. | `Porto` |
-| [Noesis](https://www.noesis.pt/pt/homepage) [:rocket:](https://www.noesis.pt/join-us) | Consultancy and enterprise software. | `Lisboa` |
+| [Noesis](https://www.noesis.pt) [:rocket:](https://opportunities.noesis.pt/jobs) | Consultancy and enterprise software. | `Coimbra` `Covilhã` <br> `Guarda` `Lisboa` <br> `Porto` |
 | [Novabase](https://www.novabase.com) [:rocket:](https://www.novabase.com/en/candidates/opportunities/) | Simpler & happier. | `Lisboa` |
 | [NTT DATA](https://pt.nttdata.com/) [:rocket:](https://emealjobs.nttdata.com/pt-pt/ofertas-portugal) | The 6th IT services company in the world. | `Lisboa` `Remote` |
 | [Opensoft](https://www.opensoft.pt/) [:rocket:](https://www.opensoft.pt/carreiras/) | Making life easier. | `Lisboa` |
