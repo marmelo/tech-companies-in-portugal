@@ -1,7 +1,7 @@
 ####   Display   ###############################
 
 # Include more detail for troubleshoot
-verbose = true
+verbose = "info"
 
 # Do not show progress bar in GH Action
 progress = false
@@ -16,6 +16,9 @@ retry_wait_time = 5
 
 # Tolerate HTTP 403 Forbidden responses because it's a common response for domains behind Cloudflare.
 accept = [403]
+
+# Tolerate certificate issues since several sites have certificate chain issues :(
+insecure = true
 
 ####   Exclusions   ###############################
 

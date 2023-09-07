@@ -14,10 +14,10 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: Validate links
-        uses: lycheeverse/lychee-action@v1.5.4
+        uses: lycheeverse/lychee-action@v1.8.0
         with:
           args: --config .github/workflows/lychee.toml -- README.md
           # Fail action on broken links

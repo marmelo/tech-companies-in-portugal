@@ -18,6 +18,9 @@ Below you can find an example of how to add a company:
 
 Some additional things to keep in mind:
 * The company must allow working in/from Portugal;
+  * Fully remote companies might also fit here if either is true:
+    * Careers page explicitly mentions that the company hires remote people from PT or EU;
+    * There are PT engineers already working remotely for said company.
 * Listed offices must have development/tech jobs positions (e.g. a location with only HR functions should not be listed);
 * Both links must be valid/working;
 * Both links should be HTTPS, if available;
