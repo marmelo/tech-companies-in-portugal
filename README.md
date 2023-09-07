@@ -175,6 +175,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Codacy](https://www.codacy.com) [:rocket:](https://www.codacy.com/careers) | Automated code reviews & code analytics. | `Lisboa` `Remote` |
 | [Datadog](https://www.datadog.com) [:rocket:](https://careers.datadoghq.com/) | Cloud monitoring as a service | `Remote` |
 | [Docker](https://docker.com) [:rocket:](https://www.docker.com/careers/) [:octocat:](https://github.com/docker) | Container and k8s tooling for developers. | `Remote` |
+| [ExoCoding](https://exocoding.com) | Code generation platform that empowers software developers. | `Lisboa` <br> `Remote` |
 | [Oracle](https://www.oracle.com/index.html) [:rocket:](https://www.oracle.com/corporate/careers/) | DBMS's and information systems. | `Lisboa` `Porto` <br> `Remote` |
 | [OutSystems](https://www.outsystems.com) [:rocket:](https://www.outsystems.com/company/careers/) | Low-code platform to visually develop applications. | `Braga` `Linda-a-Velha` <br> `Proença-a-Nova` |
 | [PagerDuty](https://pagerduty.com/) [:rocket:](https://careers.pagerduty.com/) | Real-time operations and incident management platform | `Lisboa` `Remote` |
