@@ -71,7 +71,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [darwinLabs](https://www.darwin-labs.com/) [:rocket:](https://www.darwin-labs.com/latest-jobs/) | Building Software that matters. | `Lisboa` `Remote` |
 | [Deloitte](https://www2.deloitte.com/pt/pt.html) [:rocket:](https://jobs.deloitte.pt/) | Global consulting company. | `Leiria` `Lisboa` <br> `Porto` `Viseu` |
 | [DevScope](https://devscope.net/) [:rocket:](https://devscope.net/careers/) | Technology development, consultancy and product development. | `Porto` `Viseu` |
-| [Equal Experts](https://www.equalexperts.com) [:rocket:](https://www.equalexperts.com/contact-us/lisbon/) | Making software. Better. | `Lisboa` `Remote` |
+| [Equal Experts](https://www.equalexperts.com) | Making software. Better. | `Remote` |
 | [Findmore](https://findmore.pt/) [:rocket:](https://findmore.pt/careers) | Nearshoring, software development, UX/UI Design and PMO. | `Lisboa` `Porto` <br> `Viseu` |
 | [Growin](https://www.growin.com) [:rocket:](https://www.growin.com/it-jobs-growin-careers/) | Software development and system analysis consultancy. | `Coimbra` `Lisboa` <br> `Porto` |
 | [JAVALI](https://www.javali.pt) | Web, Mobile and custom development. Mostly focused on Drupal. | `Caparica` `Lisboa` |
