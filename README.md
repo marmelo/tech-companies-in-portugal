@@ -298,8 +298,8 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
+| [ESL FACEIT GROUP](https://eslfaceitgroup.com/) [:rocket:](https://eslfaceitgroup.com/career/)| E-Sports and social platform. | `Remote` |
 | [Fabamaq](https://www.fabamaq.com/) [:rocket:](https://www.fabamaq.com/pages.php?page_id=311) | Casino digital games. | `Porto` |
-| [FACEIT](https://www.faceit.com/) [:rocket:](https://corporate.faceit.com/available-jobs/)| E-Sports and social platform. | `Remote` |
 | [Fun Punch Games](https://funpunchgames.com/) | Independent game development studio. | `Lisboa` |
 | [Funcom ZPX](https://www.funcom.com/) [:rocket:](https://www.funcom.com/funcom-zpx/) | Full-range game development studio offering design, art, coding. | `Lisboa` |
 | [Ground Control](https://www.gcontrolgames.com/) | Indie games/VR studio. | `Porto` |
