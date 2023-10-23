@@ -85,7 +85,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Moxy](https://moxy.studio) [:rocket:](https://moxy.studio/team#join-the-team) | Interdisciplinary studio focused on design and development. | `Porto` |
 | [Neotalent](https://neotalent.pt/) [:rocket:](https://neotalent.pt/en/careers/job-opportunities/) | IT recruitment and talent management specialists. | `Lisboa` `Porto` |
 | [Noesis](https://www.noesis.pt) [:rocket:](https://opportunities.noesis.pt/jobs) | Consultancy and enterprise software. | `Coimbra` `Covilhã` <br> `Guarda` `Lisboa` <br> `Porto` |
-| [NTT DATA](https://pt.nttdata.com/) [:rocket:](https://emealjobs.nttdata.com/pt-pt/ofertas-portugal) | The 6th IT services company in the world. | `Lisboa` `Remote` |
+| [NTT DATA](https://pt.nttdata.com/) [:rocket:](https://careers.emeal.nttdata.com/s/jobs?pcountry=Portugal) | The 6th IT services company in the world. | `Lisboa` `Remote` |
 | [Opensoft](https://www.opensoft.pt/) [:rocket:](https://www.opensoft.pt/carreiras/) | Making life easier. | `Lisboa` |
 | [Premium Minds](https://www.premium-minds.com/) [:rocket:](https://join.premium-minds.com/) | We build great software for innovative clients. | `Lisboa` |
 | [Present Technologies](https://www.present-technologies.com/) [:rocket:](https://www.present-technologies.com/careers/) | Delivering Quality Software. | `Coimbra` `Porto` <br> `Sertã` |
