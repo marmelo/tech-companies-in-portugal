@@ -135,7 +135,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [BI4ALL](https://www.bi4all.pt/en/) [:rocket:](https://www.linkedin.com/company/bi4all/jobs/) | Consulting services with several analytics solutions. | `Lisboa` `Porto` |
 | [Critical Software](https://www.criticalsoftware.com) [:rocket:](https://www.criticalsoftware.com/careers) | Mission and business-critical applications. | `Coimbra` `Lisboa` <br> `Porto` `Tomar` <br> `Vila Real` `Viseu` |
 | [Eyenov](https://eyenov.com) | Computer Vision. Machine Learning. Mobile, desktop and embedded. | `Lisboa` `Remote` |
-| [DareData Engineering](https://daredata.engineering/) [:rocket:](https://www.daredata.engineering/join-the-team) | Data Science, Data Engineering and MLOps Consulting Boutique. | `Remote` |
+| [DareData Engineering](https://daredata.engineering/) [:rocket:](https://www.daredata.engineering/jointheteam) | Data Science, Data Engineering and MLOps Consulting Boutique. | `Remote` |
 | [Fruition Partners](https://www.fruitionpartners.nl/) | Consultancy and Application Development based on ServiceNow. | `Fundão` `Lisboa` |
 | [JTA](https://www.thedatascientists.com/) [:rocket:](https://www.thedatascientists.com) | Machine Learning, Reporting and custom vizualizations services. | `Porto` |
 | [Kwanko](https://kwanko.com/) [:rocket:](https://www.kwanko.com/about-us/careers/) | An International leader in Crossdevice Performance Marketing. | `Lisboa` |
