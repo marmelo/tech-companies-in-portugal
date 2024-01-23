@@ -45,12 +45,12 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | :------ | :---------- | :-------- |
 | [AddVolt](https://addvolt.com/) [:rocket:](https://www.addvolt.com/en/#Contacts) | AddVolt's platform reduces CO2 in the heavy transportation sector. | `Porto` |
 | [Bosch](https://www.bosch.pt/) [:rocket:](https://www.bosch.pt/carreiras/) | German engineering and technology company with a big focus on the automotive industry. | `Aveiro` `Braga` <br> `Ovar` |
-| [Critical TechWorks](https://www.criticaltechworks.com/) [:rocket:](https://www.criticaltechworks.com/#openroll) | Developing next generation software systems for BMW. | `Lisboa` `Porto` |
+| [Critical TechWorks](https://www.criticaltechworks.com/) [:rocket:](https://join.criticaltechworks.com/jobs) | Developing next generation software systems for BMW. | `Braga` `Lisboa` <br> `Porto` |
 | [Daloop](https://daloop.io/) [:rocket:](https://daloop.recruitee.com/) | Data powered fleet electrification. | `Leça da Palmeira` |
 | [Mercedes-Benz.io](https://www.mercedes-benz.io) [:rocket:](https://www.mercedes-benz.io/jobs) | Shaping the digital future of Mercedes-Benz. | `Lisboa` |
-| [miio](https://www.miio.pt) | Electric mobility digital solutions with fleet management. | `Remote` |
-| [Nexar](https://data.getnexar.com/) [:rocket:](https://data.getnexar.com/about/careers/) | Automative data collection and intelligence. | `Porto` |
-| [tb.lx](https://tblx.io/) [:rocket:](https://tblx.freshteam.com/jobs) | Daimler Trucks and Buses IoT data into intelligent global services. | `Lisboa` |
+| [miio](https://www.miio.pt) [:rocket:](https://www.miio.pt/careers) | Electric mobility digital solutions with fleet management. | `Remote` |
+| [Nexar](https://data.getnexar.com/) [:rocket:](https://nexar-1702298813.teamtailor.com/#jobs) | Automative data collection and intelligence. | `Porto` |
+| [tb.lx](https://tblx.io/) [:rocket:](https://www.tblx.io/careers) | Daimler Trucks and Buses IoT data into intelligent global services. | `Lisboa` |
 | [Volkswagen Digital Solutions](https://www.vwds.pt/) [:rocket:](https://www.linkedin.com/company/volkswagen-digital-solutions/jobs/) | Creating the digital ecosystem for the brands of the Volkswagen Group. | `Lisboa` |
 
 
