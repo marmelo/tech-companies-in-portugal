@@ -332,7 +332,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
-| [FAIRTIQ](https://fairtiq.com/) [:rocket:](https://fairtiq.com/en/careers) | Public transport electronic tickets | `Remote` |
+| [FAIRTIQ](https://fairtiq.com/en/) [:rocket:](https://fairtiq.com/en/careers) | Public transport electronic tickets | `Remote` |
 | [Stratio](https://stratioautomotive.com/) [:rocket:](https://careers.stratioautomotive.com/) | Predictive fleet maintenance platform | `Lisboa` `Coimbra` `Remote` |
 
 ## Multimedia :movie_camera:
