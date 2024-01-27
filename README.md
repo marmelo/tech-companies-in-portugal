@@ -73,6 +73,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [DevScope](https://devscope.net/) [:rocket:](https://devscope.net/careers/) | Technology development, consultancy and product development. | `Porto` `Viseu` |
 | [Equal Experts](https://www.equalexperts.com) | Making software. Better. | `Remote` |
 | [Findmore](https://findmore.pt/) [:rocket:](https://findmore.pt/careers) | Nearshoring, software development, UX/UI Design and PMO. | `Lisboa` `Porto` <br> `Viseu` |
+| [GLanDrive](https://www.glandrive.pt) | Software development and Consultancy. | `Lisboa` `Porto` |
 | [Growin](https://www.growin.com) [:rocket:](https://www.growin.com/it-jobs-growin-careers/) | Software development and system analysis consultancy. | `Coimbra` `Lisboa` <br> `Porto` |
 | [JAVALI](https://www.javali.pt) | Web, Mobile and custom development. Mostly focused on Drupal. | `Caparica` `Lisboa` |
 | [Link Consulting](https://www.linkconsulting.com/) [:rocket:](https://www.linkconsulting.com/its-fun-to-work-at-link/) | Global Tech, Consultancy, Services and Innovation. | `Leiria` `Lisboa` <br> `Porto` `Remote` |
@@ -113,7 +114,6 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Damia](https://www.damiagroup.pt/) [:rocket:](https://www.damiagroup.pt/careers/) | Human 2 Human Tech Recruitment. | `Aveiro` `Lisboa` <br> `Porto` |
 | [Dellent Consulting](https://dellentconsulting.com/) [:rocket:](https://dellentconsulting.com/_carreiras/) | Consultancy, Outsourcing. | `Aveiro` `Lisboa` |
 | [Everis](https://www.everis.com/portugal/pt-pt/home-pt) | Consultancy, Outsourcing. | `Lisboa` |
-| [GLanDrive](https://www.glandrive.pt) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
 | [Inoweiser](https://www.inoweiser.com/) [:rocket:](https://www.inoweiser.com/careers) | Consultancy | `Lisboa` |
 | [Integer Consulting](https://integerconsulting.pt/) [:rocket:](https://integerconsulting.pt/opportunity/) | Consultancy, Outsourcing and Nearshore | `Lisboa` `Porto` |
 | [KCSIT](https://kcsit.pt/) [:rocket:](https://kcsit.pt/carreiras/) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
