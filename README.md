@@ -166,6 +166,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Waterdog](https://waterdog.mobi/) | Web and Mobile development. | `Lisboa` |
 | [Whitesmith](https://www.whitesmith.co/) [:rocket:](https://www.whitesmith.co/#get-in-touch) | Helping clients build amazing digital products that people love. | `Coimbra` `Remote` |
 | [YLD](https://www.yld.io/) [:rocket:](https://www.yld.io/join-us/) | Software engineering, design, training and open-source. | `Lisboa` `Porto` <br> `Remote` |
+| [Yarilabs](https://www.yarilabs.com/) [:rocket:](https://www.yarilabs.com/careers#Open-positions) | Professional Consulting and Product Development | `Braga` `Remote`|
 
 
 ## Developer Tools :hammer_and_wrench:
