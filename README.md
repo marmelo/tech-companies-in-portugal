@@ -109,7 +109,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Alter Solutions](https://www.alter-solutions.com/) [:rocket:](https://www.alter-solutions.com/join-us) | Consultancy, Outsourcing, and Nearshore projects. | `Lisboa` `Porto` |
 | [Ankix](https://www.ankix.com/) [:rocket:](https://www.ankix.com/it-job-offers) | Consultancy, Outsourcing. | `Lisboa` |
 | [Aubay](https://www.aubay.pt/) [:rocket:](https://www.aubay.pt/Home/Opportunities) | Consultancy, Outsourcing, and Nearshore projects. | `Lisboa` `Porto` |
-| [Bee Engineering](https://www.bee-eng.pt/pt/) [:rocket:](https://www.bee-eng.pt/pt/carreira/) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
+| [Bee Engineering](https://www.bee-eng.pt/) [:rocket:](https://www.bee-eng.pt/career) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
 | [BOLD by Devoteam](https://bold.devoteam.com/) [:rocket:](https://bold.devoteam.com/join-us/) | Consultancy, Outsourcing. | `Aveiro` `Lisboa` <br> `Porto` |
 | [Damia](https://www.damiagroup.pt/) [:rocket:](https://www.damiagroup.pt/careers/) | Human 2 Human Tech Recruitment. | `Aveiro` `Lisboa` <br> `Porto` |
 | [Dellent Consulting](https://dellentconsulting.com/) [:rocket:](https://dellentconsulting.com/_carreiras/) | Consultancy, Outsourcing. | `Aveiro` `Lisboa` |
