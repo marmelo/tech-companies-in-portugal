@@ -51,7 +51,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [miio](https://www.miio.pt) [:rocket:](https://www.miio.pt/careers) | Electric mobility digital solutions with fleet management. | `Remote` |
 | [Nexar](https://data.getnexar.com/) [:rocket:](https://nexar-1702298813.teamtailor.com/#jobs) | Automative data collection and intelligence. | `Porto` |
 | [tb.lx](https://tblx.io/) [:rocket:](https://www.tblx.io/careers) | Daimler Trucks and Buses IoT data into intelligent global services. | `Lisboa` |
-| [Volkswagen Digital Solutions](https://www.vwds.pt/) [:rocket:](https://www.linkedin.com/company/volkswagen-digital-solutions/jobs/) | Creating the digital ecosystem for the brands of the Volkswagen Group. | `Lisboa` |
+| [Volkswagen Digital Solutions](https://www.vwds.pt/) [:rocket:](https://www.linkedin.com/company/volkswagen-digital-solutions/jobs/) | Creating the digital ecosystem for the brands of the Volkswagen Group. | `Lisboa` `Porto` |
 
 
 ## Consultancy :man_office_worker: Broad :dizzy:
