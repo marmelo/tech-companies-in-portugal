@@ -404,7 +404,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Celfocus](https://www.celfocus.com/) [:rocket:](https://careers.celfocus.com/) | Vodafone technology development. | `Lisboa` `Porto` |
 | [GoContact](https://www.gocontact.pt/) [:rocket:](https://www.gocontact.pt/join-us/) | Company specialized in integrated solutions for Contact Centers. | `Aveiro` `Lisboa` <br> `Porto`|
 | [Mobileum](https://www.mobileum.com/) [:rocket:](https://www.mobileum.com/careers/) | Telecom analytics solutions provider. | `Braga` `Lisboa` |
-| [Nokia](https://www.nokia.com) [:rocket:](https://www.nokia.com/about-us/careers/opportunities/portugal/) | Communications and information technology company. | `Aveiro` `Lisboa` |
+| [Nokia](https://www.nokia.com) [:rocket:](https://www.nokia.com/about-us/careers/) | Communications and information technology company. | `Aveiro` `Lisboa` |
 | [Readiness IT](https://readinessit.com/) [:rocket:](https://readinessit.com/careers/) | Telecommunications technologies. | `Fundão` `Lisboa` <br> `Porto` `Remote` |
 | [Talkdesk](https://www.talkdesk.com) [:rocket:](https://www.talkdesk.com/careers/) | Enterprise cloud contact center. | `Aveiro` `Coimbra` <br> `Lisboa` `Porto` |
 | [WIT Software](https://www.wit-software.com) [:rocket:](https://www.wit-software.com/careers/) | Software development for telcom services (OTT, RCS, Mobile, Web & others). | `Aveiro` `Coimbra` <br> `Leiria` `Lisboa` <br>`Porto` |
