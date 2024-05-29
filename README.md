@@ -183,7 +183,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Reviewpad](https://www.reviewpad.com) [:rocket:](https://reviewpad.com/discord/hiring) [:octocat:](https://github.com/reviewpad) | Pull request automation to safely merge faster with happy developers. | `Porto` <br> `Remote` |
 | [Rows](https://www.rows.com) [:rocket:](https://github.com/dashdash/hiring) | Create interactive web apps using spreadsheet skills. | `Porto` |
 | [SingleStore](https://www.singlestore.com/) [:rocket:](https://www.singlestore.com/careers/jobs/) | The scalable cloud database for data-intensive applications, deployed on AWS, Azure, or GCP. (formerly MemSQL) | `Lisboa` `Remote` |
-| [Synopsys](https://www.synopsys.com) [:rocket:](https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25235&siteid=5359) | Silicon chip design, verification, IP integration and application security | `Lisbon` `Porto` |
+| [Synopsys](https://www.synopsys.com) [:rocket:](https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25235&siteid=5359) | Silicon chip design, verification, IP integration and application security | `Liaboa` `Porto` |
 | [Stream](https://getstream.io/) [:rocket:](https://getstream.io/team/#jobs) | API and SDK for chat messaging and activity feeds. | `Remote` |
 | [Unbabel](https://unbabel.com) [:rocket:](https://unbabel.com/careers/) [:octocat:](https://github.com/Unbabel) | Translation as a Service. | `Lisboa` |
 
@@ -268,7 +268,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
-| [Alviere](https://alviere.com/) [:rocket:](https://alviere.com/careers) [:octocat:](https://github.com/Alviere) | Full-Stack embedded finance plaftorm. | `Lisbon` |
+| [Alviere](https://alviere.com/) [:rocket:](https://alviere.com/careers) [:octocat:](https://github.com/Alviere) | Full-Stack embedded finance plaftorm. | `Liaboa` |
 | [Anchorage](https://anchorage.com/) [:rocket:](https://anchorage.com/careers/) | The most advanced digital asset platform for secure crypto custody. | `Porto` `Remote` |
 | [Banco Atlântico Europa](https://www.atlantico.eu/) [:rocket:](https://www.atlantico.eu/institucional/carreiras) | A European bank, under the supervision of Banco de Portugal. | `Lisboa` |
 | [BVNK](https://www.bvnk.com/) [:rocket:](https://www.bvnk.com/careers) | One platform bridging traditional and decentralised finance. | `Remote` |
