@@ -181,7 +181,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [OutSystems](https://www.outsystems.com) [:rocket:](https://www.outsystems.com/company/careers/) | Low-code platform to visually develop applications. | `Braga` `Linda-a-Velha` <br> `Proença-a-Nova` |
 | [PagerDuty](https://pagerduty.com/) [:rocket:](https://careers.pagerduty.com/) | Real-time operations and incident management platform | `Lisboa` `Remote` |
 | [Reviewpad](https://www.reviewpad.com) [:rocket:](https://reviewpad.com/discord/hiring) [:octocat:](https://github.com/reviewpad) | Pull request automations to safely merge faster with happy developers. | `Porto` <br> `Remote` |
-| [Rows](https://www.rows.com) [:rocket:](https://github.com/dashdash/hiring) | Create interactive web apps using spreadsheet skills. | `Porto` |
+| [Rows](https://www.rows.com) [:rocket:](https://github.com/rows/hiring) [:octocat:](https://github.com/rows) | Create interactive web apps using spreadsheet skills. | `Porto` `Remote` |
 | [SingleStore](https://www.singlestore.com/) [:rocket:](https://www.singlestore.com/careers/jobs/) | The scalable cloud database for data-intensive applications, deployed on AWS, Azure, or GCP. (formerly MemSQL) | `Lisboa` `Remote` |
 | [Synopsys](https://www.synopsys.com) [:rocket:](https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25235&siteid=5359) | Silicon chip design, verification, IP integration and application security | `Lisbon` `Porto` |
 | [Stream](https://getstream.io/) [:rocket:](https://getstream.io/team/#jobs) | API and SDK for chat messaging and activity feeds. | `Remote` |
