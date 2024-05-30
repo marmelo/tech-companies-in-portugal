@@ -3,14 +3,14 @@
 [![Build Status](https://github.com/marmelo/tech-companies-in-portugal/actions/workflows/main.yml/badge.svg)](https://github.com/marmelo/tech-companies-in-portugal/actions/workflows/main.yml)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/marmelo/tech-companies-in-portugal/blob/master/LICENSE)
 
-This is a opinionated list of some technology companies operating in Portugal.
-If you find something wrong or want to add another company please [follow the rules](CONTRIBUTING.md) to contribute with a pull request.
+This is an opinionated list of some technology companies operating in Portugal.
+If you find something wrong or want to add another company, please [follow the rules](CONTRIBUTING.md) to contribute with a pull request.
 
-Are you seeking for a job? Click :rocket: to check the company's careers page.
+Are you seeking a job? Click :rocket: to check the company's careers page.
 
 It's also a good idea to check and, when possible, give reviews on [Teamlyzer](https://pt.teamlyzer.com/) and [Glassdoor](https://www.glassdoor.com/).
 
-Checking out the company's Tech stack through [Stackshare](https://stackshare.io/) might also interest you.
+Checking the company's Tech stack through [Stackshare](https://stackshare.io/) might also interest you.
 
 
 ### Categories
@@ -134,7 +134,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | :------ | :---------- | :-------- |
 | [BI4ALL](https://www.bi4all.pt/en/) [:rocket:](https://www.linkedin.com/company/bi4all/jobs/) | Consulting services with several analytics solutions. | `Lisboa` `Porto` |
 | [Critical Software](https://www.criticalsoftware.com) [:rocket:](https://www.criticalsoftware.com/careers) | Mission and business-critical applications. | `Coimbra` `Lisboa` <br> `Porto` `Tomar` <br> `Vila Real` `Viseu` |
-| [Eyenov](https://eyenov.com) | Computer Vision. Machine Learning. Mobile, desktop and embedded. | `Lisboa` `Remote` |
+| [Eyenov](https://eyenov.com) | Computer Vision. Machine Learning. Mobile, desktop, and embedded. | `Lisboa` `Remote` |
 | [DareData Engineering](https://daredata.engineering/) [:rocket:](https://www.daredata.engineering/jointheteam) | Data Science, Data Engineering and MLOps Consulting Boutique. | `Remote` |
 | [Fruition Partners](https://www.fruitionpartners.nl/) | Consultancy and Application Development based on ServiceNow. | `Fundão` `Lisboa` |
 | [JTA](https://www.thedatascientists.com/) [:rocket:](https://www.thedatascientists.com) | Machine Learning, Reporting and custom vizualizations services. | `Porto` |
@@ -148,7 +148,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
-| [7egend](https://www.7egend.cr/) [:rocket:](https://jobs.7egend.cr/) | Digital Agency with focus on Web, Mobile and IoT. | `Lisboa` `Porto` |
+| [7egend](https://www.7egend.cr/) [:rocket:](https://jobs.7egend.cr/) | Digital Agency with a focus on Web, Mobile, and IoT. | `Lisboa` `Porto` |
 | [Bliss Applications](https://www.blissapplications.com/) [:rocket:](https://www.blissapplications.com/careers) | UX/UI & software-driven company. | `Lisboa` `Porto` |
 | [Coletiv](https://www.coletiv.com) [:rocket:](https://coletiv.com/#jobs) | Mobile and backend development. | `Porto` |
 | [Criativatek](https://criativatek.com) [:rocket:](https://www.linkedin.com/company/criativatek) | Web, mobile, development and design services. | `Leiria` |
@@ -156,14 +156,14 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Dengun](https://www.dengun.com/) [:rocket:](https://www.dengun.com/careers/) | Web, Mobile development and digital marketing. | `Faro` |
 | [Imaginary Cloud](https://www.imaginarycloud.com) [:rocket:](https://www.imaginarycloud.com/careers) | Web, mobile, development and design services. | `Lisboa` |
 | [Load](https://load.digital/) [:rocket:](https://load.digital/careers) | Design Thinking, Web, Mobile, IoT, New Tech (VR, AI, Blockchain) | `Aveiro` `Remote` |
-| [Mosano](https://mosano.eu) [:rocket:](https://mosano.eu/join-us) | Software House focusing Digital Products for the web and mobile. | `Porto` `Remote` |
+| [Mosano](https://mosano.eu) [:rocket:](https://mosano.eu/join-us) | Software House focusing on Digital Products for the web and mobile. | `Porto` `Remote` |
 | [Pixelmatters](https://pixelmatters.com) [:rocket:](https://www.pixelmatters.com/careers/) | Digital product design and development company. | `Porto` |
 | [Redlight Software](https://redlight.dev) | Web and mobile development studio focused on products. | `Coimbra` `Lisboa` |
 | [Runtime Revolution](https://www.runtime-revolution.com/) [:rocket:](https://www.runtime-revolution.com/careers) | Web and mobile product development. | `Lisboa` |
 | [Significa](https://significa.co) [:rocket:](https://significa.co/careers/) [:octocat:](https://github.com/significa) | Digital design-led studio focused on product development. | `Porto` `Remote` |
 | [Subvisual](https://subvisual.com/) | Web development and design firm. | `Braga` |
 | [Untile](https://untile.pt/) | Digital products. | `Viana do Castelo` |
-| [Vizzuality](https://www.vizzuality.com) [:rocket:](https://vizzuality.bamboohr.com/jobs/) | Digital Agency focused in having a positive impact in the world. | `Porto` `remote` |
+| [Vizzuality](https://www.vizzuality.com) [:rocket:](https://vizzuality.bamboohr.com/jobs/) | Digital Agency focused on having a positive impact in the world. | `Porto` `remote` |
 | [Waterdog](https://waterdog.mobi/) | Web and Mobile development. | `Lisboa` |
 | [Whitesmith](https://www.whitesmith.co/) [:rocket:](https://www.whitesmith.co/#get-in-touch) | Helping clients build amazing digital products that people love. | `Coimbra` `Remote` |
 | [Yarilabs](https://www.yarilabs.com/) [:rocket:](https://www.yarilabs.com/careers#Open-positions) | Professional Consulting and Product Development | `Braga` `Remote`|
@@ -180,10 +180,10 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Oracle](https://www.oracle.com/index.html) [:rocket:](https://www.oracle.com/corporate/careers/) | DBMS's and information systems. | `Lisboa` `Porto` <br> `Remote` |
 | [OutSystems](https://www.outsystems.com) [:rocket:](https://www.outsystems.com/company/careers/) | Low-code platform to visually develop applications. | `Braga` `Linda-a-Velha` <br> `Proença-a-Nova` |
 | [PagerDuty](https://pagerduty.com/) [:rocket:](https://careers.pagerduty.com/) | Real-time operations and incident management platform | `Lisboa` `Remote` |
-| [Reviewpad](https://www.reviewpad.com) [:rocket:](https://reviewpad.com/discord/hiring) [:octocat:](https://github.com/reviewpad) | Pull request automations to safely merge faster with happy developers. | `Porto` <br> `Remote` |
+| [Reviewpad](https://www.reviewpad.com) [:rocket:](https://reviewpad.com/discord/hiring) [:octocat:](https://github.com/reviewpad) | Pull request automation to safely merge faster with happy developers. | `Porto` <br> `Remote` |
 | [Rows](https://www.rows.com) [:rocket:](https://github.com/dashdash/hiring) | Create interactive web apps using spreadsheet skills. | `Porto` |
 | [SingleStore](https://www.singlestore.com/) [:rocket:](https://www.singlestore.com/careers/jobs/) | The scalable cloud database for data-intensive applications, deployed on AWS, Azure, or GCP. (formerly MemSQL) | `Lisboa` `Remote` |
-| [Synopsys](https://www.synopsys.com) [:rocket:](https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25235&siteid=5359) | Silicon chip design, verification, IP integration and application security | `Lisbon` `Porto` |
+| [Synopsys](https://www.synopsys.com) [:rocket:](https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25235&siteid=5359) | Silicon chip design, verification, IP integration and application security | `Lisboa` `Porto` |
 | [Stream](https://getstream.io/) [:rocket:](https://getstream.io/team/#jobs) | API and SDK for chat messaging and activity feeds. | `Remote` |
 | [Unbabel](https://unbabel.com) [:rocket:](https://unbabel.com/careers/) [:octocat:](https://github.com/Unbabel) | Translation as a Service. | `Lisboa` |
 
@@ -215,7 +215,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
-| [DreamShaper](https://dreamshaper.com/) | Classroom tools to improve student work related skills. | `Lisboa` `Porto` <br> `Remote` |
+| [DreamShaper](https://dreamshaper.com/) | Classroom tools to improve student work-related skills. | `Lisboa` `Porto` <br> `Remote` |
 | [Edubox](https://edubox.pt) [:rocket:](https://edubox.pt/candidaturas)| Educational solutions and school management software. | `Aveiro` |
 | [ELSA](https://elsaspeak.com/) [:rocket:](https://elsaspeak.com/careers)| AI-powered tool to improve pronunciation skills. | `Lisboa` `Remote` |
 | [MUSa Software](https://musasoftware.com/) | ERP and web products for art schools. | `Viana do Castelo` |
@@ -268,15 +268,15 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
-| [Alviere](https://alviere.com/) [:rocket:](https://alviere.com/careers) [:octocat:](https://github.com/Alviere) | Full-Stack embedded finance plaftorm. | `Lisbon` |
+| [Alviere](https://alviere.com/) [:rocket:](https://alviere.com/careers) [:octocat:](https://github.com/Alviere) | Full-Stack embedded finance plaftorm. | `Lisboa` |
 | [Anchorage](https://anchorage.com/) [:rocket:](https://anchorage.com/careers/) | The most advanced digital asset platform for secure crypto custody. | `Porto` `Remote` |
-| [Banco Atlântico Europa](https://www.atlantico.eu/) [:rocket:](https://www.atlantico.eu/institucional/carreiras) | An European bank, under the supervision of Banco de Portugal. | `Lisboa` |
+| [Banco Atlântico Europa](https://www.atlantico.eu/) [:rocket:](https://www.atlantico.eu/institucional/carreiras) | A European bank, under the supervision of Banco de Portugal. | `Lisboa` |
 | [BVNK](https://www.bvnk.com/) [:rocket:](https://www.bvnk.com/careers) | One platform bridging traditional and decentralised finance. | `Remote` |
 | [Carpe Data](https://carpe.io/) [:rocket:](https://carpe.io/career/) | Next-Generation Data for Insurance. | `Lisboa` |
 | [Checkout.com](https://checkout.com/) [:rocket:](https://checkout.com/careers/) | Payments Platform. | `Porto` |
 | [Euronext](https://www.euronext.com) [:rocket:](https://www.euronext.com/pt/about/careers) | European stock exchange operator. | `Porto` |
 | [Feedzai](https://feedzai.com) [:rocket:](https://careers.feedzai.com) [:octocat:](https://github.com/feedzai) | Fraud detection platform to make commerce safe. | `Coimbra` `Lisboa` <br> `Porto` `Remote` |
-| [Fidel](https://fidel.uk) [:rocket:](https://fidel.uk/careers/) | One API for linking bank cards to digital applications, globally. | `Lisboa` |
+| [Fidel](https://fidel.uk) [:rocket:](https://fidel.uk/careers/) | One API for linking bank cards to digital applications globally. | `Lisboa` |
 | [Finiam](https://www.finiam.com/) [:rocket:](https://www.finiam.com/#contact) | Improving people's lives by untangling the financial world. | `Braga` `Remote` |
 | [Fractal](https://web.fractal.id) | Enabling open finance with a new Internet Identity layer. | `Porto` `Remote` |
 | [ITSector](https://www.itsector.pt/pt) [:rocket:](https://www.itsector.pt/pt/carreiras) | Software for financial institutions. | `Aveiro` `Braga` <br> `Bragança` `Lisboa` <br> `Porto` |
@@ -288,11 +288,11 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Natixis](https://natixis.groupebpce.com/) [:rocket:](https://recrutement.natixis.com/) | French corporate and investment bank. | `Porto` |
 | [Onfido](https://www.onfido.com) [:rocket:](https://onfido.com/company/careers/) | Identity verification at the speed of life. | `Lisboa` |
 | [Revolut](https://www.revolut.com) [:rocket:](https://www.revolut.com/pt-PT/careers) | A digital banking alternative to conventional banks. | `Porto` |
-| [Samlino Group](https://samlinogroup.com/) [:rocket:](https://samlinogroup.com/careers/) | Financial products comparision for several markets (eg: [ComparaJá](https://www.comparaja.pt)). | `Lisboa` |
+| [Samlino Group](https://samlinogroup.com/) [:rocket:](https://samlinogroup.com/careers/) | Financial products comparison for several markets (e.g.: [ComparaJá](https://www.comparaja.pt)). | `Lisboa` |
 | [Seedrs](https://www.seedrs.com) [:rocket:](https://www.seedrs.com/careers) | Equity marketplace for everyone. | `Lisboa` |
 | [SIBS](https://www.sibs.com/) [:rocket:](https://sibs-sgps.zohorecruit.eu/careers) | Major Portuguese payment processor. | `Lisboa` |
 | [StudentFinance](https://studentfinance.com/) | Disrupting education through Income Share Agreements | `Lisboa` `Remote` |
-| [SwissBorg](https://swissborg.com/) [:rocket:](https://swissborg.com/careers) | Crypto currencies exchange | `Remote` |
+| [SwissBorg](https://swissborg.com/) [:rocket:](https://swissborg.com/careers) | Cryptocurrencies exchange | `Remote` |
 | [Switch](https://switchpayments.com/) [:rocket:](https://switchpayments.com/about/careers) | The payments infrastructure for interoperability. | `Lisboa` `Porto` |
 | [Uphold](https://uphold.com/) [:rocket:](https://uphold.com/resources/careers) | US cloud based financial services platform. | `Braga` |
 
@@ -304,7 +304,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [ESL FACEIT GROUP](https://eslfaceitgroup.com/) [:rocket:](https://eslfaceitgroup.com/career/)| E-Sports and social platform. | `Remote` |
 | [Fabamaq](https://www.fabamaq.com/) [:rocket:](https://www.fabamaq.com/pages.php?page_id=311) | Casino digital games. | `Porto` |
 | [Fun Punch Games](https://funpunchgames.com/) | Independent game development studio. | `Lisboa` |
-| [Funcom ZPX](https://www.funcom.com/) [:rocket:](https://www.funcom.com/funcom-zpx/) | Full-range game development studio offering design, art, coding. | `Lisboa` |
+| [Funcom ZPX](https://www.funcom.com/) [:rocket:](https://www.funcom.com/funcom-zpx/) | Full-range game development studio offering design, art, and coding. | `Lisboa` |
 | [Ground Control](https://www.gcontrolgames.com/) | Indie games/VR studio. | `Porto` |
 | [Miniclip](https://www.miniclip.com/) [:rocket:](https://corporate.miniclip.com/careers/vacancies) | Mobile and web game development company. | `Lisboa` |
 | [Not a Game Studio](https://www.notagamestudio.com/) | Game development studio focused on the experience of the users. | `Lisboa` |
@@ -369,12 +369,12 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Checkmarx](https://www.checkmarx.com/) [:rocket:](https://www.checkmarx.com/company/careers/) | Manage Software Exposure at the Speed of DevOps. | `Braga` |
 | [Cipher](https://www.cipher.com/) | Security services for enterprises and government agencies. | `Coimbra` `Lisboa` <br> `Porto` |
 | [Cloudflare](https://www.cloudflare.com/) [:rocket:](https://www.cloudflare.com/careers/jobs/) [:octocat:](https://github.com/cloudflare) | Secures and ensures reliability of websites, APIs, and applications. | `Lisboa` `Remote` |
-| [Cybersafe](https://www.cybersafe.pt/) | Training, solutions integrator and managed security services. | `Alfragide` |
+| [Cybersafe](https://www.cybersafe.pt/) | Training, solutions integrator, and managed security services. | `Alfragide` |
 | [Dashlane](https://www.dashlane.com/) [:rocket:](https://www.dashlane.com/about/careers) | Password manager and online security app. | `Lisboa` |
 | [Barracuda Networks](https://www.barracuda.com/) [:rocket:](https://www.barracuda.com/company/careers) | Builds Security, Networking and Storage products. | `Porto` <br> `Remote` |
 | [Integrity](https://www.integrity.pt/) [:rocket:](https://www.integrity.pt/careers.html) | Consulting and tech audit focused on information Security. | `Lisboa` |
 | [Jscrambler](https://jscrambler.com) [:rocket:](https://jscrambler.com/careers) | JavaScript application integrity and security. | `Porto` |
-| [Layer8](https://www.layer8.pt) | Consulting, technology and security managed services. | `Lisboa` |
+| [Layer8](https://www.layer8.pt) | Consulting, technology, and security managed services. | `Lisboa` |
 | [Multicert](https://www.multicert.com) [:rocket:](https://sibs-sgps.zohorecruit.eu/careers) | CA, enterprise security software products and consulting. | `Lisboa` `Porto` |
 | [NCC Group](https://www.nccgroup.com/pt/) [:rocket:](https://www.nccgroupplc.com/careers/) | Global experts in cyber security and risk mitigation. | `Lisboa` `Remote` |
 | [Probely](https://probely.com) [:rocket:](https://careers.probely.com) | Automated web application security scanning as a service. | `Lisboa` |
@@ -407,7 +407,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Nokia](https://www.nokia.com) [:rocket:](https://www.nokia.com/about-us/careers/) | Communications and information technology company. | `Aveiro` `Lisboa` |
 | [Readiness IT](https://readinessit.com/) [:rocket:](https://readinessit.com/careers/) | Telecommunications technologies. | `Fundão` `Lisboa` <br> `Porto` `Remote` |
 | [Talkdesk](https://www.talkdesk.com) [:rocket:](https://www.talkdesk.com/careers/) | Enterprise cloud contact center. | `Aveiro` `Coimbra` <br> `Lisboa` `Porto` |
-| [WIT Software](https://www.wit-software.com) [:rocket:](https://www.wit-software.com/careers/) | Software development for telcom services (OTT, RCS, Mobile, Web & others). | `Aveiro` `Coimbra` <br> `Leiria` `Lisboa` <br>`Porto` |
+| [WIT Software](https://www.wit-software.com) [:rocket:](https://www.wit-software.com/careers/) | Software development for telecom services (OTT, RCS, Mobile, Web & others). | `Aveiro` `Coimbra` <br> `Leiria` `Lisboa` <br>`Porto` |
 | [Truphone](https://www.truphone.com) [:rocket:](https://web.truphone.com/careers/) | Global mobile connectivity and eSIM technology innovator. | `Lisboa` |
 
 
