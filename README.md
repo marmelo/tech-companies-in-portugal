@@ -227,7 +227,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | :------ | :---------- | :-------- |
 | [Amazon Web Services](https://amazon.com/aws) [:rocket:](https://www.amazon.jobs/pt/search?country%5B%5D=PRT&business_category%5B%5D=amazon-web-services)  [:octocat:](https://github.com/aws) | AWS services offer scalable solutions for compute, storage, databases, analytics, and more. | `Lisboa` |
 | [Amenitiz](https://www.amenitiz.com/) [:rocket:](https://careers.amenitiz.io/) | Hotel Management Software | `Remote` |
-| [Amplemarket](https://amplemarket.com/) [:rocket:](https://amplemarket.com/careers) | AI powered sales assistant. | `Lisboa` |
+| [Amplemarket](https://amplemarket.com/) [:rocket:](https://amplemarket.com/careers) | AI powered sales assistant. | `Remote` |
 | [ARTSOFT](https://www.artsoft.pt/) [:rocket:](https://www.artsoft.pt/carreiras) | ERP Software | `Lisboa` |
 | [CASAFARI](https://www.casafari.com/) [:rocket:](https://www.casafari.com/careers) | Real Estate Market information from agencies and private owners. | `Lisboa` |
 | [Cisco](https://www.cisco.com/) [:rocket:](https://www.cisco.com/c/en/us/about/careers.html) [:octocat:](https://github.com/cisco) | Network solutions. | `Oeiras` |
