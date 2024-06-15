@@ -321,6 +321,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Nutrium](https://www.nutrium.com/) [:rocket:](https://nutrium.factorialhr.pt/#jobs) | Nutrition platform for improving eating habits around the world. | `Braga` `Lisboa` `Remote` |
 | [Promptly](https://www.promptlyhealth.com/) [:rocket:](https://www.promptlyhealth.com/en/careers/) | Follow-up the outcomes of your medical treatments. | `Porto` |
 | [Sword Health](https://swordhealth.com/) [:rocket:](https://jobs.lever.co/swordhealth) | Improving the musculoskeletal pain treatment process. | `Porto` `Remote` |
+| [Olympus](https://www.olympus.pt/) [:rocket:](https://www.olympus.pt/company/pt/carreiras/empregos/) | Advancing medical technologies to make the most of life. | `Coimbra` `Remote` |
 
 
 ## Industry :factory:
