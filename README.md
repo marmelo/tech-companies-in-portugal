@@ -319,9 +319,9 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [iLoF](https://ilof.tech/) | Revolutionizing Alzheimer’s drug discovery using bio-photonics and AI. | `Porto` |
 | [LetsGetChecked](https://www.letsgetchecked.com/) [:rocket:](https://boards.eu.greenhouse.io/letsgetchecked/) | The future of healthcare starts at home. | `Porto` `Remote` |
 | [Nutrium](https://www.nutrium.com/) [:rocket:](https://nutrium.factorialhr.pt/#jobs) | Nutrition platform for improving eating habits around the world. | `Braga` `Lisboa` `Remote` |
+| [Olympus](https://www.olympus.pt/) [:rocket:](https://www.olympus.pt/company/pt/carreiras/empregos/) | Advancing medical technologies to make the most of life. | `Coimbra` `Remote` |
 | [Promptly](https://www.promptlyhealth.com/) [:rocket:](https://www.promptlyhealth.com/en/careers/) | Follow-up the outcomes of your medical treatments. | `Porto` |
 | [Sword Health](https://swordhealth.com/) [:rocket:](https://jobs.lever.co/swordhealth) | Improving the musculoskeletal pain treatment process. | `Porto` `Remote` |
-| [Olympus](https://www.olympus.pt/) [:rocket:](https://www.olympus.pt/company/pt/carreiras/empregos/) | Advancing medical technologies to make the most of life. | `Coimbra` `Remote` |
 
 
 ## Industry :factory:
