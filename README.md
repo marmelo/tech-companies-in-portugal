@@ -163,7 +163,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Significa](https://significa.co) [:rocket:](https://significa.co/careers/) [:octocat:](https://github.com/significa) | Digital design-led studio focused on product development. | `Porto` `Remote` |
 | [Subvisual](https://subvisual.com/) | Web development and design firm. | `Braga` |
 | [Untile](https://untile.pt/) | Digital products. | `Viana do Castelo` |
-| [Vizzuality](https://www.vizzuality.com) [:rocket:](https://vizzuality.bamboohr.com/jobs/) | Digital Agency focused on having a positive impact in the world. | `Porto` `remote` |
+| [Vizzuality](https://www.vizzuality.com) [:rocket:](https://vizzuality.bamboohr.com/jobs/) [:octocat:](https://github.com/Vizzuality) | Digital Agency focused on having a positive impact in the world. | `Porto` `remote` |
 | [Waterdog](https://waterdog.mobi/) | Web and Mobile development. | `Lisboa` |
 | [Whitesmith](https://www.whitesmith.co/) [:rocket:](https://www.whitesmith.co/#get-in-touch) | Helping clients build amazing digital products that people love. | `Coimbra` `Remote` |
 | [Yarilabs](https://www.yarilabs.com/) [:rocket:](https://www.yarilabs.com/careers#Open-positions) | Professional Consulting and Product Development | `Braga` `Remote`|
@@ -174,7 +174,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
-| [Codacy](https://www.codacy.com) [:rocket:](https://www.codacy.com/careers) | Automated code reviews & code analytics. | `Lisboa` `Remote` |
+| [Codacy](https://www.codacy.com) [:rocket:](https://www.codacy.com/careers) [:octocat:](https://github.com/codacy) | Automated code reviews & code analytics. | `Lisboa` `Remote` |
 | [Datadog](https://www.datadog.com) [:rocket:](https://careers.datadoghq.com/) | Cloud monitoring as a service | `Remote` |
 | [Docker](https://docker.com) [:rocket:](https://www.docker.com/careers/) [:octocat:](https://github.com/docker) | Container and k8s tooling for developers. | `Remote` |
 | [Oracle](https://www.oracle.com/index.html) [:rocket:](https://www.oracle.com/corporate/careers/) | DBMS's and information systems. | `Lisboa` `Porto` <br> `Remote` |
@@ -249,7 +249,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [kununu](https://www.kununu.com/) [:rocket:](https://corporate.xing.com/en/career/porto/) | Workplace insights that matter. | `Porto` |
 | [Mind](https://www.mind.pt/) | Information management and industrial systems. | `Lisboa` `Porto` |
 | [Moviik](https://www.moviik.com) | Customer Journey Management Platform. | `Braga` |
-| [Nmbrs](https://www.nmbrs.com/) [:rocket:](https://www.nmbrs.com/en/careers) | HR & Payroll software. | `Lisboa` |
+| [Nmbrs](https://www.nmbrs.com/) [:rocket:](https://www.nmbrs.com/en/careers) [:octocat:](https://github.com/Nmbrs) | HR & Payroll software. | `Lisboa` |
 | [PandaDoc](https://www.pandadoc.com/) [:rocket:](https://www.pandadoc.com/careers/) [:octocat:](https://github.com/PandaDoc) | Manage and e-sign Documents. | `Lisboa` `Remote` |
 | [Petapilot](https://www.petapilot.com/) | Big Data Solutions. | `Porto` |
 | [PHC Software](https://www.phcsoftware.com/) [:rocket:](https://www.phcsoftware.com/carreiras/) | ERP software. | `Lisboa` `Porto` |
