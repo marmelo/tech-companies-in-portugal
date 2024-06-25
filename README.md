@@ -395,7 +395,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
-| [Gympass](https://gympass.com/) [:rocket:](https://gympass.com/careers) | A discovery platform that helps you stay active and healthy. | `Lisboa` |
+| [Wellhub](https://wellhub.com/) [:rocket:](https://wellhub.com/careers) | A discovery platform that helps you stay active and healthy. | `Lisboa` `Remote` |
 
 
 ## Telcos :telephone_receiver:
