@@ -196,7 +196,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Farfetch](https://www.farfetch.com) [:rocket:](https://farfetchgroupcareers.com/jobs) | Global technology platform for luxury fashion. | `Braga` `Lisboa` <br> `Porto` |
 | [Jumia](https://group.jumia.com) [:rocket:](https://group.jumia.com/careers) | Online Shopping for Electronics, Phones & Fashion in Africa. | `Porto` |
 | [Jumpseller](https://jumpseller.com) [:rocket:](https://jumpseller.com/jobs) | E-commerce platform to create online stores. | `Porto` |
-| [Kaizen Gaming](https://kaizengaming.com/home) [:rocket:](https://careers.kaizengaming.com/home) | Online betting and gambling operator. | `Lisboa` |
+| [Kaizen Gaming](https://kaizengaming.com) [:rocket:](https://careers.kaizengaming.com) | Online betting and gambling operator. | `Lisboa` |
 | [La Redoute](https://www.laredoute-corporate.com/en/homepage/) [:rocket:](https://www.linkedin.com/company/la-redoute/jobs/) | Home & Fashion online. | `Leiria` |
 | [Loggi](https://www.loggi.com/) [:rocket:](https://www.loggi.com/carreiras/) | An e-commerce delivery platform. | `Lisboa` |
 | [OLX](https://www.olxgroup.com) [:rocket:](https://careers.olxgroup.com/#locationFilter=Portugal) | Network of market-leading trading platforms across 5 countries. | `Lisboa` |
