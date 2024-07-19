@@ -286,7 +286,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Kraken](https://www.kraken.com) [:rocket:](https://www.kraken.com/careers) | Kraken is a cryptocurrency exchange and bank. | `Remote` |
 | [LoanDolphin](https://loandolphin.com.au/) [:rocket:](https://loandolphin.breezy.hr/) | Home loan marketplace. | `Lisboa` `Remote` |
 | [Moonpay](https://www.moonpay.com) [:rocket:](https://www.moonpay.com/careers) | Solutions for payments, smart contracts, and digital asset management. | `Lisboa` `Remote` |
-| [Pleo](https://www.pleo.io) [:rocket:](https://www.pleo.io/en/careers/jobs) | Centralise your business spending for complete financial efficiency and balance the books effortlessly. | `Lisboa` `Remote` |
+| [Pleo](https://www.pleo.io) [:rocket:](https://www.pleo.io/en/careers/jobs) | Smart payment cards and expense management tools for businesses | `Lisboa` `Remote` |
 | [Natixis](https://natixis.groupebpce.com/) [:rocket:](https://recrutement.natixis.com/) | French corporate and investment bank. | `Porto` |
 | [Onfido](https://www.onfido.com) [:rocket:](https://onfido.com/company/careers/) | Identity verification at the speed of life. | `Lisboa` |
 | [Revolut](https://www.revolut.com) [:rocket:](https://www.revolut.com/pt-PT/careers) [:octocat:](https://github.com/revolut-engineering) | A digital banking alternative to conventional banks. | `Porto` |
@@ -423,4 +423,4 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Hostelworld](https://www.hostelworld.com/) [:rocket:](https://www.hostelworldgroup.com/careers) | World's leading hostel-focused online booking platform. | `Porto` |
 | [Ryanair](https://www.ryanair.com/pt/pt) [:rocket:](https://careers.ryanair.com/jobs/?ryanair-jobs-department=21233) | Ryanair is an Irish ultra low-cost carrier. | `Lisboa` `Porto`|
 | [TripAdvisor](https://www.tripadvisor.com) [:rocket:](https://careers.tripadvisor.com) | The largest "social travel website" in the world. | `Lisboa` |
-| [Vision-Box](https://www.vision-box.com/) [:rocket:](https://visionbox.teamtailor.com/jobs) | End-to-end solutions that combine a comprehensive software platform with seamless and contactless state-of-the-art equipment, making a travel journey feel effortless. | `Lisboa` |
+| [Vision-Box](https://www.vision-box.com/) [:rocket:](https://visionbox.teamtailor.com/jobs) | Biometric solutions for automated border control, identity management, and security. | `Lisboa` |
