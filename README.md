@@ -192,6 +192,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | :------ | :---------- | :-------- |
 | [360imprimir](https://www.360imprimir.pt/) [:rocket:](https://www.360imprimir.pt/Home/Carreiras) | Online platform for marketing products and services. | `Braga` `Lisboa` <br> `Torres Vedras` |
 | [Aptoide](https://www.aptoide.com/) [:rocket:](https://pt.aptoide.com/company/jobs) | Your Android app store. | `Lisboa` |
+| [Barkyn](https://barkyn.com/) [:rocket:](https://barkyn.factorialhr.pt/) | Barkyn delivers health and happiness to pet families around the world. | `Porto` |
 | [Blip](https://blip.pt) [:rocket:](https://blip.pt/jobs/) | Online betting and gambling operator. | `Porto` |
 | [Farfetch](https://www.farfetch.com) [:rocket:](https://farfetchgroupcareers.com/jobs) | Global technology platform for luxury fashion. | `Braga` `Lisboa` <br> `Porto` |
 | [Jumia](https://group.jumia.com) [:rocket:](https://group.jumia.com/careers) | Online Shopping for Electronics, Phones & Fashion in Africa. | `Porto` |
