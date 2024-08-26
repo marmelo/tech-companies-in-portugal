@@ -308,10 +308,10 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Fun Punch Games](https://funpunchgames.com/) | Independent game development studio. | `Lisboa` |
 | [Funcom ZPX](https://www.funcom.com/) [:rocket:](https://www.funcom.com/funcom-zpx/) | Full-range game development studio offering design, art, and coding. | `Lisboa` |
 | [Ground Control](https://www.gcontrolgames.com/) | Indie games/VR studio. | `Porto` |
-| [Marmalade Game Studio](https://www.marmaladegamestudio.com/) [:rocket:](https://career.marmaladegamestudio.com/) | Video game development company. | `Almada` `Remote` |
+| [Marmalade Game Studio](https://www.marmaladegamestudio.com/) [:rocket:](https://career.marmaladegamestudio.com/) | Video game development company with several adaptations of classic board games. | `Almada` `Remote` |
 | [Miniclip](https://www.miniclip.com/) [:rocket:](https://corporate.miniclip.com/careers/vacancies) | Mobile and web game development company. | `Lisboa` |
 | [Not a Game Studio](https://www.notagamestudio.com/) | Game development studio focused on the experience of the users. | `Lisboa` |
-| [Redcatpig](https://www.redcatpig.com/) [:rocket:](https://www.redcatpig.com/careers/) | Video game development studio. | `Angra do Heroísmo` |
+| [Redcatpig](https://www.redcatpig.com/) [:rocket:](https://www.redcatpig.com/careers/) | Video game development studio responsible for games like KEO. | `Angra do Heroísmo` |
 
 
 ## Healthcare :heart:
