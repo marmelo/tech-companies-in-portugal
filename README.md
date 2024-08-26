@@ -108,7 +108,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Alter Solutions](https://www.alter-solutions.com/) [:rocket:](https://www.alter-solutions.com/join-us) | Consultancy, Outsourcing, and Nearshore projects. | `Lisboa` `Porto` |
 | [Ankix](https://www.ankix.com/) [:rocket:](https://www.ankix.com/it-job-offers) | Consultancy, Outsourcing. | `Lisboa` |
 | [Aubay](https://www.aubay.pt/) [:rocket:](https://www.aubay.pt/talento) | Consultancy, Outsourcing, and Nearshore projects. | `Lisboa` `Porto` |
-| [Bee Engineering](https://www.bee-eng.pt/) [:rocket:](https://www.bee-eng.pt/career) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
+| [Bee Engineering](https://www.bee-eng.pt/) [:rocket:](https://www.bee-eng.pt/lista-empregos) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
 | [BOLD by Devoteam](https://bold.devoteam.com/) [:rocket:](https://bold.devoteam.com/join-us/) | Consultancy, Outsourcing. | `Aveiro` `Lisboa` <br> `Porto` |
 | [Damia](https://www.damiagroup.pt/) [:rocket:](https://www.damiagroup.pt/careers/) | Human 2 Human Tech Recruitment. | `Aveiro` `Lisboa` <br> `Porto` |
 | [Dellent Consulting](https://dellentconsulting.com/) [:rocket:](https://dellentconsulting.com/_carreiras/) | Consultancy, Outsourcing. | `Aveiro` `Lisboa` |
@@ -192,6 +192,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | :------ | :---------- | :-------- |
 | [360imprimir](https://www.360imprimir.pt/) [:rocket:](https://www.360imprimir.pt/Home/Carreiras) | Online platform for marketing products and services. | `Braga` `Lisboa` <br> `Torres Vedras` |
 | [Aptoide](https://www.aptoide.com/) [:rocket:](https://pt.aptoide.com/company/jobs) | Your Android app store. | `Lisboa` |
+| [Barkyn](https://barkyn.com/) [:rocket:](https://barkyn.factorialhr.pt/) | Barkyn delivers health and happiness to pet families around the world. | `Porto` |
 | [Blip](https://blip.pt) [:rocket:](https://blip.pt/jobs/) | Online betting and gambling operator. | `Porto` |
 | [Farfetch](https://www.farfetch.com) [:rocket:](https://farfetchgroupcareers.com/jobs) | Global technology platform for luxury fashion. | `Braga` `Lisboa` <br> `Porto` |
 | [Jumia](https://group.jumia.com) [:rocket:](https://group.jumia.com/careers) | Online Shopping for Electronics, Phones & Fashion in Africa. | `Porto` |
