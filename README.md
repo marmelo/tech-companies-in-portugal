@@ -132,7 +132,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
 | [BI4ALL](https://www.bi4all.pt/en/) [:rocket:](https://www.linkedin.com/company/bi4all/jobs/) | Consulting services with several analytics solutions. | `Lisboa` `Porto` |
-| [Critical Software](https://www.criticalsoftware.com) [:rocket:](https://www.criticalsoftware.com/careers) | Mission and business-critical applications. | `Coimbra` `Lisboa` <br> `Porto` `Tomar` <br> `Vila Real` `Viseu` |
+| [Critical Software](https://www.criticalsoftware.com) [:rocket:](https://www.criticalsoftware.com/careers) | Mission and business-critical applications. | `Coimbra` `Lisboa` <br> `Porto` <br> `Viseu` |
 | [Eyenov](https://eyenov.com) | Computer Vision. Machine Learning. Mobile, desktop, and embedded. | `Lisboa` `Remote` |
 | [DareData Engineering](https://daredata.engineering/) [:rocket:](https://www.daredata.engineering/jointheteam) | Data Science, Data Engineering and MLOps Consulting Boutique. | `Remote` |
 | [Fruition Partners](https://www.fruitionpartners.nl/) | Consultancy and Application Development based on ServiceNow. | `Fundão` `Lisboa` |
