@@ -134,7 +134,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [BI4ALL](https://www.bi4all.pt/en/) [:rocket:](https://www.linkedin.com/company/bi4all/jobs/) | Consulting services with several analytics solutions. | `Lisboa` `Porto` |
 | [Critical Software](https://www.criticalsoftware.com) [:rocket:](https://www.criticalsoftware.com/careers) | Mission and business-critical applications. | `Coimbra` `Lisboa` <br> `Porto` <br> `Viseu` |
 | [Eyenov](https://eyenov.com) | Computer Vision. Machine Learning. Mobile, desktop, and embedded. | `Lisboa` `Remote` |
-| [DareData Engineering](https://daredata.engineering/) [:rocket:](https://www.daredata.engineering/jointheteam) | Data Science, Data Engineering and MLOps Consulting Boutique. | `Remote` |
+| [DareData Engineering](https://www.daredata.ai/) [:rocket:](https://www.daredata.ai/join-us) | Data Science, Data Engineering and MLOps Consulting Boutique. | `Remote` |
 | [Fruition Partners](https://www.fruitionpartners.nl/) | Consultancy and Application Development based on ServiceNow. | `Fundão` `Lisboa` |
 | [JTA](https://www.thedatascientists.com/) [:rocket:](https://www.thedatascientists.com) | Machine Learning, Reporting and custom vizualizations services. | `Porto` |
 | [Kwanko](https://kwanko.com/) [:rocket:](https://www.kwanko.com/about-us/careers/) | An International leader in Crossdevice Performance Marketing. | `Lisboa` |
@@ -338,7 +338,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Malvern Panalytical](https://www.malvernpanalytical.com/) [:rocket:](https://spectris.wd3.myworkdayjobs.com/Malvern_Panalytical_Careers) | Laboratory analytical instruments design and manufacturing. | `Maia` |
 | [Relex Solutions](https://www.relexsolutions.com/) [:rocket:](https://www.relexsolutions.com/careers/) | The market-leading supply chain & retail planning platform. | `Lisboa` |
 | [Smartex](https://www.smartex.ai/) [:rocket:](https://www.smartex.ai/careers) | AI for the Next Generation of Textiles. | `Porto` |
-| [FactoryPal](https://www.factorypal.com/) [:rocket:](https://www.factorypal.com/careers) | Boost your manufacturing OEE with AI. | `Porto` `Remote` |
+| [FactoryPal](https://factorypal.com/) [:rocket:](https://factorypal.com/careers) | Boost your manufacturing OEE with AI. | `Porto` `Remote` |
 
 ## Mobility :bike:
 
