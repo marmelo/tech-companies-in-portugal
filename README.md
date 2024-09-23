@@ -258,7 +258,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Primavera BSS](https://pt.primaverabss.com/pt/) [:rocket:](https://pt.primaverabss.com/pt/bolsaempregos/) | Enterprise resource planning software. | `Braga` `Leiria` <br> `Lisboa` |
 | [Primetag](https://primetag.com) [:rocket:](https://jobs.primetag.com/) | Influence Marketing Automation Software. | `Aveiro` `Lisboa` <br> `Remote` |
 | [Quidgest](https://quidgest.com/) [:rocket:](https://quidgest.com/quidgest/recrutamento/) | Information systems and ERP software. | `Lisboa` |
-| [RedHat](https://www.redhat.com/) [:rocket:](https://careers-redhat.icims.com/jobs/search?ss=1&searchLocation=13502--Remote) | Leading provider of enterprise open source solutions | `Remote` |
+| [RedHat](https://www.redhat.com/) [:rocket:](https://www.redhat.com/en/jobs/) | Leading provider of enterprise open source solutions | `Remote` |
 | [Sherpany](https://www.sherpany.com/) [:rocket:](https://www.sherpany.com/en/careers/our-culture/) | Meeting Management Software for Leaders. | `Lisboa` `Remote` |
 | [skeeled](https://www.skeeled.com/) [:rocket:](https://www.skeeled.com/career) | SaaS Talent Acquisition Software. | `Porto` |
 | [Tridonic](https://www.tridonic.com/com/en/) [:rocket:](https://career.zumtobelgroup.com/Jobs) | Smart and efficient lighting solutions. | `Porto` |
