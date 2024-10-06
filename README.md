@@ -47,7 +47,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Bosch](https://www.bosch.pt/) [:rocket:](https://www.bosch.pt/carreiras/) | German engineering and technology company with a big focus on the automotive industry. | `Aveiro` `Braga` <br> `Ovar` |
 | [Critical TechWorks](https://www.criticaltechworks.com/) [:rocket:](https://join.criticaltechworks.com/jobs) | Developing next generation software systems for BMW. | `Braga` `Lisboa` <br> `Porto` |
 | [Daloop](https://daloop.io/) [:rocket:](https://daloop.recruitee.com/) | Data powered fleet electrification. | `Leça da Palmeira` |
-| [Mercedes-Benz.io](https://www.mercedes-benz.io) [:rocket:](https://www.mercedes-benz.io/jobs) | Shaping the digital future of Mercedes-Benz. | `Lisboa` |
+| [Mercedes-Benz.io](https://www.mercedes-benz.io) [:rocket:](https://www.mercedes-benz.io/jobs) | Shaping the digital future of Mercedes-Benz. | `Lisboa` `Braga` `Remote` |
 | [miio](https://www.miio.pt) [:rocket:](https://www.miio.pt/careers) | Electric mobility digital solutions with fleet management. | `Remote` |
 | [Nexar](https://data.getnexar.com/) [:rocket:](https://nexar-1702298813.teamtailor.com/#jobs) | Automative data collection and intelligence. | `Porto` |
 | [tb.lx](https://tblx.io/) [:rocket:](https://www.tblx.io/careers) | Daimler Trucks and Buses IoT data into intelligent global services. | `Lisboa` |
