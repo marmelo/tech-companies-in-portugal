@@ -72,7 +72,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [DevScope](https://devscope.net/) [:rocket:](https://devscope.net/careers/) | Technology development, consultancy and product development. | `Porto` `Viseu` |
 | [Equal Experts](https://www.equalexperts.com) | Making software. Better. | `Remote` |
 | [Findmore](https://findmore.pt/) [:rocket:](https://findmore.pt/careers) | Nearshoring, software development, UX/UI Design and PMO. | `Lisboa` `Porto` <br> `Viseu` |
-| [Fyld](https://www.fyld.com) [:rocket:](https://www.fyld.pt/it-jobs) | Consultancy with outsourcing services. Part of Joyn Group companies. | `Lisboa` |
+| [Fyld](https://www.fyld.pt) [:rocket:](https://www.fyld.pt/it-jobs) | Consultancy with outsourcing services. Part of Joyn Group companies. | `Lisboa` |
 | [GLanDrive](https://www.glandrive.pt) | Software development and Consultancy. | `Lisboa` `Porto` |
 | [Growin](https://www.growin.com) [:rocket:](https://www.growin.com/it-jobs-growin-careers/) | Software development and system analysis consultancy. Part of Joyn Group companies. | `Lisboa` `Porto` |
 | [JAVALI](https://www.javali.pt) | Web, Mobile and custom development. Mostly focused on Drupal. | `Caparica` `Lisboa` |
