@@ -172,19 +172,19 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 
 ## Developer Tools :hammer_and_wrench:
 
-| Company | Description | Locations |
-| :------ | :---------- | :-------- |
-| [Codacy](https://www.codacy.com) [:rocket:](https://www.codacy.com/careers) [:octocat:](https://github.com/codacy) | Automated code reviews & code analytics. | `Lisboa` `Remote` |
-| [Datadog](https://www.datadog.com) [:rocket:](https://careers.datadoghq.com/) | Cloud monitoring as a service | `Remote` |
-| [Docker](https://docker.com) [:rocket:](https://www.docker.com/careers/) [:octocat:](https://github.com/docker) | Container and k8s tooling for developers. | `Remote` |
-| [Oracle](https://www.oracle.com/index.html) [:rocket:](https://www.oracle.com/corporate/careers/) | DBMS's and information systems. | `Lisboa` `Porto` <br> `Remote` |
-| [OutSystems](https://www.outsystems.com) [:rocket:](https://www.outsystems.com/company/careers/) | Low-code platform to visually develop applications. | `Braga` `Linda-a-Velha` <br> `Proença-a-Nova` |
-| [PagerDuty](https://pagerduty.com/) [:rocket:](https://careers.pagerduty.com/) | Real-time operations and incident management platform | `Lisboa` `Remote` |
-| [Rows](https://www.rows.com) [:rocket:](https://github.com/rows/hiring) [:octocat:](https://github.com/rows) | Create interactive web apps using spreadsheet skills. | `Porto` `Remote` |
-| [SingleStore](https://www.singlestore.com/) [:rocket:](https://www.singlestore.com/careers/jobs/) | The scalable cloud database for data-intensive applications, deployed on AWS, Azure, or GCP. (formerly MemSQL) | `Lisboa` `Remote` |
-| [Synopsys](https://www.synopsys.com) [:rocket:](https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25235&siteid=5359) | Silicon chip design, verification, IP integration and application security | `Lisboa` `Porto` |
-| [Stream](https://getstream.io/) [:rocket:](https://getstream.io/team/#jobs) | API and SDK for chat messaging and activity feeds. | `Remote` |
-| [Unbabel](https://unbabel.com) [:rocket:](https://unbabel.com/careers/) [:octocat:](https://github.com/Unbabel) | Translation as a Service. | `Lisboa` |
+| Company                                                                                                                           | Description | Locations                                     |
+|:----------------------------------------------------------------------------------------------------------------------------------| :---------- |:----------------------------------------------|
+| [Codacy](https://www.codacy.com) [:rocket:](https://www.codacy.com/careers) [:octocat:](https://github.com/codacy)                | Automated code reviews & code analytics. | `Lisboa` `Remote`                             |
+| [Datadog](https://www.datadog.com) [:rocket:](https://careers.datadoghq.com/) [:octocat:](https://github.com/datadog)             | Cloud monitoring as a service | `Lisboa` `Remote`                             |
+| [Docker](https://docker.com) [:rocket:](https://www.docker.com/careers/) [:octocat:](https://github.com/docker)                   | Container and k8s tooling for developers. | `Remote`                                      |
+| [Oracle](https://www.oracle.com/index.html) [:rocket:](https://www.oracle.com/corporate/careers/)                                 | DBMS's and information systems. | `Lisboa` `Porto` <br> `Remote`                |
+| [OutSystems](https://www.outsystems.com) [:rocket:](https://www.outsystems.com/company/careers/)                                  | Low-code platform to visually develop applications. | `Braga` `Linda-a-Velha` <br> `Proença-a-Nova` |
+| [PagerDuty](https://pagerduty.com/) [:rocket:](https://careers.pagerduty.com/)                                                    | Real-time operations and incident management platform | `Lisboa` `Remote`                             |
+| [Rows](https://www.rows.com) [:rocket:](https://github.com/rows/hiring) [:octocat:](https://github.com/rows)                      | Create interactive web apps using spreadsheet skills. | `Porto` `Remote`                              |
+| [SingleStore](https://www.singlestore.com/) [:rocket:](https://www.singlestore.com/careers/jobs/)                                 | The scalable cloud database for data-intensive applications, deployed on AWS, Azure, or GCP. (formerly MemSQL) | `Lisboa` `Remote`                             |
+| [Synopsys](https://www.synopsys.com) [:rocket:](https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25235&siteid=5359) | Silicon chip design, verification, IP integration and application security | `Lisboa` `Porto`                              |
+| [Stream](https://getstream.io/) [:rocket:](https://getstream.io/team/#jobs)                                                       | API and SDK for chat messaging and activity feeds. | `Remote`                                      |
+| [Unbabel](https://unbabel.com) [:rocket:](https://unbabel.com/careers/) [:octocat:](https://github.com/Unbabel)                   | Translation as a Service. | `Lisboa`                                      |
 
 
 ## E-commerce :shopping:
