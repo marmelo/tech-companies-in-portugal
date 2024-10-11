@@ -175,7 +175,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
 | [Codacy](https://www.codacy.com) [:rocket:](https://www.codacy.com/careers) [:octocat:](https://github.com/codacy) | Automated code reviews & code analytics. | `Lisboa` `Remote` |
-| [Datadog](https://www.datadog.com) [:rocket:](https://careers.datadoghq.com/) | Cloud monitoring as a service | `Remote` |
+| [Datadog](https://www.datadog.com) [:rocket:](https://careers.datadoghq.com/) [:octocat:](https://github.com/datadog) | Cloud monitoring as a service | `Lisboa` `Remote` |
 | [Docker](https://docker.com) [:rocket:](https://www.docker.com/careers/) [:octocat:](https://github.com/docker) | Container and k8s tooling for developers. | `Remote` |
 | [Oracle](https://www.oracle.com/index.html) [:rocket:](https://www.oracle.com/corporate/careers/) | DBMS's and information systems. | `Lisboa` `Porto` <br> `Remote` |
 | [OutSystems](https://www.outsystems.com) [:rocket:](https://www.outsystems.com/company/careers/) | Low-code platform to visually develop applications. | `Braga` `Linda-a-Velha` <br> `Proença-a-Nova` |
@@ -260,7 +260,9 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Primetag](https://primetag.com) [:rocket:](https://jobs.primetag.com/) | Influence Marketing Automation Software. | `Aveiro` `Lisboa` <br> `Remote` |
 | [Quidgest](https://quidgest.com/) [:rocket:](https://quidgest.com/quidgest/recrutamento/) | Information systems and ERP software. | `Lisboa` |
 | [RedHat](https://www.redhat.com/) [:rocket:](https://www.redhat.com/en/jobs/) | Leading provider of enterprise open source solutions | `Remote` |
+| [Sensei](https://www.sensei.tech) [:rocket:](https://www.sensei.tech/careers) | Leading European provider of autonomous stores. | `Lisboa` |
 | [Sherpany](https://www.sherpany.com/) [:rocket:](https://www.sherpany.com/en/careers/our-culture/) | Meeting Management Software for Leaders. | `Lisboa` `Remote` |
+| [Siemens](https://www.siemens.com) [:rocket:](https://jobs.siemens.com) [:octocat:](https://github.com/siemens) | Global market leader in industrial software and automation. | `Lisboa` `Porto` |
 | [skeeled](https://www.skeeled.com/) [:rocket:](https://www.skeeled.com/career) | SaaS Talent Acquisition Software. | `Porto` |
 | [Tridonic](https://www.tridonic.com/com/en/) [:rocket:](https://career.zumtobelgroup.com/Jobs) | Smart and efficient lighting solutions. | `Porto` |
 | [Unit4](https://www.unit4.com/) [:rocket:](https://www.careers.unit4.com/) | ERP, Consulting. | `Algés` |
@@ -288,11 +290,12 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Klarna](https://www.klarna.com) [:rocket:](https://klarnagroup.teamtailor.com/jobs?location=Lisbon,+Portugal&split_view=true) [:octocat:](https://github.com/klarna) | Global payments and shopping service. | `Lisboa` |
 | [Kraken](https://www.kraken.com) [:rocket:](https://www.kraken.com/careers) | Kraken is a cryptocurrency exchange and bank. | `Remote` |
 | [LoanDolphin](https://loandolphin.com.au/) [:rocket:](https://loandolphin.breezy.hr/) | Home loan marketplace. | `Lisboa` `Remote` |
+| [Mastercard](https://www.mastercard.pt) [:rocket:](https://careers.mastercard.com)[:octocat:](https://github.com/mastercard) | Global payments company. | `Lisboa` |
 | [Moonpay](https://www.moonpay.com) [:rocket:](https://www.moonpay.com/careers) | Solutions for payments, smart contracts, and digital asset management. | `Lisboa` `Remote` |
 | [Pleo](https://www.pleo.io) [:rocket:](https://www.pleo.io/en/careers/jobs) | Smart payment cards and expense management tools for businesses | `Lisboa` `Remote` |
 | [Natixis](https://natixis.groupebpce.com/) [:rocket:](https://recrutement.natixis.com/) | French corporate and investment bank. | `Porto` |
 | [Onfido](https://www.onfido.com) [:rocket:](https://onfido.com/company/careers/) | Identity verification at the speed of life. | `Lisboa` |
-| [Revolut](https://www.revolut.com) [:rocket:](https://www.revolut.com/pt-PT/careers) [:octocat:](https://github.com/revolut-engineering) | A digital banking alternative to conventional banks. | `Porto` |
+| [Revolut](https://www.revolut.com) [:rocket:](https://www.revolut.com/pt-PT/careers) [:octocat:](https://github.com/revolut-engineering) | A digital banking alternative to conventional banks. | `Lisboa` `Porto` |
 | [Samlino Group](https://samlinogroup.com/) [:rocket:](https://samlinogroup.com/careers/) | Financial products comparison for several markets (e.g.: [ComparaJá](https://www.comparaja.pt)). | `Lisboa` |
 | [Seedrs](https://www.seedrs.com) [:rocket:](https://www.seedrs.com/careers) | Equity marketplace for everyone. | `Lisboa` |
 | [SIBS](https://www.sibs.com/) [:rocket:](https://sibs-sgps.zohorecruit.eu/careers) | Major Portuguese payment processor. | `Lisboa` |
@@ -389,6 +392,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [NCC Group](https://www.nccgroup.com/pt/) [:rocket:](https://www.nccgroupplc.com/careers/) | Global experts in cyber security and risk mitigation. | `Lisboa` `Remote` |
 | [Probely](https://probely.com) [:rocket:](https://careers.probely.com) | Automated web application security scanning as a service. | `Lisboa` |
 | [S21sec](https://www.s21sec.com/) [:rocket:](https://www.s21sec.com/join-us/) | Cybersecurity services. | `Lisboa` `Porto` |
+| [Vawlt](https://vawlt.io) [:rocket:](https://vawlt.io/company/careers) | Cloud-based data security and encryption solutions | `Lisboa` `Remote` |
 
 
 ## Social :couple:
@@ -413,6 +417,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Carrot](https://carrotincentives.com/) | ICM for Telco companies. | `Lisboa` |
 | [Celfocus](https://www.celfocus.com/) [:rocket:](https://careers.celfocus.com/) | Vodafone technology development. | `Lisboa` `Porto` |
 | [GoContact](https://www.gocontact.pt/) [:rocket:](https://www.gocontact.pt/join-us/) | Company specialized in integrated solutions for Contact Centers. | `Aveiro` `Lisboa` <br> `Porto`|
+| [Infinera](https://infinera.com) [:rocket:](https://infinera.com/careeers/) | Advanced optical networking solutions for telecoms. | `Lisboa` |
 | [Mobileum](https://www.mobileum.com/) [:rocket:](https://www.mobileum.com/careers/) | Telecom analytics solutions provider. | `Braga` `Lisboa` |
 | [Nokia](https://www.nokia.com) [:rocket:](https://www.nokia.com/about-us/careers/) | Communications and information technology company. | `Aveiro` `Lisboa` |
 | [Readiness IT](https://readinessit.com/) [:rocket:](https://readinessit.com/careers/) | Telecommunications technologies. | `Fundão` `Lisboa` <br> `Porto` `Remote` |
@@ -426,6 +431,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
 | [eDreams ODIGEO](https://www.edreamsodigeo.com/) [:rocket:](https://www.edreamsodigeocareers.com) | We are shaping the way people travel today and tomorrow. | `Porto` |
+| [Flix](https://www.flix.com) [:rocket:](https://flix.careers) | Leading global travel-tech company. | `Lisboa` |
 | [Hostelworld](https://www.hostelworld.com/) [:rocket:](https://www.hostelworldgroup.com/careers) | World's leading hostel-focused online booking platform. | `Porto` |
 | [Ryanair](https://www.ryanair.com/pt/pt) [:rocket:](https://careers.ryanair.com/jobs/?ryanair-jobs-department=21233) | Ryanair is an Irish ultra low-cost carrier. | `Lisboa` `Porto`|
 | [TripAdvisor](https://www.tripadvisor.com) [:rocket:](https://careers.tripadvisor.com) | The largest "social travel website" in the world. | `Lisboa` |
