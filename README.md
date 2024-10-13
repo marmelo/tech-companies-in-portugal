@@ -177,6 +177,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Codacy](https://www.codacy.com) [:rocket:](https://www.codacy.com/careers) [:octocat:](https://github.com/codacy) | Automated code reviews & code analytics. | `Lisboa` `Remote` |
 | [Datadog](https://www.datadog.com) [:rocket:](https://careers.datadoghq.com/) [:octocat:](https://github.com/datadog) | Cloud monitoring as a service | `Lisboa` `Remote` |
 | [Docker](https://docker.com) [:rocket:](https://www.docker.com/careers/) [:octocat:](https://github.com/docker) | Container and k8s tooling for developers. | `Remote` |
+| [Gitlab](https://about.gitlab.com/) [:rocket:](https://about.gitlab.com/jobs/all-jobs/) | DevOps platform for source code management, CI/CD, and collaboration. | `Remote` |
 | [Hugging Face](https://huggingface.co/) [:rocket:](https://apply.workable.com/huggingface/) [:octocat:](https://github.com/huggingface) | AI company specializing in natural language processing tools. | `Remote` |
 | [Oracle](https://www.oracle.com/index.html) [:rocket:](https://www.oracle.com/corporate/careers/) | DBMS's and information systems. | `Lisboa` `Porto` <br> `Remote` |
 | [OutSystems](https://www.outsystems.com) [:rocket:](https://www.outsystems.com/company/careers/) | Low-code platform to visually develop applications. | `Braga` `Linda-a-Velha` <br> `Proença-a-Nova` |
