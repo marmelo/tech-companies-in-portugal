@@ -388,6 +388,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Cloudflare](https://www.cloudflare.com/) [:rocket:](https://www.cloudflare.com/careers/jobs/) [:octocat:](https://github.com/cloudflare) | Secures and ensures reliability of websites, APIs, and applications. | `Lisboa` `Remote` |
 | [Cybersafe](https://www.cybersafe.pt/) | Training, solutions integrator, and managed security services. | `Alfragide` |
 | [Dashlane](https://www.dashlane.com/) [:rocket:](https://www.dashlane.com/about/careers) | Password manager and online security app. | `Lisboa` |
+| [DuckDuckgo](https://duckduckgo.com/) [:rocket:](https://duckduckgo.com/hiring) [:octocat:](https://github.com/duckduckgo) | Privacy-focused search engine that doesn’t track users. | `Remote` |
 | [Ethiack](https://ethiack.com/) [:rocket:](https://www.linkedin.com/company/ethiack/jobs/) [:octocat:](https://github.com/ethiack) | Ethical Hacking platform. | `Coimbra` |
 | [Integrity](https://www.integrity.pt/) [:rocket:](https://www.integrity.pt/careers.html) | Consulting and tech audit focused on information Security. | `Lisboa` |
 | [Jscrambler](https://jscrambler.com) [:rocket:](https://jscrambler.com/careers) | JavaScript application integrity and security. | `Porto` |
