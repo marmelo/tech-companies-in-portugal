@@ -260,6 +260,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Primetag](https://primetag.com) [:rocket:](https://jobs.primetag.com/) | Influence Marketing Automation Software. | `Aveiro` `Lisboa` <br> `Remote` |
 | [Quidgest](https://quidgest.com/) [:rocket:](https://quidgest.com/quidgest/recrutamento/) | Information systems and ERP software. | `Lisboa` |
 | [RedHat](https://www.redhat.com/) [:rocket:](https://www.redhat.com/en/jobs/) | Leading provider of enterprise open source solutions | `Remote` |
+| [Remote](https://remote.com/) [:rocket:](https://remote.com/careers)| Platform for managing global remote teams and international payroll. | `Remote` |
 | [Sensei](https://www.sensei.tech) [:rocket:](https://www.sensei.tech/careers) | Leading European provider of autonomous stores. | `Lisboa` |
 | [Sherpany](https://www.sherpany.com/) [:rocket:](https://www.sherpany.com/en/careers/our-culture/) | Meeting Management Software for Leaders. | `Lisboa` `Remote` |
 | [Siemens](https://www.siemens.com) [:rocket:](https://jobs.siemens.com) [:octocat:](https://github.com/siemens) | Global market leader in industrial software and automation. | `Lisboa` `Porto` |
