@@ -422,7 +422,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Carrot](https://carrotincentives.com/) | ICM for Telco companies. | `Lisboa` |
 | [Celfocus](https://www.celfocus.com/) [:rocket:](https://careers.celfocus.com/) | Vodafone technology development. | `Lisboa` `Porto` |
 | [GoContact](https://www.gocontact.pt/) [:rocket:](https://www.gocontact.pt/join-us/) | Company specialized in integrated solutions for Contact Centers. | `Aveiro` `Lisboa` <br> `Porto`|
-| [Infinera](https://infinera.com) [:rocket:](https://infinera.com/careeers/) | Advanced optical networking solutions for telecoms. | `Lisboa` |
+| [Infinera](https://infinera.com) [:rocket:](https://infinera.com/careers/) | Advanced optical networking solutions for telecoms. | `Lisboa` |
 | [Mobileum](https://www.mobileum.com/) [:rocket:](https://www.mobileum.com/careers/) | Telecom analytics solutions provider. | `Braga` `Lisboa` |
 | [Nokia](https://www.nokia.com) [:rocket:](https://www.nokia.com/about-us/careers/) | Communications and information technology company. | `Aveiro` `Lisboa` |
 | [Readiness IT](https://readinessit.com/) [:rocket:](https://readinessit.com/careers/) | Telecommunications technologies. | `Fundão` `Lisboa` <br> `Porto` `Remote` |
