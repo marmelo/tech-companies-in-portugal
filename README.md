@@ -180,6 +180,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Oracle](https://www.oracle.com/index.html) [:rocket:](https://www.oracle.com/corporate/careers/) | DBMS's and information systems. | `Lisboa` `Porto` <br> `Remote` |
 | [OutSystems](https://www.outsystems.com) [:rocket:](https://www.outsystems.com/company/careers/) | Low-code platform to visually develop applications. | `Braga` `Linda-a-Velha` <br> `Proença-a-Nova` |
 | [PagerDuty](https://pagerduty.com/) [:rocket:](https://careers.pagerduty.com/) | Real-time operations and incident management platform | `Lisboa` `Remote` |
+| [Redis](https://redis.io/) [:rocket:](https://redis.io/careers/) [:octocat:](https://github.com/redis) | In-memory data store used for caching, messaging, and databases. | `Remote` |
 | [Rows](https://www.rows.com) [:rocket:](https://github.com/rows/hiring) [:octocat:](https://github.com/rows) | Create interactive web apps using spreadsheet skills. | `Porto` `Remote` |
 | [SingleStore](https://www.singlestore.com/) [:rocket:](https://www.singlestore.com/careers/jobs/) | The scalable cloud database for data-intensive applications, deployed on AWS, Azure, or GCP. (formerly MemSQL) | `Lisboa` `Remote` |
 | [Synopsys](https://www.synopsys.com) [:rocket:](https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25235&siteid=5359) | Silicon chip design, verification, IP integration and application security | `Lisboa` `Porto` |
@@ -260,7 +261,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Primetag](https://primetag.com) [:rocket:](https://jobs.primetag.com/) | Influence Marketing Automation Software. | `Aveiro` `Lisboa` <br> `Remote` |
 | [Quidgest](https://quidgest.com/) [:rocket:](https://quidgest.com/quidgest/recrutamento/) | Information systems and ERP software. | `Lisboa` |
 | [RedHat](https://www.redhat.com/) [:rocket:](https://www.redhat.com/en/jobs/) | Leading provider of enterprise open source solutions | `Remote` |
-| [Remote](https://remote.com/) [:rocket:](https://remote.com/careers)| Platform for managing global remote teams and international payroll. | `Remote` |
+| [Remote](https://remote.com/) [:rocket:](https://remote.com/careers) | Platform for managing global remote teams and international payroll. | `Remote` |
 | [Sensei](https://www.sensei.tech) [:rocket:](https://www.sensei.tech/careers) | Leading European provider of autonomous stores. | `Lisboa` |
 | [Sherpany](https://www.sherpany.com/) [:rocket:](https://www.sherpany.com/en/careers/our-culture/) | Meeting Management Software for Leaders. | `Lisboa` `Remote` |
 | [Siemens](https://www.siemens.com) [:rocket:](https://jobs.siemens.com) [:octocat:](https://github.com/siemens) | Global market leader in industrial software and automation. | `Lisboa` `Porto` |
