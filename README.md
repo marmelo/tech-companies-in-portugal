@@ -179,9 +179,12 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Codacy](https://www.codacy.com) [:rocket:](https://www.codacy.com/careers) [:octocat:](https://github.com/codacy) | Automated code reviews & code analytics. | `Lisboa` `Remote` |
 | [Datadog](https://www.datadog.com) [:rocket:](https://careers.datadoghq.com/) [:octocat:](https://github.com/datadog) | Cloud monitoring as a service | `Lisboa` `Remote` |
 | [Docker](https://docker.com) [:rocket:](https://www.docker.com/careers/) [:octocat:](https://github.com/docker) | Container and k8s tooling for developers. | `Remote` |
+| [Gitlab](https://about.gitlab.com/) [:rocket:](https://about.gitlab.com/jobs/all-jobs/) | DevOps platform for source code management, CI/CD, and collaboration. | `Remote` |
+| [Hugging Face](https://huggingface.co/) [:rocket:](https://apply.workable.com/huggingface/) [:octocat:](https://github.com/huggingface) | AI company specializing in natural language processing tools. | `Remote` |
 | [Oracle](https://www.oracle.com/index.html) [:rocket:](https://www.oracle.com/corporate/careers/) | DBMS's and information systems. | `Lisboa` `Porto` <br> `Remote` |
 | [OutSystems](https://www.outsystems.com) [:rocket:](https://www.outsystems.com/company/careers/) | Low-code platform to visually develop applications. | `Braga` `Linda-a-Velha` <br> `Proença-a-Nova` |
 | [PagerDuty](https://pagerduty.com/) [:rocket:](https://careers.pagerduty.com/) | Real-time operations and incident management platform | `Lisboa` `Remote` |
+| [Redis](https://redis.io/) [:rocket:](https://redis.io/careers/) [:octocat:](https://github.com/redis) | In-memory data store used for caching, messaging, and databases. | `Remote` |
 | [Rows](https://www.rows.com) [:rocket:](https://github.com/rows/hiring) [:octocat:](https://github.com/rows) | Create interactive web apps using spreadsheet skills. | `Porto` `Remote` |
 | [SingleStore](https://www.singlestore.com/) [:rocket:](https://www.singlestore.com/careers/jobs/) | The scalable cloud database for data-intensive applications, deployed on AWS, Azure, or GCP. (formerly MemSQL) | `Lisboa` `Remote` |
 | [Synopsys](https://www.synopsys.com) [:rocket:](https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25235&siteid=5359) | Silicon chip design, verification, IP integration and application security | `Lisboa` `Porto` |
@@ -262,6 +265,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Primetag](https://primetag.com) [:rocket:](https://jobs.primetag.com/) | Influence Marketing Automation Software. | `Aveiro` `Lisboa` <br> `Remote` |
 | [Quidgest](https://quidgest.com/) [:rocket:](https://quidgest.com/quidgest/recrutamento/) | Information systems and ERP software. | `Lisboa` |
 | [RedHat](https://www.redhat.com/) [:rocket:](https://www.redhat.com/en/jobs/) | Leading provider of enterprise open source solutions | `Remote` |
+| [Remote](https://remote.com/) [:rocket:](https://remote.com/careers) | Platform for managing global remote teams and international payroll. | `Remote` |
 | [Sensei](https://www.sensei.tech) [:rocket:](https://www.sensei.tech/careers) | Leading European provider of autonomous stores. | `Lisboa` |
 | [Sherpany](https://www.sherpany.com/) [:rocket:](https://www.sherpany.com/en/careers/our-culture/) | Meeting Management Software for Leaders. | `Lisboa` `Remote` |
 | [Siemens](https://www.siemens.com) [:rocket:](https://jobs.siemens.com) [:octocat:](https://github.com/siemens) | Global market leader in industrial software and automation. | `Lisboa` `Porto` |
@@ -387,6 +391,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Cloudflare](https://www.cloudflare.com/) [:rocket:](https://www.cloudflare.com/careers/jobs/) [:octocat:](https://github.com/cloudflare) | Secures and ensures reliability of websites, APIs, and applications. | `Lisboa` `Remote` |
 | [Cybersafe](https://www.cybersafe.pt/) | Training, solutions integrator, and managed security services. | `Alfragide` |
 | [Dashlane](https://www.dashlane.com/) [:rocket:](https://www.dashlane.com/about/careers) | Password manager and online security app. | `Lisboa` |
+| [DuckDuckgo](https://duckduckgo.com/) [:rocket:](https://duckduckgo.com/hiring) [:octocat:](https://github.com/duckduckgo) | Privacy-focused search engine that doesn’t track users. | `Remote` |
 | [Ethiack](https://ethiack.com/) [:rocket:](https://www.linkedin.com/company/ethiack/jobs/) [:octocat:](https://github.com/ethiack) | Ethical Hacking platform. | `Coimbra` |
 | [Integrity](https://www.integrity.pt/) [:rocket:](https://www.integrity.pt/careers.html) | Consulting and tech audit focused on information Security. | `Lisboa` |
 | [Jscrambler](https://jscrambler.com) [:rocket:](https://jscrambler.com/careers) | JavaScript application integrity and security. | `Porto` |
@@ -420,7 +425,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Carrot](https://carrotincentives.com/) | ICM for Telco companies. | `Lisboa` |
 | [Celfocus](https://www.celfocus.com/) [:rocket:](https://careers.celfocus.com/) | Vodafone technology development. | `Lisboa` `Porto` |
 | [GoContact](https://www.gocontact.pt/) [:rocket:](https://www.gocontact.pt/join-us/) | Company specialized in integrated solutions for Contact Centers. | `Aveiro` `Lisboa` <br> `Porto`|
-| [Infinera](https://infinera.com) [:rocket:](https://infinera.com/careeers/) | Advanced optical networking solutions for telecoms. | `Lisboa` |
+| [Infinera](https://infinera.com) [:rocket:](https://infinera.com/careers/) | Advanced optical networking solutions for telecoms. | `Lisboa` |
 | [Mobileum](https://www.mobileum.com/) [:rocket:](https://www.mobileum.com/careers/) | Telecom analytics solutions provider. | `Braga` `Lisboa` |
 | [Nokia](https://www.nokia.com) [:rocket:](https://www.nokia.com/about-us/careers/) | Communications and information technology company. | `Aveiro` `Lisboa` |
 | [Readiness IT](https://readinessit.com/) [:rocket:](https://readinessit.com/careers/) | Telecommunications technologies. | `Fundão` `Lisboa` <br> `Porto` `Remote` |
