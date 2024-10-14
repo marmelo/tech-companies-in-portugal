@@ -20,7 +20,5 @@ jobs:
         uses: lycheeverse/lychee-action@v2.0.2
         with:
           args: --config .github/workflows/lychee.toml -- README.md
-          # Fail action on broken links
-          fail: true
           # Write link validation summary to GH Job summary
           jobSummary: true
