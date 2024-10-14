@@ -285,7 +285,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Fidel](https://fidel.uk) [:rocket:](https://fidel.uk/careers/) | One API for linking bank cards to digital applications globally. | `Lisboa` |
 | [Finiam](https://www.finiam.com/) [:rocket:](https://www.finiam.com/#contact) | Improving people's lives by untangling the financial world. | `Braga` `Remote` |
 | [Fractal](https://web.fractal.id) | Enabling open finance with a new Internet Identity layer. | `Porto` `Remote` |
-| [Global Blue](https://www.globalblue.com/en) [:rocket:](https://www.globalblue.com/en/about-us/career)| Tax-Free Shopping solutions. | `Lisboa` `Porto` `Remote` |
+| [Global Blue](https://www.globalblue.com/en) [:rocket:](https://www.globalblue.com/en/about-us/career)| Tax-Free Shopping solutions. | `Lisboa` `Porto` <br> `Remote` |
 | [ITSector](https://www.itsector.pt/pt) [:rocket:](https://www.itsector.pt/pt/carreiras) | Software for financial institutions. | `Aveiro` `Braga` <br> `Bragança` `Lisboa` <br> `Porto` |
 | [JUMO](https://www.jumo.world) [:rocket:](https://careers.jumo.world/) | Financial inclusion platform. | `Remote` |
 | [Klarna](https://www.klarna.com) [:rocket:](https://klarnagroup.teamtailor.com/jobs?location=Lisbon,+Portugal&split_view=true) [:octocat:](https://github.com/klarna) | Global payments and shopping service. | `Lisboa` |
