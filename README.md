@@ -72,11 +72,11 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [DevScope](https://devscope.net/) [:rocket:](https://devscope.net/careers/) | Technology development, consultancy and product development. | `Porto` `Viseu` |
 | [Equal Experts](https://www.equalexperts.com) | Making software. Better. | `Remote` |
 | [Findmore](https://findmore.pt/) [:rocket:](https://findmore.pt/careers) | Nearshoring, software development, UX/UI Design and PMO. | `Lisboa` `Porto` <br> `Viseu` |
-| [Fyld](https://www.fyld.pt) [:rocket:](https://www.fyld.pt/it-jobs) | Consultancy with outsourcing services. Part of Joyn Group companies. | `Lisboa` |
+| [Fyld](https://www.fyld.pt) [:rocket:](https://www.fyld.pt/it-jobs) | Consultancy with outsourcing services. | `Lisboa` |
 | [GLanDrive](https://www.glandrive.pt) | Software development and Consultancy. | `Lisboa` `Porto` |
-| [Growin](https://www.growin.com) [:rocket:](https://www.growin.com/it-jobs-growin-careers/) | Software development and system analysis consultancy. Part of Joyn Group companies. | `Lisboa` `Porto` |
+| [Growin](https://www.growin.com) [:rocket:](https://www.growin.com/it-jobs-growin-careers/) | Software development and system analysis consultancy. | `Lisboa` `Porto` |
 | [JAVALI](https://www.javali.pt) | Web, Mobile and custom development. Mostly focused on Drupal. | `Caparica` `Lisboa` |
-| [Landskill](https://www.landskill.com) [:rocket:](https://www.landskill.com/careers/) | Performance-focused IT consultancy. Part of Joyn Group companies. | `Lisboa` |
+| [Landskill](https://www.landskill.com) [:rocket:](https://www.landskill.com/careers/) | Performance-focused IT consultancy. | `Lisboa` |
 | [Link Consulting](https://www.linkconsulting.com/) [:rocket:](https://www.linkconsulting.com/its-fun-to-work-at-link/) | Global Tech, Consultancy, Services and Innovation. | `Leiria` `Lisboa` <br> `Porto` `Remote` |
 | [LIS @ IPN](https://www.ipn.pt/laboratorio/LIS) | Technological R&D and innovative multi-disciplinary projects. | `Coimbra` |
 | [LTPLabs](https://ltplabs.com/) [:rocket:](https://ltplabs.com/jobs/) | Boutique analytical-driven management consultancy company. | `Porto` `Lisboa` |
