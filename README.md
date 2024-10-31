@@ -52,6 +52,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Mercedes-Benz.io](https://www.mercedes-benz.io) [:rocket:](https://www.mercedes-benz.io/jobs) | Shaping the digital future of Mercedes-Benz. | `Lisboa` `Braga` `Remote` |
 | [miio](https://www.miio.pt) [:rocket:](https://www.miio.pt/careers) | Electric mobility digital solutions with fleet management. | `Remote` |
 | [Nexar](https://data.getnexar.com/) [:rocket:](https://nexar-1702298813.teamtailor.com/#jobs) | Automative data collection and intelligence. | `Porto` |
+| [Nextlane](https://www.nextlane.com/) [:rocket:](https://www.nextlane.com/career/) | Software solutions to optimize logistics and supply chain in the automotive industry. | `Lisboa` |
 | [tb.lx](https://tblx.io/) [:rocket:](https://www.tblx.io/careers) | Daimler Trucks and Buses IoT data into intelligent global services. | `Lisboa` |
 | [Volkswagen Digital Solutions](https://www.vwds.pt/) [:rocket:](https://www.linkedin.com/company/volkswagen-digital-solutions/jobs/) | Creating the digital ecosystem for the brands of the Volkswagen Group. | `Lisboa` `Porto` |
 
@@ -181,6 +182,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Docker](https://docker.com) [:rocket:](https://www.docker.com/careers/) [:octocat:](https://github.com/docker) | Container and k8s tooling for developers. | `Remote` |
 | [Gitlab](https://about.gitlab.com/) [:rocket:](https://about.gitlab.com/jobs/all-jobs/) | DevOps platform for source code management, CI/CD, and collaboration. | `Remote` |
 | [Hugging Face](https://huggingface.co/) [:rocket:](https://apply.workable.com/huggingface/) [:octocat:](https://github.com/huggingface) | AI company specializing in natural language processing tools. | `Remote` |
+| [Nitro](https://www.gonitro.com/) [:rocket:](https://www.gonitro.com/about/careers) | Document productivity platform that simplifies PDF editing and collaboration. | `Porto` |
 | [Oracle](https://www.oracle.com/index.html) [:rocket:](https://www.oracle.com/corporate/careers/) | DBMS's and information systems. | `Lisboa` `Porto` <br> `Remote` |
 | [OutSystems](https://www.outsystems.com) [:rocket:](https://www.outsystems.com/company/careers/) | Low-code platform to visually develop applications. | `Braga` `Linda-a-Velha` <br> `Proença-a-Nova` |
 | [PagerDuty](https://pagerduty.com/) [:rocket:](https://careers.pagerduty.com/) | Real-time operations and incident management platform | `Lisboa` `Remote` |
@@ -189,6 +191,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [SingleStore](https://www.singlestore.com/) [:rocket:](https://www.singlestore.com/careers/jobs/) | The scalable cloud database for data-intensive applications, deployed on AWS, Azure, or GCP. (formerly MemSQL) | `Lisboa` `Remote` |
 | [Synopsys](https://www.synopsys.com) [:rocket:](https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25235&siteid=5359) | Silicon chip design, verification, IP integration and application security | `Lisboa` `Porto` |
 | [Stream](https://getstream.io/) [:rocket:](https://getstream.io/team/#jobs) | API and SDK for chat messaging and activity feeds. | `Remote` |
+| [TeamViewer](https://www.teamviewer.com) [:rocket:](https://careers.teamviewer.com) | Remote access and support software for device management and collaboration. | `Porto` |
 | [Unbabel](https://unbabel.com) [:rocket:](https://unbabel.com/careers/) [:octocat:](https://github.com/Unbabel) | Translation as a Service. | `Lisboa` |
 
 
@@ -241,6 +244,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [ClanHR](https://www.clanhr.com) | Online Human Resources Management Software. | `Lisboa` |
 | [Coverflex](https://www.coverflex.com/) [:rocket:](https://careers.coverflex.com/) | Payments and benefits management. | `Remote` |
 | [Deel](https://www.deel.com/) [:rocket:](https://jobs.ashbyhq.com/Deel?departmentId=8c27e7fa-f898-4de1-adf6-70c67c1e1c11&locationId=7a1f038b-147a-4a65-8ba5-d047fda72a10) [:octocat:](https://github.com/letsdeel) | Compliance, payroll, HR, and performance for any worker globally in a single SaaS platform. | `Remote` |
+| [Dremio](https://www.dremio.com/) [:rocket:](https://www.dremio.com/careers/job-postings/) | data-as-a-service platform for fast analytics and data integration. | `Lisboa` |
 | [Elecnor Deimos](https://www.elecnor-deimos.com/) [:rocket:](https://www.elecnor-deimos.com/jobs/) | Advanced design solutions and turn-key space software systems. | `Lisboa` |
 | [epilot](https://www.epilot.cloud/) [:rocket:](https://epilot.cloud/en/career-jobs/engineering/) [:octocat:](https://github.com/epilot-dev) | B2B e-commerce software for complex energy products. | `Remote` |
 | [Epos Now](https://www.eposnow.com/) [:rocket:](https://www.eposnow.com/uk/careers/) | Electronic point of sale solutions. | `Remote` |
@@ -252,6 +256,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Hitachi Vantara](https://www.hitachivantara.com/) [:rocket:](https://www.hitachivantara.com/en-us/company/careers.html) | IoT, cloud, application, big data and analytics solutions. | `Oeiras` `Porto` |
 | [InnovationCast](https://innovationcast.com/) | Collaborative Innovation Management Software. | `Lisboa` `Porto` |
 | [InvoiceXpress](https://www.invoicexpress.com/) | Online Invoicing Software. | `Lisboa` |
+| [Iterable](https://iterable.com/) [:rocket:](https://iterable.com/careers/) | Cross-channel marketing platform for customer engagement and growth. | `Lisboa` |
 | [KEEP SOLUTIONS](https://www.keep.pt/) [:rocket:](https://www.keep.pt/empresa/carreiras/) | Advanced solutions for information management. | `Braga` `Remote` |
 | [kununu](https://www.kununu.com/) [:rocket:](https://corporate.xing.com/en/career/porto/) | Workplace insights that matter. | `Porto` |
 | [Mind](https://www.mind.pt/) | Information management and industrial systems. | `Lisboa` `Porto` |
@@ -275,7 +280,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [VAKT Global Ltd.](https://www.vakt.com/) [:rocket:](https://www.vakt.com/careers/) | Enterprise grade blockchain commodities trading platform. | `Lisboa` |
 | [Veeam](https://www.veeam.com/) [:rocket:](https://careers.veeam.com/vacancies) | Backup, recovery, and data management solutions for businesses | `Lisboa` |
 | [VOID Software](https://www.void.pt/) | Systems design & architecture using different technology stacks. | `Leiria` |
-
+| [Workia](https://workia.com/en/) | Collaboration platform that boosts workplace productivity and engagement. | `Lisboa` |
 
 ## FinTech :moneybag:
 
@@ -301,16 +306,20 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Moonpay](https://www.moonpay.com) [:rocket:](https://www.moonpay.com/careers) | Solutions for payments, smart contracts, and digital asset management. | `Lisboa` `Remote` |
 | [Natixis](https://natixis.groupebpce.com/) [:rocket:](https://recrutement.natixis.com/) | French corporate and investment bank. | `Porto` |
 | [Onfido](https://www.onfido.com) [:rocket:](https://onfido.com/company/careers/) | Identity verification at the speed of life. | `Lisboa` |
+| [Paddle](https://www.paddle.com) [:rocket:](https://www.paddle.com/careers#open-positions) | Payment and subscription management platform for software vendors. | `Lisboa` |
 | [Pleo](https://www.pleo.io) [:rocket:](https://www.pleo.io/en/careers/jobs) | Smart payment cards and expense management tools for businesses | `Lisboa` `Remote` |
 | [Revolut](https://www.revolut.com) [:rocket:](https://www.revolut.com/pt-PT/careers) [:octocat:](https://github.com/revolut-engineering) | A digital banking alternative to conventional banks. | `Lisboa` `Porto` |
+| [Riskified](https://www.riskified.com) [:rocket:](https://www.riskified.com/careers/#positions) | e-commerce fraud prevention. | `Lisboa` |
 | [Samlino Group](https://samlinogroup.com/) [:rocket:](https://samlinogroup.com/careers/) | Financial products comparison for several markets (e.g.: [ComparaJá](https://www.comparaja.pt)). | `Lisboa` |
 | [Seedrs](https://www.seedrs.com) [:rocket:](https://www.seedrs.com/careers) | Equity marketplace for everyone. | `Lisboa` |
 | [SIBS](https://www.sibs.com/) [:rocket:](https://sibs-sgps.zohorecruit.eu/careers) | Major Portuguese payment processor. | `Lisboa` |
 | [StudentFinance](https://studentfinance.com/) | Disrupting education through Income Share Agreements | `Lisboa` `Remote` |
 | [SwissBorg](https://swissborg.com/) [:rocket:](https://swissborg.com/careers) | Cryptocurrencies exchange | `Remote` |
 | [Switch](https://switchpayments.com/) [:rocket:](https://switchpayments.com/about/careers) | The payments infrastructure for interoperability. | `Lisboa` `Porto` |
+| [Tabby](https://tabby.ai/en-AE) | Buy now, pay later platform that offers flexible payment options. | `Remote` |
+| [Teya](https://www.teya.com/) [:rocket:](https://careers.smartrecruiters.com/Teya) | Digital insurance platform offering personalized coverage solutions. | `Lisboa` `Porto` |
 | [Uphold](https://uphold.com/) [:rocket:](https://uphold.com/resources/careers) | US cloud based financial services platform. | `Braga` |
-
+| [Wallet](https://wallet.tg/) [:rocket:](https://jobs.ton.org/companies/wallet-2#content) | User-friendly platform for efficiently managing crypto assets. | `Remote` |
 
 ## Gaming :video_game:
 
@@ -365,6 +374,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Glookast](https://www.glookast.com/) | Solving the media workflow puzzle. | `Matosinhos` |
 | [MediaGaps](https://www.mediagaps.com/) | Bridging your workflow gaps. | `Porto` |
 | [MOG Technologies](https://www.mog-technologies.com) [:rocket:](https://www.mog-technologies.com/company/careers) | End-to-end solutions for professional media. | `Porto` |
+| [Restream](https://restream.io/) [:rocket:](https://restream.io/about) | Platform for multi-streaming live video to various channels. | `Lisboa` `Remote` |
 | [Sky](https://www.sky.com) [:rocket:](https://careers.sky.com) | TV, broadband, talk, streaming and mobile. | `Aveiro` `Funchal` <br> `Lisboa` |
 
 
