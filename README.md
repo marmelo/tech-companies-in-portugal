@@ -44,7 +44,9 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
 | [AddVolt](https://addvolt.com/) [:rocket:](https://www.addvolt.com/en/#Contacts) | AddVolt's platform reduces CO2 in the heavy transportation sector. | `Porto` |
+| [Autodoc](https://www.auto-doc.com/) [:rocket:](https://autodoc.group/en/career/all-jobs) | Online retailer specializing in automotive parts and accessories. | `Lisboa` |
 | [Bosch](https://www.bosch.pt/) [:rocket:](https://www.bosch.pt/carreiras/) | German engineering and technology company with a big focus on the automotive industry. | `Aveiro` `Braga` <br> `Ovar` |
+| [Carwow](https://www.carwow.co.uk/) [:rocket:](https://www.carwow.co.uk/jobs#jobs-widget) | Online platform for comparing prices on new cars and offers. | `Porto` `Remote` |
 | [Critical TechWorks](https://www.criticaltechworks.com/) [:rocket:](https://join.criticaltechworks.com/jobs) | Developing next generation software systems for BMW. | `Braga` `Lisboa` <br> `Porto` |
 | [Daloop](https://daloop.io/) [:rocket:](https://daloop.recruitee.com/) | Data powered fleet electrification. | `Leça da Palmeira` |
 | [Mercedes-Benz.io](https://www.mercedes-benz.io) [:rocket:](https://www.mercedes-benz.io/jobs) | Shaping the digital future of Mercedes-Benz. | `Lisboa` `Braga` `Remote` |
@@ -271,6 +273,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Tridonic](https://www.tridonic.com/com/en/) [:rocket:](https://career.zumtobelgroup.com/Jobs) | Smart and efficient lighting solutions. | `Porto` |
 | [Unit4](https://www.unit4.com/) [:rocket:](https://www.careers.unit4.com/) | ERP, Consulting. | `Algés` |
 | [VAKT Global Ltd.](https://www.vakt.com/) [:rocket:](https://www.vakt.com/careers/) | Enterprise grade blockchain commodities trading platform. | `Lisboa` |
+| [Veeam](https://www.veeam.com/) [:rocket:](https://careers.veeam.com/vacancies) | Backup, recovery, and data management solutions for businesses | `Lisboa` |
 | [VOID Software](https://www.void.pt/) | Systems design & architecture using different technology stacks. | `Leiria` |
 
 
