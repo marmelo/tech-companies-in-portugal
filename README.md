@@ -52,7 +52,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Mercedes-Benz.io](https://www.mercedes-benz.io) [:rocket:](https://www.mercedes-benz.io/jobs) | Shaping the digital future of Mercedes-Benz. | `Lisboa` `Braga` `Remote` |
 | [miio](https://www.miio.pt) [:rocket:](https://www.miio.pt/careers) | Electric mobility digital solutions with fleet management. | `Remote` |
 | [Nexar](https://data.getnexar.com/) [:rocket:](https://nexar-1702298813.teamtailor.com/#jobs) | Automative data collection and intelligence. | `Porto` |
-| [Nextlane](https://www.nextlane.com/) [:rocket:](https://www.nextlane.com/career/) | Software solutions to optimize logistics and supply chain in the automotive industry. | `Lisboa` |
+| [Nextlane](https://www.nextlane.com/) [:rocket:](https://www.nextlane.com/career/) | Software solutions to optimize automotive logistics and supply chain. | `Lisboa` |
 | [tb.lx](https://tblx.io/) [:rocket:](https://www.tblx.io/careers) | Daimler Trucks and Buses IoT data into intelligent global services. | `Lisboa` |
 | [Volkswagen Digital Solutions](https://www.vwds.pt/) [:rocket:](https://www.linkedin.com/company/volkswagen-digital-solutions/jobs/) | Creating the digital ecosystem for the brands of the Volkswagen Group. | `Lisboa` `Porto` |
 
