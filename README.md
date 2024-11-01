@@ -193,7 +193,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [SingleStore](https://www.singlestore.com/) [:rocket:](https://www.singlestore.com/careers/jobs/) | The scalable cloud database for data-intensive applications, deployed on AWS, Azure, or GCP. (formerly MemSQL) | `Lisboa` `Remote` |
 | [Synopsys](https://www.synopsys.com) [:rocket:](https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25235&siteid=5359) | Silicon chip design, verification, IP integration and application security | `Lisboa` `Porto` |
 | [Stream](https://getstream.io/) [:rocket:](https://getstream.io/team/#jobs) | API and SDK for chat messaging and activity feeds. | `Remote` |
-| [TeamViewer](https://www.teamviewer.com) [:rocket:](https://careers.teamviewer.com) | Remote access and support software for device management and collaboration. | `Porto` |
+| [TeamViewer](https://www.teamviewer.com) [:rocket:](https://careers.teamviewer.com) | Remote access, device management and collaboration. | `Porto` |
 | [Unbabel](https://unbabel.com) [:rocket:](https://unbabel.com/careers/) [:octocat:](https://github.com/Unbabel) | Translation as a Service. | `Lisboa` |
 
 
