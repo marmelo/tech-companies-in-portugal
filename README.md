@@ -280,7 +280,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Tridonic](https://www.tridonic.com/com/en/) [:rocket:](https://career.zumtobelgroup.com/Jobs) | Smart and efficient lighting solutions. | `Porto` |
 | [Unit4](https://www.unit4.com/) [:rocket:](https://www.careers.unit4.com/) | ERP, Consulting. | `Algés` |
 | [VAKT Global Ltd.](https://www.vakt.com/) [:rocket:](https://www.vakt.com/careers/) | Enterprise grade blockchain commodities trading platform. | `Lisboa` |
-| [Veeam](https://www.veeam.com/) [:rocket:](https://careers.veeam.com/vacancies) | Backup, recovery, and data management solutions for businesses | `Lisboa` |
+| [Veeam](https://www.veeam.com/) [:rocket:](https://careers.veeam.com/vacancies) | Backup, recovery, and data management solutions for businesses. | `Lisboa` |
 | [VOID Software](https://www.void.pt/) | Systems design & architecture using different technology stacks. | `Leiria` |
 | [Workia](https://workia.com/en/) | Collaboration platform that boosts workplace productivity and engagement. | `Lisboa` |
 
