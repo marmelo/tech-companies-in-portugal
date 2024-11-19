@@ -252,7 +252,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Five9](https://www.five9.com/) [:rocket:](https://www.five9.com/about/careers/jobs/) | Intelligent CX Platform. | `Porto` |
 | [Glintt](https://www.glintt.com/) [:rocket:](https://www.glintt.com/pt/carreiras/ofertas/Paginas/Ofertas.aspx) | Healthcare software. | `Algarve` `Lisboa` <br> `Porto` `Sintra` |
 | [Glia](https://www.glia.com/) [:rocket:](https://www.glia.com/jobs) | Customer relationship management software. | `Remote` |
-| [GMV](https://www.gmv.com/) [:rocket:](https://www.gmv.com/pt/Emprego/) | Advanced solutions in many sectors. | `Lisboa` |
+| [GMV](https://www.gmv.com/) [:rocket:](https://www.gmv.com/en-es/talent) | Advanced solutions in many sectors. | `Lisboa` |
 | [HiBob](https://www.hibob.com/) [:rocket:](https://www.hibob.com/careers/) | HR software. | `Lisboa` |
 | [Hitachi Vantara](https://www.hitachivantara.com/) [:rocket:](https://www.hitachivantara.com/en-us/company/careers.html) | IoT, cloud, application, big data and analytics solutions. | `Oeiras` `Porto` |
 | [InnovationCast](https://innovationcast.com/) | Collaborative Innovation Management Software. | `Lisboa` `Porto` |
