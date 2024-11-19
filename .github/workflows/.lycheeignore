@@ -15,3 +15,5 @@
 # Excluded because an error is consistently generated but the URLs are OK.
 # Error seen: Network error: error following redirect for url too many redirects
 .*\.faro\.com/.*
+# Excluded because continuously responds with HTTP 429 Too Many Requests
+.*\.prozis\.com/.*
