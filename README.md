@@ -380,6 +380,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [MOG Technologies](https://www.mog-technologies.com) [:rocket:](https://www.mog-technologies.com/company/careers) | End-to-end solutions for professional media. | `Porto` |
 | [Restream](https://restream.io/) [:rocket:](https://restream.io/about) | Platform for multi-streaming live video to various channels. | `Lisboa` `Remote` |
 | [Sky](https://www.sky.com) [:rocket:](https://careers.sky.com) | TV, broadband, talk, streaming and mobile. | `Aveiro` `Funchal` <br> `Lisboa` |
+| [wTVision](https://www.wtvision.com) [:rocket:](https://www.wtvision.com/careers) | Software for Television | `Lisboa` `Porto` |
 
 
 ## Sea :ocean:
