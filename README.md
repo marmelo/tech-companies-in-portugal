@@ -370,6 +370,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | :------ | :---------- | :-------- |
 | [FAIRTIQ](https://fairtiq.com/en/) [:rocket:](https://fairtiq.com/en/careers) | Public transport electronic tickets | `Remote` |
 | [Stratio](https://stratioautomotive.com/) [:rocket:](https://careers.stratioautomotive.com/) | Predictive fleet maintenance platform | `Lisboa` `Coimbra` `Remote` |
+| [UbiRider](https://ubirider.com/) | Digital platform to serve transport providers and travellers | `Porto` `Remote` |
 
 ## Multimedia :movie_camera:
 
