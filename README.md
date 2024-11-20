@@ -190,8 +190,9 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Redis](https://redis.io/) [:rocket:](https://redis.io/careers/) [:octocat:](https://github.com/redis) | In-memory data store used for caching, messaging, and databases. | `Remote` |
 | [Rows](https://www.rows.com) [:rocket:](https://github.com/rows/hiring) [:octocat:](https://github.com/rows) | Create interactive web apps using spreadsheet skills. | `Porto` `Remote` |
 | [SingleStore](https://www.singlestore.com/) [:rocket:](https://www.singlestore.com/careers/jobs/) | The scalable cloud database for data-intensive applications, deployed on AWS, Azure, or GCP. (formerly MemSQL) | `Lisboa` `Remote` |
-| [Synopsys](https://www.synopsys.com) [:rocket:](https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25235&siteid=5359) | Silicon chip design, verification, IP integration and application security | `Lisboa` `Porto` |
 | [Stream](https://getstream.io/) [:rocket:](https://getstream.io/team/#jobs) | API and SDK for chat messaging and activity feeds. | `Remote` |
+| [Synopsys](https://www.synopsys.com) [:rocket:](https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25235&siteid=5359) | Silicon chip design, verification, IP integration and application security | `Lisboa` `Porto` |
+| [Synthetic Users](https://www.syntheticusers.com/) [:rocket:](https://syntheticusers.notion.site/syntheticusers/Help-us-power-synthetic-research-for-the-world-s-best-companies-d7228e03ee1e49a691d6476cea133a64) | Synthetic research infrastructure | `Lisboa` |
 | [TeamViewer](https://www.teamviewer.com) [:rocket:](https://careers.teamviewer.com) | Remote access, device management and collaboration. | `Porto` |
 | [Unbabel](https://unbabel.com) [:rocket:](https://unbabel.com/careers/) [:octocat:](https://github.com/Unbabel) | Translation as a Service. | `Lisboa` |
 
