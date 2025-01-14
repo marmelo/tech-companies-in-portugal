@@ -344,7 +344,6 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
-| [Criteria Marathon](https://www.criteriamarathon.com/) | Software Engineering and Information Technologies in the Medical Sector. | `Porto` |
 | [iLoF](https://ilof.tech/) | Revolutionizing Alzheimer’s drug discovery using bio-photonics and AI. | `Porto` |
 | [LetsGetChecked](https://www.letsgetchecked.com/) [:rocket:](https://boards.eu.greenhouse.io/letsgetchecked/) | The future of healthcare starts at home. | `Porto` `Remote` |
 | [Nutrium](https://www.nutrium.com/) [:rocket:](https://nutrium.factorialhr.pt/#jobs) | Nutrition platform for improving eating habits around the world. | `Braga` `Lisboa` `Remote` |
