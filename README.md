@@ -205,7 +205,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Aptoide](https://www.aptoide.com/) [:rocket:](https://pt.aptoide.com/company/jobs) | Your Android app store. | `Lisboa` |
 | [Barkyn](https://barkyn.com/) [:rocket:](https://barkyn.factorialhr.pt/) | Barkyn delivers health and happiness to pet families around the world. | `Porto` |
 | [Blip](https://blip.pt) [:rocket:](https://blip.pt/jobs/) | Online betting and gambling operator. | `Porto` |
-| [Farfetch](https://www.farfetch.com) [:rocket:](https://farfetchgroupcareers.com/jobs) | Global technology platform for luxury fashion. | `Braga` `Lisboa` <br> `Porto` |
+| [Farfetch](https://www.farfetch.com) [:rocket:](https://aboutfarfetch.com/careers/our-approach-to-hiring/ | Global technology platform for luxury fashion. | `Braga` `Lisboa` <br> `Porto` |
 | [Jumia](https://group.jumia.com) [:rocket:](https://group.jumia.com/careers) | Online Shopping for Electronics, Phones & Fashion in Africa. | `Porto` |
 | [Jumpseller](https://jumpseller.com) [:rocket:](https://jumpseller.com/jobs) | E-commerce platform to create online stores. | `Porto` |
 | [Kaizen Gaming](https://kaizengaming.com) [:rocket:](https://careers.kaizengaming.com) | Online betting and gambling operator. | `Lisboa` |
