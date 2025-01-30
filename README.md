@@ -397,7 +397,6 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
-| [Adamant Sec](https://adamantsec.com/) | Pentesting, consulting and audit. | `Porto` |
 | [Barracuda Networks](https://www.barracuda.com/) [:rocket:](https://www.barracuda.com/company/careers) | Builds Security, Networking and Storage products. | `Porto` <br> `Remote` |
 | [Bitsight](https://www.bitsight.com/) [:rocket:](https://www.bitsight.com/about/careers) | The Global Leader In Security Ratings. | `Lisboa` `Remote` |
 | [Blaze Information Security](https://www.blazeinfosec.com/) | Pentesting, consulting and research. | `Porto` |
