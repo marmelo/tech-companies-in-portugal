@@ -82,7 +82,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Landskill](https://www.landskill.com) [:rocket:](https://www.landskill.com/careers/) | Performance-focused IT consultancy. | `Lisboa` |
 | [Link Consulting](https://www.linkconsulting.com/) [:rocket:](https://www.linkconsulting.com/its-fun-to-work-at-link/) | Global Tech, Consultancy, Services and Innovation. | `Leiria` `Lisboa` <br> `Porto` `Remote` |
 | [LIS @ IPN](https://www.ipn.pt/laboratorio/LIS) | Technological R&D and innovative multi-disciplinary projects. | `Coimbra` |
-| [LTPLabs](https://ltplabs.com/) [:rocket:](https://ltplabs.com/jobs/) | Boutique analytical-driven management consultancy company. | `Porto` `Lisboa` |
+| [LTPLabs](https://ltplabs.com/) | Boutique analytical-driven management consultancy company. | `Porto` `Lisboa` |
 | [KI labs](https://ki-labs.com/) [:rocket:](https://ki-labs.com/careers/) | Solve complex tech and business challenges for big corporations. | `Lisboa` |
 | [InnoWave](https://innowave.tech/) [:rocket:](https://innowave.tech/careers/) | Global technology and consulting company. | `Coimbra` `Lisboa`|
 | [IT People](https://itpeople.pt) [:rocket:](https://itpeople.pt/speak-to-us/) | Outsourcing & Nearshore Development. | `Covilhã` `Lisboa` <br> `Porto`|
