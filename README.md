@@ -422,7 +422,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
-| [XING](https://www.xing.com/) [:rocket:](https://corporate.xing.com/en/career/porto/) | For a better working life. | `Porto` |
+| [XING](https://www.xing.com/) [:rocket:](https://new-work.se/en/career/our-brands/xing_brand) | For a better working life. | `Porto` |
 
 
 ## Sport :soccer:
