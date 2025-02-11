@@ -260,7 +260,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [InvoiceXpress](https://www.invoicexpress.com/) | Online Invoicing Software. | `Lisboa` |
 | [Iterable](https://iterable.com/) [:rocket:](https://iterable.com/careers/) | Cross-channel marketing platform for customer engagement and growth. | `Lisboa` |
 | [KEEP SOLUTIONS](https://www.keep.pt/) [:rocket:](https://www.keep.pt/empresa/carreiras/) | Advanced solutions for information management. | `Braga` `Remote` |
-| [kununu](https://www.kununu.com/) [:rocket:](https://corporate.xing.com/en/career/porto/) | Workplace insights that matter. | `Porto` |
+| [kununu](https://www.kununu.com/) [:rocket:](https://new-work.se/en/career/our-brands/kununu_brand) | Workplace insights that matter. | `Porto` |
 | [Mind](https://www.mind.pt/) | Information management and industrial systems. | `Lisboa` `Porto` |
 | [Moviik](https://www.moviik.com) | Customer Journey Management Platform. | `Braga` |
 | [Nmbrs](https://www.nmbrs.com/) [:rocket:](https://www.nmbrs.com/en/careers) [:octocat:](https://github.com/Nmbrs) | HR & Payroll software. | `Lisboa` |
