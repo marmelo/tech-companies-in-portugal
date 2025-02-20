@@ -301,7 +301,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Finiam](https://www.finiam.com/) [:rocket:](https://www.finiam.com/#contact) | Improving people's lives by untangling the financial world. | `Braga` `Remote` |
 | [Fractal](https://web.fractal.id) | Enabling open finance with a new Internet Identity layer. | `Porto` `Remote` |
 | [Global Blue](https://www.globalblue.com/en) [:rocket:](https://www.globalblue.com/en/about-us/career)| Tax-Free Shopping solutions. | `Lisboa` `Porto` <br> `Remote` |
-| [ITSector](https://www.itsector.pt/pt) [:rocket:](https://www.itsector.pt/pt/carreiras) | Software for financial institutions. | `Aveiro` `Braga` <br> `Bragança` `Lisboa` <br> `Porto` |
+| [ITSector](https://itsector.com) [:rocket:](https://itsector.com/careers) | Software for financial institutions. | `Aveiro` `Braga` <br> `Bragança` `Lisboa` <br> `Porto` |
 | [JUMO](https://www.jumo.world) [:rocket:](https://careers.jumo.world/) | Financial inclusion platform. | `Remote` |
 | [Klarna](https://www.klarna.com) [:rocket:](https://klarnagroup.teamtailor.com/jobs?location=Lisbon,+Portugal&split_view=true) [:octocat:](https://github.com/klarna) | Global payments and shopping service. | `Lisboa` |
 | [Kraken](https://www.kraken.com) [:rocket:](https://www.kraken.com/careers) | Kraken is a cryptocurrency exchange and bank. | `Remote` |
