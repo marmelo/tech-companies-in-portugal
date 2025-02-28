@@ -246,6 +246,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Cisco](https://www.cisco.com/) [:rocket:](https://www.cisco.com/c/en/us/about/careers.html) [:octocat:](https://github.com/cisco) | Network solutions. | `Oeiras` |
 | [ClanHR](https://www.clanhr.com) | Online Human Resources Management Software. | `Lisboa` |
 | [Coverflex](https://www.coverflex.com/) [:rocket:](https://careers.coverflex.com/) | Payments and benefits management. | `Remote` |
+| [CSG](https://www.csgi.com/) [:rocket:](https://www.csgi.com/careers/) | Cloud-native Business Support System platform. | `Remote` |
 | [Deel](https://www.deel.com/) [:rocket:](https://jobs.ashbyhq.com/Deel?departmentId=8c27e7fa-f898-4de1-adf6-70c67c1e1c11&locationId=7a1f038b-147a-4a65-8ba5-d047fda72a10) [:octocat:](https://github.com/letsdeel) | Compliance, payroll, HR, and performance for any worker globally in a single SaaS platform. | `Remote` |
 | [Deimos](https://deimos-space.com/) [:rocket:](https://deimos-space.com/jobs/) | Advanced design solutions and turn-key space software systems. | `Lisboa` |
 | [Dremio](https://www.dremio.com/) [:rocket:](https://www.dremio.com/careers/job-postings/) | Data as a service platform for fast analytics and data integration. | `Lisboa` `Remote` |
@@ -317,6 +318,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Onfido](https://www.onfido.com) [:rocket:](https://onfido.com/company/careers/) | Identity verification at the speed of life. | `Lisboa` |
 | [Paddle](https://www.paddle.com) [:rocket:](https://www.paddle.com/careers#open-positions) | Payment and subscription management platform for software vendors. | `Lisboa` |
 | [Pleo](https://www.pleo.io) [:rocket:](https://www.pleo.io/en/careers/jobs) | Smart payment cards and expense management tools for businesses. | `Lisboa` `Remote` |
+| [Qonto](https://qonto.com/en) [:rocket:](https://qonto.com/en/careers) [:octocat:](https://github.com/qonto) | Business accounts and financial tools for SMEs | `Remote` |
 | [Revolut](https://www.revolut.com) [:rocket:](https://www.revolut.com/pt-PT/careers) [:octocat:](https://github.com/revolut-engineering) | A digital banking alternative to conventional banks. | `Lisboa` `Porto` |
 | [Riskified](https://www.riskified.com) [:rocket:](https://www.riskified.com/careers/#positions) | E-commerce fraud prevention. | `Lisboa` |
 | [Samlino Group](https://samlinogroup.com/) [:rocket:](https://samlinogroup.com/careers/) | Financial products comparison for several markets (e.g.: [ComparaJá](https://www.comparaja.pt)). | `Lisboa` |
@@ -423,6 +425,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [NCC Group](https://www.nccgroup.com/pt/) [:rocket:](https://www.nccgroupplc.com/careers/) | Global experts in cyber security and risk mitigation. | `Lisboa` `Remote` |
 | [Probely](https://probely.com) [:rocket:](https://careers.probely.com) | Automated web application security scanning as a service. | `Lisboa` |
 | [S21sec](https://www.s21sec.com/) [:rocket:](https://www.s21sec.com/join-us/) | Cybersecurity services. | `Lisboa` `Porto` |
+| [Snyk](https://snyk.io/) [:rocket:](https://snyk.io/careers/) [:octocat:](https://github.com/snyk) | Helps developers find and fix security vulnerabilities in code. | `Lisboa` |
 | [Vawlt](https://vawlt.io) [:rocket:](https://vawlt.io/company/careers) | Cloud-based data security and encryption solutions | `Lisboa` `Remote` |
 
 
