@@ -242,7 +242,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Amplemarket](https://amplemarket.com/) [:rocket:](https://amplemarket.com/careers) | AI powered sales assistant. | `Remote` |
 | [ARTSOFT](https://www.artsoft.pt/) [:rocket:](https://www.artsoft.pt/carreiras) | ERP Software | `Lisboa` |
 | [Beqom](https://www.beqom.com/) [:rocket:](https://beqom.bamboohr.com/careers) | Compensation management platform for pay, bonuses, and incentives. | `Lisboa` |
-| [CASAFARI](https://www.casafari.com/) [:rocket:](https://www.casafari.com/careers) | Real Estate Market information from agencies and private owners. | `Lisboa` |
+| [CASAFARI](https://www.casafari.com/) [:rocket:](https://casafari.factorialhr.pt/) | Real Estate Market information from agencies and private owners. | `Lisboa` |
 | [Cisco](https://www.cisco.com/) [:rocket:](https://www.cisco.com/c/en/us/about/careers.html) [:octocat:](https://github.com/cisco) | Network solutions. | `Oeiras` |
 | [ClanHR](https://www.clanhr.com) | Online Human Resources Management Software. | `Lisboa` |
 | [Coverflex](https://www.coverflex.com/) [:rocket:](https://careers.coverflex.com/) | Payments and benefits management. | `Remote` |
