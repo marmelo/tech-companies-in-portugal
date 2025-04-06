@@ -138,9 +138,9 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | :------ | :---------- | :-------- |
 | [BI4ALL](https://www.bi4all.pt/en/) [:rocket:](https://www.linkedin.com/company/bi4all/jobs/) | Consulting services with several analytics solutions. | `Lisboa` `Porto` |
 | [Critical Software](https://www.criticalsoftware.com) [:rocket:](https://www.criticalsoftware.com/careers) | Mission and business-critical applications. | `Coimbra` `Lisboa` <br> `Porto` <br> `Viseu` |
+| [DXC Technology ServiceNow Business Group](https://dxcservicenowbusinessgroup.com/) | Consultancy and Application Development based on ServiceNow. | `Fundão` `Lisboa` |
 | [Eyenov](https://eyenov.com) | Computer Vision. Machine Learning. Mobile, desktop, and embedded. | `Lisboa` `Remote` |
 | [DareData Engineering](https://www.daredata.ai/) [:rocket:](https://www.daredata.ai/join-us) | Data Science, Data Engineering and MLOps Consulting Boutique. | `Remote` |
-| [Fruition Partners](https://www.fruitionpartners.nl/) | Consultancy and Application Development based on ServiceNow. | `Fundão` `Lisboa` |
 | [JTA](https://www.thedatascientists.com/) [:rocket:](https://www.thedatascientists.com) | Machine Learning, Reporting and custom vizualizations services. | `Porto` |
 | [Kwanko](https://kwanko.com/) [:rocket:](https://www.kwanko.com/about-us/careers/) | An International leader in Crossdevice Performance Marketing. | `Lisboa` |
 | [Laminar](https://laminarprojects.com/) [:rocket:](https://laminarprojects.com/join-us/) | Building world class apps for the construction industry. | `Lisboa` |
@@ -203,7 +203,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | :------ | :---------- | :-------- |
 | [360imprimir](https://www.360imprimir.pt/) [:rocket:](https://www.360imprimir.pt/Home/Carreiras) | Online platform for marketing products and services. | `Braga` `Lisboa` <br> `Torres Vedras` |
 | [Aptoide](https://www.aptoide.com/) [:rocket:](https://pt.aptoide.com/company/jobs) | Your Android app store. | `Lisboa` |
-| [Barkyn](https://barkyn.com/) [:rocket:](https://barkyn.factorialhr.pt/) | Barkyn delivers health and happiness to pet families around the world. | `Porto` |
+| [Barkyn](https://barkyn.com/) [:rocket:](https://app.sesametime.com/jobs/Barkyn/all) | Barkyn delivers health and happiness to pet families around the world. | `Porto` |
 | [Blip](https://blip.pt) [:rocket:](https://blip.pt/jobs/) | Online betting and gambling operator. | `Porto` |
 | [Farfetch](https://www.farfetch.com) [:rocket:](https://aboutfarfetch.com/careers/our-approach-to-hiring/ | Global technology platform for luxury fashion. | `Braga` `Lisboa` <br> `Porto` |
 | [Jumia](https://group.jumia.com) [:rocket:](https://group.jumia.com/careers) | Online Shopping for Electronics, Phones & Fashion in Africa. | `Porto` |
@@ -242,7 +242,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Amplemarket](https://amplemarket.com/) [:rocket:](https://amplemarket.com/careers) | AI powered sales assistant. | `Remote` |
 | [ARTSOFT](https://www.artsoft.pt/) [:rocket:](https://www.artsoft.pt/carreiras) | ERP Software | `Lisboa` |
 | [Beqom](https://www.beqom.com/) [:rocket:](https://beqom.bamboohr.com/careers) | Compensation management platform for pay, bonuses, and incentives. | `Lisboa` |
-| [CASAFARI](https://www.casafari.com/) [:rocket:](https://www.casafari.com/careers) | Real Estate Market information from agencies and private owners. | `Lisboa` |
+| [CASAFARI](https://www.casafari.com/) [:rocket:](https://casafari.factorialhr.pt/) | Real Estate Market information from agencies and private owners. | `Lisboa` |
 | [Cisco](https://www.cisco.com/) [:rocket:](https://www.cisco.com/c/en/us/about/careers.html) [:octocat:](https://github.com/cisco) | Network solutions. | `Oeiras` |
 | [ClanHR](https://www.clanhr.com) | Online Human Resources Management Software. | `Lisboa` |
 | [Coverflex](https://www.coverflex.com/) [:rocket:](https://careers.coverflex.com/) | Payments and benefits management. | `Remote` |
@@ -472,4 +472,4 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Hostelworld](https://www.hostelworld.com/) [:rocket:](https://www.hostelworldgroup.com/careers) | World's leading hostel-focused online booking platform. | `Porto` |
 | [Ryanair](https://www.ryanair.com/pt/pt) [:rocket:](https://careers.ryanair.com/jobs/?ryanair-jobs-department=21233) | Ryanair is an Irish ultra low-cost carrier. | `Lisboa` `Porto`|
 | [TripAdvisor](https://www.tripadvisor.com) [:rocket:](https://careers.tripadvisor.com) | The largest "social travel website" in the world. | `Lisboa` |
-| [Vision-Box](https://www.vision-box.com/) [:rocket:](https://visionbox.teamtailor.com/jobs) | Biometric solutions for automated border control, identity management, and security. | `Lisboa` |
+| [Vision-Box](https://www.vision-box.com/) [:rocket:](https://www.vision-box.com/we-are-hiring) | Biometric solutions for automated border control, identity management, and security. | `Lisboa` |
