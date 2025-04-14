@@ -254,6 +254,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [epilot](https://www.epilot.cloud/) [:rocket:](https://epilot.cloud/en/career-jobs/engineering/) [:octocat:](https://github.com/epilot-dev) | B2B e-commerce software for complex energy products. | `Remote` |
 | [Epos Now](https://www.eposnow.com/) [:rocket:](https://www.eposnow.com/uk/careers/) | Electronic point of sale solutions. | `Remote` |
 | [Five9](https://www.five9.com/) [:rocket:](https://www.five9.com/about/careers/jobs/) | Intelligent CX Platform. | `Porto` |
+| [Flecto.io](https://flecto.io) [:rocket:](https://www.notion.so/flecto/Working-at-Flecto-406db5e14c2c452abe89eecfb015b862) [:octocat:](https://github.com/flecto-io) | A flexible solution for all rental businesses. | `Lisboa` `Remote` |
 | [Glintt](https://www.glintt.com/) [:rocket:](https://www.glintt.com/pt/carreiras/ofertas/Paginas/Ofertas.aspx) | Healthcare software. | `Algarve` `Lisboa` <br> `Porto` `Sintra` |
 | [Glia](https://www.glia.com/) [:rocket:](https://www.glia.com/jobs) | Customer relationship management software. | `Remote` |
 | [GMV](https://www.gmv.com/) [:rocket:](https://www.gmv.com/en-es/talent) | Advanced solutions in many sectors. | `Lisboa` |
