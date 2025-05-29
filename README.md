@@ -260,7 +260,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [GMV](https://www.gmv.com/) [:rocket:](https://www.gmv.com/en-es/talent) | Advanced solutions in many sectors. | `Lisboa` |
 | [HiBob](https://www.hibob.com/) [:rocket:](https://www.hibob.com/careers/) | HR software. | `Lisboa` |
 | [Hitachi Vantara](https://www.hitachivantara.com/) [:rocket:](https://www.hitachivantara.com/en-us/company/careers.html) | IoT, cloud, application, big data and analytics solutions. | `Oeiras` `Porto` |
-| [Human Ready](https://humanready.io/) [:rocket:](https://humanready.io/careers) | Empowering business leaders unlock the full potential of their data. | `Lisboa` |
+| [Human Ready](https://humanready.io/) [:rocket:](https://humanready.io/careers) | Human friendly decision support solutions, with AI and analytics, for business leaders. | `Lisboa` |
 | [InnovationCast](https://innovationcast.com/) | Collaborative Innovation Management Software. | `Lisboa` `Porto` |
 | [InvoiceXpress](https://www.invoicexpress.com/) | Online Invoicing Software. | `Lisboa` |
 | [Iterable](https://iterable.com/) [:rocket:](https://iterable.com/careers/) | Cross-channel marketing platform for customer engagement and growth. | `Lisboa` |
