@@ -205,9 +205,9 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Aptoide](https://www.aptoide.com/) [:rocket:](https://pt.aptoide.com/company/jobs) | Your Android app store. | `Lisboa` |
 | [Barkyn](https://barkyn.com/) [:rocket:](https://app.sesametime.com/jobs/Barkyn/all) | Barkyn delivers health and happiness to pet families around the world. | `Porto` |
 | [Blip](https://blip.pt) [:rocket:](https://blip.pt/jobs/) | Online betting and gambling operator. | `Porto` |
-| [Casafari](https://casafari.com) [:rocket:](https://casafari.factorialhr.pt) | Real estate data platform offering market insights and analytics. | `Lisbon` |
-| [Catawiki](https://catawiki.com) [:rocket:](https://catawiki.careers) | Online auction platform for rare and unique collectibles. | `Lisbon` |
-| [Defined.ai](https://defined.ai) [:rocket:](https://definedai.applytojob.com) | World's largest marketplace for ethical AI training data. | `Lisbon` `Remote` |
+| [Casafari](https://casafari.com) [:rocket:](https://casafari.factorialhr.pt) | Real estate data platform offering market insights and analytics. | `Lisboa` |
+| [Catawiki](https://catawiki.com) [:rocket:](https://catawiki.careers) | Online auction platform for rare and unique collectibles. | `Lisboa` |
+| [Defined.ai](https://defined.ai) [:rocket:](https://definedai.applytojob.com) | World's largest marketplace for ethical AI training data. | `Lisboa` `Remote` |
 | [Farfetch](https://www.farfetch.com) [:rocket:](https://aboutfarfetch.com/careers/our-approach-to-hiring/) | Global technology platform for luxury fashion. | `Braga` `Lisboa` <br> `Porto` |
 | [Jumia](https://group.jumia.com) [:rocket:](https://group.jumia.com/careers) | Online Shopping for Electronics, Phones & Fashion in Africa. | `Porto` |
 | [Jumpseller](https://jumpseller.com) [:rocket:](https://jumpseller.com/jobs) | E-commerce platform to create online stores. | `Porto` |
@@ -274,7 +274,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Moviik](https://www.moviik.com) | Customer Journey Management Platform. | `Braga` |
 | [Nmbrs](https://www.nmbrs.com/) [:rocket:](https://www.nmbrs.com/en/careers) [:octocat:](https://github.com/Nmbrs) | HR & Payroll software. | `Lisboa` |
 | [Omnibees](https://omnibees.com/) [:rocket:](https://omnibees-bee2pay-niara.gupy.io/) | Hotel Management Software. | `Faro` |
-| [Oxide Computer Company](https://oxide.computer) [:rocket:](https://oxide.computer/careers) | Rack-scale servers with integrated hardware and software. | `Lisbon` |
+| [Oxide Computer Company](https://oxide.computer) [:rocket:](https://oxide.computer/careers) | Rack-scale servers with integrated hardware and software. | `Remote` |
 | [PandaDoc](https://www.pandadoc.com/) [:rocket:](https://www.pandadoc.com/careers/) [:octocat:](https://github.com/PandaDoc) | Manage and e-sign Documents. | `Lisboa` `Remote` |
 | [Petapilot](https://www.petapilot.com/) | Big Data Solutions. | `Porto` |
 | [PHC Software](https://www.phcsoftware.com/) [:rocket:](https://www.phcsoftware.com/carreiras/) | ERP software. | `Lisboa` `Porto` |
@@ -290,7 +290,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Sherpany](https://www.sherpany.com/) [:rocket:](https://www.sherpany.com/en/careers/our-culture/) | Meeting Management Software for Leaders. | `Lisboa` `Remote` |
 | [Siemens](https://www.siemens.com) [:rocket:](https://jobs.siemens.com) [:octocat:](https://github.com/siemens) | Global market leader in industrial software and automation. | `Lisboa` `Porto` |
 | [skeeled](https://www.skeeled.com/) [:rocket:](https://www.skeeled.com/career) | SaaS Talent Acquisition Software. | `Porto` |
-| [Talka](https://www.talka.ai) [:rocket:](https://www.talka.ai/careers) | AI to analyze sales calls and improve deal success. | `Lisbon` |
+| [Talka](https://www.talka.ai) [:rocket:](https://www.talka.ai/careers) | AI to analyze sales calls and improve deal success. | `Lisboa` |
 | [Tridonic](https://www.tridonic.com/com/en/) [:rocket:](https://career.zumtobelgroup.com/Jobs) | Smart and efficient lighting solutions. | `Porto` |
 | [Unit4](https://www.unit4.com/) [:rocket:](https://www.careers.unit4.com/) | ERP, Consulting. | `Algés` |
 | [VAKT Global Ltd.](https://www.vakt.com/) [:rocket:](https://www.vakt.com/careers/) | Enterprise grade blockchain commodities trading platform. | `Lisboa` |
@@ -317,7 +317,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Feedzai](https://feedzai.com) [:rocket:](https://careers.feedzai.com) [:octocat:](https://github.com/feedzai) | Fraud detection platform to make commerce safe. | `Coimbra` `Lisboa` <br> `Porto` `Remote` |
 | [Fidel](https://fidel.uk) [:rocket:](https://fidel.uk/careers/) | One API for linking bank cards to digital applications globally. | `Lisboa` |
 | [Finiam](https://www.finiam.com/) [:rocket:](https://www.finiam.com/#contact) | Improving people's lives by untangling the financial world. | `Braga` `Remote` |
-| [Flecto](https://flecto.io/) [:rocket:](https://www.finiam.com/#contact) | Rental management for businesses promoting circular economy. | `Lisbon` |
+| [Flecto](https://flecto.io/) [:rocket:](https://www.finiam.com/#contact) | Rental management for businesses promoting circular economy. | `Lisboa` |
 | [Fractal](https://web.fractal.id) | Enabling open finance with a new Internet Identity layer. | `Porto` `Remote` |
 | [Global Blue](https://www.globalblue.com/en) [:rocket:](https://www.globalblue.com/en/about-us/career)| Tax-Free Shopping solutions. | `Lisboa` `Porto` <br> `Remote` |
 | [Goparity](https://www.goparity.com) [:rocket:](https://www.goparity.com/about/careers) | Crowdlending for sustainable projects with low entry. | `Lisboa` `Remote` |
@@ -378,14 +378,14 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Promptly](https://www.promptlyhealth.com/) [:rocket:](https://www.promptlyhealth.com/en/careers/) | Follow-up the outcomes of your medical treatments. | `Porto` |
 | [Sword Health](https://swordhealth.com/) [:rocket:](https://jobs.lever.co/swordhealth) | Improving the musculoskeletal pain treatment process. | `Porto` `Remote` |
 | [UpHill](https://uphillhealth.com/) [:rocket:](https://www.uphillhealth.com/careers) | Healthtech platform automating patient care and hospital workflows. | `Lisboa` |
-| [Virtuleap](https://virtuleap.com/) [:rocket:](https://virtuleap.com/about-us#career) | VR games to improve cognitive health and detect impairments. | `Lisbon` |
+| [Virtuleap](https://virtuleap.com/) [:rocket:](https://virtuleap.com/about-us#career) | VR games to improve cognitive health and detect impairments. | `Lisboa` |
 
 ## Industry :factory:
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
-| [Cargofive](https://www.cargofive.com) [:rocket:](https://www.cargofive.com/careers) | Digital platform helping freight forwarders get instant ocean rates. | `Lisbon` |
-| [CircuitLeap](https://www.circuitleap.ai) [:rocket:](https://www.circuitleap.ai/careers.html) | AI to speed up and optimize analog circuit design. | `Lisbon` |
+| [Cargofive](https://www.cargofive.com) [:rocket:](https://www.cargofive.com/careers) | Digital platform helping freight forwarders get instant ocean rates. | `Lisboa` |
+| [CircuitLeap](https://www.circuitleap.ai) [:rocket:](https://www.circuitleap.ai/careers.html) | AI to speed up and optimize analog circuit design. | `Lisboa` |
 | [Critical Manufacturing](https://www.criticalmanufacturing.com) [:rocket:](https://careers.criticalmanufacturing.com/) | Manufacturing business-critical applications. | `Maia` |
 | [FARO Technologies](https://www.faro.com/) [:rocket:](https://www.faro.com/about-faro/career/) | The world’s most trusted source for 3d measurement. | `Porto` |
 | [Malvern Panalytical](https://www.malvernpanalytical.com/) [:rocket:](https://spectris.wd3.myworkdayjobs.com/Malvern_Panalytical_Careers) | Laboratory analytical instruments design and manufacturing. | `Maia` |
@@ -438,7 +438,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Cybersafe](https://www.cybersafe.pt/) | Training, solutions integrator, and managed security services. | `Alfragide` |
 | [Dashlane](https://www.dashlane.com/) [:rocket:](https://www.dashlane.com/about/careers) | Password manager and online security app. | `Lisboa` |
 | [DuckDuckgo](https://duckduckgo.com/) [:rocket:](https://duckduckgo.com/hiring) [:octocat:](https://github.com/duckduckgo) | Privacy-focused search engine that doesn’t track users. | `Remote` |
-| [Entrust](https://entrust.com) [:rocket:](https://entrust.com/company/careers) [:octocat:](https://github.com/ethiack) | Global leader in indentities, payments and digital infrastructure. | `Lisbon` |
+| [Entrust](https://entrust.com) [:rocket:](https://entrust.com/company/careers) [:octocat:](https://github.com/ethiack) | Global leader in indentities, payments and digital infrastructure. | `Lisboa` |
 | [Ethiack](https://ethiack.com/) [:rocket:](https://www.linkedin.com/company/ethiack/jobs/) [:octocat:](https://github.com/ethiack) | Ethical Hacking platform. | `Coimbra` |
 | [Integrity](https://www.integrity.pt/) [:rocket:](https://www.integrity.pt/careers.html) | Consulting and tech audit focused on information Security. | `Lisboa` |
 | [Jscrambler](https://jscrambler.com) [:rocket:](https://jscrambler.com/careers) | JavaScript application integrity and security. | `Porto` |
@@ -489,7 +489,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
-| [Bounce](https://bounce.com) [:rocket:](https://bounce.com/careers) | Luggage storage network connecting travelers with local shops. | `Lisbon` |
+| [Bounce](https://bounce.com) [:rocket:](https://bounce.com/careers) | Luggage storage network connecting travelers with local shops. | `Lisboa` |
 | [eDreams ODIGEO](https://www.edreamsodigeo.com/) [:rocket:](https://www.edreamsodigeocareers.com) | We are shaping the way people travel today and tomorrow. | `Porto` |
 | [Flix](https://www.flix.com) [:rocket:](https://flix.careers) | Leading global travel-tech company. | `Lisboa` |
 | [Hostelworld](https://www.hostelworld.com/) [:rocket:](https://www.hostelworldgroup.com/careers) | World's leading hostel-focused online booking platform. | `Porto` |
