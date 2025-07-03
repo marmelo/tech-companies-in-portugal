@@ -262,6 +262,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Glia](https://www.glia.com/) [:rocket:](https://www.glia.com/jobs) | Customer relationship management software. | `Remote` |
 | [GMV](https://www.gmv.com/) [:rocket:](https://www.gmv.com/en-es/talent) | Advanced solutions in many sectors. | `Lisboa` |
 | [HiBob](https://www.hibob.com/) [:rocket:](https://www.hibob.com/careers/) | HR software. | `Lisboa` |
+| [HiJiffy](https://www.hijiffy.com/) [:rocket:](https://careers.hijiffy.com) | Guest communications management for the hospitality industry. | `Remote` |
 | [Hitachi Vantara](https://www.hitachivantara.com/) [:rocket:](https://www.hitachivantara.com/en-us/company/careers.html) | IoT, cloud, application, big data and analytics solutions. | `Oeiras` `Porto` |
 | [Human Ready](https://humanready.io/) [:rocket:](https://humanready.io/careers) | Human-ready AI and analytics for business leaders. | `Lisboa` |
 | [InnovationCast](https://innovationcast.com/) | Collaborative Innovation Management Software. | `Lisboa` `Porto` |
@@ -332,8 +333,10 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Natixis](https://natixis.groupebpce.com/) [:rocket:](https://recrutement.natixis.com/) | French corporate and investment bank. | `Porto` |
 | [Onfido](https://www.onfido.com) [:rocket:](https://onfido.com/company/careers/) | Identity verification at the speed of life. | `Lisboa` |
 | [Paddle](https://www.paddle.com) [:rocket:](https://www.paddle.com/careers#open-positions) | Payment and subscription management platform for software vendors. | `Lisboa` |
+| [Paynest](https://www.paynest.co) [:rocket:](https://paynestco.notion.site/openroles) | Digital platform for hassle-free rent payments and management. | `Lisboa` `Porto` |
 | [Pleo](https://www.pleo.io) [:rocket:](https://www.pleo.io/en/careers/jobs) | Smart payment cards and expense management tools for businesses. | `Lisboa` `Remote` |
 | [Qonto](https://qonto.com/en) [:rocket:](https://qonto.com/en/careers) [:octocat:](https://github.com/qonto) | Business accounts and financial tools for SMEs | `Remote` |
+| [Rauva](https://www.revolut.com) [:rocket:](https://app.screenloop.com/careers/rauva) | Platform simplifying business setup and accounting for SMEs. | `Lisboa` `Porto` |
 | [Revolut](https://www.revolut.com) [:rocket:](https://www.revolut.com/pt-PT/careers) [:octocat:](https://github.com/revolut-engineering) | A digital banking alternative to conventional banks. | `Lisboa` `Porto` |
 | [Riskified](https://www.riskified.com) [:rocket:](https://www.riskified.com/careers/#positions) | E-commerce fraud prevention. | `Lisboa` |
 | [Samlino Group](https://samlinogroup.com/) [:rocket:](https://samlinogroup.com/careers/) | Financial products comparison for several markets (e.g.: [ComparaJá](https://www.comparaja.pt)). | `Lisboa` |
@@ -374,6 +377,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Olympus](https://www.olympus.pt/) [:rocket:](https://www.olympus.pt/company/pt/carreiras/empregos/) | Advancing medical technologies to make the most of life. | `Coimbra` `Remote` |
 | [Promptly](https://www.promptlyhealth.com/) [:rocket:](https://www.promptlyhealth.com/en/careers/) | Follow-up the outcomes of your medical treatments. | `Porto` |
 | [Sword Health](https://swordhealth.com/) [:rocket:](https://jobs.lever.co/swordhealth) | Improving the musculoskeletal pain treatment process. | `Porto` `Remote` |
+| [UpHill](https://uphillhealth.com/) [:rocket:](https://www.uphillhealth.com/careers) | Healthtech platform automating patient care and hospital workflows. | `Lisboa` |
 | [Virtuleap](https://virtuleap.com/) [:rocket:](https://virtuleap.com/about-us#career) | VR games to improve cognitive health and detect impairments. | `Lisbon` |
 
 ## Industry :factory:
@@ -459,6 +463,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
 | [Bhout](https://bhout.com/) | A discovery platform that helps you stay active and healthy. | `Lisboa` |
+| [Scoreplay](https://bhout.com/) | First AI-powered media infrastructure for sports organizations. | `Remote` |
 | [Wellhub](https://wellhub.com/) [:rocket:](https://wellhub.com/careers) | A discovery platform that helps you stay active and healthy. | `Lisboa` `Remote` |
 
 
