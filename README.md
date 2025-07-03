@@ -297,6 +297,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
+| [Agicap](https://agicap.com) [:rocket:](https://career.agicap.com) | Cash flow management software for small and mid-sized businesses. | `Lisboa` |
 | [Alviere](https://alviere.com/) [:rocket:](https://alviere.com/careers) [:octocat:](https://github.com/Alviere) | Full-Stack embedded finance plaftorm. | `Lisboa` |
 | [Anchorage](https://anchorage.com/) [:rocket:](https://anchorage.com/careers/) | The most advanced digital asset platform for secure crypto custody. | `Porto` `Remote` |
 | [Banco Atlântico Europa](https://www.atlantico.eu/) [:rocket:](https://www.atlantico.eu/institucional/carreiras) | A European bank, under the supervision of Banco de Portugal. | `Lisboa` |
@@ -318,6 +319,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Mastercard](https://www.mastercard.pt) [:rocket:](https://careers.mastercard.com)[:octocat:](https://github.com/mastercard) | Global payments company. | `Lisboa` |
 | [Mollie](https://www.mollie.com) [:rocket:](https://jobs.mollie.com/vacancies) | Payment platform for easy, secure online payments and transactions. | `Lisboa` |
 | [Moonpay](https://www.moonpay.com) [:rocket:](https://www.moonpay.com/careers) | Solutions for payments, smart contracts, and digital asset management. | `Lisboa` `Remote` |
+| [Nasdaq](https://www.nasdaq.com/) [:rocket:](https://www.nasdaq.com/about/careers) | Global electronic marketplace for buying and selling stocks. | `Lisboa` |
 | [Natixis](https://natixis.groupebpce.com/) [:rocket:](https://recrutement.natixis.com/) | French corporate and investment bank. | `Porto` |
 | [Onfido](https://www.onfido.com) [:rocket:](https://onfido.com/company/careers/) | Identity verification at the speed of life. | `Lisboa` |
 | [Paddle](https://www.paddle.com) [:rocket:](https://www.paddle.com/careers#open-positions) | Payment and subscription management platform for software vendors. | `Lisboa` |
@@ -444,6 +446,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
+| [Bhout](https://bhout.com/) | A discovery platform that helps you stay active and healthy. | `Lisboa` |
 | [Wellhub](https://wellhub.com/) [:rocket:](https://wellhub.com/careers) | A discovery platform that helps you stay active and healthy. | `Lisboa` `Remote` |
 
 
@@ -469,6 +472,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
+| [Bounce](https://bounce.com) [:rocket:](https://bounce.com/careers) | Luggage storage network connecting travelers with local shops. | `Lisbon` |
 | [eDreams ODIGEO](https://www.edreamsodigeo.com/) [:rocket:](https://www.edreamsodigeocareers.com) | We are shaping the way people travel today and tomorrow. | `Porto` |
 | [Flix](https://www.flix.com) [:rocket:](https://flix.careers) | Leading global travel-tech company. | `Lisboa` |
 | [Hostelworld](https://www.hostelworld.com/) [:rocket:](https://www.hostelworldgroup.com/careers) | World's leading hostel-focused online booking platform. | `Porto` |
