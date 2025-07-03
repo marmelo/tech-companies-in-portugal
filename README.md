@@ -205,6 +205,8 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Aptoide](https://www.aptoide.com/) [:rocket:](https://pt.aptoide.com/company/jobs) | Your Android app store. | `Lisboa` |
 | [Barkyn](https://barkyn.com/) [:rocket:](https://app.sesametime.com/jobs/Barkyn/all) | Barkyn delivers health and happiness to pet families around the world. | `Porto` |
 | [Blip](https://blip.pt) [:rocket:](https://blip.pt/jobs/) | Online betting and gambling operator. | `Porto` |
+| [Casafari](https://casafari.com) [:rocket:](https://casafari.factorialhr.pt) | Real estate data platform offering market insights and analytics. | `Lisbon` |
+| [Catawiki](https://catawiki.com) [:rocket:](https://catawiki.careers) | Online auction platform for rare and unique collectibles. | `Lisbon` |
 | [Farfetch](https://www.farfetch.com) [:rocket:](https://aboutfarfetch.com/careers/our-approach-to-hiring/) | Global technology platform for luxury fashion. | `Braga` `Lisboa` <br> `Porto` |
 | [Jumia](https://group.jumia.com) [:rocket:](https://group.jumia.com/careers) | Online Shopping for Electronics, Phones & Fashion in Africa. | `Porto` |
 | [Jumpseller](https://jumpseller.com) [:rocket:](https://jumpseller.com/jobs) | E-commerce platform to create online stores. | `Porto` |
@@ -270,6 +272,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Moviik](https://www.moviik.com) | Customer Journey Management Platform. | `Braga` |
 | [Nmbrs](https://www.nmbrs.com/) [:rocket:](https://www.nmbrs.com/en/careers) [:octocat:](https://github.com/Nmbrs) | HR & Payroll software. | `Lisboa` |
 | [Omnibees](https://omnibees.com/) [:rocket:](https://omnibees-bee2pay-niara.gupy.io/) | Hotel Management Software. | `Faro` |
+| [Oxide Computer Company](https://oxide.computer) [:rocket:](https://oxide.computer/careers) | Rack-scale servers with integrated hardware and software. | `Lisbon` |
 | [PandaDoc](https://www.pandadoc.com/) [:rocket:](https://www.pandadoc.com/careers/) [:octocat:](https://github.com/PandaDoc) | Manage and e-sign Documents. | `Lisboa` `Remote` |
 | [Petapilot](https://www.petapilot.com/) | Big Data Solutions. | `Porto` |
 | [PHC Software](https://www.phcsoftware.com/) [:rocket:](https://www.phcsoftware.com/carreiras/) | ERP software. | `Lisboa` `Porto` |
@@ -371,6 +374,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
+| [Cargofive](https://www.cargofive.com) [:rocket:](https://www.cargofive.com/careers) | Digital platform helping freight forwarders get instant ocean rates. | `Lisbon` |
 | [Critical Manufacturing](https://www.criticalmanufacturing.com) [:rocket:](https://careers.criticalmanufacturing.com/) | Manufacturing business-critical applications. | `Maia` |
 | [FARO Technologies](https://www.faro.com/) [:rocket:](https://www.faro.com/about-faro/career/) | The world’s most trusted source for 3d measurement. | `Porto` |
 | [Malvern Panalytical](https://www.malvernpanalytical.com/) [:rocket:](https://spectris.wd3.myworkdayjobs.com/Malvern_Panalytical_Careers) | Laboratory analytical instruments design and manufacturing. | `Maia` |
