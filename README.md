@@ -337,6 +337,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Pleo](https://www.pleo.io) [:rocket:](https://www.pleo.io/en/careers/jobs) | Smart payment cards and expense management tools for businesses. | `Lisboa` `Remote` |
 | [Qonto](https://qonto.com/en) [:rocket:](https://qonto.com/en/careers) [:octocat:](https://github.com/qonto) | Business accounts and financial tools for SMEs | `Remote` |
 | [Rauva](https://www.revolut.com) [:rocket:](https://app.screenloop.com/careers/rauva) | Platform simplifying business setup and accounting for SMEs. | `Lisboa` `Porto` |
+| [RevenueCat](https://www.revenuecat.com) [:rocket:](https://jobs.ashbyhq.com/revenuecat) [:octocat:](https://github.com/revenuecat) | In-aap subscriptions for mobile apps made easy. | `Remote` |
 | [Revolut](https://www.revolut.com) [:rocket:](https://www.revolut.com/pt-PT/careers) [:octocat:](https://github.com/revolut-engineering) | A digital banking alternative to conventional banks. | `Lisboa` `Porto` |
 | [Riskified](https://www.riskified.com) [:rocket:](https://www.riskified.com/careers/#positions) | E-commerce fraud prevention. | `Lisboa` |
 | [Samlino Group](https://samlinogroup.com/) [:rocket:](https://samlinogroup.com/careers/) | Financial products comparison for several markets (e.g.: [ComparaJá](https://www.comparaja.pt)). | `Lisboa` |
