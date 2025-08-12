@@ -109,9 +109,9 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
+| [act digital](https://www.alter-solutions.pt) [:rocket:](https://www.alter-solutions.pt/oportunidades-emprego) | Consultancy, Outsourcing, and Nearshore projects. | `Lisboa` `Porto` |
 | [Affinity](https://affinity.pt) [:rocket:](https://affinity.pt/en/careers/) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
 | [AGAP2](https://www.agap2-it.pt) [:rocket:](https://www.agap2-it.pt) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
-| [Alter Solutions](https://www.alter-solutions.com/) [:rocket:](https://www.alter-solutions.com/join-us) | Consultancy, Outsourcing, and Nearshore projects. | `Lisboa` `Porto` |
 | [Ankix](https://www.ankix.com/) [:rocket:](https://www.ankix.com/it-job-offers) | Consultancy, Outsourcing. | `Lisboa` |
 | [Aubay](https://www.aubay.pt/) [:rocket:](https://www.aubay.pt/talento) | Consultancy, Outsourcing, and Nearshore projects. | `Lisboa` `Porto` |
 | [Bee Engineering](https://www.bee-eng.pt/) [:rocket:](https://www.bee-eng.pt/lista-empregos) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
