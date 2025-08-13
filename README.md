@@ -179,8 +179,10 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
 | [Codacy](https://www.codacy.com) [:rocket:](https://www.codacy.com/careers) [:octocat:](https://github.com/codacy) | Automated code reviews & code analytics. | `Lisboa` `Remote` |
+| [Dash0](https://www.dash0.com/) [:rocket:](https://careers.dash0.com/) [:octocat:](https://github.com/dash0hq) | Collaborative API observability platform for debugging and monitoring APIs. | `Remote` |
 | [Datadog](https://www.datadog.com) [:rocket:](https://careers.datadoghq.com/) [:octocat:](https://github.com/datadog) | Cloud monitoring as a service | `Lisboa` `Remote` |
 | [Docker](https://docker.com) [:rocket:](https://www.docker.com/careers/) [:octocat:](https://github.com/docker) | Container and k8s tooling for developers. | `Remote` |
+| [Elastic](https://jobs.elastic.co/) [:rocket:](https://jobs.elastic.co/)  [:octocat:](https://github.com/elastic) | Search, observability, and security platform powering data insights. | `Remote` |
 | [Gitlab](https://about.gitlab.com/) [:rocket:](https://about.gitlab.com/jobs/all-jobs/) | DevOps platform for source code management, CI/CD, and collaboration. | `Remote` |
 | [Hugging Face](https://huggingface.co/) [:rocket:](https://apply.workable.com/huggingface/) [:octocat:](https://github.com/huggingface) | AI company specializing in natural language processing tools. | `Remote` |
 | [Nitro](https://www.gonitro.com/) [:rocket:](https://www.gonitro.com/about/careers) | Productivity platform that simplifies PDF editing and collaboration. | `Porto` |
@@ -297,6 +299,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Veeam](https://www.veeam.com/) [:rocket:](https://careers.veeam.com/vacancies) | Backup, recovery, and data management solutions for businesses. | `Lisboa` |
 | [VOID Software](https://www.void.pt/) | Systems design & architecture using different technology stacks. | `Leiria` |
 | [Visor.ai](https://www.visor.ai) [:rocket:](https://careers.visor.ai) | No-code platform that automates customer service using AI. | `Lisboa` `Remote` |
+| [Workato](https://www.workato.com/) [:rocket:](https://www.workato.com/careers) | Enterprise automation platform for app integration and workflow orchestration. | `Lisboa` `Porto` |
 | [Workia](https://workia.com/en/) | Simplifies the management of global employee mobility programs. | `Lisboa` |
 
 
