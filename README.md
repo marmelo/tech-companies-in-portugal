@@ -85,7 +85,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [LTPLabs](https://ltplabs.com/) | Boutique analytical-driven management consultancy company. | `Porto` `Lisboa` |
 | [KI labs](https://ki-labs.com/) [:rocket:](https://ki-labs.com/careers/) | Solve complex tech and business challenges for big corporations. | `Lisboa` |
 | [InnoWave](https://innowave.tech/) [:rocket:](https://innowave.tech/careers/) | Global technology and consulting company. | `Coimbra` `Lisboa`|
-| [IT People](https://itpeople.pt) [:rocket:](https://itpeople.pt/speak-to-us/) | Outsourcing & Nearshore Development. | `Covilhã` `Lisboa` <br> `Porto`|
+| [IT People](https://www.itpeople.pt/) | Outsourcing & Nearshore Development. | `Covilhã` `Lisboa` <br> `Porto`|
 | [Mindera](https://mindera.com) [:rocket:](https://mindera.com/#we-are-hiring) | Technology development and consultancy. | `Aveiro` `Coimbra` <br> `Porto` |
 | [Moxy](https://moxy.studio) [:rocket:](https://moxy.studio/team#join-the-team) | Interdisciplinary studio focused on design and development. | `Porto` |
 | [Neotalent](https://neotalent.pt/) [:rocket:](https://neotalent.pt/en/careers/job-opportunities/) | IT recruitment and talent management specialists. | `Lisboa` `Porto` |
