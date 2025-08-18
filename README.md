@@ -342,7 +342,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Riskified](https://www.riskified.com) [:rocket:](https://www.riskified.com/careers/#positions) | E-commerce fraud prevention. | `Lisboa` |
 | [Samlino Group](https://samlinogroup.com/) [:rocket:](https://samlinogroup.com/careers/) | Financial products comparison for several markets (e.g.: [ComparaJá](https://www.comparaja.pt)). | `Lisboa` |
 | [Seedrs](https://www.seedrs.com) [:rocket:](https://www.seedrs.com/careers) | Equity marketplace for everyone. | `Lisboa` |
-| [SIBS](https://www.sibs.com/) [:rocket:](https://sibs-sgps.zohorecruit.eu/careers) | Major Portuguese payment processor. | `Lisboa` |
+| [SIBS](https://www.sibs.com/) [:rocket:](https://www.corporate.sibs.com/careers/) | Major Portuguese payment processor. | `Lisboa` |
 | [StudentFinance](https://studentfinance.com/) | Disrupting education through Income Share Agreements | `Lisboa` `Remote` |
 | [SwissBorg](https://swissborg.com/) [:rocket:](https://swissborg.com/careers) | Cryptocurrencies exchange | `Remote` |
 | [Tabby](https://tabby.ai/en-AE) [:rocket:](https://tabby.ai/en-AE/careers#careers) | Buy now, pay later platform that offers flexible payment options. | `Remote` |
