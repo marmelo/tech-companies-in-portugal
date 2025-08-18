@@ -364,7 +364,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Marmalade Game Studio](https://www.marmaladegamestudio.com/) [:rocket:](https://career.marmaladegamestudio.com/) | Video game development company with several adaptations of classic board games. | `Almada` `Remote` |
 | [Miniclip](https://www.miniclip.com/) [:rocket:](https://corporate.miniclip.com/careers/vacancies) | Mobile and web game development company. | `Lisboa` |
 | [Not a Game Studio](https://www.notagamestudio.com/) | Game development studio focused on the experience of the users. | `Lisboa` |
-| [Redcatpig](https://www.redcatpig.com/) [:rocket:](https://www.redcatpig.com/careers/) | Video game development studio responsible for games like KEO. | `Angra do Heroísmo` |
+| [Redcatpig](https://www.redcatpig.com/) [:rocket:](https://www.redcatpig.com/careers.php) | Video game development studio responsible for games like KEO. | `Angra do Heroísmo` |
 
 
 ## Healthcare :heart:
