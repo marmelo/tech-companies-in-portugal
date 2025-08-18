@@ -44,7 +44,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
 | [AddVolt](https://addvolt.com/) [:rocket:](https://www.addvolt.com/en/#Contacts) | AddVolt's platform reduces CO2 in the heavy transportation sector. | `Porto` |
-| [Autodoc](https://www.auto-doc.pt/) [:rocket:](https://autodoc.group/en/career/all-jobs) | Online retailer specializing in automotive parts and accessories. | `Lisboa` |
+| [Autodoc](https://www.auto-doc.pt/) [:rocket:](https://career.autodoc.group/en/career) | Online retailer specializing in automotive parts and accessories. | `Lisboa` |
 | [Bosch](https://www.bosch.pt/) [:rocket:](https://www.bosch.pt/carreiras/) | German engineering and technology company with a big focus on the automotive industry. | `Aveiro` `Braga` <br> `Ovar` |
 | [Carwow](https://www.carwow.co.uk/) [:rocket:](https://www.carwow.co.uk/jobs#jobs-widget) | Online platform for comparing prices on new cars and offers. | `Porto` `Remote` |
 | [Critical TechWorks](https://www.criticaltechworks.com/) [:rocket:](https://join.criticaltechworks.com/jobs) | Developing next generation software systems for BMW. | `Braga` `Lisboa` <br> `Porto` |
