@@ -15,7 +15,8 @@ timeout = 65
 retry_wait_time = 5
 
 # Tolerate HTTP 403 Forbidden responses because it's a common response for domains behind Cloudflare.
-accept = ['403']
+# lychee defaults '100..=103,200..=299' https://github.com/lycheeverse/lychee?tab=readme-ov-file#commandline-usage
+accept = ['100..=103', '200..=299', '403']
 
 # Tolerate certificate issues since several sites have certificate chain issues :(
 insecure = true
