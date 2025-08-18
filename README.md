@@ -163,7 +163,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Mosano](https://mosano.eu) [:rocket:](https://mosano.eu/join-us) | Software House focusing on Digital Products for the web and mobile. | `Porto` `Remote` |
 | [Pixelmatters](https://pixelmatters.com) [:rocket:](https://www.pixelmatters.com/careers/) | Digital product design and development company. | `Porto` |
 | [Redlight Software](https://redlight.dev) | Web and mobile development studio focused on products. | `Coimbra` `Lisboa` |
-| [Runtime Revolution](https://www.runtime-revolution.com/) [:rocket:](https://www.runtime-revolution.com/careers) | Web and mobile product development. | `Lisboa` |
+| [Runtime Revolution](https://www.runtime-revolution.com/) | Web and mobile product development. | `Lisboa` |
 | [Significa](https://significa.co) [:rocket:](https://significa.co/careers/) [:octocat:](https://github.com/significa) | Digital design-led studio focused on product development. | `Porto` `Remote` |
 | [Subvisual](https://subvisual.com/) | Web development and design firm. | `Braga` |
 | [Untile](https://untile.pt/) | Digital products. | `Viana do Castelo` |
