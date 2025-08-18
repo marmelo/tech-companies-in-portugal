@@ -92,7 +92,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Noesis](https://www.noesis.pt) [:rocket:](https://opportunities.noesis.pt/jobs) | Consultancy and enterprise software. | `Coimbra` `Covilhã` <br> `Guarda` `Lisboa` <br> `Porto` |
 | [NTT DATA](https://pt.nttdata.com/) [:rocket:](https://careers.emeal.nttdata.com/s/jobs?pcountry=Portugal) | The 6th IT services company in the world. | `Lisboa` `Remote` |
 | [Opensoft](https://www.opensoft.pt/) [:rocket:](https://www.opensoft.pt/carreiras/) | Making life easier. | `Lisboa` |
-| [Premium Minds](https://www.premium-minds.com/) [:rocket:](https://join.premium-minds.com/) | We build great software for innovative clients. | `Lisboa` |
+| [Premium Minds](https://www.premium-minds.com/) [:rocket:](https://www.premium-minds.com/careers) | We build great software for innovative clients. | `Lisboa` |
 | [Present Technologies](https://www.present-technologies.com/) [:rocket:](https://www.present-technologies.com/careers/) | Delivering Quality Software. | `Coimbra` `Porto` <br> `Sertã` |
 | [Radically Digital](https://radically.digital/) [:rocket:](https://radically.digital/careers/) | Software, ideation, strategy and design consultancy. | `Lisboa` |
 | [Reaktor](https://www.reaktor.com) [:rocket:](https://www.reaktor.com/careers) | A global strategy, design, and technology partner. | `Lisboa` |
