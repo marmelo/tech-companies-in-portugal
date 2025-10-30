@@ -301,6 +301,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Visor.ai](https://www.visor.ai) [:rocket:](https://careers.visor.ai) | No-code platform that automates customer service using AI. | `Lisboa` `Remote` |
 | [Workato](https://www.workato.com/) [:rocket:](https://www.workato.com/careers) | Automation platform for app integration and workflow orchestration. | `Lisboa` `Porto` |
 | [Workia](https://workia.com/en/) | Simplifies the management of global employee mobility programs. | `Lisboa` |
+| [Zendesk](https://www.zendesk.com) [:rocket:](https://www.zendesk.com/company/careers/) | Customer service and support software for businesses. | `Lisboa` |
 
 
 ## FinTech :moneybag:
@@ -323,6 +324,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Flecto](https://flecto.io/) [:rocket:](https://www.notion.so/flecto/Working-at-Flecto-406db5e14c2c452abe89eecfb015b862) | Rental management for businesses promoting circular economy. | `Lisboa` `Remote` |
 | [Fractal](https://web.fractal.id) | Enabling open finance with a new Internet Identity layer. | `Porto` `Remote` |
 | [Global Blue](https://www.globalblue.com/en) [:rocket:](https://www.globalblue.com/en/about-us/career)| Tax-Free Shopping solutions. | `Lisboa` `Porto` <br> `Remote` |
+| [GoCardless](https://gocardless.com) [:rocket:](https://gocardless.com/about/careers) | Online platform for recurring payments and direct debits. | `Lisboa` |
 | [Goparity](https://www.goparity.com) [:rocket:](https://www.goparity.com/about/careers) | Crowdlending for sustainable projects with low entry. | `Lisboa` `Remote` |
 | [ITSector](https://itsector.com) [:rocket:](https://itsector.com/careers) | Software for financial institutions. | `Aveiro` `Braga` <br> `Bragança` `Lisboa` <br> `Porto` |
 | [JUMO](https://www.jumo.world) [:rocket:](https://careers.jumo.world/) | Financial inclusion platform. | `Remote` |
@@ -401,6 +403,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
 | [FAIRTIQ](https://fairtiq.com/en/) [:rocket:](https://fairtiq.com/en/careers) | Public transport electronic tickets | `Remote` |
+| [Sixt](https://www.sixt.com) [:rocket:](https://www.sixt.jobs) | Global car rental and mobility services provider. | `Lisboa` |
 | [Stratio](https://stratioautomotive.com/) [:rocket:](https://careers.stratioautomotive.com/) | Predictive fleet maintenance platform | `Lisboa` `Coimbra` `Remote` |
 | [UbiRider](https://ubirider.com/) | Digital platform to serve transport providers and travellers | `Porto` `Remote` |
 
