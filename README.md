@@ -222,6 +222,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [QuintoAndar](https://www.quintoandar.com.br/) [:rocket:](https://carreiras.quintoandar.com.br/) [:octocat:](https://github.com/quintoandar) | Real Estate platform. | `Lisboa` `Remote` |
 | [Salsify](https://www.salsify.com) [:rocket:](https://www.salsify.com/careers) [:octocat:](https://github.com/salsify) | Product Experience Management and Syndication platform. | `Lisboa` |
 | [Threads Styling](https://www.threadsstyling.com/) [:rocket:](https://careers.threadsstyling.com/) | Personalised luxury shopping. Style inspiration. Global community. | `Porto` |
+| [Tillster](https://www.tillster.com) [:rocket:](https://www.tillster.com/careers) | Digital ordering and customer engagement platform for restaurants. | `Remote` |
 | [Trouva](https://www.trouva.com) [:rocket:](https://trouva.workable.com/) | Marketplace for independent boutiques. | `Lisboa` |
 | [Turbine Kreuzberg](https://turbinekreuzberg.com/en) [:rocket:](https://turbinekreuzberg.com/en/jobs) | Creates software that advances business and society. | `Faro` `Remote` |
 | [Uniplaces](https://www.uniplaces.com/) [:rocket:](https://careers.uniplaces.com/) | Student accomodation platform. | `Lisboa` `Remote` |
@@ -246,6 +247,8 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Amenitiz](https://amenitiz.com/) [:rocket:](https://amenitiz.com/en/career-page/) | Hotel Management Software | `Remote` |
 | [Amplemarket](https://amplemarket.com/) [:rocket:](https://amplemarket.com/careers) | AI powered sales assistant. | `Remote` |
 | [ARTSOFT](https://www.artsoft.pt/) [:rocket:](https://www.artsoft.pt/carreiras) | ERP Software | `Lisboa` |
+| [Ashby](https://www.ashbyhq.com/) [:rocket:](https://www.ashbyhq.com/careers) | AI-powered all-in-one recruiting platform and ATS. | `Lisboa` `Porto` `Remote` |
+| [Attio](https://attio.com/) [:rocket:](https://attio.com/careers) | Flexible, modern CRM for managing relationships and workflows. | `Remote` |
 | [Beqom](https://www.beqom.com/) [:rocket:](https://beqom.bamboohr.com/careers) | Compensation management platform for pay, bonuses, and incentives. | `Lisboa` |
 | [CASAFARI](https://www.casafari.com/) [:rocket:](https://casafari.factorialhr.pt/) | Real Estate Market information from agencies and private owners. | `Lisboa` |
 | [Cisco](https://www.cisco.com/) [:rocket:](https://www.cisco.com/c/en/us/about/careers.html) [:octocat:](https://github.com/cisco) | Network solutions. | `Oeiras` |
@@ -501,3 +504,4 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Ryanair](https://www.ryanair.com/pt/pt) [:rocket:](https://careers.ryanair.com/jobs/?ryanair-jobs-department=21233) | Ryanair is an Irish ultra low-cost carrier. | `Lisboa` `Porto`|
 | [TripAdvisor](https://www.tripadvisor.com) [:rocket:](https://careers.tripadvisor.com) | The largest "social travel website" in the world. | `Lisboa` |
 | [Vision-Box](https://www.vision-box.com/) [:rocket:](https://www.vision-box.com/we-are-hiring) | Biometric solutions for automated border control, identity management, and security. | `Lisboa` |
+| [TLSContact](https://www.tlscontact.com/en/) [:rocket:](https://www.tlscontact.com/en/careers/) | Global visa and consular services provider for governments. | `Remote` |
