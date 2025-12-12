@@ -333,7 +333,6 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Flecto](https://flecto.io/) [:rocket:](https://www.notion.so/flecto/Working-at-Flecto-406db5e14c2c452abe89eecfb015b862) | Rental management for businesses promoting circular economy. | `Lisboa` `Remote` |
 | [Fractal](https://web.fractal.id) | Enabling open finance with a new Internet Identity layer. | `Porto` `Remote` |
 | [Global Blue](https://www.globalblue.com/en) [:rocket:](https://www.globalblue.com/en/about-us/career)| Tax-Free Shopping solutions. | `Lisboa` `Porto` <br> `Remote` |
-| [GoCardless](https://gocardless.com) [:rocket:](https://gocardless.com/about/careers) | Online platform for recurring payments and direct debits. | `Lisboa` |
 | [Goparity](https://www.goparity.com) [:rocket:](https://www.goparity.com/about/careers) | Crowdlending for sustainable projects with low entry. | `Lisboa` `Remote` |
 | [ITSector](https://itsector.com) [:rocket:](https://itsector.com/careers) | Software for financial institutions. | `Aveiro` `Braga` <br> `Bragança` `Lisboa` <br> `Porto` |
 | [JUMO](https://www.jumo.world) [:rocket:](https://careers.jumo.world/) | Financial inclusion platform. | `Remote` |
