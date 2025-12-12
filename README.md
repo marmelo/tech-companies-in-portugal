@@ -146,6 +146,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Laminar](https://laminarprojects.com/) [:rocket:](https://laminarprojects.com/join-us/) | Building world class apps for the construction industry. | `Lisboa` |
 | [NILG.AI](https://nilg.ai/) [:rocket:](https://nilg.ai/) | Transforming data into actionable knowledge through AI. | `Porto` |
 | [TechRivo](https://techrivo.com/) [:rocket:](https://www.linkedin.com/company/techrivo/jobs/) | Custom software development and technical consulting.  | `Lisboa` |
+| [TensorOps](https://www.tensorops.ai) [:rocket:](https://job-boards.eu.greenhouse.io/tensorops) | AI/ML firm building production‑ready machine learning solutions. | `Remote` |
 
 
 ## Consultancy :man_office_worker: Web :globe_with_meridians: Mobile :iphone: Design :art:
@@ -293,6 +294,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Quidgest](https://quidgest.com/) [:rocket:](https://quidgest.com/quidgest/recrutamento/) | Information systems and ERP software. | `Lisboa` |
 | [Reachdesk](https://reachdesk.com/) [:rocket:](https://reachdesk.com/careers) | Global, data-driven gifting platform for measurable B2B engagement. | `Lisboa` |
 | [RedHat](https://www.redhat.com/) [:rocket:](https://www.redhat.com/en/jobs/) | Leading provider of enterprise open source solutions | `Remote` |
+| [Reltio](https://www.reltio.com/) [:rocket:](https://www.reltio.com/careers/) | Cloud SaaS platform for unified enterprise master data management. | `Lisboa` |
 | [Remote](https://remote.com/) [:rocket:](https://remote.com/careers) | Platform for managing global remote teams and international payroll. | `Remote` |
 | [Sensei](https://www.sensei.tech) [:rocket:](https://www.sensei.tech/careers) | Leading European provider of autonomous stores. | `Lisboa` |
 | [Sensor Tower](https://sensortower.com/) [:rocket:](https://sensortower.com/careers) | App analytics and insights for mobile marketing. | `Lisboa` |
@@ -359,6 +361,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [SwissBorg](https://swissborg.com/) [:rocket:](https://swissborg.com/careers) | Cryptocurrencies exchange | `Remote` |
 | [Tabby](https://tabby.ai/en-AE) [:rocket:](https://tabby.ai/en-AE/careers#careers) | Buy now, pay later platform that offers flexible payment options. | `Remote` |
 | [Teya](https://www.teya.com/) [:rocket:](https://careers.smartrecruiters.com/Teya) | Digital insurance platform offering personalized coverage solutions. | `Lisboa` `Porto` |
+| [Trustly](https://www.trustly.com) [:rocket:](https://www.trustly.com/careers) | Open Banking payments platform for direct bank‑to‑merchant transactions. | `Lisboa` |
 | [Uphold](https://uphold.com/) [:rocket:](https://uphold.com/resources/careers) | US cloud based financial services platform. | `Braga` |
 | [Wallet](https://wallet.tg/) [:rocket:](https://jobs.ton.org/companies/wallet-2#content) | User-friendly platform for efficiently managing crypto assets. | `Remote` |
 
