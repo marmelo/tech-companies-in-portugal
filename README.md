@@ -252,7 +252,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Amenitiz](https://amenitiz.com/) [:rocket:](https://amenitiz.com/en/career-page/) | Hotel Management Software | `Remote` |
 | [Amplemarket](https://amplemarket.com/) [:rocket:](https://amplemarket.com/careers) | AI powered sales assistant. | `Remote` |
 | [ARTSOFT](https://www.artsoft.pt/) [:rocket:](https://www.artsoft.pt/carreiras) | ERP Software | `Lisboa` |
-| [Ashby](https://www.ashbyhq.com/) [:rocket:](https://www.ashbyhq.com/careers) | AI-powered all-in-one recruiting platform and ATS. | `Lisboa` `Porto` `Remote` |
+| [Ashby](https://www.ashbyhq.com/) [:rocket:](https://www.ashbyhq.com/careers) | AI-powered all-in-one recruiting platform and ATS. | `Remote` |
 | [Attio](https://attio.com/) [:rocket:](https://attio.com/careers) | Flexible, modern CRM for managing relationships and workflows. | `Remote` |
 | [Beqom](https://www.beqom.com/) [:rocket:](https://beqom.bamboohr.com/careers) | Compensation management platform for pay, bonuses, and incentives. | `Lisboa` |
 | [CASAFARI](https://www.casafari.com/) [:rocket:](https://casafari.factorialhr.pt/) | Real Estate Market information from agencies and private owners. | `Lisboa` |
