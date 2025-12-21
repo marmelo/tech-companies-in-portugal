@@ -73,6 +73,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [darwinLabs](https://www.darwin-labs.com/) [:rocket:](https://www.darwin-labs.com/latest-jobs/) | Building Software that matters. | `Lisboa` `Remote` |
 | [Deloitte](https://www2.deloitte.com/pt/pt.html) [:rocket:](https://jobs.deloitte.pt/) | Global consulting company. | `Leiria` `Lisboa` <br> `Porto` `Viseu` |
 | [DevScope](https://devscope.net/) [:rocket:](https://devscope.net/careers/) | Technology development, consultancy and product development. | `Porto` `Viseu` |
+| [Diconium](https://diconium.com/en/) [:rocket:](https://diconium.wd3.myworkdayjobs.com/en-US/diconium)| A Volkswagen Group company specialized in Software Development and Data Engineering. | `Lisboa` `Porto` `Remote`|
 | [Equal Experts](https://www.equalexperts.com) | Making software. Better. | `Remote` |
 | [Findmore](https://findmore.pt/) [:rocket:](https://findmore.pt/careers) | Nearshoring, software development, UX/UI Design and PMO. | `Lisboa` `Porto` <br> `Viseu` |
 | [Fyld](https://www.fyld.pt) [:rocket:](https://www.fyld.pt/it-jobs) | Consultancy with outsourcing services. | `Lisboa` |
