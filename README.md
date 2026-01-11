@@ -259,7 +259,6 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Ashby](https://www.ashbyhq.com/) [:rocket:](https://www.ashbyhq.com/careers) | AI-powered all-in-one recruiting platform and ATS. | `Remote` |
 | [Attio](https://attio.com/) [:rocket:](https://attio.com/careers) | Flexible, modern CRM for managing relationships and workflows. | `Remote` |
 | [Beqom](https://www.beqom.com/) [:rocket:](https://beqom.bamboohr.com/careers) | Compensation management platform for pay, bonuses, and incentives. | `Lisboa` |
-| [CASAFARI](https://www.casafari.com/) [:rocket:](https://casafari.factorialhr.pt/) | Real Estate Market information from agencies and private owners. | `Lisboa` |
 | [Cisco](https://www.cisco.com/) [:rocket:](https://www.cisco.com/c/en/us/about/careers.html) [:octocat:](https://github.com/cisco) | Network solutions. | `Oeiras` |
 | [ClanHR](https://www.clanhr.com) | Online Human Resources Management Software. | `Lisboa` |
 | [Coverflex](https://www.coverflex.com/) [:rocket:](https://careers.coverflex.com/) | Payments and benefits management. | `Remote` |
