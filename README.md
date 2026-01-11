@@ -140,6 +140,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [BI4ALL](https://www.bi4all.pt/en/) [:rocket:](https://www.linkedin.com/company/bi4all/jobs/) | Consulting services with several analytics solutions. | `Lisboa` `Porto` |
 | [Critical Software](https://www.criticalsoftware.com) [:rocket:](https://www.criticalsoftware.com/careers) | Mission and business-critical applications. | `Coimbra` `Lisboa` <br> `Porto` <br> `Viseu` |
 | [DXC Technology ServiceNow Business Group](https://dxcservicenowbusinessgroup.com/) | Consultancy and Application Development based on ServiceNow. | `Fundão` `Lisboa` |
+| [Efficio](https://www.efficioconsulting.com) [:rocket:](https://jobs.eu.lever.co/efficioconsulting) | World's larget procurement and supply chain-focused consultacy. | `Lisboa` |
 | [Eyenov](https://eyenov.com) | Computer Vision. Machine Learning. Mobile, desktop, and embedded. | `Lisboa` `Remote` |
 | [DareData Engineering](https://www.daredata.ai/) [:rocket:](https://www.daredata.ai/join-us) | Data Science, Data Engineering and MLOps Consulting Boutique. | `Remote` |
 | [JTA](https://www.thedatascientists.com/) [:rocket:](https://www.thedatascientists.com) | Machine Learning, Reporting and custom vizualizations services. | `Porto` |
@@ -216,6 +217,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Catawiki](https://catawiki.com) [:rocket:](https://catawiki.careers) | Online auction platform for rare and unique collectibles. | `Lisboa` `Remote` |
 | [Defined.ai](https://defined.ai) [:rocket:](https://definedai.applytojob.com) | World's largest marketplace for ethical AI training data. | `Lisboa` `Remote` |
 | [Farfetch](https://www.farfetch.com) [:rocket:](https://aboutfarfetch.com/careers/our-approach-to-hiring/) | Global technology platform for luxury fashion. | `Braga` `Lisboa` <br> `Porto` |
+| [Joom](https://www.joom.com) [:rocket:](https://about.joom.com/en/vacancies) | Online marketplace selling affordable products from international sellers. | `Lisboa` |
 | [Jumia](https://group.jumia.com) [:rocket:](https://group.jumia.com/careers) | Online Shopping for Electronics, Phones & Fashion in Africa. | `Porto` |
 | [Jumpseller](https://jumpseller.com) [:rocket:](https://jumpseller.com/jobs) | E-commerce platform to create online stores. | `Porto` |
 | [Kaizen Gaming](https://kaizengaming.com) [:rocket:](https://careers.kaizengaming.com) | Online betting and gambling operator. | `Lisboa` |
@@ -231,6 +233,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Trouva](https://www.trouva.com) [:rocket:](https://trouva.workable.com/) | Marketplace for independent boutiques. | `Lisboa` |
 | [Turbine Kreuzberg](https://turbinekreuzberg.com/en) [:rocket:](https://turbinekreuzberg.com/en/jobs) | Creates software that advances business and society. | `Faro` `Remote` |
 | [Uniplaces](https://www.uniplaces.com/) [:rocket:](https://careers.uniplaces.com/) | Student accomodation platform. | `Lisboa` `Remote` |
+| [Upwork](https://www.upwork.com) [:rocket:](https://www.upwork.com/careers/jobs/explore) | Online marketplace connecting businesses and individuals with freelancers.  | `Lisboa` |
 
 
 ## Education :books:
