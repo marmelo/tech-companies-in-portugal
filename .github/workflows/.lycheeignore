@@ -17,3 +17,5 @@
 .*\.faro\.com/.*
 # Excluded because continuously responds with HTTP 429 Too Many Requests
 .*\.prozis\.com/.*
+# Excluded because site blocks automated link checkers but is a valid company
+.*threadsstyling\.com/.*

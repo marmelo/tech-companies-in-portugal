@@ -102,7 +102,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Syone](https://www.syone.com/) [:rocket:](https://careers.syone.com/) | Outsourcing, nearshore, turnkey projects. | `Alfragide` <br> `Aveiro` `Lisboa` <br> `Maia` `Matosinhos` <br> `Oeiras` `Porto` |
 | [TMC](https://tmc-employeneurship.com/) [:rocket:](https://www.linkedin.com/company/tmcspain/jobs/) | Agile software development. | `Porto` |
 | [Ubiwhere](https://ubiwhere.com) [:rocket:](https://www.ubiwhere.com/en/careers) | Bleeding Edge Technologies with custom R&D. | `Aveiro` `Coimbra` |
-| [VILT Group](https://www.vilt-group.com/) [:rocket:](https://www.vilt-group.com/joinus) | Consultancy and enterprise software. | `Braga` `Lisboa` |
+| [VILT Group](https://www.vilt-group.com/) [:rocket:](https://www.vilt-group.com/en/working-at-vilt) | Consultancy and enterprise software. | `Braga` `Lisboa` |
 | [Xpand IT](https://www.xpand-it.com/pt-pt/) [:rocket:](https://xpand-it.com/pt-pt/carreiras/) | Global consultancy company. | `Braga` `Lisboa` <br> `Porto` <br> `Viana do Castelo` |
 
 
@@ -111,7 +111,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
 | [act digital](https://www.alter-solutions.pt) [:rocket:](https://www.alter-solutions.pt/oportunidades-emprego) | Consultancy, Outsourcing, and Nearshore projects. | `Lisboa` `Porto` |
-| [Affinity](https://affinity.pt) [:rocket:](https://affinity.pt/en/careers/) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
+| [Affinity](https://affinity.pt) [:rocket:](https://affinity.key.work/jobs/) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
 | [AGAP2](https://www.agap2-it.pt) [:rocket:](https://www.agap2-it.pt) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
 | [Ankix](https://www.ankix.com/) [:rocket:](https://www.ankix.com/it-job-offers) | Consultancy, Outsourcing. | `Lisboa` |
 | [Aubay](https://www.aubay.pt/) [:rocket:](https://www.aubay.pt/talento) | Consultancy, Outsourcing, and Nearshore projects. | `Lisboa` `Porto` |
@@ -271,7 +271,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Epos Now](https://www.eposnow.com/) [:rocket:](https://www.eposnow.com/uk/careers/) | Electronic point of sale solutions. | `Remote` |
 | [Five9](https://www.five9.com/) [:rocket:](https://www.five9.com/about/careers/jobs/) | Intelligent CX Platform. | `Porto` |
 | [Flecto.io](https://flecto.io) [:rocket:](https://www.notion.so/flecto/Working-at-Flecto-406db5e14c2c452abe89eecfb015b862) [:octocat:](https://github.com/flecto-io) | A flexible solution for all rental businesses. | `Lisboa` `Remote` |
-| [Glintt](https://www.glintt.com/) [:rocket:](https://www.glintt.com/pt/carreiras/ofertas/Paginas/Ofertas.aspx) | Healthcare software. | `Algarve` `Lisboa` <br> `Porto` `Sintra` |
+| [Glintt](https://glinttglobal.com/en/) [:rocket:](https://carreiras.glinttglobal.com/) | Healthcare software. | `Algarve` `Lisboa` <br> `Porto` `Sintra` |
 | [Glia](https://www.glia.com/) [:rocket:](https://www.glia.com/jobs) | Customer relationship management software. | `Remote` |
 | [GMV](https://www.gmv.com/) [:rocket:](https://www.gmv.com/en-es/talent) | Advanced solutions in many sectors. | `Lisboa` |
 | [HiBob](https://www.hibob.com/) [:rocket:](https://www.hibob.com/careers/) | HR software. | `Lisboa` |
@@ -282,7 +282,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [InvoiceXpress](https://www.invoicexpress.com/) | Online Invoicing Software. | `Lisboa` |
 | [Iterable](https://iterable.com/) [:rocket:](https://iterable.com/careers/) | Cross-channel marketing platform for customer engagement and growth. | `Lisboa` |
 | [KEEP SOLUTIONS](https://www.keep.pt/) [:rocket:](https://www.keep.pt/empresa/carreiras/) | Advanced solutions for information management. | `Braga` `Remote` |
-| [kununu](https://www.kununu.com/) [:rocket:](https://new-work.se/en/career/our-brands/kununu_brand) | Workplace insights that matter. | `Porto` |
+| [kununu](https://www.kununu.com/) [:rocket:](https://new-work.se/en/career) | Workplace insights that matter. | `Porto` |
 | [Mind](https://www.mind.pt/) | Information management and industrial systems. | `Lisboa` `Porto` |
 | [Moviik](https://www.moviik.com) | Customer Journey Management Platform. | `Braga` |
 | [Nmbrs](https://www.nmbrs.com/) [:rocket:](https://www.nmbrs.com/en/careers) [:octocat:](https://github.com/Nmbrs) | HR & Payroll software. | `Lisboa` |
@@ -339,7 +339,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Goparity](https://www.goparity.com) [:rocket:](https://www.goparity.com/about/careers) | Crowdlending for sustainable projects with low entry. | `Lisboa` `Remote` |
 | [ITSector](https://itsector.com) [:rocket:](https://itsector.com/careers) | Software for financial institutions. | `Aveiro` `Braga` <br> `Bragança` `Lisboa` <br> `Porto` |
 | [JUMO](https://www.jumo.world) [:rocket:](https://careers.jumo.world/) | Financial inclusion platform. | `Remote` |
-| [Klarna](https://www.klarna.com) [:rocket:](https://klarnagroup.teamtailor.com/jobs?location=Lisbon,+Portugal&split_view=true) [:octocat:](https://github.com/klarna) | Global payments and shopping service. | `Lisboa` |
+| [Klarna](https://www.klarna.com) [:rocket:](https://www.klarna.com/careers/openings/) [:octocat:](https://github.com/klarna) | Global payments and shopping service. | `Lisboa` |
 | [Kraken](https://www.kraken.com) [:rocket:](https://www.kraken.com/careers) | Kraken is a cryptocurrency exchange and bank. | `Remote` |
 | [LoanDolphin](https://loandolphin.com.au/) [:rocket:](https://loandolphin.breezy.hr/) | Home loan marketplace. | `Lisboa` `Remote` |
 | [Mastercard](https://www.mastercard.pt) [:rocket:](https://careers.mastercard.com)[:octocat:](https://github.com/mastercard) | Global payments company. | `Lisboa` |
@@ -472,7 +472,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
-| [XING](https://www.xing.com/) [:rocket:](https://new-work.se/en/career/our-brands/xing_brand) | For a better working life. | `Porto` |
+| [XING](https://www.xing.com/) [:rocket:](https://new-work.se/en/career) | For a better working life. | `Porto` |
 
 
 ## Sport :soccer:
@@ -493,7 +493,6 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Carrot](https://carrotincentives.com/) | ICM for Telco companies. | `Lisboa` |
 | [Celfocus](https://www.celfocus.com/) [:rocket:](https://careers.celfocus.com/) | Vodafone technology development. | `Lisboa` `Porto` |
 | [GoContact](https://www.gocontact.pt/) [:rocket:](https://www.gocontact.pt/join-us/) | Company specialized in integrated solutions for Contact Centers. | `Aveiro` `Lisboa` <br> `Porto`|
-| [Infinera](https://infinera.com) [:rocket:](https://infinera.com/careers/) | Advanced optical networking solutions for telecoms. | `Lisboa` |
 | [Mobileum](https://www.mobileum.com/) [:rocket:](https://www.mobileum.com/careers/) | Telecom analytics solutions provider. | `Braga` `Lisboa` |
 | [Nokia](https://www.nokia.com) [:rocket:](https://www.nokia.com/about-us/careers/) | Communications and information technology company. | `Aveiro` `Lisboa` |
 | [Readiness IT](https://readinessit.com/) [:rocket:](https://readinessit.com/careers/) | Telecommunications technologies. | `Fundão` `Lisboa` <br> `Porto` `Remote` |
