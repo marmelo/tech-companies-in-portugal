@@ -140,7 +140,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [BI4ALL](https://www.bi4all.pt/en/) [:rocket:](https://www.linkedin.com/company/bi4all/jobs/) | Consulting services with several analytics solutions. | `Lisboa` `Porto` |
 | [Critical Software](https://www.criticalsoftware.com) [:rocket:](https://www.criticalsoftware.com/careers) | Mission and business-critical applications. | `Coimbra` `Lisboa` <br> `Porto` <br> `Viseu` |
 | [DXC Technology ServiceNow Business Group](https://dxcservicenowbusinessgroup.com/) | Consultancy and Application Development based on ServiceNow. | `Fundão` `Lisboa` |
-| [Efficio](https://www.efficioconsulting.com) [:rocket:](https://jobs.eu.lever.co/efficioconsulting) | World's larget procurement and supply chain-focused consultacy. | `Lisboa` |
+| [Efficio](https://www.efficioconsulting.com) [:rocket:](https://jobs.eu.lever.co/efficioconsulting) | World's larget procurement and supply chain-focused consultancy. | `Lisboa` |
 | [Eyenov](https://eyenov.com) | Computer Vision. Machine Learning. Mobile, desktop, and embedded. | `Lisboa` `Remote` |
 | [DareData Engineering](https://www.daredata.ai/) [:rocket:](https://www.daredata.ai/join-us) | Data Science, Data Engineering and MLOps Consulting Boutique. | `Remote` |
 | [JTA](https://www.thedatascientists.com/) [:rocket:](https://www.thedatascientists.com) | Machine Learning, Reporting and custom vizualizations services. | `Porto` |
