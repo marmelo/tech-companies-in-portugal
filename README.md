@@ -233,7 +233,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Trouva](https://www.trouva.com) [:rocket:](https://trouva.workable.com/) | Marketplace for independent boutiques. | `Lisboa` |
 | [Turbine Kreuzberg](https://turbinekreuzberg.com/en) [:rocket:](https://turbinekreuzberg.com/en/jobs) | Creates software that advances business and society. | `Faro` `Remote` |
 | [Uniplaces](https://www.uniplaces.com/) [:rocket:](https://careers.uniplaces.com/) | Student accomodation platform. | `Lisboa` `Remote` |
-| [Upwork](https://www.upwork.com) [:rocket:](https://www.upwork.com/careers/jobs/explore) | Online marketplace connecting businesses and individuals with freelancers.  | `Lisboa` |
+| [Upwork](https://www.upwork.com) [:rocket:](https://www.upwork.com/careers/jobs/explore) | Online marketplace connecting businesses and individuals with freelancers. | `Lisboa` |
 
 
 ## Education :books:
