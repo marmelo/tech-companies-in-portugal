@@ -101,7 +101,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Ubiwhere](https://ubiwhere.com) [:rocket:](https://www.ubiwhere.com/en/careers) | Bleeding Edge Technologies with custom R&D. | `Aveiro` `Coimbra` |
 | [VILT Group](https://www.vilt-group.com/) [:rocket:](https://www.vilt-group.com/en/working-at-vilt) | Consultancy and enterprise software. | `Braga` `Lisboa` |
 | [We Are Rad](https://wearerad.co.uk/) [:rocket:](https://wearerad.co.uk/careers/) | Software, ideation, strategy and design consultancy. | `Lisboa` |
-| [Whistleblower Software](https://whistleblowersoftware.com/) [:rocket:](https://whistleblowersoftware.com/careers) | Whistleblowing compliance platform for organizations. | `Lisboa` |
+| [Whistleblower Software](https://whistleblowersoftware.com/) [:rocket:](https://career.whistleblowersoftware.com/) | Whistleblowing compliance platform for organizations. | `Lisboa` |
 | [Xpand IT](https://www.xpand-it.com/pt-pt/) [:rocket:](https://xpand-it.com/pt-pt/carreiras/) | Global consultancy company. | `Braga` `Lisboa` <br> `Porto` <br> `Viana do Castelo` |
 
 
@@ -301,7 +301,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Sensor Tower](https://sensortower.com/) [:rocket:](https://sensortower.com/careers) | App analytics and insights for mobile marketing. | `Lisboa` |
 | [Sherpany](https://www.sherpany.com/) [:rocket:](https://www.sherpany.com/en/careers/our-culture/) | Meeting Management Software for Leaders. | `Lisboa` `Remote` |
 | [Siemens](https://www.siemens.com) [:rocket:](https://jobs.siemens.com) [:octocat:](https://github.com/siemens) | Global market leader in industrial software and automation. | `Lisboa` `Porto` |
-| [Sovos](https://sovos.com/pt/) [:rocket:](https://sovos.com/about/careers/) | Big Data Solutions for tax compliance and reporting. | `Porto` |
+| [Sovos](https://sovos.com/pt/) [:rocket:](https://sovos.com/careers/) | Big Data Solutions for tax compliance and reporting. | `Porto` |
 | [skeeled](https://www.skeeled.com/) [:rocket:](https://www.skeeled.com/career) | SaaS Talent Acquisition Software. | `Porto` |
 | [Talka](https://www.talka.ai) [:rocket:](https://www.talka.ai/careers) | AI to analyze sales calls and improve deal success. | `Lisboa` `Remote` |
 | [Tridonic](https://www.tridonic.com/com/en/) [:rocket:](https://career.zumtobelgroup.com/Jobs) | Smart and efficient lighting solutions. | `Porto` |
@@ -338,7 +338,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Goparity](https://www.goparity.com) [:rocket:](https://www.goparity.com/about/careers) | Crowdlending for sustainable projects with low entry. | `Lisboa` `Remote` |
 | [ITSector](https://itsector.com) [:rocket:](https://itsector.com/careers) | Software for financial institutions. | `Aveiro` `Braga` <br> `Bragança` `Lisboa` <br> `Porto` |
 | [JUMO](https://www.jumo.world) [:rocket:](https://careers.jumo.world/) | Financial inclusion platform. | `Remote` |
-| [Klarna](https://www.klarna.com) [:rocket:](https://www.klarna.com/careers/openings/) [:octocat:](https://github.com/klarna) | Global payments and shopping service. | `Lisboa` |
+| [Klarna](https://www.klarna.com) [:rocket:](https://www.klarna.com/careers/) [:octocat:](https://github.com/klarna) | Global payments and shopping service. | `Lisboa` |
 | [Kraken](https://www.kraken.com) [:rocket:](https://www.kraken.com/careers) | Kraken is a cryptocurrency exchange and bank. | `Remote` |
 | [Mastercard](https://www.mastercard.pt) [:rocket:](https://careers.mastercard.com)[:octocat:](https://github.com/mastercard) | Global payments company. | `Lisboa` |
 | [Mollie](https://www.mollie.com) [:rocket:](https://jobs.mollie.com/vacancies) | Payment platform for easy, secure online payments and transactions. | `Lisboa` |
