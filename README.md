@@ -97,7 +97,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Servinform](https://www.servinform.es/pt-pt/) [:rocket:](https://www.servinform.es/pt-pt/junte-se-a-equipa/)| Consultancy and Automation. | `Lisboa` |
 | [Softinsa](https://www.softinsa.pt/) [:rocket:](https://www.softinsa.pt/carreiras/) | Services Development and Application / Infrastructure Management. | `Lisboa` `Tomar` <br> `Viseu` |
 | [Syone](https://www.syone.com/) [:rocket:](https://careers.syone.com/) | Outsourcing, nearshore, turnkey projects. | `Alfragide` <br> `Aveiro` `Lisboa` <br> `Maia` `Matosinhos` <br> `Oeiras` `Porto` |
-| [The Member Company](https://www.themembercompany.com/) [:rocket:](https://www.linkedin.com/company/tmcspain/jobs/) | Agile software development. | `Lisboa` `Porto` |
+| [The Member Company](https://www.themembercompany.com/) [:rocket:](https://www.themembercompany.com/careers) | Agile software development. | `Lisboa` `Porto` |
 | [Ubiwhere](https://ubiwhere.com) [:rocket:](https://www.ubiwhere.com/en/careers) | Bleeding Edge Technologies with custom R&D. | `Aveiro` `Coimbra` |
 | [VILT Group](https://www.vilt-group.com/) [:rocket:](https://www.vilt-group.com/en/working-at-vilt) | Consultancy and enterprise software. | `Braga` `Lisboa` |
 | [We Are Rad](https://wearerad.co.uk/) [:rocket:](https://wearerad.co.uk/careers/) | Software, ideation, strategy and design consultancy. | `Lisboa` |
