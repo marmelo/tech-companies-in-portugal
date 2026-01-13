@@ -261,6 +261,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Beqom](https://www.beqom.com/) [:rocket:](https://beqom.bamboohr.com/careers) | Compensation management platform for pay, bonuses, and incentives. | `Lisboa` |
 | [Cisco](https://www.cisco.com/) [:rocket:](https://www.cisco.com/c/en/us/about/careers.html) [:octocat:](https://github.com/cisco) | Network solutions. | `Oeiras` |
 | [ClanHR](https://www.clanhr.com) | Online Human Resources Management Software. | `Lisboa` |
+| [Cloudbeds](https://www.cloudbeds.com) [:rocket:](https://job-boards.greenhouse.io/cloudbeds) | Hospitality management platform for bookings, billing, and operations. | `Remote` |
 | [Coverflex](https://www.coverflex.com/) [:rocket:](https://careers.coverflex.com/) | Payments and benefits management. | `Remote` |
 | [CSG](https://www.csgi.com/) [:rocket:](https://www.csgi.com/careers/) | Cloud-native Business Support System platform. | `Remote` |
 | [Deel](https://www.deel.com/) [:rocket:](https://jobs.ashbyhq.com/Deel?departmentId=8c27e7fa-f898-4de1-adf6-70c67c1e1c11&locationId=7a1f038b-147a-4a65-8ba5-d047fda72a10) [:octocat:](https://github.com/letsdeel) | Compliance, payroll, HR, and performance for any worker globally in a single SaaS platform. | `Remote` |
@@ -307,6 +308,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Talka](https://www.talka.ai) [:rocket:](https://www.talka.ai/careers) | AI to analyze sales calls and improve deal success. | `Lisboa` `Remote` |
 | [Tridonic](https://www.tridonic.com/com/en/) [:rocket:](https://career.zumtobelgroup.com/Jobs) | Smart and efficient lighting solutions. | `Porto` |
 | [Unit4](https://www.unit4.com/) [:rocket:](https://www.careers.unit4.com/) | ERP, Consulting. | `Algés` |
+| [Usercentrics](https://usercentrics.com/) [:rocket:](https://usercentrics.com/career/) | Consent management platform helping businesses manage privacy compliance. | `Lisboa` |
 | [VAKT Global Ltd.](https://www.vakt.com/) [:rocket:](https://www.vakt.com/careers/) | Enterprise grade blockchain commodities trading platform. | `Lisboa` |
 | [Veeam](https://www.veeam.com/) [:rocket:](https://careers.veeam.com/vacancies) | Backup, recovery, and data management solutions for businesses. | `Lisboa` |
 | [VOID Software](https://www.void.pt/) | Systems design & architecture using different technology stacks. | `Leiria` |
@@ -351,6 +353,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Paddle](https://www.paddle.com) [:rocket:](https://www.paddle.com/careers#open-positions) | Payment and subscription management platform for software vendors. | `Lisboa` |
 | [Paynest](https://www.paynest.co) [:rocket:](https://paynestco.notion.site/openroles) | Digital platform for hassle-free rent payments and management. | `Lisboa` `Porto` |
 | [Pleo](https://www.pleo.io) [:rocket:](https://www.pleo.io/en/careers/jobs) | Smart payment cards and expense management tools for businesses. | `Lisboa` `Remote` |
+| [Primer](https://primer.io) [:rocket:](https://jobs.ashbyhq.com/primer.io) [:octocat:](https://github.com/primer-io) | Modern unified payments infrastructure for building, routing, and optimizing global transaction flows. | `Remote` |
 | [Qonto](https://qonto.com/en) [:rocket:](https://qonto.com/en/careers) [:octocat:](https://github.com/qonto) | Business accounts and financial tools for SMEs | `Remote` |
 | [Rauva](https://www.revolut.com) [:rocket:](https://app.screenloop.com/careers/rauva) | Platform simplifying business setup and accounting for SMEs. | `Lisboa` `Porto` |
 | [RevenueCat](https://www.revenuecat.com) [:rocket:](https://jobs.ashbyhq.com/revenuecat) [:octocat:](https://github.com/revenuecat) | In-aap subscriptions for mobile apps made easy. | `Remote` |
@@ -480,6 +483,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
 | [Bhout](https://bhout.com/) | A discovery platform that helps you stay active and healthy. | `Lisboa` |
+| [OneFootball](https://onefootball.com/) [:rocket:](https://onefootball.applytojob.com/) | Mobile platform for football news, live scores, stats, and streaming content. | `Remote` |
 | [Scoreplay](https://www.scoreplay.io/) | First AI-powered media infrastructure for sports organizations. | `Remote` |
 | [Wellhub](https://wellhub.com/) [:rocket:](https://wellhub.com/careers) | A discovery platform that helps you stay active and healthy. | `Lisboa` `Remote` |
 
