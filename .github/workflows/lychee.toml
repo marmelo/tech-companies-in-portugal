@@ -26,5 +26,15 @@ insecure = true
 # Safeguard so avoid GH Action accessing runner local endpoints
 exclude_all_private = true
 
-# Exclude URLs contained in a file from checking
-exclude_file = [ ".github/workflows/.lycheeignore" ]
+# Exclude URLs and mail addresses from checking. The values are treated as regular expressions
+exclude = [
+  # Excluded because Linkedin responds with HTTP 999, reference https://github.com/lycheeverse/lychee/issues/234
+  '^https?://.*linkedin\.com',
+  # Excluded because an error is consistently generated but the URLs are OK.
+  # Error seen: Network error: error following redirect for url too many redirects
+  '^https?://.*faro\.com',
+  # Excluded because continuously responds with HTTP 429 Too Many Requests
+  '^https?://.*prozis\.com',
+  # Excluded because site blocks automated link checkers but is a valid company
+  '^https?://.*threadsstyling\.com'
+]
