@@ -516,4 +516,4 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Ryanair](https://www.ryanair.com/pt/pt) [:rocket:](https://careers.ryanair.com/jobs/?ryanair-jobs-department=21233) | Ryanair is an Irish ultra low-cost carrier. | `Lisboa` `Porto`|
 | [TLSContact](https://www.tlscontact.com/en/) [:rocket:](https://www.tlscontact.com/en/careers/) | Global visa and consular services provider for governments. | `Remote` |
 | [TripAdvisor](https://www.tripadvisor.com) [:rocket:](https://careers.tripadvisor.com) | The largest "social travel website" in the world. | `Lisboa` |
-| [TUI](https://www.tuigroup.com) [:rocket:](https://careers.tuigroup.com) | Online travel platform offering flights, hotels, and holiday packages. | `Funchal` `Lisboa` `Ponta Delgada` `Porto` `Remote` |
+| [TUI](https://www.tuigroup.com) [:rocket:](https://careers.tuigroup.com) | Online travel platform offering flights, hotels, and holiday packages. | `Funchal` `Lisboa` <br> `Ponta Delgada` `Porto` <br> `Remote` |
