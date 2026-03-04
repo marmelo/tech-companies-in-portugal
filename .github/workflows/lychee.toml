@@ -6,6 +6,9 @@ verbose = "info"
 # Don't show interactive progress bar while checking links.
 no_progress = false
 
+# Show host statistics
+host_stats = true
+
 ####   Requests   ###############################
 
 # Have a bigger timeout due to some sites being slow sometimes
