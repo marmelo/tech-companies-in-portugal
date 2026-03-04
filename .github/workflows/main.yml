@@ -16,9 +16,24 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
+      - name: Restore lychee cache
+        id: restore-cache
+        uses: actions/cache/restore@v4
+        with:
+          path: .lycheecache
+          key: cache-lychee-${{ github.sha }}
+          restore-keys: cache-lychee-
+
       - name: Validate links
         uses: lycheeverse/lychee-action@v2.8.0
         with:
-          args: --config .github/workflows/lychee.toml -- README.md
+          args: --config .github/workflows/lychee.toml --cache --max-cache-age 1d -- README.md
           # Write link validation summary to GH Job summary
           jobSummary: true
+
+      - name: Save lychee cache
+        uses: actions/cache/save@v4
+        if: always()
+        with:
+          path: .lycheecache
+          key: ${{ steps.restore-cache.outputs.cache-primary-key }}
