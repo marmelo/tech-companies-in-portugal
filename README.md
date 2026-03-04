@@ -328,6 +328,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [BVNK](https://www.bvnk.com/) [:rocket:](https://www.bvnk.com/careers) | One platform bridging traditional and decentralised finance. | `Remote` |
 | [Carpe Data](https://carpe.io/) [:rocket:](https://carpe.io/career/) | Next-Generation Data for Insurance. | `Lisboa` |
 | [Checkout.com](https://checkout.com/) [:rocket:](https://checkout.com/careers/) | Payments Platform. | `Porto` |
+| [Cleo](https://web.meetcleo.com/) [:rocket:](https://web.meetcleo.com/careers#job-openings) [:octocat:](https://github.com/meetcleo) | AI-powered budgeting app that tracks spending and helps users save. | `Remote` |
 | [ComplyAdvantage](https://complyadvantage.com/) [:rocket:](https://complyadvantage.com/careers/jobs/) | AI-driven platform for real-time AML risk detection and compliance. | `Lisboa` |
 | [Data4Deals](https://datafordeals.com/) | Secure marketplace connecting buyers and sellers of quality data. | `Lisboa` |
 | [Euronext](https://www.euronext.com) [:rocket:](https://www.euronext.com/pt/about/careers) | European stock exchange operator. | `Porto` |
@@ -489,6 +490,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
+| [8x8](https://www.8x8.com/) [:rocket:](https://www.8x8.com/careers) | Cloud communications platform for voice, video, chat, and contact centers. | `Aveiro` `Remote` |
 | [Aircall](https://aircall.io/) [:rocket:](https://aircall.io/careers/) | Cloud-based phone system for business communication and support. | `Remote` |
 | [Altice Labs](https://www.alticelabs.com/) | Telecommunications technologies. | `Aveiro` |
 | [Broadvoice](https://www.broadvoice.com/) [:rocket:](https://broadvoice.com/careers/) | Company specialized in integrated solutions for Contact Centers. | `Aveiro` `Lisboa` <br> `Porto`|
@@ -514,3 +516,4 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Ryanair](https://www.ryanair.com/pt/pt) [:rocket:](https://careers.ryanair.com/jobs/?ryanair-jobs-department=21233) | Ryanair is an Irish ultra low-cost carrier. | `Lisboa` `Porto`|
 | [TLSContact](https://www.tlscontact.com/en/) [:rocket:](https://www.tlscontact.com/en/careers/) | Global visa and consular services provider for governments. | `Remote` |
 | [TripAdvisor](https://www.tripadvisor.com) [:rocket:](https://careers.tripadvisor.com) | The largest "social travel website" in the world. | `Lisboa` |
+| [TUI](https://www.tuigroup.com) [:rocket:](https://careers.tuigroup.com) | Online travel platform offering flights, hotels, and holiday packages. | `Funchal` `Lisboa` <br> `Ponta Delgada` `Porto` <br> `Remote` |
