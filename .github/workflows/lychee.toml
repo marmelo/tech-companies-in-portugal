@@ -3,8 +3,8 @@
 # Include more detail for troubleshoot
 verbose = "info"
 
-# Do not show progress bar in GH Action
-progress = false
+# Don't show interactive progress bar while checking links.
+no_progress = false
 
 ####   Requests   ###############################
 
