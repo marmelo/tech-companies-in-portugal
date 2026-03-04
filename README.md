@@ -518,4 +518,3 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [TLSContact](https://www.tlscontact.com/en/) [:rocket:](https://www.tlscontact.com/en/careers/) | Global visa and consular services provider for governments. | `Remote` |
 | [TripAdvisor](https://www.tripadvisor.com) [:rocket:](https://careers.tripadvisor.com) | The largest "social travel website" in the world. | `Lisboa` |
 | [TUI](https://www.tuigroup.com) [:rocket:](https://careers.tuigroup.com) | Online travel platform offering flights, hotels, and holiday packages. | `Funchal` `Lisboa` `Ponta Delgada` `Porto` `Remote` |
-| [Vision-Box](https://www.vision-box.com/) [:rocket:](https://www.vision-box.com/we-are-hiring) | Biometric solutions for automated border control, identity management, and security. | `Lisboa` |
