@@ -27,7 +27,7 @@ jobs:
       - name: Validate links
         uses: lycheeverse/lychee-action@v2.8.0
         with:
-          args: --config .github/workflows/lychee.toml --cache --max-cache-age 1d -- README.md
+          args: --config .github/workflows/lychee.toml --cache --max-cache-age 1h -- README.md
           # Write link validation summary to GH Job summary
           jobSummary: true
 
