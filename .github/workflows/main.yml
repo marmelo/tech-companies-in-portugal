@@ -2,7 +2,7 @@ name: CI
 
 on:
   push:
-    branches: ['*']
+    branches: [master]
   pull_request:
     branches: [main]
   schedule:
@@ -14,13 +14,26 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
+
+      - name: Restore lychee cache
+        id: restore-cache
+        uses: actions/cache/restore@v4
+        with:
+          path: .lycheecache
+          key: cache-lychee-${{ github.sha }}
+          restore-keys: cache-lychee-
 
       - name: Validate links
-        uses: lycheeverse/lychee-action@v1.9.3
+        uses: lycheeverse/lychee-action@v2.8.0
         with:
-          args: --config .github/workflows/lychee.toml -- README.md
-          # Fail action on broken links
-          fail: true
+          args: --config .github/workflows/lychee.toml --cache --max-cache-age 23h -- README.md
           # Write link validation summary to GH Job summary
           jobSummary: true
+
+      - name: Save lychee cache
+        uses: actions/cache/save@v4
+        if: always()
+        with:
+          path: .lycheecache
+          key: ${{ steps.restore-cache.outputs.cache-primary-key }}

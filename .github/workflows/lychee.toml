@@ -3,8 +3,11 @@
 # Include more detail for troubleshoot
 verbose = "info"
 
-# Do not show progress bar in GH Action
-progress = false
+# Don't show interactive progress bar while checking links.
+no_progress = false
+
+# Show host statistics
+host_stats = true
 
 ####   Requests   ###############################
 
@@ -15,7 +18,8 @@ timeout = 65
 retry_wait_time = 5
 
 # Tolerate HTTP 403 Forbidden responses because it's a common response for domains behind Cloudflare.
-accept = ['403']
+# lychee defaults '100..=103,200..=299' https://github.com/lycheeverse/lychee?tab=readme-ov-file#commandline-usage
+accept = ['100..=103', '200..=299', '403']
 
 # Tolerate certificate issues since several sites have certificate chain issues :(
 insecure = true
@@ -25,8 +29,15 @@ insecure = true
 # Safeguard so avoid GH Action accessing runner local endpoints
 exclude_all_private = true
 
-# Ignore email links
-exclude_mail = true
-
-# Exclude URLs contained in a file from checking
-exclude_file = [ ".github/workflows/.lycheeignore" ]
+# Exclude URLs and mail addresses from checking. The values are treated as regular expressions
+exclude = [
+  # Excluded because Linkedin responds with HTTP 999, reference https://github.com/lycheeverse/lychee/issues/234
+  '^https?://.*linkedin\.com',
+  # Excluded because an error is consistently generated but the URLs are OK.
+  # Error seen: Network error: error following redirect for url too many redirects
+  '^https?://.*faro\.com',
+  # Excluded because continuously responds with HTTP 429 Too Many Requests
+  '^https?://.*prozis\.com',
+  # Excluded because site blocks automated link checkers but is a valid company
+  '^https?://.*threadsstyling\.com'
+]
