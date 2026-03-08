@@ -1,7 +1,7 @@
 # Tech Companies in Portugal :portugal:
 
 [![Build Status](https://github.com/marmelo/tech-companies-in-portugal/actions/workflows/main.yml/badge.svg)](https://github.com/marmelo/tech-companies-in-portugal/actions/workflows/main.yml)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/marmelo/tech-companies-in-portugal/blob/master/LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/marmelo/tech-companies-in-portugal/blob/main/LICENSE)
 
 This is a opinionated list of some technology companies operating in Portugal.
 If you find something wrong or want to add another company please [follow the rules](CONTRIBUTING.md) to contribute with a pull request.
@@ -241,6 +241,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Hitachi Vantara](https://www.hitachivantara.com/) [:rocket:](https://www.hitachivantara.com/en-us/company/careers.html) | IoT, cloud, application, big data and analytics solutions. | `Oeiras` `Porto` |
 | [InnovationCast](https://innovationcast.com/) | Collaborative Innovation Management Software. | `Lisboa` `Porto` |
 | [InvoiceXpress](https://www.invoicexpress.com/) | Online Invoicing Software. | `Lisboa` |
+| [Infraspeak](https://infraspeak.com/en) [:rocket:](https://infraspeak.com/en/careers) | Intelligent maintenance management software platform. | `Porto` |
 | [KEEP SOLUTIONS](https://www.keep.pt/) [:rocket:](https://www.keep.pt/empresa/carreiras/) | Advanced solutions for information management. | `Braga` `Remote` |
 | [kununu](https://www.kununu.com/) [:rocket:](https://corporate.xing.com/en/career/porto/) | Workplace insights that matter. | `Porto` |
 | [Mind](https://www.mind.pt/) | Information management and industrial systems. | `Lisboa` `Porto` |
@@ -248,6 +249,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Nmbrs](https://www.nmbrs.com/) [:rocket:](https://www.nmbrs.com/en/careers) | HR & Payroll software. | `Lisboa` |
 | [PandaDoc](https://www.pandadoc.com/) [:rocket:](https://www.pandadoc.com/careers/) [:octocat:](https://github.com/PandaDoc) | Manage and e-sign Documents. | `Lisboa` `Remote` |
 | [Petapilot](https://www.petapilot.com/) | Big Data Solutions. | `Porto` |
+| [Pipedrive](https://www.pipedrive.com/) [:rocket:](https://www.pipedrive.com/en/jobs/portugal) | CRM and sales software platform for growing businesses. | `Lisboa` |
 | [PHC Software](https://www.phcsoftware.com/) [:rocket:](https://www.phcsoftware.com/carreiras/) | ERP software. | `Lisboa` `Porto` |
 | [Primavera BSS](https://pt.primaverabss.com/pt/) [:rocket:](https://pt.primaverabss.com/pt/bolsaempregos/) | Enterprise resource planning software. | `Braga` `Leiria` <br> `Lisboa` |
 | [Primetag](https://primetag.com) [:rocket:](https://jobs.primetag.com/) | Influence Marketing Automation Software. | `Aveiro` `Lisboa` <br> `Remote` |
@@ -416,4 +418,3 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Hostelworld](https://www.hostelworld.com/) [:rocket:](https://www.hostelworldgroup.com/careers) | World's leading hostel-focused online booking platform. | `Porto` |
 | [Ryanair](https://www.ryanair.com/pt/pt) [:rocket:](https://careers.ryanair.com/search/#search/location=portugal&departments=ryanair-labs-portugal) | Ryanair is an Irish ultra low-cost carrier. | `Lisboa` `Porto`|
 | [TripAdvisor](https://www.tripadvisor.com) [:rocket:](https://careers.tripadvisor.com) | The largest "social travel website" in the world. | `Lisboa` |
-
