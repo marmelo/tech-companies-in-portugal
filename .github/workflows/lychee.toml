@@ -39,5 +39,11 @@ exclude = [
   # Excluded because continuously responds with HTTP 429 Too Many Requests
   '^https?://.*prozis\.com',
   # Excluded because site blocks automated link checkers but is a valid company
-  '^https?://.*threadsstyling\.com'
+  '^https?://.*threadsstyling\.com',
+  # Excluded because these sites use Vercel bot protection with JS challenges that automated
+  # link checkers cannot bypass. The sites are valid and return 429 due to security measures.
+  # Reference: https://vercel.com/docs/security/authentication
+  '^https?://.*stackshare\.io',
+  '^https?://.*8x8\.com',
+  '^https?://.*innovationcast\.com'
 ]

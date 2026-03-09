@@ -90,7 +90,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Neotalent](https://neotalentconclusion.com/) [:rocket:](https://neotalentconclusion.com/en/careers/job-opportunities/) | IT recruitment and talent management specialists. | `Lisboa` `Porto` |
 | [Noesis](https://www.noesis.pt) [:rocket:](https://opportunities.noesis.pt/jobs) | Consultancy and enterprise software. | `Coimbra` `Covilhã` <br> `Guarda` `Lisboa` <br> `Porto` |
 | [NTT DATA](https://pt.nttdata.com/) [:rocket:](https://careers.emeal.nttdata.com/s/jobs?pcountry=Portugal) | The 6th IT services company in the world. | `Lisboa` `Remote` |
-| [Opensoft](https://www.opensoft.pt/) [:rocket:](https://www.opensoft.pt/carreiras/) | Making life easier. | `Lisboa` |
+| [Opensoft](https://www.opensoft.pt/) [:rocket:](https://opensoft.pt/carreiras/trabalhar-connosco/) | Making life easier. | `Lisboa` |
 | [Premium Minds](https://www.premium-minds.com/) [:rocket:](https://www.premium-minds.com/careers) | We build great software for innovative clients. | `Lisboa` |
 | [Present Technologies](https://www.present-technologies.com/) [:rocket:](https://www.present-technologies.com/careers/) | Delivering Quality Software. | `Coimbra` `Porto` <br> `Sertã` |
 | [Reaktor](https://www.reaktor.com) [:rocket:](https://www.reaktor.com/careers) | A global strategy, design, and technology partner. | `Lisboa` |
@@ -380,7 +380,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Fun Punch Games](https://funpunchgames.com/) | Independent game development studio. | `Lisboa` |
 | [Funcom ZPX](https://www.funcom.com/) [:rocket:](https://www.funcom.com/funcom-zpx/) | Full-range game development studio offering design, art, and coding. | `Lisboa` |
 | [Ground Control](https://www.gcontrolgames.com/) | Indie games/VR studio. | `Porto` |
-| [Marmalade Game Studio](https://www.marmaladegamestudio.com/) [:rocket:](https://career.marmaladegamestudio.com/) | Video game development company with several adaptations of classic board games. | `Almada` `Remote` |
+| [Marmalade Game Studio](https://www.marmaladegamestudio.com/) | Video game development company with several adaptations of classic board games. | `Almada` `Remote` |
 | [Miniclip](https://www.miniclip.com/) [:rocket:](https://corporate.miniclip.com/careers/vacancies) | Mobile and web game development company. | `Lisboa` |
 | [Not a Game Studio](https://www.notagamestudio.com/) | Game development studio focused on the experience of the users. | `Lisboa` |
 | [Redcatpig](https://www.redcatpig.com/) [:rocket:](https://www.redcatpig.com/careers.php) | Video game development studio responsible for games like KEO. | `Angra do Heroísmo` |
@@ -499,9 +499,9 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Celfocus](https://www.celfocus.com/) [:rocket:](https://careers.celfocus.com/) | Vodafone technology development. | `Lisboa` `Porto` |
 | [Mobileum](https://www.mobileum.com/) [:rocket:](https://www.mobileum.com/careers/) | Telecom analytics solutions provider. | `Braga` `Lisboa` |
 | [Nokia](https://www.nokia.com) [:rocket:](https://www.nokia.com/about-us/careers/) | Communications and information technology company. | `Aveiro` `Lisboa` |
-| [Readiness IT](https://readinessit.com/) [:rocket:](https://readinessit.com/careers/) | Telecommunications technologies. | `Fundão` `Lisboa` <br> `Porto` `Remote` |
+| [Readiness IT](https://readinessit.com/) | Telecommunications technologies. | `Fundão` `Lisboa` <br> `Porto` `Remote` |
 | [Talkdesk](https://www.talkdesk.com) [:rocket:](https://www.talkdesk.com/careers/) [:octocat:](https://github.com/talkdesk) | Enterprise cloud contact center. | `Aveiro` `Coimbra` <br> `Lisboa` `Porto` |
-| [WIT Software](https://www.wit-software.com) [:rocket:](https://www.wit-software.com/careers/) | Software development for telecom services (OTT, RCS, Mobile, Web & others). | `Aveiro` `Coimbra` <br> `Leiria` `Lisboa` <br>`Porto` |
+| [WIT Software](https://www.wit-software.com) [:rocket:](https://www.wit-software.com/careers.html) | Software development for telecom services (OTT, RCS, Mobile, Web & others). | `Aveiro` `Coimbra` <br> `Leiria` `Lisboa` <br>`Porto` |
 | [Truphone](https://www.truphone.com) [:rocket:](https://web.truphone.com/careers/) | Global mobile connectivity and eSIM technology innovator. | `Lisboa` |
 
 
