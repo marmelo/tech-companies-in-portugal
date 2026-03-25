@@ -174,7 +174,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Waterdog](https://waterdog.mobi/) | Web and Mobile development. | `Lisboa` |
 | [Whitesmith](https://www.whitesmith.co/) [:rocket:](https://www.whitesmith.co/#get-in-touch) | Helping clients build amazing digital products that people love. | `Coimbra` `Remote` |
 | [Yarilabs](https://www.yarilabs.com/) [:rocket:](https://www.yarilabs.com/careers#Open-positions) | Professional Consulting and Product Development | `Braga` `Remote`|
-| [YLD](https://www.yld.com/) [:rocket:](https://www.yld.com/join-us) | Software engineering, design, training and open-source. | `Lisboa` `Porto` <br> `Remote` |
+| [YLD](https://www.yld.com/) [:rocket:](https://www.yld.com/join-us) [:octocat:](https://github.com/yldio) | Software engineering, design, training and open-source. | `Lisboa` `Porto` <br> `Remote` |
 
 
 ## Developer Tools :hammer_and_wrench:
@@ -192,7 +192,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Nitro](https://www.gonitro.com/) [:rocket:](https://www.gonitro.com/about/careers) | Productivity platform that simplifies PDF editing and collaboration. | `Porto` |
 | [Oracle](https://www.oracle.com/index.html) [:rocket:](https://www.oracle.com/corporate/careers/) | DBMS's and information systems. | `Lisboa` `Porto` <br> `Remote` |
 | [OutSystems](https://www.outsystems.com) [:rocket:](https://www.outsystems.com/company/careers/) | Low-code platform to visually develop applications. | `Braga` `Linda-a-Velha` <br> `Proença-a-Nova` |
-| [PagerDuty](https://pagerduty.com/) [:rocket:](https://careers.pagerduty.com/) | Real-time operations and incident management platform | `Lisboa` `Remote` |
+| [PagerDuty](https://pagerduty.com/) [:rocket:](https://careers.pagerduty.com/) [:octocat:](https://github.com/pagerduty) | Real-time operations and incident management platform | `Lisboa` `Remote` |
 | [Redis](https://redis.io/) [:rocket:](https://redis.io/careers/) [:octocat:](https://github.com/redis) | In-memory data store used for caching, messaging, and databases. | `Remote` |
 | [RevenueCat](https://www.revenuecat.com/) [:rocket:](https://jobs.ashbyhq.com/revenuecat) [:octocat:](https://github.com/revenuecat) | Subscription management & analytics platform for in‑app purchases. | `Remote` |
 | [Rows](https://www.rows.com) [:rocket:](https://github.com/rows/hiring) [:octocat:](https://github.com/rows) | Create interactive web apps using spreadsheet skills. | `Porto` `Remote` |
@@ -315,7 +315,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Visor.ai](https://www.visor.ai) [:rocket:](https://careers.visor.ai) | No-code platform that automates customer service using AI. | `Lisboa` `Remote` |
 | [Workato](https://www.workato.com/) [:rocket:](https://www.workato.com/careers) | Automation platform for app integration and workflow orchestration. | `Lisboa` `Porto` |
 | [Workia](https://workia.com/en/) | Simplifies the management of global employee mobility programs. | `Lisboa` |
-| [Zendesk](https://www.zendesk.com) [:rocket:](https://www.zendesk.com/company/careers/) | Customer service and support software for businesses. | `Lisboa` |
+| [Zendesk](https://www.zendesk.com) [:rocket:](https://www.zendesk.com/company/careers/) [:octocat:](https://github.com/zendesk) | Customer service and support software for businesses. | `Lisboa` |
 
 
 ## FinTech :moneybag:
