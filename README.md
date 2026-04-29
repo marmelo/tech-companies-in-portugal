@@ -272,8 +272,8 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Epos Now](https://www.eposnow.com/) [:rocket:](https://www.eposnow.com/uk/careers/) | Electronic point of sale solutions. | `Remote` |
 | [Five9](https://www.five9.com/) [:rocket:](https://www.five9.com/about/careers/jobs/) | Intelligent CX Platform. | `Porto` |
 | [Flecto.io](https://flecto.io) [:rocket:](https://www.notion.so/flecto/Working-at-Flecto-406db5e14c2c452abe89eecfb015b862) [:octocat:](https://github.com/flecto-io) | A flexible solution for all rental businesses. | `Lisboa` `Remote` |
-| [Glintt](https://glinttglobal.com/en/) [:rocket:](https://carreiras.glinttglobal.com/) | Healthcare software. | `Algarve` `Lisboa` <br> `Porto` `Sintra` |
 | [Glia](https://www.glia.com/) [:rocket:](https://www.glia.com/jobs) | Customer relationship management software. | `Remote` |
+| [Glintt](https://glinttglobal.com/en/) [:rocket:](https://carreiras.glinttglobal.com/) | Healthcare software. | `Algarve` `Lisboa` <br> `Porto` `Sintra` |
 | [GMV](https://www.gmv.com/) [:rocket:](https://www.gmv.com/en-es/talent) | Advanced solutions in many sectors. | `Lisboa` |
 | [HiBob](https://www.hibob.com/) [:rocket:](https://www.hibob.com/careers/) | HR software. | `Lisboa` |
 | [HiJiffy](https://www.hijiffy.com/) [:rocket:](https://careers.hijiffy.com) | Guest communications management for the hospitality industry. | `Remote` |
@@ -285,6 +285,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [KEEP SOLUTIONS](https://www.keep.pt/) [:rocket:](https://www.keep.pt/empresa/carreiras/) | Advanced solutions for information management. | `Braga` `Remote` |
 | [kununu](https://www.kununu.com/) [:rocket:](https://new-work.se/en/career) | Workplace insights that matter. | `Porto` |
 | [Mind](https://www.mind.pt/) | Information management and industrial systems. | `Lisboa` `Porto` |
+| [Motion](https://motionapp.com/) [:rocket:](https://motionapp.com/careers) | Creative analytics platform for ad performance. | `Porto` `Remote` |
 | [Moviik](https://www.moviik.com) | Customer Journey Management Platform. | `Braga` |
 | [Nmbrs](https://www.nmbrs.com/) [:rocket:](https://www.nmbrs.com/en/careers) [:octocat:](https://github.com/Nmbrs) | HR & Payroll software. | `Lisboa` |
 | [Omnibees](https://omnibees.com/) [:rocket:](https://omnibees-bee2pay-niara.gupy.io/) | Hotel Management Software. | `Faro` |
@@ -303,16 +304,16 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Sensor Tower](https://sensortower.com/) [:rocket:](https://sensortower.com/careers) | App analytics and insights for mobile marketing. | `Lisboa` |
 | [Sherpany](https://www.sherpany.com/) [:rocket:](https://www.sherpany.com/en/careers/our-culture/) | Meeting Management Software for Leaders. | `Lisboa` `Remote` |
 | [Siemens](https://www.siemens.com) [:rocket:](https://jobs.siemens.com) [:octocat:](https://github.com/siemens) | Global market leader in industrial software and automation. | `Lisboa` `Porto` |
-| [Sovos](https://sovos.com/pt/) [:rocket:](https://sovos.com/careers/) | Big Data Solutions for tax compliance and reporting. | `Porto` |
 | [skeeled](https://www.skeeled.com/) [:rocket:](https://www.skeeled.com/career) | SaaS Talent Acquisition Software. | `Porto` |
+| [Sovos](https://sovos.com/pt/) [:rocket:](https://sovos.com/careers/) | Big Data Solutions for tax compliance and reporting. | `Porto` |
 | [Talka](https://www.talka.ai) [:rocket:](https://www.talka.ai/careers) | AI to analyze sales calls and improve deal success. | `Lisboa` `Remote` |
 | [Tridonic](https://www.tridonic.com/com/en/) [:rocket:](https://career.zumtobelgroup.com/Jobs) | Smart and efficient lighting solutions. | `Porto` |
 | [Unit4](https://www.unit4.com/) [:rocket:](https://www.careers.unit4.com/) | ERP, Consulting. | `Algés` |
 | [Usercentrics](https://usercentrics.com/) [:rocket:](https://usercentrics.com/career/) | Consent management platform helping businesses manage privacy compliance. | `Lisboa` |
 | [VAKT Global Ltd.](https://www.vakt.com/) [:rocket:](https://www.vakt.com/careers/) | Enterprise grade blockchain commodities trading platform. | `Lisboa` |
 | [Veeam](https://www.veeam.com/) [:rocket:](https://careers.veeam.com/vacancies) | Backup, recovery, and data management solutions for businesses. | `Lisboa` |
-| [VOID Software](https://www.void.pt/) | Systems design & architecture using different technology stacks. | `Leiria` |
 | [Visor.ai](https://www.visor.ai) [:rocket:](https://careers.visor.ai) | No-code platform that automates customer service using AI. | `Lisboa` `Remote` |
+| [VOID Software](https://www.void.pt/) | Systems design & architecture using different technology stacks. | `Leiria` |
 | [Workato](https://www.workato.com/) [:rocket:](https://www.workato.com/careers) | Automation platform for app integration and workflow orchestration. | `Lisboa` `Porto` |
 | [Workia](https://workia.com/en/) | Simplifies the management of global employee mobility programs. | `Lisboa` |
 | [Zendesk](https://www.zendesk.com) [:rocket:](https://www.zendesk.com/company/careers/) [:octocat:](https://github.com/zendesk) | Customer service and support software for businesses. | `Lisboa` |
