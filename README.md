@@ -369,6 +369,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Trustly](https://www.trustly.com) [:rocket:](https://www.trustly.com/careers) | Open Banking payments platform for direct bank‑to‑merchant transactions. | `Lisboa` |
 | [Uphold](https://uphold.com/) [:rocket:](https://uphold.com/resources/careers) | US cloud based financial services platform. | `Braga` |
 | [Wallet](https://wallet.tg/) [:rocket:](https://jobs.ton.org/companies/wallet-2#content) | User-friendly platform for efficiently managing crypto assets. | `Remote` |
+| [Zego](https://www.zego.com/) [:rocket:](https://www.zego.com/careers/) [:octocat:](https://github.com/zegocover) | Usage-based motor insurance for drivers and fleets. | `Remote` |
 
 
 ## Gaming :video_game:
