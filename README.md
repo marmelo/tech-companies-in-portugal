@@ -80,7 +80,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Growin](https://www.growin.com) [:rocket:](https://www.growin.com/it-jobs-growin-careers/) | Software development and system analysis consultancy. | `Lisboa` `Porto` |
 | [JAVALI](https://www.javali.pt) | Web, Mobile and custom development. Mostly focused on Drupal. | `Caparica` `Lisboa` |
 | [Landskill](https://www.landskill.com) [:rocket:](https://www.landskill.com/careers/) | Performance-focused IT consultancy. | `Lisboa` |
-| [Link Consulting](https://www.linkconsulting.com/) [:rocket:](https://www.linkconsulting.com/its-fun-to-work-at-link/) | Global Tech, Consultancy, Services and Innovation. | `Leiria` `Lisboa` <br> `Porto` `Remote` |
+| [Link Consulting](https://www.linkconsulting.com/) [:rocket:](https://linkconsulting.com/careers/) | Global Tech, Consultancy, Services and Innovation. | `Leiria` `Lisboa` <br> `Porto` `Remote` |
 | [LIS @ IPN](https://www.ipn.pt/laboratorio/LIS) | Technological R&D and innovative multi-disciplinary projects. | `Coimbra` |
 | [LTPLabs](https://ltplabs.com/) | Boutique analytical-driven management consultancy company. | `Porto` `Lisboa` |
 | [InnoWave](https://innowave.tech/) [:rocket:](https://innowave.tech/careers/) | Global technology and consulting company. | `Coimbra` `Lisboa`|
@@ -118,7 +118,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [BOLD by Devoteam](https://bold.devoteam.com/) [:rocket:](https://bold.devoteam.com/join-us/) | Consultancy, Outsourcing. | `Aveiro` `Lisboa` <br> `Porto` |
 | [Damia](https://www.damiagroup.pt/) [:rocket:](https://www.damiagroup.pt/careers/) | Human 2 Human Tech Recruitment. | `Aveiro` `Lisboa` <br> `Porto` |
 | [Dellent Consulting](https://dellentconsulting.com/) [:rocket:](https://dellentconsulting.com/_carreiras/) | Consultancy, Outsourcing. | `Aveiro` `Lisboa` |
-| [Inoweiser](https://www.inoweiser.com/) [:rocket:](https://www.inoweiser.com/careers) | Consultancy | `Lisboa` |
+| [Inoweiser](https://www.inoweiser.com/) [:rocket:](https://inoweiser.com/join-us/) | Consultancy | `Lisboa` |
 | [Integer Consulting](https://integerconsulting.pt/) [:rocket:](https://integerconsulting.pt/opportunity/) | Consultancy, Outsourcing and Nearshore | `Lisboa` `Porto` |
 | [KCSIT](https://kcsit.pt/) [:rocket:](https://kcsit.pt/carreiras/) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
 | [Match Profiler](https://www.m-profiler.com/) [:rocket:](https://www.m-profiler.com/carreiras) | Consultancy, Outsourcing. | `Lisboa` |
@@ -137,7 +137,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
 | [BI4ALL](https://bi4allconsulting.com/en/) [:rocket:](https://www.linkedin.com/company/bi4all/jobs/) | Consulting services with several analytics solutions. | `Lisboa` `Porto` |
-| [Critical Software](https://www.criticalsoftware.com) [:rocket:](https://www.criticalsoftware.com/careers) | Mission and business-critical applications. | `Coimbra` `Lisboa` <br> `Porto` <br> `Viseu` |
+| [Critical Software](https://www.criticalsoftware.com) [:rocket:](https://www.criticalsoftware.com/en/join-us) | Mission and business-critical applications. | `Coimbra` `Lisboa` <br> `Porto` <br> `Viseu` |
 | [DXC Digital Services](https://dxcdigitalservices.com/) | Consultancy and Application Development based on ServiceNow. | `Fundão` `Lisboa` |
 | [Efficio](https://www.efficioconsulting.com) [:rocket:](https://jobs.eu.lever.co/efficioconsulting) | World's largest procurement and supply chain-focused consultancy. | `Lisboa` |
 | [Eyenov](https://eyenov.com) | Computer Vision. Machine Learning. Mobile, desktop, and embedded. | `Lisboa` `Remote` |
@@ -224,7 +224,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [La Redoute](https://www.laredoute-corporate.com/en/homepage/) [:rocket:](https://www.linkedin.com/company/la-redoute/jobs/) | Home & Fashion online. | `Leiria` |
 | [Loggi](https://www.loggi.com/) [:rocket:](https://www.loggi.com/carreiras/) | An e-commerce delivery platform. | `Lisboa` |
 | [OLX](https://www.olxgroup.com) [:rocket:](https://careers.olxgroup.com/#locationFilter=Portugal) | Network of market-leading trading platforms across 5 countries. | `Lisboa` |
-| [Platforme](https://platforme.com) [:rocket:](https://platforme.factorialhr.pt/) [:octocat:](https://github.com/ripe-tech) | Dynamic product as a service. Leaders in customisation. | `Porto` |
+| [Platforme](https://platforme.com) [:rocket:](https://www.platforme.com/careers) [:octocat:](https://github.com/ripe-tech) | Dynamic product as a service. Leaders in customisation. | `Porto` |
 | [Prozis](https://www.prozis.com/) [:rocket:](https://prozis.breezy.hr/) | Sports and nutrition online store. | `Aveiro` `Esposende` <br> `Porto` |
 | [QuintoAndar](https://www.quintoandar.com.br/) [:rocket:](https://carreiras.quintoandar.com.br/) [:octocat:](https://github.com/quintoandar) | Real Estate platform. | `Lisboa` `Remote` |
 | [Salsify](https://www.salsify.com) [:rocket:](https://www.salsify.com/careers) [:octocat:](https://github.com/salsify) | Product Experience Management and Syndication platform. | `Lisboa` |
