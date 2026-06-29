@@ -18,7 +18,7 @@ jobs:
 
       - name: Restore lychee cache
         id: restore-cache
-        uses: actions/cache/restore@v5
+        uses: actions/cache/restore@v6
         with:
           path: .lycheecache
           key: cache-lychee-${{ github.sha }}
@@ -32,7 +32,7 @@ jobs:
           jobSummary: true
 
       - name: Save lychee cache
-        uses: actions/cache/save@v5
+        uses: actions/cache/save@v6
         if: always()
         with:
           path: .lycheecache
