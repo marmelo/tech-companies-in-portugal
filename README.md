@@ -337,6 +337,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Feedzai](https://feedzai.com) [:rocket:](https://careers.feedzai.com) [:octocat:](https://github.com/feedzai) | Fraud detection platform to make commerce safe. | `Coimbra` `Lisboa` <br> `Porto` `Remote` |
 | [Fidel API](https://fidelapi.com) [:rocket:](https://fidelapi.com/careers/) | One API for linking bank cards to digital applications globally. | `Lisboa` |
 | [Finiam](https://www.finiam.com/) [:rocket:](https://www.finiam.com/#contact) | Improving people's lives by untangling the financial world. | `Braga` `Remote` |
+| [FIZ](https://fiz.co/) [:octocat:](https://github.com/FIZ-co) | Certified invoicing and tax automation for freelancers and SMEs. | `Lisboa` |
 | [Flecto](https://flecto.io/) [:rocket:](https://www.notion.so/flecto/Working-at-Flecto-406db5e14c2c452abe89eecfb015b862) | Rental management for businesses promoting circular economy. | `Lisboa` `Remote` |
 | [Fractal](https://web.fractal.id) | Enabling open finance with a new Internet Identity layer. | `Porto` `Remote` |
 | [Global Blue](https://www.globalblue.com/en) [:rocket:](https://www.globalblue.com/en/about-us/career)| Tax-Free Shopping solutions. | `Lisboa` `Porto` <br> `Remote` |
