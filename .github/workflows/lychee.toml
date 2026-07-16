@@ -11,12 +11,6 @@ host_stats = true
 
 ####   Requests   ###############################
 
-# Have a bigger timeout due to some sites being slow sometimes
-timeout = 65
-
-# Retry failed links after 5 seconds to avoid some local throttling situations
-retry_wait_time = 5
-
 # Tolerate HTTP 403 Forbidden responses because it's a common response for domains behind Cloudflare.
 # lychee defaults '100..=103,200..=299' https://github.com/lycheeverse/lychee?tab=readme-ov-file#commandline-usage
 accept = ['100..=103', '200..=299', '403']
