@@ -47,3 +47,7 @@ exclude = [
   '^https?://.*8x8\.com',
   '^https?://.*innovationcast\.com'
 ]
+
+# Accept timed out requests to reduce noise
+accept_timeouts = true
+
