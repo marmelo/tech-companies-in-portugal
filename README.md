@@ -122,7 +122,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Inoweiser](https://www.inoweiser.com/) [:rocket:](https://inoweiser.com/join-us/) | Consultancy | `Lisboa` |
 | [Integer Consulting](https://integerconsulting.pt/) [:rocket:](https://integerconsulting.pt/opportunity/) | Consultancy, Outsourcing and Nearshore | `Lisboa` `Porto` |
 | [KCSIT](https://kcsit.pt/) [:rocket:](https://kcsit.pt/carreiras/) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
-| [Match Profiler](https://www.m-profiler.com/) [:rocket:](https://www.m-profiler.com/carreiras) | Consultancy, Outsourcing. | `Lisboa` |
+| [Match Profiler](https://www.m-profiler.com/) | Consultancy, Outsourcing. | `Lisboa` |
 | [HumanProfiler](https://www.humanprofiler.com) [:rocket:](https://www.humanprofiler.com/ofertas-de-emprego) | Consultancy, Outsourcing. | `Lisboa` |
 | [KWAN](https://kwan.com/) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
 | [Landing.jobs](https://landing.jobs) [:rocket:](https://landing.jobs/at/landing-jobs) | Helping people find the right fit tech job. | `Lisboa` |
@@ -329,7 +329,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Anchorage](https://anchorage.com/) [:rocket:](https://anchorage.com/careers/) | The most advanced digital asset platform for secure crypto custody. | `Porto` `Remote` |
 | [Banco Atlântico Europa](https://www.atlantico.eu/) [:rocket:](https://www.atlantico.eu/institucional/carreiras) | A European bank, under the supervision of Banco de Portugal. | `Lisboa` |
 | [BVNK](https://www.bvnk.com/) [:rocket:](https://www.bvnk.com/careers) | One platform bridging traditional and decentralised finance. | `Remote` |
-| [Carpe Data](https://carpe.io/) [:rocket:](https://carpe.io/career/) | Next-Generation Data for Insurance. | `Lisboa` |
+| [Carpe Data](https://carpe.io/) [:rocket:](https://carpe.io/careers) | Next-Generation Data for Insurance. | `Lisboa` |
 | [Checkout.com](https://checkout.com/) [:rocket:](https://checkout.com/careers/) | Payments Platform. | `Porto` |
 | [Cleo](https://web.meetcleo.com/) [:rocket:](https://web.meetcleo.com/careers#job-openings) [:octocat:](https://github.com/meetcleo) | AI-powered budgeting app that tracks spending and helps users save. | `Remote` |
 | [ComplyAdvantage](https://complyadvantage.com/) [:rocket:](https://complyadvantage.com/careers/jobs/) | AI-driven platform for real-time AML risk detection and compliance. | `Lisboa` |
@@ -337,11 +337,10 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Euronext](https://www.euronext.com) [:rocket:](https://www.euronext.com/pt/about/careers) | European stock exchange operator. | `Porto` |
 | [Feedzai](https://feedzai.com) [:rocket:](https://careers.feedzai.com) [:octocat:](https://github.com/feedzai) | Fraud detection platform to make commerce safe. | `Coimbra` `Lisboa` <br> `Porto` `Remote` |
 | [Fidel API](https://fidelapi.com) [:rocket:](https://fidelapi.com/careers/) | One API for linking bank cards to digital applications globally. | `Lisboa` |
-| [Finiam](https://www.finiam.com/) [:rocket:](https://www.finiam.com/#contact) | Improving people's lives by untangling the financial world. | `Braga` `Remote` |
 | [Flecto](https://flecto.io/) [:rocket:](https://www.notion.so/flecto/Working-at-Flecto-406db5e14c2c452abe89eecfb015b862) | Rental management for businesses promoting circular economy. | `Lisboa` `Remote` |
 | [Fractal](https://web.fractal.id) | Enabling open finance with a new Internet Identity layer. | `Porto` `Remote` |
 | [Global Blue](https://www.globalblue.com/en) [:rocket:](https://www.globalblue.com/en/about-us/career)| Tax-Free Shopping solutions. | `Lisboa` `Porto` <br> `Remote` |
-| [Goparity](https://www.goparity.com) [:rocket:](https://www.goparity.com/about/careers) | Crowdlending for sustainable projects with low entry. | `Lisboa` `Remote` |
+| [Goparity](https://www.goparity.com) | Crowdlending for sustainable projects with low entry. | `Lisboa` `Remote` |
 | [ITSector](https://itsector.com) [:rocket:](https://itsector.com/careers) | Software for financial institutions. | `Aveiro` `Braga` <br> `Bragança` `Lisboa` <br> `Porto` |
 | [JUMO](https://www.jumo.world) [:rocket:](https://careers.jumo.world/) | Financial inclusion platform. | `Remote` |
 | [Klarna](https://www.klarna.com) [:rocket:](https://www.klarna.com/careers/) [:octocat:](https://github.com/klarna) | Global payments and shopping service. | `Lisboa` |
@@ -386,7 +385,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Marmalade Game Studio](https://www.marmaladegamestudio.com/) | Video game development company with several adaptations of classic board games. | `Almada` `Remote` |
 | [Miniclip](https://www.miniclip.com/) [:rocket:](https://corporate.miniclip.com/careers/vacancies) | Mobile and web game development company. | `Lisboa` |
 | [Not a Game Studio](https://www.notagamestudio.com/) | Game development studio focused on the experience of the users. | `Lisboa` |
-| [Redcatpig](https://www.redcatpig.com/) [:rocket:](https://www.redcatpig.com/careers.php) | Video game development studio responsible for games like KEO. | `Angra do Heroísmo` |
+| [Redcatpig](https://www.redcatpig.com/) [:rocket:](https://redcatpig.com/careers/) | Video game development studio responsible for games like KEO. | `Angra do Heroísmo` |
 
 
 ## Healthcare :heart:
