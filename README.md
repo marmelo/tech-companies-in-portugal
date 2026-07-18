@@ -97,7 +97,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Reaktor](https://www.reaktor.com) [:rocket:](https://www.reaktor.com/careers) | A global strategy, design, and technology partner. | `Lisboa` |
 | [Servinform](https://www.servinform.es/pt-pt/) [:rocket:](https://www.servinform.es/pt-pt/junte-se-a-equipa/)| Consultancy and Automation. | `Lisboa` |
 | [Softinsa](https://www.softinsa.pt/) [:rocket:](https://www.softinsa.pt/carreiras/) | Services Development and Application / Infrastructure Management. | `Lisboa` `Tomar` <br> `Viseu` |
-| [Syone](https://www.syone.com/) [:rocket:](https://careers.syone.com/) | Outsourcing, nearshore, turnkey projects. | `Alfragide` <br> `Aveiro` `Lisboa` <br> `Maia` `Matosinhos` <br> `Oeiras` `Porto` |
+| [Syone](https://www.syone.com/) [:rocket:](https://www.syone.com/careers) | Outsourcing, nearshore, turnkey projects. | `Alfragide` <br> `Aveiro` `Lisboa` <br> `Maia` `Matosinhos` <br> `Oeiras` `Porto` |
 | [The Member Company](https://www.themembercompany.com/) [:rocket:](https://www.themembercompany.com/careers) | Agile software development. | `Lisboa` `Porto` |
 | [Ubiwhere](https://ubiwhere.com) [:rocket:](https://www.ubiwhere.com/en/careers) | Bleeding Edge Technologies with custom R&D. | `Aveiro` `Coimbra` |
 | [VILT Group](https://www.vilt-group.com/) [:rocket:](https://www.vilt-group.com/en/working-at-vilt) | Consultancy and enterprise software. | `Braga` `Lisboa` |
@@ -116,9 +116,9 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Ankix](https://www.ankix.com/) [:rocket:](https://www.ankix.com/it-job-offers) | Consultancy, Outsourcing. | `Lisboa` |
 | [Aubay](https://www.aubay.pt/) [:rocket:](https://www.aubay.pt/talento) | Consultancy, Outsourcing, and Nearshore projects. | `Lisboa` `Porto` |
 | [Bee Engineering](https://www.bee-eng.pt/) [:rocket:](https://www.bee-eng.pt/lista-empregos) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
-| [BOLD by Devoteam](https://bold.devoteam.com/) [:rocket:](https://bold.devoteam.com/join-us/) | Consultancy, Outsourcing. | `Aveiro` `Lisboa` <br> `Porto` |
 | [Damia](https://www.damiagroup.pt/) [:rocket:](https://www.damiagroup.pt/careers/) | Human 2 Human Tech Recruitment. | `Aveiro` `Lisboa` <br> `Porto` |
 | [Dellent Consulting](https://dellentconsulting.com/) [:rocket:](https://dellentconsulting.com/_carreiras/) | Consultancy, Outsourcing. | `Aveiro` `Lisboa` |
+| [Devoteam](https://www.devoteam.com/en/) [:rocket:](https://www.devoteam.com/en/careers/) | Consultancy, Outsourcing. | `Aveiro` `Lisboa` <br> `Porto` |
 | [Inoweiser](https://www.inoweiser.com/) [:rocket:](https://inoweiser.com/join-us/) | Consultancy | `Lisboa` |
 | [Integer Consulting](https://integerconsulting.pt/) [:rocket:](https://integerconsulting.pt/opportunity/) | Consultancy, Outsourcing and Nearshore | `Lisboa` `Porto` |
 | [KCSIT](https://kcsit.pt/) [:rocket:](https://kcsit.pt/carreiras/) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
@@ -203,7 +203,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Synthetic Users](https://www.syntheticusers.com/) [:rocket:](https://syntheticusers.notion.site/syntheticusers/Help-us-power-synthetic-research-for-the-world-s-best-companies-d7228e03ee1e49a691d6476cea133a64) | Synthetic research infrastructure | `Lisboa` |
 | [TeamViewer](https://www.teamviewer.com) [:rocket:](https://careers.teamviewer.com) | Remote access, device management and collaboration. | `Porto` |
 | [Tinybird](https://www.tinybird.co/) [:rocket:](https://www.tinybird.co/about#join-us) [:octocat:](https://github.com/tinybirdco) | Real‑time data platform to query & expose large datasets via APIs. | `Remote` |
-| [Unbabel](https://unbabel.com) [:rocket:](https://unbabel.com/careers/) [:octocat:](https://github.com/Unbabel) | Translation as a Service. | `Lisboa` |
+| [Unbabel](https://unbabel.com) [:octocat:](https://github.com/Unbabel) | Translation as a Service. | `Lisboa` |
 
 
 ## E-commerce :shopping:
@@ -338,7 +338,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Feedzai](https://feedzai.com) [:rocket:](https://careers.feedzai.com) [:octocat:](https://github.com/feedzai) | Fraud detection platform to make commerce safe. | `Coimbra` `Lisboa` <br> `Porto` `Remote` |
 | [Fidel API](https://fidelapi.com) [:rocket:](https://fidelapi.com/careers/) | One API for linking bank cards to digital applications globally. | `Lisboa` |
 | [Flecto](https://flecto.io/) [:rocket:](https://www.notion.so/flecto/Working-at-Flecto-406db5e14c2c452abe89eecfb015b862) | Rental management for businesses promoting circular economy. | `Lisboa` `Remote` |
-| [Fractal](https://web.fractal.id) | Enabling open finance with a new Internet Identity layer. | `Porto` `Remote` |
+| [Fractal](https://fractal.id/) | Enabling open finance with a new Internet Identity layer. | `Porto` `Remote` |
 | [Global Blue](https://www.globalblue.com/en) [:rocket:](https://www.globalblue.com/en/about-us/career)| Tax-Free Shopping solutions. | `Lisboa` `Porto` <br> `Remote` |
 | [Goparity](https://www.goparity.com) | Crowdlending for sustainable projects with low entry. | `Lisboa` `Remote` |
 | [ITSector](https://itsector.com) [:rocket:](https://itsector.com/careers) | Software for financial institutions. | `Aveiro` `Braga` <br> `Bragança` `Lisboa` <br> `Porto` |
