@@ -266,7 +266,6 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Coverflex](https://www.coverflex.com/) [:rocket:](https://careers.coverflex.com/) | Payments and benefits management. | `Remote` |
 | [CSG](https://www.csgi.com/) [:rocket:](https://www.csgi.com/careers/) | Cloud-native Business Support System platform. | `Remote` |
 | [Deel](https://www.deel.com/) [:rocket:](https://jobs.ashbyhq.com/Deel?departmentId=8c27e7fa-f898-4de1-adf6-70c67c1e1c11&locationId=7a1f038b-147a-4a65-8ba5-d047fda72a10) [:octocat:](https://github.com/letsdeel) | Compliance, payroll, HR, and performance for any worker globally in a single SaaS platform. | `Remote` |
-| [Deimos](https://deimos-space.com/) [:rocket:](https://deimos-space.com/jobs/) | Advanced design solutions and turn-key space software systems. | `Lisboa` |
 | [Dremio](https://www.dremio.com/) [:rocket:](https://www.dremio.com/careers/job-postings/) | Data as a service platform for fast analytics and data integration. | `Lisboa` `Remote` |
 | [Dual Entry](https://www.dualentry.com/) [:rocket:](https://careers.dualentry.com/) | AI-native accounting software for high-growth enterprises. | `Remote` |
 | [epilot](https://www.epilot.cloud/) [:rocket:](https://epilot.cloud/en/career-jobs/engineering/) [:octocat:](https://github.com/epilot-dev) | B2B e-commerce software for complex energy products. | `Remote` |
