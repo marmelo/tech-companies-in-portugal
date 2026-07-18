@@ -39,7 +39,8 @@ exclude = [
   # Reference: https://vercel.com/docs/security/authentication
   '^https?://.*stackshare\.io',
   '^https?://.*8x8\.com',
-  '^https?://.*innovationcast\.com'
+  '^https?://.*innovationcast\.com',
+  '^https?://.*swordhealth\.com'
 ]
 
 # Accept timed out requests to reduce noise
