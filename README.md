@@ -143,6 +143,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Efficio](https://www.efficioconsulting.com) [:rocket:](https://jobs.eu.lever.co/efficioconsulting) | World's largest procurement and supply chain-focused consultancy. | `Lisboa` |
 | [Eyenov](https://eyenov.com) | Computer Vision. Machine Learning. Mobile, desktop, and embedded. | `Lisboa` `Remote` |
 | [DareData Engineering](https://www.daredata.ai/) [:rocket:](https://www.daredata.ai/join-us) | Data Science, Data Engineering and MLOps Consulting Boutique. | `Remote` |
+| [Haipe Studio](https://haipestudio.com/) [:rocket:](https://haipestudio.com/carreiras/) | AI and business automation studio for workflows and AI agents. | `Lisboa` `Remote` |
 | [JTA](https://www.thedatascientists.com/) [:rocket:](https://www.thedatascientists.com) | Machine Learning, Reporting and custom vizualizations services. | `Porto` |
 | [Kwanko](https://kwanko.com/) [:rocket:](https://www.kwanko.com/about-us/careers/) | An International leader in Crossdevice Performance Marketing. | `Lisboa` |
 | [Laminar](https://laminarprojects.com/) [:rocket:](https://laminarprojects.com/join-us/) | Building world class apps for the construction industry. | `Lisboa` |
