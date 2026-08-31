@@ -148,6 +148,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Laminar](https://laminarprojects.com/) [:rocket:](https://laminarprojects.com/join-us/) | Building world class apps for the construction industry. | `Lisboa` |
 | [mgm technology partners](https://www.mgm-tp.com/) [:rocket:](https://jobs.mgm-tp.com/) | Consultancy based on model-driven software for enterprises. | `Porto` |
 | [NILG.AI](https://nilg.ai/) [:rocket:](https://nilg.ai/) | Transforming data into actionable knowledge through AI. | `Porto` |
+| [Polarising](https://polarising.com/) [:rocket:](https://polarising.com/careers/) | Integration and custom software development. | `Lisboa` `Remote` |
 | [TechRivo](https://techrivo.com/) [:rocket:](https://www.linkedin.com/company/techrivo/jobs/) | Custom software development and technical consulting.  | `Lisboa` |
 | [TensorOps](https://www.tensorops.ai) [:rocket:](https://job-boards.eu.greenhouse.io/tensorops) | AI/ML firm building production‑ready machine learning solutions. | `Remote` |
 
