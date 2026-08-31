@@ -158,6 +158,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | :------ | :---------- | :-------- |
 | [7egend](https://www.7egend.cr/) [:rocket:](https://jobs.7egend.cr/) | Digital Agency with a focus on Web, Mobile, and IoT. | `Lisboa` `Porto` |
 | [Bliss Applications](https://www.blissapplications.com/) [:rocket:](https://www.blissapplications.com/careers) | UX/UI & software-driven company. | `Lisboa` `Porto` |
+| [Buzzvel](https://buzzvel.com/) [:rocket:](https://buzzvel.com/careers) [:octocat:](https://github.com/Buzzvel) | Creative tech studio building web and mobile products with Laravel. | `Lisboa` `Remote` |
 | [Coletiv](https://www.coletiv.com) [:rocket:](https://coletiv.com/#jobs) | Mobile and backend development. | `Porto` |
 | [Criativatek](https://criativatek.com) [:rocket:](https://www.linkedin.com/company/criativatek) | Web, mobile, development and design services. | `Leiria` |
 | [Deemaze](https://deemaze.com/) [:rocket:](https://medium.com/deemaze-software/were-hiring-975b43d5b051) | Web, Mobile development (RoR, Elixir, React, Vue, Swift, Kotlin). | `Braga` `Coimbra` |
