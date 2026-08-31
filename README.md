@@ -165,6 +165,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Imaginary Cloud](https://www.imaginarycloud.com) [:rocket:](https://www.imaginarycloud.com/careers) | Web, mobile, development and design services. | `Lisboa` |
 | [Load](https://load.digital/) [:rocket:](https://load.digital/careers) | Design Thinking, Web, Mobile, IoT, New Tech (VR, AI, Blockchain) | `Aveiro` `Remote` |
 | [Mosano](https://mosano.eu) [:rocket:](https://mosano.eu/join-us) | Software House focusing on Digital Products for the web and mobile. | `Porto` `Remote` |
+| [Pink Room](https://pinkroom.dev/) | Specialized mobile digital product studio. Android and iOS. | `Coimbra` `Remote` |
 | [Pixelmatters](https://pixelmatters.com) [:rocket:](https://www.pixelmatters.com/careers/) | Digital product design and development company. | `Porto` |
 | [Redlight Software](https://redlight.dev) | Web and mobile development studio focused on products. | `Coimbra` `Lisboa` |
 | [Runtime Revolution](https://www.runtime-revolution.com/) | Web and mobile product development. | `Lisboa` |
