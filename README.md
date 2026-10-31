@@ -150,6 +150,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [NILG.AI](https://nilg.ai/) [:rocket:](https://nilg.ai/) | Transforming data into actionable knowledge through AI. | `Porto` |
 | [TechRivo](https://techrivo.com/) [:rocket:](https://www.linkedin.com/company/techrivo/jobs/) | Custom software development and technical consulting.  | `Lisboa` |
 | [TensorOps](https://www.tensorops.ai) [:rocket:](https://job-boards.eu.greenhouse.io/tensorops) | AI/ML firm building production‑ready machine learning solutions. | `Remote` |
+| [Twistag](https://twistag.com/) [:rocket:](https://www.linkedin.com/company/twistag/jobs/) | Applied AI company building AI agents, data platforms and products. | `Lisboa` |
 
 
 ## Consultancy :man_office_worker: Web :globe_with_meridians: Mobile :iphone: Design :art:
