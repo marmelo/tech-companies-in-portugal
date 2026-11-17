@@ -411,6 +411,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
+| [ASML (via IRIUM)](https://www.asml.com/) [:rocket:](https://iriumportugal.applytojob.com/) | Semiconductor lithography systems. | `Lisboa` |
 | [Cargofive](https://cargofive.com) [:rocket:](https://cargofive.com/careers) | Digital platform helping freight forwarders get instant ocean rates. | `Lisboa` `Remote` |
 | [CircuitLeap](https://www.circuitleap.ai) [:rocket:](https://www.circuitleap.ai/careers.html) | AI to speed up and optimize analog circuit design. | `Lisboa` |
 | [Critical Manufacturing](https://www.criticalmanufacturing.com) [:rocket:](https://careers.criticalmanufacturing.com/) | Manufacturing business-critical applications. | `Maia` |
