@@ -449,7 +449,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
 | [Ocean Infinity](https://oceaninfinity.com/) [:rocket:](https://oceaninfinity.com/careers/) | Transforming operations at sea to enable people and the planet to thrive. | `Porto` |
-| [OceanScan-MST](https://www.oceanscan-mst.com) [:rocket:](https://www.oceanscan-mst.com/job-opportunities/) | Lightweight Autonomous Underwater Vehicle manufacturer. | `Porto` |
+| [OceanScan-MST](https://www.oceanscan-mst.com) [:rocket:](https://www.oceanscan-mst.com/job-opportunities/) | Lightweight Autonomous Underwater Vehicle manufacturer. | `Matosinhos` |
 | [Xsealence](https://www.xsealence.pt) | Solutions for command, control and monitoring of maritime applications. | `Oeiras` |
 
 
