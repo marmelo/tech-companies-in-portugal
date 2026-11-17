@@ -345,7 +345,6 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Finiam](https://www.finiam.com/) [:rocket:](https://www.finiam.com/#contact) | Improving people's lives by untangling the financial world. | `Braga` `Remote` |
 | [FIZ](https://fiz.co/) [:octocat:](https://github.com/FIZ-co) | Certified invoicing and tax automation for freelancers and SMEs. | `Remote` |
 | [Flecto](https://flecto.io/) [:rocket:](https://www.notion.so/flecto/Working-at-Flecto-406db5e14c2c452abe89eecfb015b862) | Rental management for businesses promoting circular economy. | `Lisboa` `Remote` |
-| [Fractal](https://web.fractal.id) | Enabling open finance with a new Internet Identity layer. | `Porto` `Remote` |
 | [Global Blue](https://www.globalblue.com/en) [:rocket:](https://www.globalblue.com/en/about-us/career)| Tax-Free Shopping solutions. | `Lisboa` `Porto` <br> `Remote` |
 | [Goparity](https://www.goparity.com) [:rocket:](https://www.linkedin.com/company/goparity/jobs/) | Crowdlending for sustainable projects with low entry. | `Lisboa` `Remote` |
 | [ITSector](https://itsector.com) [:rocket:](https://itsector.com/careers) | Software for financial institutions. | `Aveiro` `Braga` <br> `Bragança` `Lisboa` <br> `Porto` |
