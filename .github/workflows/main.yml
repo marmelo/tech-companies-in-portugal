@@ -25,7 +25,7 @@ jobs:
           restore-keys: cache-lychee-
 
       - name: Validate links
-        uses: lycheeverse/lychee-action@v2.8.0
+        uses: lycheeverse/lychee-action@v2.9.0
         with:
           args: --config .github/workflows/lychee.toml --cache --max-cache-age 23h -- README.md
           # Write link validation summary to GH Job summary

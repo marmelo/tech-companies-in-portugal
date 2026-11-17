@@ -64,6 +64,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [25Friday](https://25friday.com) [:rocket:](https://www.25friday.com/jobs/) | Digital product management focussed on growing tech companies. | `Aveiro` `Porto` |
 | [Accenture](https://www.accenture.com/pt-pt) [:rocket:](https://www.accenture.com/pt-pt/careers) | Software Development, Cyber Security. | `Lisboa` `Porto` <br> `Remote`|
 | [Adentis](https://www.adentis.pt/) [:rocket:](https://www.adentis.pt/en/work-with-us/job-list) | Outsourcing, customized solutions and R&D. | `Lisboa` |
+| [ARG Software](https://arg.software/) [:octocat:](https://github.com/ARG-Software) | Custom software development for SaaS and fintech companies. | `Funchal` `Porto` |
 | [Armis](https://www.armisgroup.com/) [:rocket:](https://www.armisgroup.com/careers) | Technology development and consultancy. | `Lisboa` `Porto` |
 | [Bool Software](https://www.bool.pt/) | Consultancy company specialized in OutSystems. | `Lisboa` |
 | [Caixa Mágica](https://caixamagica.pt/) [:rocket:](https://caixamagica.pt/careers) | Open Source development. | `Lisboa` |
@@ -149,6 +150,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [NILG.AI](https://nilg.ai/) [:rocket:](https://nilg.ai/) | Transforming data into actionable knowledge through AI. | `Porto` |
 | [TechRivo](https://techrivo.com/) [:rocket:](https://www.linkedin.com/company/techrivo/jobs/) | Custom software development and technical consulting.  | `Lisboa` |
 | [TensorOps](https://www.tensorops.ai) [:rocket:](https://job-boards.eu.greenhouse.io/tensorops) | AI/ML firm building production‑ready machine learning solutions. | `Remote` |
+| [Twistag](https://twistag.com/) [:rocket:](https://www.linkedin.com/company/twistag/jobs/) | Applied AI company building AI agents, data platforms and products. | `Lisboa` |
 
 
 ## Consultancy :man_office_worker: Web :globe_with_meridians: Mobile :iphone: Design :art:
@@ -157,6 +159,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | :------ | :---------- | :-------- |
 | [7egend](https://www.7egend.cr/) [:rocket:](https://jobs.7egend.cr/) | Digital Agency with a focus on Web, Mobile, and IoT. | `Lisboa` `Porto` |
 | [Bliss Applications](https://www.blissapplications.com/) [:rocket:](https://www.blissapplications.com/careers) | UX/UI & software-driven company. | `Lisboa` `Porto` |
+| [Buzzvel](https://buzzvel.com/) [:rocket:](https://buzzvel.com/careers) | Creative tech studio building web and mobile products with Laravel. | `Lisboa` `Remote` |
 | [Coletiv](https://www.coletiv.com) [:rocket:](https://coletiv.com/#jobs) | Mobile and backend development. | `Porto` |
 | [Criativatek](https://criativatek.com) [:rocket:](https://www.linkedin.com/company/criativatek) | Web, mobile, development and design services. | `Leiria` |
 | [Deemaze](https://deemaze.com/) [:rocket:](https://medium.com/deemaze-software/were-hiring-975b43d5b051) | Web, Mobile development (RoR, Elixir, React, Vue, Swift, Kotlin). | `Braga` `Coimbra` |
@@ -164,6 +167,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Imaginary Cloud](https://www.imaginarycloud.com) [:rocket:](https://www.imaginarycloud.com/careers) | Web, mobile, development and design services. | `Lisboa` |
 | [Load](https://load.digital/) [:rocket:](https://load.digital/careers) | Design Thinking, Web, Mobile, IoT, New Tech (VR, AI, Blockchain) | `Aveiro` `Remote` |
 | [Mosano](https://mosano.eu) [:rocket:](https://mosano.eu/join-us) | Software House focusing on Digital Products for the web and mobile. | `Porto` `Remote` |
+| [Pink Room](https://pinkroom.dev/) | Specialized mobile digital product studio. Android and iOS. | `Coimbra` `Remote` |
 | [Pixelmatters](https://pixelmatters.com) [:rocket:](https://www.pixelmatters.com/careers/) | Digital product design and development company. | `Porto` |
 | [Redlight Software](https://redlight.dev) | Web and mobile development studio focused on products. | `Coimbra` `Lisboa` |
 | [Runtime Revolution](https://www.runtime-revolution.com/) | Web and mobile product development. | `Lisboa` |
