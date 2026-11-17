@@ -151,6 +151,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [NILG.AI](https://nilg.ai/) [:rocket:](https://nilg.ai/) | Transforming data into actionable knowledge through AI. | `Porto` |
 | [TechRivo](https://techrivo.com/) [:rocket:](https://www.linkedin.com/company/techrivo/jobs/) | Custom software development and technical consulting.  | `Lisboa` |
 | [TensorOps](https://www.tensorops.ai) [:rocket:](https://job-boards.eu.greenhouse.io/tensorops) | AI/ML firm building production‑ready machine learning solutions. | `Remote` |
+| [Twistag](https://twistag.com/) [:rocket:](https://www.linkedin.com/company/twistag/jobs/) | Applied AI company building AI agents, data platforms and products. | `Lisboa` |
 
 
 ## Consultancy :man_office_worker: Web :globe_with_meridians: Mobile :iphone: Design :art:
@@ -159,6 +160,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | :------ | :---------- | :-------- |
 | [7egend](https://www.7egend.cr/) [:rocket:](https://jobs.7egend.cr/) | Digital Agency with a focus on Web, Mobile, and IoT. | `Lisboa` `Porto` |
 | [Bliss Applications](https://www.blissapplications.com/) [:rocket:](https://www.blissapplications.com/careers) | UX/UI & software-driven company. | `Lisboa` `Porto` |
+| [Buzzvel](https://buzzvel.com/) [:rocket:](https://buzzvel.com/careers) | Creative tech studio building web and mobile products with Laravel. | `Lisboa` `Remote` |
 | [Coletiv](https://www.coletiv.com) [:rocket:](https://coletiv.com/#jobs) | Mobile and backend development. | `Porto` |
 | [Criativatek](https://criativatek.com) [:rocket:](https://www.linkedin.com/company/criativatek) | Web, mobile, development and design services. | `Leiria` |
 | [Deemaze](https://deemaze.com/) [:rocket:](https://medium.com/deemaze-software/were-hiring-975b43d5b051) | Web, Mobile development (RoR, Elixir, React, Vue, Swift, Kotlin). | `Braga` `Coimbra` |
@@ -166,6 +168,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Imaginary Cloud](https://www.imaginarycloud.com) [:rocket:](https://www.imaginarycloud.com/careers) | Web, mobile, development and design services. | `Lisboa` |
 | [Load](https://load.digital/) [:rocket:](https://load.digital/careers) | Design Thinking, Web, Mobile, IoT, New Tech (VR, AI, Blockchain) | `Aveiro` `Remote` |
 | [Mosano](https://mosano.eu) [:rocket:](https://mosano.eu/join-us) | Software House focusing on Digital Products for the web and mobile. | `Porto` `Remote` |
+| [Pink Room](https://pinkroom.dev/) | Specialized mobile digital product studio. Android and iOS. | `Coimbra` `Remote` |
 | [Pixelmatters](https://pixelmatters.com) [:rocket:](https://www.pixelmatters.com/careers/) | Digital product design and development company. | `Porto` |
 | [Redlight Software](https://redlight.dev) | Web and mobile development studio focused on products. | `Coimbra` `Lisboa` |
 | [Runtime Revolution](https://www.runtime-revolution.com/) | Web and mobile product development. | `Lisboa` |
@@ -339,6 +342,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Feedzai](https://feedzai.com) [:rocket:](https://careers.feedzai.com) [:octocat:](https://github.com/feedzai) | Fraud detection platform to make commerce safe. | `Coimbra` `Lisboa` <br> `Porto` `Remote` |
 | [Fidel API](https://fidelapi.com) [:rocket:](https://fidelapi.com/careers/) | One API for linking bank cards to digital applications globally. | `Lisboa` |
 | [Finiam](https://www.finiam.com/) [:rocket:](https://www.finiam.com/#contact) | Improving people's lives by untangling the financial world. | `Braga` `Remote` |
+| [FIZ](https://fiz.co/) [:octocat:](https://github.com/FIZ-co) | Certified invoicing and tax automation for freelancers and SMEs. | `Remote` |
 | [Flecto](https://flecto.io/) [:rocket:](https://www.notion.so/flecto/Working-at-Flecto-406db5e14c2c452abe89eecfb015b862) | Rental management for businesses promoting circular economy. | `Lisboa` `Remote` |
 | [Fractal](https://web.fractal.id) | Enabling open finance with a new Internet Identity layer. | `Porto` `Remote` |
 | [Global Blue](https://www.globalblue.com/en) [:rocket:](https://www.globalblue.com/en/about-us/career)| Tax-Free Shopping solutions. | `Lisboa` `Porto` <br> `Remote` |
