@@ -439,7 +439,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [MediaGaps](https://www.mediagaps.com/) | Bridging your workflow gaps. | `Porto` |
 | [Musiversal](https://musiversal.com/) | Virtual studio powered by a roster of world-class musicians. | `Lisboa` |
 | [Restream](https://restream.io/) [:rocket:](https://restream.io/about) | Platform for multi-streaming live video to various channels. | `Lisboa` `Remote` |
-| [Sky](https://www.sky.com) [:rocket:](https://careers.sky.com) | TV, broadband, talk, streaming and mobile. | `Aveiro` `Funchal` <br> `Lisboa` |
+| [Sky](https://www.skygroup.sky/) [:rocket:](https://careers.sky.com) | TV, broadband, talk, streaming and mobile. | `Aveiro` `Funchal` <br> `Lisboa` |
 | [wTVision](https://www.wtvision.com) [:rocket:](https://www.wtvision.com/careers) | Software for Television | `Lisboa` `Porto` |
 
 
