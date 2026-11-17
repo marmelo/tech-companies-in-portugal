@@ -420,6 +420,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Relex Solutions](https://www.relexsolutions.com/) [:rocket:](https://www.relexsolutions.com/careers/) | The market-leading supply chain & retail planning platform. | `Lisboa` |
 | [Smartex](https://www.smartex.ai/) [:rocket:](https://www.smartex.ai/careers) | AI for the Next Generation of Textiles. | `Porto` |
 | [FactoryPal](https://factorypal.com/) [:rocket:](https://factorypal.com/careers) | Boost your manufacturing OEE with AI. | `Porto` `Remote` |
+| [TEKEVER](https://www.tekever.com/) [:rocket:](https://careers.tekever.com/) | Autonomous aerial systems for civil and defence missions. | `Caldas da Rainha` `Leiria` <br> `Lisboa` `Ponte de Sor` <br> `Porto` |
 
 ## Mobility :bike:
 
