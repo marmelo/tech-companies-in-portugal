@@ -415,11 +415,12 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Cargofive](https://cargofive.com) [:rocket:](https://cargofive.com/careers) | Digital platform helping freight forwarders get instant ocean rates. | `Lisboa` `Remote` |
 | [CircuitLeap](https://www.circuitleap.ai) [:rocket:](https://www.circuitleap.ai/careers.html) | AI to speed up and optimize analog circuit design. | `Lisboa` |
 | [Critical Manufacturing](https://www.criticalmanufacturing.com) [:rocket:](https://careers.criticalmanufacturing.com/) | Manufacturing business-critical applications. | `Maia` |
+| [FactoryPal](https://factorypal.com/) [:rocket:](https://factorypal.com/careers) | Boost your manufacturing OEE with AI. | `Porto` `Remote` |
 | [FARO Technologies](https://www.faro.com/) [:rocket:](https://www.faro.com/about-faro/career/) | The world’s most trusted source for 3d measurement. | `Porto` |
 | [Malvern Panalytical](https://www.malvernpanalytical.com/) [:rocket:](https://spectris.wd3.myworkdayjobs.com/Malvern_Panalytical_Careers) | Laboratory analytical instruments design and manufacturing. | `Maia` |
 | [Relex Solutions](https://www.relexsolutions.com/) [:rocket:](https://www.relexsolutions.com/careers/) | The market-leading supply chain & retail planning platform. | `Lisboa` |
 | [Smartex](https://www.smartex.ai/) [:rocket:](https://www.smartex.ai/careers) | AI for the Next Generation of Textiles. | `Porto` |
-| [FactoryPal](https://factorypal.com/) [:rocket:](https://factorypal.com/careers) | Boost your manufacturing OEE with AI. | `Porto` `Remote` |
+| [TEKEVER](https://www.tekever.com/) [:rocket:](https://careers.tekever.com/) | Autonomous aerial systems for civil and defence missions. | `Caldas da Rainha` `Leiria` <br> `Lisboa` `Ponte de Sor` <br> `Porto` |
 
 ## Mobility :bike:
 
